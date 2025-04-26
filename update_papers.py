@@ -13,13 +13,13 @@ class PaperUpdater:
         self.base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
         # 定义目录和对应的检索关键词
         self.categories = {
-            "Motion-Planning": "motion planning OR trajectory optimization OR path planning",
-            "Task-Planning": "task planning OR task decomposition OR task scheduling",
-            "Simulation-Platforms": "simulation platform OR physics engine OR robot simulation",
-            "Robot-Learning-and-Reinforcement-Learning": "reinforcement learning OR RL OR policy learning OR robot learning OR legged robot OR quadruped OR biped OR locomotion OR motor skill OR imitation learning OR policy gradient OR PPO OR SAC OR DDPG",
-            "Multimodal-Interaction": "multimodal OR multi-modal OR cross-modal OR human-robot interaction OR vision language OR visual language",
-            "Environment-Perception": "environment perception OR scene understanding OR object detection OR visual perception",
-            "Fundamental-Theory": "embodied AI OR embodied intelligence OR embodied learning OR cognitive science OR control theory"
+            "Motion-Planning": "motion planning OR trajectory optimization OR path planning OR collision avoidance OR whole-body motion OR dynamic motion OR real-time planning OR humanoid control OR robot control OR locomotion planning",
+            "Task-Planning": "task planning OR task decomposition OR task scheduling OR hierarchical planning OR TAMP OR task and motion planning OR learning-based planning OR multi-agent planning OR long-horizon planning OR semantic planning",
+            "Simulation-Platforms": "physics engine OR robot simulation OR simulation environment OR digital twin OR synthetic data OR benchmark platform OR physics simulator OR virtual environment OR robot environment OR learning environment",
+            "Robot-Learning-and-Reinforcement-Learning": "reinforcement learning OR RL OR policy learning OR robot learning OR legged robot OR quadruped OR biped OR locomotion OR motor skill OR imitation learning OR policy gradient OR PPO OR SAC OR DDPG OR sim2real OR transfer learning OR multi-task learning OR hierarchical RL OR meta-learning OR offline RL",
+            "Multimodal-Interaction": "multimodal OR multi-modal OR cross-modal OR human-robot interaction OR vision language OR visual language OR gesture recognition OR speech interaction OR tactile interaction OR social robotics OR natural language for robots OR robot reasoning OR embodied interaction OR embodied communication",
+            "Environment-Perception": "environment perception OR scene understanding OR object detection OR visual perception OR terrain understanding OR SLAM OR mapping OR sensor fusion OR 3D perception OR semantic segmentation OR depth estimation OR point cloud processing OR visual navigation OR visual localization",
+            "Fundamental-Theory": "embodied AI OR embodied intelligence OR embodied learning OR cognitive science OR control theory OR embodied cognition OR computational models OR learning theory OR evaluation methods OR embodied representation OR embodied generalization OR embodied reasoning OR embodied memory OR embodied adaptation"
         }
 
         # 初始化手动添加的论文字典
@@ -29,86 +29,99 @@ class PaperUpdater:
         self.tags = {
             # 强化学习标签
             "Robot-Learning-and-Reinforcement-Learning": {
-                "Foundational": ["foundational", "fundamental", "core", "basic", "essential"],
-                "Imitation": ["imitation", "demonstration", "expert", "teacher", "learning from demonstration"],
-                "Milestone": ["milestone", "breakthrough", "significant", "important", "key"],
-                "Biped": ["biped", "bipedal", "humanoid", "two-legged"],
-                "Quadruped": ["quadruped", "four-legged", "dog", "animal"],
-                "AMP": ["AMP", "adversarial", "motion prior", "style", "character"],
-                "Adaptation": ["adaptation", "transfer", "generalization", "robust", "resilient"],
-                "Policy": ["policy", "actor-critic", "PPO", "SAC", "DDPG", "TRPO"],
-                "Sim2Real": ["sim2real", "sim-to-real", "transfer", "domain", "reality gap"],
-                "Hierarchical": ["hierarchical", "HRL", "option", "skill", "subgoal"],
-                "Multi-Task": ["multi-task", "multi-task learning", "generalist", "versatile"],
-                "Offline": ["offline", "batch", "off-policy", "data-driven"],
-                "Meta": ["meta", "meta-learning", "few-shot", "adaptation"],
-                "Multi-Agent": ["multi-agent", "collaboration", "cooperation", "interaction"]
+                "Foundational": ["foundational", "fundamental", "core", "basic", "essential", "pioneering", "seminal"],
+                "Imitation": ["imitation", "demonstration", "expert", "teacher", "learning from demonstration", "behavioral cloning", "apprenticeship learning"],
+                "Milestone": ["milestone", "breakthrough", "significant", "important", "key", "landmark", "pivotal"],
+                "Biped": ["biped", "bipedal", "humanoid", "two-legged", "walking", "running", "jumping"],
+                "Quadruped": ["quadruped", "four-legged", "dog", "animal", "canine", "feline", "mammal"],
+                "AMP": ["AMP", "adversarial", "motion prior", "style", "character", "motion style", "motion imitation"],
+                "Adaptation": ["adaptation", "transfer", "generalization", "robust", "resilient", "domain adaptation", "zero-shot", "few-shot"],
+                "Policy": ["policy", "actor-critic", "PPO", "SAC", "DDPG", "TRPO", "policy optimization", "policy gradient", "value function"],
+                "Sim2Real": ["sim2real", "sim-to-real", "transfer", "domain", "reality gap", "simulation transfer", "simulation adaptation", "reality gap"],
+                "Hierarchical": ["hierarchical", "HRL", "option", "skill", "subgoal", "hierarchical RL", "option discovery", "skill discovery"],
+                "Multi-Task": ["multi-task", "multi-task learning", "generalist", "versatile", "multi-task RL", "task generalization", "task transfer"],
+                "Offline": ["offline", "batch", "off-policy", "data-driven", "offline RL", "batch RL", "conservative RL", "data-efficient"],
+                "Meta": ["meta", "meta-learning", "few-shot", "adaptation", "meta-RL", "model-agnostic meta-learning", "reptile", "maml"],
+                "Multi-Agent": ["multi-agent", "collaboration", "cooperation", "interaction", "multi-agent RL", "team learning", "collective intelligence"]
             },
             # 运动规划标签
             "Motion-Planning": {
-                "Trajectory": ["trajectory", "path", "motion", "planning", "optimization"],
-                "Collision": ["collision", "avoidance", "safety", "obstacle"],
-                "Real-time": ["real-time", "realtime", "fast", "efficient", "computational"],
-                "Learning": ["learning", "learned", "neural", "deep", "ML"],
-                "Dynamic": ["dynamic", "dynamics", "kinematic", "kinematics"],
-                "Uncertainty": ["uncertainty", "robust", "stochastic", "probabilistic"],
-                "Multi-robot": ["multi-robot", "swarm", "collaborative", "coordination"],
-                "Reactive": ["reactive", "reaction", "responsive", "adaptive"]
+                "Trajectory": ["trajectory", "path", "motion", "planning", "optimization", "trajectory optimization", "path planning", "motion planning", "trajectory generation"],
+                "Collision": ["collision", "avoidance", "safety", "obstacle", "collision avoidance", "obstacle avoidance", "safety constraints", "collision-free"],
+                "Real-time": ["real-time", "realtime", "fast", "efficient", "computational", "real-time planning", "fast planning", "efficient planning", "computational efficiency"],
+                "Learning": ["learning", "learned", "neural", "deep", "ML", "learning-based planning", "neural planning", "deep planning", "ML-based planning"],
+                "Dynamic": ["dynamic", "dynamics", "kinematic", "kinematics", "dynamic planning", "dynamics-aware", "kinematic planning", "dynamic constraints"],
+                "Uncertainty": ["uncertainty", "robust", "stochastic", "probabilistic", "uncertainty-aware", "robust planning", "stochastic planning", "probabilistic planning"],
+                "Multi-robot": ["multi-robot", "swarm", "collaborative", "coordination", "multi-robot planning", "swarm planning", "collaborative planning", "coordinated planning"],
+                "Reactive": ["reactive", "reaction", "responsive", "adaptive", "reactive planning", "reactive control", "responsive planning", "adaptive planning"],
+                "Whole-body": ["whole-body", "full-body", "whole-body planning", "full-body planning", "whole-body motion", "full-body motion", "whole-body control"],
+                "Humanoid": ["humanoid", "humanoid planning", "humanoid control", "humanoid motion", "humanoid locomotion", "humanoid walking", "humanoid running"]
             },
             # 任务规划标签
             "Task-Planning": {
-                "Hierarchical": ["hierarchical", "hierarchy", "decomposition", "subtask"],
-                "Temporal": ["temporal", "temporal logic", "sequence", "ordering"],
-                "Learning": ["learning", "learned", "neural", "deep", "ML"],
-                "Semantic": ["semantic", "language", "instruction", "command"],
-                "Multi-agent": ["multi-agent", "collaboration", "cooperation", "interaction"],
-                "Uncertainty": ["uncertainty", "robust", "stochastic", "probabilistic"],
-                "Interactive": ["interactive", "human", "user", "feedback"],
-                "Long-horizon": ["long-horizon", "long-term", "complex", "sequential"]
+                "Hierarchical": ["hierarchical", "hierarchy", "decomposition", "subtask", "hierarchical planning", "task decomposition", "subtask planning", "hierarchical task"],
+                "Temporal": ["temporal", "temporal logic", "sequence", "ordering", "temporal planning", "sequence planning", "temporal constraints", "temporal reasoning"],
+                "Learning": ["learning", "learned", "neural", "deep", "ML", "learning-based planning", "neural planning", "deep planning", "ML-based planning"],
+                "Semantic": ["semantic", "language", "instruction", "command", "semantic planning", "language-based planning", "instruction-based planning", "command-based planning"],
+                "Multi-agent": ["multi-agent", "collaboration", "cooperation", "interaction", "multi-agent planning", "collaborative planning", "cooperative planning", "team planning"],
+                "Uncertainty": ["uncertainty", "robust", "stochastic", "probabilistic", "uncertainty-aware", "robust planning", "stochastic planning", "probabilistic planning"],
+                "Interactive": ["interactive", "human", "user", "feedback", "interactive planning", "human-in-the-loop", "user feedback", "interactive learning"],
+                "Long-horizon": ["long-horizon", "long-term", "complex", "sequential", "long-horizon planning", "long-term planning", "complex task", "sequential task"],
+                "TAMP": ["TAMP", "task and motion planning", "integrated planning", "combined planning", "task-motion", "task-motion integration", "task-motion coordination"],
+                "Reasoning": ["reasoning", "logical", "symbolic", "abstract", "task reasoning", "logical planning", "symbolic planning", "abstract reasoning"]
             },
             # 仿真平台标签
             "Simulation-Platforms": {
-                "Physics": ["physics", "engine", "simulation", "dynamics"],
-                "Visual": ["visual", "rendering", "graphics", "3D"],
-                "Realistic": ["realistic", "realism", "photo-realistic", "high-fidelity"],
-                "Benchmark": ["benchmark", "evaluation", "test", "challenge"],
-                "Multi-domain": ["multi-domain", "multi-task", "versatile", "general"],
-                "Open-source": ["open-source", "open source", "community", "collaborative"],
-                "Scalable": ["scalable", "parallel", "distributed", "efficient"],
-                "Interactive": ["interactive", "user", "human", "interface"]
+                "Physics": ["physics", "engine", "simulation", "dynamics", "physics engine", "physics simulator", "dynamics simulation", "physical simulation"],
+                "Visual": ["visual", "rendering", "graphics", "3D", "visualization", "renderer", "visual simulation", "3D rendering", "graphics engine"],
+                "Realistic": ["realistic", "realism", "photo-realistic", "high-fidelity", "realistic simulation", "photo-realism", "high-fidelity simulation", "realistic rendering"],
+                "Benchmark": ["benchmark", "evaluation", "test", "challenge", "benchmarking platform", "evaluation framework", "testing framework", "challenge platform"],
+                "Multi-domain": ["multi-domain", "multi-task", "versatile", "general", "multi-robot", "multi-domain simulation", "multi-task environment", "versatile platform"],
+                "Open-source": ["open-source", "open source", "community", "collaborative", "public", "open-source platform", "community-driven", "collaborative development"],
+                "Scalable": ["scalable", "parallel", "distributed", "efficient", "high-performance", "scalable simulation", "parallel simulation", "distributed simulation"],
+                "Interactive": ["interactive", "user", "human", "interface", "interaction", "interactive simulation", "user interface", "human interaction", "interactive environment"],
+                "Digital Twin": ["digital twin", "virtual world", "virtual environment", "synthetic environment", "digital representation", "virtual representation", "synthetic world"],
+                "Robot Environment": ["robot environment", "robot simulation", "robot simulator", "robot platform", "robot testbed", "robot testing", "robot evaluation", "robot development"],
+                "Learning Environment": ["learning environment", "training environment", "simulation environment", "testbed", "learning platform", "training platform", "simulation testbed", "learning testbed"]
             },
             # 多模态交互标签
             "Multimodal-Interaction": {
-                "Vision-Language": ["vision-language", "visual language", "image-text", "multimodal"],
-                "Human-Robot": ["human-robot", "human robot", "interaction", "collaboration"],
-                "Gesture": ["gesture", "motion", "body", "sign"],
-                "Speech": ["speech", "audio", "voice", "sound"],
-                "Tactile": ["tactile", "touch", "haptic", "force"],
-                "Learning": ["learning", "learned", "neural", "deep", "ML"],
-                "Real-time": ["real-time", "realtime", "fast", "efficient"],
-                "Social": ["social", "emotional", "cognitive", "mental"]
+                "Vision-Language": ["vision-language", "visual language", "image-text", "multimodal", "vision-language model", "visual language model", "image-text model", "multimodal model"],
+                "Human-Robot": ["human-robot", "human robot", "interaction", "collaboration", "human-robot interaction", "human-robot collaboration", "human-robot communication", "human-robot cooperation"],
+                "Gesture": ["gesture", "motion", "body", "sign", "gesture recognition", "body language", "sign language", "motion understanding", "gesture understanding"],
+                "Speech": ["speech", "audio", "voice", "sound", "speech recognition", "audio processing", "voice interaction", "sound understanding", "speech understanding"],
+                "Tactile": ["tactile", "touch", "haptic", "force", "tactile sensing", "touch sensing", "haptic feedback", "force sensing", "tactile interaction"],
+                "Learning": ["learning", "learned", "neural", "deep", "ML", "multimodal learning", "cross-modal learning", "fusion learning", "joint learning"],
+                "Real-time": ["real-time", "realtime", "fast", "efficient", "real-time interaction", "fast response", "efficient processing", "real-time processing"],
+                "Social": ["social", "emotional", "cognitive", "mental", "social robotics", "emotional intelligence", "cognitive interaction", "mental model", "social understanding"],
+                "Natural Language": ["natural language", "language understanding", "language generation", "language model", "NLP", "language processing", "language interaction", "language communication"],
+                "Embodied": ["embodied", "embodiment", "physical", "corporeal", "embodied interaction", "physical interaction", "corporeal communication", "embodied communication"]
             },
             # 环境感知标签
             "Environment-Perception": {
-                "Object": ["object", "detection", "recognition", "tracking"],
-                "Scene": ["scene", "understanding", "parsing", "segmentation"],
-                "3D": ["3D", "point cloud", "depth", "stereo"],
-                "Semantic": ["semantic", "meaning", "interpretation", "reasoning"],
-                "Learning": ["learning", "learned", "neural", "deep", "ML"],
-                "Real-time": ["real-time", "realtime", "fast", "efficient"],
-                "Robust": ["robust", "robustness", "adversarial", "attack"],
-                "Multi-modal": ["multi-modal", "multimodal", "fusion", "integration"]
+                "Object": ["object", "detection", "recognition", "tracking", "object detection", "object recognition", "object tracking", "object understanding", "object localization"],
+                "Scene": ["scene", "understanding", "parsing", "segmentation", "scene understanding", "scene parsing", "scene segmentation", "scene recognition", "scene analysis"],
+                "3D": ["3D", "point cloud", "depth", "stereo", "3D perception", "point cloud processing", "depth estimation", "stereo vision", "3D reconstruction"],
+                "Semantic": ["semantic", "meaning", "interpretation", "reasoning", "semantic understanding", "semantic interpretation", "semantic reasoning", "semantic analysis", "semantic mapping"],
+                "Learning": ["learning", "learned", "neural", "deep", "ML", "perception learning", "visual learning", "sensor learning", "environment learning"],
+                "Real-time": ["real-time", "realtime", "fast", "efficient", "real-time perception", "fast perception", "efficient perception", "real-time processing"],
+                "Robust": ["robust", "robustness", "adversarial", "attack", "robust perception", "adversarial robustness", "attack resistance", "robust recognition"],
+                "Multi-modal": ["multi-modal", "multimodal", "fusion", "integration", "multi-modal perception", "sensor fusion", "modality integration", "cross-modal perception"],
+                "SLAM": ["SLAM", "mapping", "localization", "navigation", "simultaneous localization and mapping", "environment mapping", "robot localization", "visual navigation"],
+                "Terrain": ["terrain", "ground", "surface", "environment", "terrain understanding", "ground perception", "surface analysis", "environment analysis"]
             },
             # 基础理论标签
             "Fundamental-Theory": {
-                "Cognitive": ["cognitive", "cognition", "mental", "brain"],
-                "Control": ["control", "controller", "stability", "dynamics"],
-                "Learning": ["learning", "learned", "neural", "deep", "ML"],
-                "Representation": ["representation", "embedding", "feature", "latent"],
-                "Generalization": ["generalization", "transfer", "adaptation", "robust"],
-                "Theory": ["theory", "theoretical", "analysis", "proof"],
-                "Survey": ["survey", "review", "overview", "tutorial"],
-                "Benchmark": ["benchmark", "evaluation", "test", "challenge"]
+                "Cognitive": ["cognitive", "cognition", "mental", "brain", "cognitive science", "cognitive model", "mental representation", "brain-inspired", "cognitive architecture"],
+                "Control": ["control", "controller", "stability", "dynamics", "control theory", "controller design", "stability analysis", "dynamics modeling", "control architecture"],
+                "Learning": ["learning", "learned", "neural", "deep", "ML", "learning theory", "neural learning", "deep learning", "machine learning", "representation learning"],
+                "Representation": ["representation", "embedding", "feature", "latent", "representation learning", "embedding space", "feature learning", "latent space", "concept learning"],
+                "Generalization": ["generalization", "transfer", "adaptation", "robust", "generalization theory", "transfer learning", "adaptation mechanism", "robust learning", "domain generalization"],
+                "Theory": ["theory", "theoretical", "analysis", "proof", "theoretical framework", "theoretical analysis", "mathematical proof", "theoretical model", "theoretical foundation"],
+                "Survey": ["survey", "review", "overview", "tutorial", "literature survey", "research review", "field overview", "comprehensive tutorial", "state-of-the-art review"],
+                "Benchmark": ["benchmark", "evaluation", "test", "challenge", "benchmarking framework", "evaluation methodology", "testing framework", "challenge design", "performance metrics"],
+                "Embodied": ["embodied", "embodiment", "physical", "corporeal", "embodied intelligence", "embodied cognition", "physical intelligence", "corporeal learning", "embodied learning"],
+                "Reasoning": ["reasoning", "inference", "logic", "abstract", "reasoning mechanism", "inference engine", "logical reasoning", "abstract thinking", "reasoning model"]
             }
         }
 
@@ -272,7 +285,7 @@ class PaperUpdater:
         # 不再使用标签，返回空字符串
         return ""
 
-    def get_daily_papers(self, category, query, max_results=1):
+    def get_daily_papers(self, category, query, max_results=50):
         """获取每日论文"""
         papers = []
         search = arxiv.Search(

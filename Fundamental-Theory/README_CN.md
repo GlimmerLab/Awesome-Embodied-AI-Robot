@@ -18,7 +18,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-24|Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction|[[pdf]](http://arxiv.org/abs/2504.17790v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 

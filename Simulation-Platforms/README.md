@@ -17,15 +17,14 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
-|RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
-|PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
-|Name|Description|[[pdf]](Paper)|[Code](Code)|Recommendation|
-|NVIDIA Omniverse|Platform for virtual worlds and digital twins|[[pdf]]([[docs]](https://docs.omniverse.nvidia.com/))|[NVIDIA-Omniverse](https://github.com/NVIDIA-Omniverse)|⭐️⭐️⭐️|
-|MuJoCo|High-performance physics engine for robotics and ML|[[pdf]](https://arxiv.org/abs/2106.14481)|[mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
-|Legged Gym|Environments for legged robots|[[pdf]](https://arxiv.org/abs/2109.11978)|[legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
-|IsaacGym|NVIDIA's GPU-accelerated physics simulator|[[pdf]](https://arxiv.org/abs/2108.10470)|[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
-|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](https://arxiv.org/abs/2410.17491)|[MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
+|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](⚠️)|[MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
+||Safety Gym: Safe exploration environments|[[pdf]](⚠️)|[safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
+||RaiSim: High-performance physics engine for robotics|[[pdf]](⚠️)|[raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
+||PyBullet: Physics simulation for robotics and ML|[[pdf]](⚠️)|[bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
+||NVIDIA Omniverse: Platform for virtual worlds and digital twins|[[pdf]](⚠️)|[NVIDIA-Omniverse](https://github.com/NVIDIA-Omniverse)|⭐️⭐️⭐️|
+||MuJoCo: High-performance physics engine for robotics and ML|[[pdf]](⚠️)|[mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
+||Legged Gym: Environments for legged robots|[[pdf]](⚠️)|[legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
+||IsaacGym: NVIDIA's GPU-accelerated physics simulator|[[pdf]](⚠️)|[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
 
 ## Auto-Updated Papers
 
@@ -35,6 +34,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 10
-- Code Implementations: 9
+- Total Papers: 9
+- Code Implementations: 8
 - Last Updated: April 2025

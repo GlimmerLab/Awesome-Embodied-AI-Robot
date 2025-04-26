@@ -18,7 +18,7 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-24|Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction|[[pdf]](http://arxiv.org/abs/2504.17790v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
