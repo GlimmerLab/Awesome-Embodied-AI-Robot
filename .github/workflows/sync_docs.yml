@@ -9,6 +9,12 @@ on:
   # 允许手动触发
   workflow_dispatch:
 
+# 添加权限设置
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   sync:
     name: Sync to Docs
@@ -33,10 +39,36 @@ jobs:
         run: |
           python scripts/sync_docs.py
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          publish_branch: gh-pages
-          commit_message: "docs: sync content from main branch"
+          # 自动生成 token
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-gh-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+          future: false
+          unpublished: false
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./_site
+          retention-days: 1  # 只保留1天
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: _site
+          clean: true  # 部署前清理目标分支
+
+      - name: Debug - Deployment status
+        run: |
+          echo "Deployment status: ${{ steps.deployment.outputs.outcome }}"
+          echo "Deployment URL: ${{ steps.deployment.outputs.page_url }}"
