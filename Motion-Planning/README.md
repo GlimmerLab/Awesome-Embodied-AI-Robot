@@ -32,7 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+<<<<<<< HEAD
 |2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
+=======
+|2025-04-24|Unleashing the Power of Natural Audio Featuring Multiple Sound Sources|[[pdf]](http://arxiv.org/abs/2504.17782v1)|⚠️|⭐️⭐️⭐️|
+>>>>>>> 68a81253fa181345b0c668e163ae04c53a3e06cc
 
 ## 📊 Statistics
 
