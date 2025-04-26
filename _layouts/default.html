@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% if site.favicon %}
+    <link rel="icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
+    {% endif %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title">{{ site.title }}</h1>
+            <p class="site-description">{{ site.description }}</p>
+            <nav class="nav-links">
+                {% if site.lang == 'zh-CN' %}
+                <a href="{{ '/index_cn' | relative_url }}">首页</a>
+                {% else %}
+                <a href="{{ '/index' | relative_url }}">Home</a>
+                {% endif %}
+                <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" target="_blank">GitHub</a>
+                {% if site.lang == 'zh-CN' %}
+                <a href="{{ '/index' | relative_url }}">English</a>
+                {% else %}
+                <a href="{{ '/index_cn' | relative_url }}">中文</a>
+                {% endif %}
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="main-content">
+            {{ content }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+            <p>
+                {% if site.lang == 'zh-CN' %}
+                由 <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a> 维护
+                {% else %}
+                Maintained by <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
+                {% endif %}
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

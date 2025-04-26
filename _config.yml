@@ -1,3 +1,4 @@
+baseurl: ''
 default_lang: zh-CN
 description: A curated list of awesome embodied AI papers with code implementations
 exclude_from_langs: []
@@ -11,3 +12,4 @@ languages:
 show_downloads: true
 theme: jekyll-theme-minimal
 title: Awesome Embodied AI
+url: https://glimmerlab.github.io/Awesome-Embodied-AI

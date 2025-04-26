@@ -32,19 +32,23 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-24|Unleashing the Power of Natural Audio Featuring Multiple Sound Sources|[[pdf]](http://arxiv.org/abs/2504.17782v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Josephson anomalous vortices|[[pdf]](http://arxiv.org/abs/2504.17779v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Sparse Attention Trade-offs in Transformer LLMs|[[pdf]](http://arxiv.org/abs/2504.17768v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables|[[pdf]](http://arxiv.org/abs/2504.17767v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|warm inflation dynamics made easy|[[pdf]](http://arxiv.org/abs/2504.17760v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|The Unifying Layer for Zero Trust Infrastructure|[[pdf]](http://arxiv.org/abs/2504.17759v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|On the Degree Automatability of Sum-of-Squares Proofs|[[pdf]](http://arxiv.org/abs/2504.17756v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|comparing a Neurosymbolic Architecture with ChatGPT|[[pdf]](http://arxiv.org/abs/2504.17753v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Signatures of Particle Production from Weak to Strong Backreaction|[[pdf]](http://arxiv.org/abs/2504.17750v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Fourier Acceleration in a Linear Sigma Model with Spontaneous Symmetry Breaking|[[pdf]](http://arxiv.org/abs/2504.17747v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|golden sample selection and 3D structure|[[pdf]](http://arxiv.org/abs/2504.17744v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Embedding Empirical Distributions for Computing Optimal Transport Maps|[[pdf]](http://arxiv.org/abs/2504.17740v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies|[[pdf]](http://arxiv.org/abs/2504.17736v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|an integrated approach|[[pdf]](http://arxiv.org/abs/2504.17733v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|All-in-One Image Restoration via Degradation-Aware Prompt State Space Model|[[pdf]](http://arxiv.org/abs/2504.17732v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos|[[pdf]](http://arxiv.org/abs/2504.17728v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning|[[pdf]](http://arxiv.org/abs/2504.17726v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|What makes a good public EV charging station? A revealed preference study|[[pdf]](http://arxiv.org/abs/2504.17722v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees|[[pdf]](http://arxiv.org/abs/2504.17721v1)|⚠️|⭐️⭐️⭐️|
@@ -64,22 +68,9 @@
 |2025-04-24|Nonlinear Derivative-free Constrained Optimization with a Penalty-Interior Point Method and Direct Search|[[pdf]](http://arxiv.org/abs/2504.17682v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|A Network Traffic Anomaly Detection Model Based on MindSpore|[[pdf]](http://arxiv.org/abs/2504.17678v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Bridging the Student-Teacher Gap in Times of Large Language Models|[[pdf]](http://arxiv.org/abs/2504.17677v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Unified Localization Combining Model-Based Geometry and Unsupervised Learning|[[pdf]](http://arxiv.org/abs/2504.17676v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Optimized Cloud Resource Allocation Using Genetic Algorithms for Energy Efficiency and QoS Assurance|[[pdf]](http://arxiv.org/abs/2504.17675v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Energy Considerations of Large Language Model Inference and Efficiency Optimizations|[[pdf]](http://arxiv.org/abs/2504.17674v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Digital Twin Enabled Channel Measurement and Modeling in Terahertz Urban Macrocell|[[pdf]](http://arxiv.org/abs/2504.17673v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation|[[pdf]](http://arxiv.org/abs/2504.17672v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction|[[pdf]](http://arxiv.org/abs/2504.17671v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Towards a HIPAA Compliant Agentic AI System in Healthcare|[[pdf]](http://arxiv.org/abs/2504.17669v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Programmable glassy dynamics using tunable disorder in tweezer arrays|[[pdf]](http://arxiv.org/abs/2504.17659v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A Learning Framework for Atomic-level Polymer Structure Generation|[[pdf]](http://arxiv.org/abs/2504.17656v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|On Josephy-Halley method for generalized equations|[[pdf]](http://arxiv.org/abs/2504.17649v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A Robust Fault Detection Filter for Linear Time-Varying System with Non-Gaussian Noise|[[pdf]](http://arxiv.org/abs/2504.17648v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Pseudo-Label Temporal Curriculum Learning for Label-Limited Dynamic Graph|[[pdf]](http://arxiv.org/abs/2504.17641v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Sparsity-Exploiting Channel Estimation For Unsourced Random Access With Fluid Antenna|[[pdf]](http://arxiv.org/abs/2504.17634v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
-- 论文总数：55篇
+- 论文总数：46篇
 - 代码实现：5个
 - 最后更新：2025年04月
