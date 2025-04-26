@@ -1,4 +1,4 @@
-# Awesome-Embodied-AI
+# 具身智能研究资源
 
 <div align='center'>
   <img src="assets/logo.svg" width=250px >
@@ -11,9 +11,20 @@
   <a href="README.md">English</a>
 </div>
 
-## 📒简介
+> 🌐 语言: [English](README.md) | [中文](README_CN.md)
 
-Awesome-Embodied-AI 是一个精心策划的具身智能相关论文和代码的集合。本仓库旨在为研究人员和开发者提供一个全面的具身智能研究资源，包括但不限于基础理论、视觉语言模型、机器人学习、强化学习等多个方向。
+本仓库收集了具身智能（Embodied AI）领域的研究资源，包括论文、代码实现、数据集等。具身智能研究机器人如何通过与环境交互来学习和完成任务，是人工智能和机器人技术的重要交叉领域。
+
+## 领域关联
+
+具身智能研究涉及多个相互关联的领域：
+
+- **基础理论**：为具身智能提供理论基础，包括认知科学、控制理论等
+- **机器人学习与强化学习**：实现机器人的自主学习和决策能力
+- **环境感知**：使机器人能够理解和适应环境，包括视觉语言理解
+- **运动规划与任务规划**：实现机器人的动作执行和任务分解
+- **多模态交互**：支持机器人与环境、人类的多模态交互
+- **仿真平台**：提供机器人学习和测试的虚拟环境
 
 ## 🎯特点
 
@@ -26,47 +37,45 @@ Awesome-Embodied-AI 是一个精心策划的具身智能相关论文和代码的
 ## 📖目录
 
 * [基础理论](Fundamental-Theory/README_CN.md)
-* [视觉语言模型](Vision-Language-Models/README_CN.md)
-* [机器人学习](Robot-Learning/README_CN.md)
-* [强化学习](Reinforcement-Learning/README_CN.md)
-* [多模态交互](Multimodal-Interaction/README_CN.md)
+* [机器人学习与强化学习](Robot-Learning-and-Reinforcement-Learning/README_CN.md)
 * [环境感知](Environment-Perception/README_CN.md)
 * [运动规划](Motion-Planning/README_CN.md)
 * [任务规划](Task-Planning/README_CN.md)
+* [多模态交互](Multimodal-Interaction/README_CN.md)
 * [仿真平台](Simulation-Platforms/README_CN.md)
 
 ## 📊统计
 
-- 论文总数：50+
-- 代码实现：30+
-- 最近更新：2024.03
+- 论文总数：82篇
+- 代码实现：66个
 
 ## ©️引用
 
 如果您在研究中使用了本仓库的内容，请引用：
 
 ```BibTeX
-@misc{Awesome-Embodied-AI@2024,
+@misc{Awesome-Embodied-AI@2025,
   title={Awesome-Embodied-AI: A curated list of Awesome Embodied AI Papers with codes},
   url={https://github.com/GlimmerLab/Awesome-Embodied-AI},
   author={GlimmerLab etc},
-  year={2024}
+  year={2025}
 }
 ```
 
 ## 🤝贡献指南
 
-我们欢迎所有形式的贡献，包括但不限于：
-- 提交新的论文和代码
-- 修正错误或更新过时信息
-- 改进仓库结构和组织
-- 提供建议和反馈
+欢迎提交新的研究资源！请确保：
+
+1. 资源具有较高的学术价值或实用价值
+2. 提供完整的论文链接和代码仓库（如果有）
+3. 按照现有格式添加到相应目录
+4. 更新统计信息
 
 请通过 Issues 或 Pull Requests 提交您的贡献。
 
 ## 📜许可证
 
-本项目采用 [GNU General Public License v3.0](LICENSE) 许可证。
+本项目采用 [MIT 许可证](LICENSE)。
 
 ## 🌟致谢
 

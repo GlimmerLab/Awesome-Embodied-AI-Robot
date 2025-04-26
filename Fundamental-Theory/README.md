@@ -1,6 +1,8 @@
-# Fundamental Theory
+# Fundamental-Theory
 
-This directory contains papers and code implementations related to the fundamental theories of embodied intelligence.
+> [English](README.md) | 中文
+
+This directory collects papers and code implementations related to fundamental theory in embodied AI.
 
 ## Main Contents
 
@@ -9,10 +11,17 @@ This directory contains papers and code implementations related to the fundament
 - Learning Theory in Embodied Intelligence
 - Evaluation Methods for Embodied Intelligence
 
-## Papers
+## Manually Added Papers
 
-### 2024
 
-|Date|Title|Paper|Code|Recommendation|
+## Auto-Updated Papers
+
+|Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2024.03|[Theory] Foundations of Embodied Intelligence|[[pdf]]()| ⚠️ |⭐️⭐️ |
+|2025-04-24|Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction|[[pdf]](http://arxiv.org/abs/2504.17790v1)|⚠️|⭐️⭐️⭐️|
+
+## 📊 Statistics
+
+- Total Papers: 1
+- Code Implementations: 0
+- Last Updated: April 2025

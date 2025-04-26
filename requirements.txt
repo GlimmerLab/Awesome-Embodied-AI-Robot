@@ -1,0 +1,6 @@
+requests==2.31.0
+markdown==3.5.2
+beautifulsoup4==4.12.3
+tqdm==4.66.2
+arxiv==1.4.8
+lxml==5.1.0

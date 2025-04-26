@@ -1,0 +1,61 @@
+name: Daily Paper Update
+
+# 控制工作流何时运行
+on:
+  # 允许从 Actions 标签手动运行此工作流
+  workflow_dispatch:
+  # 每天运行一次
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 0:00 运行
+  # 在推送到主分支时触发
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_USER_NAME: GlimmerLab
+  GITHUB_USER_EMAIL: junli440883@gmail.com
+
+# 工作流运行由一个或多个作业组成，这些作业可以顺序或并行运行
+jobs:
+  # 此工作流包含一个名为 "update" 的作业
+  update:
+    name: Update Papers
+    # 作业将在其上运行的操作系统类型
+    runs-on: ubuntu-latest
+
+    # 步骤表示将作为作业的一部分执行的任务序列
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install arxiv
+          pip install requests
+          pip install beautifulsoup4
+          pip install tqdm
+
+      - name: Run paper update script
+        run: |
+          python update_papers.py
+
+      - name: Push changes
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Daily Update: Auto-update papers list"
+          files: |
+            **/README.md
+            **/README_CN.md
+            README.md
+            README_CN.md
+          rebase: 'true'
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}

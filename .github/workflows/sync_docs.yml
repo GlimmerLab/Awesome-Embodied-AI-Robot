@@ -1,0 +1,42 @@
+name: Sync Docs
+
+on:
+  # 在daily_update工作流完成后触发
+  workflow_run:
+    workflows: ["Daily Paper Update"]
+    types:
+      - completed
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Sync to Docs
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Sync content to docs
+        run: |
+          python scripts/sync_docs.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          commit_message: "docs: sync content from main branch"

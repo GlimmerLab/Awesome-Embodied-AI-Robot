@@ -1,6 +1,8 @@
-# Simulation Platforms
+# Simulation-Platforms
 
-This directory contains papers and code implementations related to simulation platforms for embodied AI research.
+> [English](README.md) | 中文
+
+This directory collects papers and code implementations related to simulation platforms in embodied AI.
 
 ## Main Contents
 
@@ -9,26 +11,30 @@ This directory contains papers and code implementations related to simulation pl
 - Learning Environments
 - Benchmarking Platforms
 - Digital Twins
+- Synthetic Data Generation
 
-## Papers and Platforms
+## Manually Added Papers
 
-### Physics Simulators
-
-|Name|Description|Paper|Code|Recommendation|
+|Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|IsaacGym|NVIDIA's physics simulator with GPU acceleration|[[pdf]](https://arxiv.org/abs/2108.10470)|[[IsaacGym]](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) |⭐️⭐️⭐️|
-|RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[[RaiSim]](https://github.com/raisimTech/raisimLib) |⭐️⭐️⭐️|
+|Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
+|RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
+|PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
+|Name|Description|[[pdf]](Paper)|[Code](Code)|Recommendation|
+|NVIDIA Omniverse|Platform for virtual worlds and digital twins|[[pdf]]([[docs]](https://docs.omniverse.nvidia.com/))|[NVIDIA-Omniverse](https://github.com/NVIDIA-Omniverse)|⭐️⭐️⭐️|
+|MuJoCo|High-performance physics engine for robotics and ML|[[pdf]](https://arxiv.org/abs/2106.14481)|[mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
+|Legged Gym|Environments for legged robots|[[pdf]](https://arxiv.org/abs/2109.11978)|[legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
+|IsaacGym|NVIDIA's GPU-accelerated physics simulator|[[pdf]](https://arxiv.org/abs/2108.10470)|[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
+|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](https://arxiv.org/abs/2410.17491)|[MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
 
-### Robot Learning Environments
+## Auto-Updated Papers
 
-|Name|Description|Paper|Code|Recommendation|
+|Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|Legged Gym|Environments for legged robots|[[pdf]](https://arxiv.org/abs/2109.11978)|[[legged_gym]](https://github.com/leggedrobotics/legged_gym) |⭐️⭐️⭐️|
-|Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[[Safety-Gym]](https://github.com/openai/safety-gym) |⭐️⭐️|
+|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
 
-### Digital Twins
+## 📊 Statistics
 
-|Name|Description|Paper|Code|Recommendation|
-|:---:|:---:|:---:|:---:|:---:|
-|NVIDIA Omniverse|Platform for virtual worlds and digital twins|[[docs]](https://docs.omniverse.nvidia.com/)|[[Omniverse]](https://github.com/NVIDIA-Omniverse) |⭐️⭐️⭐️|
-|PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[[PyBullet]](https://github.com/bulletphysics/bullet3) |⭐️⭐️|
+- Total Papers: 10
+- Code Implementations: 9
+- Last Updated: April 2025

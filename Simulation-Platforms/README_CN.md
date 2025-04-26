@@ -1,6 +1,8 @@
-# 仿真平台
+# Simulation-Platforms
 
-本目录收集了具身智能研究中相关的仿真平台的论文和代码实现。
+> English | [中文](README_CN.md)
+
+本目录收集了具身智能中与仿真平台相关的论文和代码实现。
 
 ## 主要内容
 
@@ -9,26 +11,30 @@
 - 学习环境
 - 基准测试平台
 - 数字孪生
+- 合成数据生成
 
-## 平台与论文
+## 手动添加的论文
 
-### 物理仿真器
-
-|名称|描述|论文|代码|推荐指数|
+|日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|IsaacGym|NVIDIA的GPU加速物理仿真器|[[pdf]](https://arxiv.org/abs/2108.10470)|[[IsaacGym]](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) |⭐️⭐️⭐️|
-|RaiSim|面向机器人的高性能物理引擎|[[pdf]](https://arxiv.org/abs/2011.08924)|[[RaiSim]](https://github.com/raisimTech/raisimLib) |⭐️⭐️⭐️|
+|Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
+|RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
+|PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
+|Name|Description|[[pdf]](Paper)|[Code](Code)|Recommendation|
+|NVIDIA Omniverse|Platform for virtual worlds and digital twins|[[pdf]]([[docs]](https://docs.omniverse.nvidia.com/))|[NVIDIA-Omniverse](https://github.com/NVIDIA-Omniverse)|⭐️⭐️⭐️|
+|MuJoCo|High-performance physics engine for robotics and ML|[[pdf]](https://arxiv.org/abs/2106.14481)|[mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
+|Legged Gym|Environments for legged robots|[[pdf]](https://arxiv.org/abs/2109.11978)|[legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
+|IsaacGym|NVIDIA's GPU-accelerated physics simulator|[[pdf]](https://arxiv.org/abs/2108.10470)|[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
+|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](https://arxiv.org/abs/2410.17491)|[MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
 
-### 机器人学习环境
+## 自动更新的论文
 
-|名称|描述|论文|代码|推荐指数|
+|日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|Legged Gym|足式机器人环境|[[pdf]](https://arxiv.org/abs/2109.11978)|[[legged_gym]](https://github.com/leggedrobotics/legged_gym) |⭐️⭐️⭐️|
-|Safety Gym|安全探索环境|[[pdf]](https://arxiv.org/abs/1910.09465)|[[Safety-Gym]](https://github.com/openai/safety-gym) |⭐️⭐️|
+|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
 
-### 数字孪生
+## 📊 统计
 
-|名称|描述|论文|代码|推荐指数|
-|:---:|:---:|:---:|:---:|:---:|
-|NVIDIA Omniverse|虚拟世界和数字孪生平台|[[docs]](https://docs.omniverse.nvidia.com/)|[[Omniverse]](https://github.com/NVIDIA-Omniverse) |⭐️⭐️⭐️|
-|PyBullet|面向机器人和机器学习的物理仿真|[[pdf]](https://arxiv.org/abs/2108.10470)|[[PyBullet]](https://github.com/bulletphysics/bullet3) |⭐️⭐️|
+- 论文总数：10篇
+- 代码实现：9个
+- 最后更新：2025年04月

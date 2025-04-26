@@ -1,19 +1,47 @@
-# Awesome-Embodied-AI
+# Embodied AI Research Resources
 
-<div align='center'>
-  <img src="assets/logo.svg" width=250px >
-</div>
+> 🌐 Language: [English](README.md) | [中文](README_CN.md)
 
-<div align='center'>
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" >
-  <img src="https://img.shields.io/badge/License-GPLv3.0-turquoise.svg" >
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" >
-  <a href="README_CN.md">中文</a>
-</div>
+This repository collects research resources in the field of Embodied AI, including papers, code implementations, and datasets. Embodied AI studies how robots can learn and accomplish tasks through interaction with the environment, which is an important intersection of artificial intelligence and robotics.
 
-## 📒Introduction
+## Domain Relationships
 
-Awesome-Embodied-AI is a curated collection of papers and code implementations related to embodied intelligence. This repository aims to provide researchers and developers with a comprehensive resource for embodied AI research, covering fundamental theory, vision-language models, robot learning, reinforcement learning, and more.
+Embodied AI research involves multiple interconnected domains:
+
+- **Fundamental Theory**: Provides theoretical foundations for embodied AI, including cognitive science and control theory
+- **Robot Learning & Reinforcement Learning**: Enables autonomous learning and decision-making capabilities for robots
+- **Environment Perception**: Enables robots to understand and adapt to their environment, including visual language understanding
+- **Motion Planning & Task Planning**: Implements robot action execution and task decomposition
+- **Multimodal Interaction**: Supports multimodal interaction between robots and environment/humans
+- **Simulation Platforms**: Provides virtual environments for robot learning and testing
+
+## 📖 Contents
+
+* [Fundamental Theory](Fundamental-Theory/README.md)
+* [Robot Learning & Reinforcement Learning](Robot-Learning-and-Reinforcement-Learning/README.md)
+* [Environment Perception](Environment-Perception/README.md)
+* [Motion Planning](Motion-Planning/README.md)
+* [Task Planning](Task-Planning/README.md)
+* [Multimodal Interaction](Multimodal-Interaction/README.md)
+* [Simulation Platforms](Simulation-Platforms/README.md)
+
+## Statistics
+
+- Total Papers: 82
+- Code Implementations: 66
+
+## Contributing
+
+We welcome new research resources! Please ensure:
+
+1. Resources have high academic or practical value
+2. Complete paper links and code repositories are provided (if available)
+3. Resources are added to appropriate directories following the existing format
+4. Statistics are updated accordingly
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🎯Features
 
@@ -22,51 +50,6 @@ Awesome-Embodied-AI is a curated collection of papers and code implementations r
 - 🔍 Detailed categorization
 - 🌟 Important paper recommendations
 - 📅 Regular updates
-
-## 📖Contents
-
-* [Fundamental Theory](Fundamental-Theory/README.md)
-* [Vision-Language Models](Vision-Language-Models/README.md)
-* [Robot Learning](Robot-Learning/README.md)
-* [Reinforcement Learning](Reinforcement-Learning/README.md)
-* [Multimodal Interaction](Multimodal-Interaction/README.md)
-* [Environment Perception](Environment-Perception/README.md)
-* [Motion Planning](Motion-Planning/README.md)
-* [Task Planning](Task-Planning/README.md)
-* [Simulation Platforms](Simulation-Platforms/README.md)
-
-## 📊Statistics
-
-- Total Papers: 50+
-- Code Implementations: 30+
-- Last Update: 2024.03
-
-## ©️Citation
-
-If you use content from this repository in your research, please cite:
-
-```BibTeX
-@misc{Awesome-Embodied-AI@2024,
-  title={Awesome-Embodied-AI: A curated list of Awesome Embodied AI Papers with codes},
-  url={https://github.com/GlimmerLab/Awesome-Embodied-AI},
-  author={GlimmerLab etc},
-  year={2024}
-}
-```
-
-## 🤝Contribution Guidelines
-
-We welcome all forms of contributions, including but not limited to:
-- Submitting new papers and code
-- Correcting errors or updating outdated information
-- Improving repository structure and organization
-- Providing suggestions and feedback
-
-Please submit your contributions through Issues or Pull Requests.
-
-## 📜License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## 🌟Acknowledgments
 
