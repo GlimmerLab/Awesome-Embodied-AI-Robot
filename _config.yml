@@ -1,0 +1,13 @@
+default_lang: zh-CN
+description: A curated list of awesome embodied AI papers with code implementations
+exclude_from_langs: []
+lang: zh-CN
+lang_names:
+  en: English
+  zh-CN: 中文
+languages:
+- en
+- zh-CN
+show_downloads: true
+theme: jekyll-theme-minimal
+title: Awesome Embodied AI

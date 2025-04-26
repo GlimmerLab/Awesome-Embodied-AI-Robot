@@ -1,0 +1,72 @@
+# 任务规划
+
+> 中文 | [English](README.md)
+
+本目录收集了具身智能中与任务规划相关的论文和代码实现。
+
+## 主要内容
+
+- 高层任务规划
+- 分层规划
+- 任务与运动规划(TAMP)
+- 基于学习的规划
+- 多智能体规划
+
+## 手动添加的论文
+
+|日期|标题|论文|代码|推荐指数|
+|:---:|:---:|:---:|:---:|:---:|
+|2023|Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks|[[pdf]](https://openreview.net/forum?id=QG_ERxtDAP-&referrer=%5Bthe%20profile%20of%20Marco%20Hutter%5D(%2Fprofile%3Fid%3D~Marco_Hutter1)|[curiosity_tamp](https://github.com/example/curiosity_tamp)|⭐️⭐️|
+
+## 自动更新的论文
+
+|日期|标题|论文|代码|推荐指数|
+|:---:|:---:|:---:|:---:|:---:|
+|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction|[[pdf]](http://arxiv.org/abs/2504.17790v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Dynamic Camera Poses and Where to Find Them|[[pdf]](http://arxiv.org/abs/2504.17788v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Towards High-Resolution Image Generation with Autoregressive Models|[[pdf]](http://arxiv.org/abs/2504.17789v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|The Fourth Monocular Depth Estimation Challenge|[[pdf]](http://arxiv.org/abs/2504.17787v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Emergent fractals in dirty topological crystals|[[pdf]](http://arxiv.org/abs/2504.17786v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Secure Non-Interactive Outsourced MLP Training|[[pdf]](http://arxiv.org/abs/2504.17785v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Nanoscale infrared and microwave imaging of stacking faults in multilayer graphene|[[pdf]](http://arxiv.org/abs/2504.17783v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2504.17784v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Thermal Product Formula for Shear Modes|[[pdf]](http://arxiv.org/abs/2504.17781v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Retaining Domain Knowledge in Streaming Language Models|[[pdf]](http://arxiv.org/abs/2504.17780v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Fitting Tree Metrics and Ultrametrics in Data Streams|[[pdf]](http://arxiv.org/abs/2504.17776v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Collisionless ion-electron energy exchange in magnetized shocks|[[pdf]](http://arxiv.org/abs/2504.17774v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Zeptosecond free-electron compression through temporal lensing|[[pdf]](http://arxiv.org/abs/2504.17770v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Sparse Attention Trade-offs in Transformer LLMs|[[pdf]](http://arxiv.org/abs/2504.17768v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Estimating the BFKL effects on the vector meson + jet production in photon - induced interactions at the LHC|[[pdf]](http://arxiv.org/abs/2504.17766v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Extended Scalar Particle Solutions in Black String Spacetimes with Anisotropic Quintessence|[[pdf]](http://arxiv.org/abs/2504.17765v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Orbifolds, higher dagger structures, and idempotents|[[pdf]](http://arxiv.org/abs/2504.17764v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|An Open and Modular Stellar Spectral Synthesis Code|[[pdf]](http://arxiv.org/abs/2504.17762v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|A Practical Framework for General Image Editing|[[pdf]](http://arxiv.org/abs/2504.17761v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|warm inflation dynamics made easy|[[pdf]](http://arxiv.org/abs/2504.17760v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|The Unifying Layer for Zero Trust Infrastructure|[[pdf]](http://arxiv.org/abs/2504.17759v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Measurements of inclusive and differential Higgs boson production cross sections at $\sqrt{s}$ = 13.6 TeV in the H $\to$ $γγ$ decay channel|[[pdf]](http://arxiv.org/abs/2504.17755v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Spall strength of symmetric tilt grain boundaries in 6H silicon carbide|[[pdf]](http://arxiv.org/abs/2504.17754v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|comparing a Neurosymbolic Architecture with ChatGPT|[[pdf]](http://arxiv.org/abs/2504.17753v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Specialized Discretization for Binary Activated RNN|[[pdf]](http://arxiv.org/abs/2504.17751v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Signatures of Particle Production from Weak to Strong Backreaction|[[pdf]](http://arxiv.org/abs/2504.17750v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction|[[pdf]](http://arxiv.org/abs/2504.17749v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Robotic Task Ambiguity Resolution via Natural Language Interaction|[[pdf]](http://arxiv.org/abs/2504.17748v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Fourier Acceleration in a Linear Sigma Model with Spontaneous Symmetry Breaking|[[pdf]](http://arxiv.org/abs/2504.17747v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|persistent gravitational radiation|[[pdf]](http://arxiv.org/abs/2504.17746v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Asymptotic attraction with algebraic rates toward fronts of dispersive-diffusive Burgers equations|[[pdf]](http://arxiv.org/abs/2504.17745v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|golden sample selection and 3D structure|[[pdf]](http://arxiv.org/abs/2504.17744v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Realization of Temporally Connected Graphs Based on Degree Sequences|[[pdf]](http://arxiv.org/abs/2504.17743v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Growth, Characterizations and Applications|[[pdf]](http://arxiv.org/abs/2504.17742v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Considering observations of gamma-ray bursts and kilonovae|[[pdf]](http://arxiv.org/abs/2504.17741v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|the case of five double-mode radial SX Phoenicis pulsators|[[pdf]](http://arxiv.org/abs/2504.17738v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Modularity of tadpole Nahm sums in ranks 4 and 5|[[pdf]](http://arxiv.org/abs/2504.17737v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|an integrated approach|[[pdf]](http://arxiv.org/abs/2504.17733v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|All-in-One Image Restoration via Degradation-Aware Prompt State Space Model|[[pdf]](http://arxiv.org/abs/2504.17732v1)|⚠️|⭐️⭐️⭐️|
+
+## 📊 统计
+
+- 论文总数：43篇
+- 代码实现：1个
+- 最后更新：2025年04月
