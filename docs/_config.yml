@@ -24,12 +24,6 @@ markdown: kramdown
 permalink: pretty
 timezone: Asia/Shanghai
 
-# 插件
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 # 默认布局
 defaults:
   -
@@ -40,10 +34,6 @@ defaults:
 
 # 排除文件
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
   - .git/
   - .github/
   - .gitignore
