@@ -1,10 +1,52 @@
-title: Awesome Embodied AI Papers
-description: 一个专注于体感AI领域最新论文的在线资源库
+title: Awesome Embodied AI
+description: A curated list of awesome embodied AI papers with code implementations
+baseurl: ""
+url: "https://glimmerlab.github.io/Awesome-Embodied-AI"
+
+# 主题设置
+theme: jekyll-theme-minimal
+
+# 语言设置
+lang: zh-CN
+languages: ["en", "zh-CN"]
+default_lang: zh-CN
+exclude_from_langs: []
+lang_names:
+  en: English
+  zh-CN: 中文
+
+# GitHub 设置
+github_username: GlimmerLab
+github_repo: Awesome-Embodied-AI
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
+timezone: Asia/Shanghai
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 默认布局
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/
+  - .github/
+  - .gitignore
+
+# 其他设置
 show_downloads: true
-theme: jekyll-theme-cayman
-github:
-  zip_url: https://github.com/GlimmerLab/Awesome-Embodied-AI/archive/main.zip
-  tar_url: https://github.com/GlimmerLab/Awesome-Embodied-AI/archive/main.tar.gz
-  repository_url: https://github.com/GlimmerLab/Awesome-Embodied-AI
-  owner_url: https://github.com/GlimmerLab
-  owner_name: GlimmerLab
