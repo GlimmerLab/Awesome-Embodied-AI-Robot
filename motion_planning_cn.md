@@ -1,3 +1,10 @@
+---
+layout: default
+title: 运动规划
+description: 运动规划算法与实现
+lang: zh
+---
+
 # 运动规划
 
 > 🌐 语言: [English](README.md) | [中文](README_CN.md)
@@ -33,11 +40,6 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Dynamic Camera Poses and Where to Find Them|[[pdf]](http://arxiv.org/abs/2504.17788v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2504.17784v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Unleashing the Power of Natural Audio Featuring Multiple Sound Sources|[[pdf]](http://arxiv.org/abs/2504.17782v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates|[[pdf]](http://arxiv.org/abs/2504.17777v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control|[[pdf]](http://arxiv.org/abs/2504.17771v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Sparse Attention Trade-offs in Transformer LLMs|[[pdf]](http://arxiv.org/abs/2504.17768v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Estimating the BFKL effects on the vector meson + jet production in photon - induced interactions at the LHC|[[pdf]](http://arxiv.org/abs/2504.17766v1)|⚠️|⭐️⭐️⭐️|
@@ -48,9 +50,9 @@
 |2025-04-24|Spall strength of symmetric tilt grain boundaries in 6H silicon carbide|[[pdf]](http://arxiv.org/abs/2504.17754v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|comparing a Neurosymbolic Architecture with ChatGPT|[[pdf]](http://arxiv.org/abs/2504.17753v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Signatures of Particle Production from Weak to Strong Backreaction|[[pdf]](http://arxiv.org/abs/2504.17750v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Robotic Task Ambiguity Resolution via Natural Language Interaction|[[pdf]](http://arxiv.org/abs/2504.17748v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Asymptotic attraction with algebraic rates toward fronts of dispersive-diffusive Burgers equations|[[pdf]](http://arxiv.org/abs/2504.17745v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|golden sample selection and 3D structure|[[pdf]](http://arxiv.org/abs/2504.17744v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Embedding Empirical Distributions for Computing Optimal Transport Maps|[[pdf]](http://arxiv.org/abs/2504.17740v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|an integrated approach|[[pdf]](http://arxiv.org/abs/2504.17733v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|All-in-One Image Restoration via Degradation-Aware Prompt State Space Model|[[pdf]](http://arxiv.org/abs/2504.17732v1)|⚠️|⭐️⭐️⭐️|
@@ -70,6 +72,6 @@
 
 ## 📊 统计
 
-- 论文总数：45篇
+- 论文总数：40篇
 - 代码实现：5个
 - 最后更新：2025年04月

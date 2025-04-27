@@ -1,3 +1,10 @@
+---
+layout: default
+title: Environment Perception
+description: Research on environment perception in embodied AI
+lang: en
+---
+
 # Environment Perception
 
 > 🌐 Language: [English](README.md) | [中文](README_CN.md)

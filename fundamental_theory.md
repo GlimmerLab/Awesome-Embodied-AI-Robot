@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fundamental Theory
+description: Core theoretical foundations of embodied AI
+lang: en
+---
+
 # Fundamental-Theory
 
 > [English](README.md) | 中文

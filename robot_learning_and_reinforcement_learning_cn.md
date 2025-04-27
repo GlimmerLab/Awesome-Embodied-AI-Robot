@@ -1,3 +1,10 @@
+---
+layout: default
+title: 机器人学习与强化学习
+description: 机器人学习和强化学习相关论文
+lang: zh
+---
+
 # 机器人学习与强化学习
 
 > 中文 | [English](README.md)

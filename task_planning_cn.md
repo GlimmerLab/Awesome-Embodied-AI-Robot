@@ -1,3 +1,10 @@
+---
+layout: default
+title: 任务规划
+description: 具身智能中的任务规划与执行
+lang: zh
+---
+
 # 任务规划
 
 > 中文 | [English](README.md)
@@ -25,10 +32,7 @@
 |2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Towards High-Resolution Image Generation with Autoregressive Models|[[pdf]](http://arxiv.org/abs/2504.17789v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Secure Non-Interactive Outsourced MLP Training|[[pdf]](http://arxiv.org/abs/2504.17785v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Josephson anomalous vortices|[[pdf]](http://arxiv.org/abs/2504.17779v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|electrostatic self-interactions of topological defects|[[pdf]](http://arxiv.org/abs/2504.17778v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates|[[pdf]](http://arxiv.org/abs/2504.17777v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Long-term stable nonlinear evolutions of ultracompact black-hole mimickers|[[pdf]](http://arxiv.org/abs/2504.17775v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|magnetostatic self-interactions of bulk chiral magnetic skyrmions|[[pdf]](http://arxiv.org/abs/2504.17772v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control|[[pdf]](http://arxiv.org/abs/2504.17771v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
@@ -53,12 +57,11 @@
 |2025-04-24|Considering observations of gamma-ray bursts and kilonovae|[[pdf]](http://arxiv.org/abs/2504.17741v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Interpretable Early Detection of Parkinson's Disease through Speech Analysis|[[pdf]](http://arxiv.org/abs/2504.17739v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|the case of five double-mode radial SX Phoenicis pulsators|[[pdf]](http://arxiv.org/abs/2504.17738v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Modularity of tadpole Nahm sums in ranks 4 and 5|[[pdf]](http://arxiv.org/abs/2504.17737v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|an integrated approach|[[pdf]](http://arxiv.org/abs/2504.17733v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
-- 论文总数：35篇
+- 论文总数：31篇
 - 代码实现：1个
 - 最后更新：2025年04月

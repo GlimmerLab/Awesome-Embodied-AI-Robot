@@ -1,3 +1,10 @@
+---
+layout: default
+title: 基础理论
+description: 具身智能的核心理论基础
+lang: zh
+---
+
 # 基础理论
 
 > 🌐 语言: [English](README.md) | [中文](README_CN.md)

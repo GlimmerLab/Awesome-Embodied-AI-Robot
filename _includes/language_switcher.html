@@ -1,0 +1,45 @@
+{% assign current_url = page.url %}
+{% assign current_lang = current_url | split: '/' | first %}
+{% if current_lang == '' or current_lang == 'index.html' %}
+  {% assign current_lang = 'en' %}
+{% endif %}
+
+<div class="language-switcher">
+  {% if current_lang == 'en' %}
+    <a href="{{ current_url | replace: '/en/', '/zh/' }}" class="lang-link">中文</a>
+    <a href="{{ current_url }}" class="lang-link active">English</a>
+  {% else %}
+    <a href="{{ current_url }}" class="lang-link active">中文</a>
+    <a href="{{ current_url | replace: '/zh/', '/en/' }}" class="lang-link">English</a>
+  {% endif %}
+</div>
+
+<style>
+.language-switcher {
+  text-align: right;
+  padding: 10px;
+  background: #f8f9fa;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.lang-btn {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 0 5px;
+  text-decoration: none;
+  color: #666;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+  background: #e9ecef;
+  color: #333;
+}
+
+.lang-btn.active {
+  background: #007bff;
+  color: white;
+}
+</style>

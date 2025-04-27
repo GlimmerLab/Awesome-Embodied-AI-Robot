@@ -1,3 +1,10 @@
+---
+layout: default
+title: Simulation Platforms
+description: Simulation platforms for embodied AI research
+lang: en
+---
+
 # Simulation-Platforms
 
 > [English](README.md) | 中文

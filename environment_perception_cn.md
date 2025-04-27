@@ -1,3 +1,10 @@
+---
+layout: default
+title: 环境感知
+description: 具身智能中的环境感知研究
+lang: zh
+---
+
 # 环境感知
 
 > 🌐 语言: [English](README.md) | [中文](README_CN.md)

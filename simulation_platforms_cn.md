@@ -1,3 +1,10 @@
+---
+layout: default
+title: 仿真平台
+description: 具身智能研究的仿真平台
+lang: zh
+---
+
 # 仿真平台
 
 > 🌐 语言: [English](README.md) | [中文](README_CN.md)
