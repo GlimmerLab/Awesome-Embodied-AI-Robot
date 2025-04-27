@@ -1,5 +1,16 @@
 # Embodied AI Research Resources
 
+<div align='center'>
+  <img src="assets/logo.svg" width=250px >
+</div>
+
+<div align='center'>
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" >
+  <img src="https://img.shields.io/badge/License-MIT-turquoise.svg" >
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" >
+  <a href="README_CN.md">中文</a>
+</div>
+
 > 🌐 Language: [English](README.md) | [中文](README_CN.md)
 
 This repository collects research resources in the field of Embodied AI, including papers, code implementations, and datasets. Embodied AI studies how robots can learn and accomplish tasks through interaction with the environment, which is an important intersection of artificial intelligence and robotics.
@@ -29,6 +40,19 @@ Embodied AI research involves multiple interconnected domains:
 
 - Total Papers: 363
 - Code Implementations: 345
+
+## Citation
+
+If you use this repository in your research, please cite:
+
+```BibTeX
+@misc{Awesome-Embodied-AI@2025,
+  title={Awesome-Embodied-AI: A curated list of Awesome Embodied AI Papers with codes},
+  url={https://github.com/GlimmerLab/Awesome-Embodied-AI},
+  author={GlimmerLab etc},
+  year={2025}
+}
+```
 
 ## Contributing
 
