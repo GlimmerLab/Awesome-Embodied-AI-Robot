@@ -1,53 +1,108 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | default: site.title }}</title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    {% if site.favicon %}
-    <link rel="icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
-    {% endif %}
+    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
 </head>
 <body>
-    <header class="site-header">
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <div class="container">
-            <h1 class="site-title">{{ site.title }}</h1>
-            <p class="site-description">{{ site.description }}</p>
-            <nav class="nav-links">
-                {% if site.lang == 'zh-CN' %}
-                <a href="{{ '/index_cn' | relative_url }}">首页</a>
-                {% else %}
-                <a href="{{ '/index' | relative_url }}">Home</a>
-                {% endif %}
-                <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" target="_blank">GitHub</a>
-                {% if site.lang == 'zh-CN' %}
-                <a href="{{ '/index' | relative_url }}">English</a>
-                {% else %}
-                <a href="{{ '/index_cn' | relative_url }}">中文</a>
-                {% endif %}
-            </nav>
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-robot"></i> {{ site.title }}
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/"><i class="bi bi-house-door"></i> Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/LJoson/Awesome-Embodied-AI" target="_blank">
+                            <i class="bi bi-github"></i> GitHub
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/index_en.html">English</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/index_cn.html">中文</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </header>
+    </nav>
 
-    <main class="container">
-        <div class="main-content">
-            {{ content }}
-        </div>
+    <main class="py-4">
+        {{ content }}
     </main>
 
-    <footer class="site-footer">
+    <footer class="footer">
         <div class="container">
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
-            <p>
-                {% if site.lang == 'zh-CN' %}
-                由 <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a> 维护
-                {% else %}
-                Maintained by <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
-                {% endif %}
-            </p>
+            <div class="row">
+                <div class="col-12 text-center">
+                    <p class="mb-0">© {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+                    <p class="mt-2 mb-0">
+                        Maintained by <a href="https://github.com/LJoson" target="_blank" class="text-white">LJoson</a>
+                        <span class="mx-2">|</span>
+                        <a href="https://github.com/LJoson/Awesome-Embodied-AI/issues" target="_blank" class="text-white">
+                            <i class="bi bi-bug"></i> Report Issues
+                        </a>
+                    </p>
+                </div>
+            </div>
         </div>
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // 添加平滑滚动
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // 添加返回顶部按钮
+        const backToTop = document.createElement('button');
+        backToTop.innerHTML = '<i class="bi bi-arrow-up"></i>';
+        backToTop.className = 'btn btn-primary position-fixed bottom-0 end-0 m-3 rounded-circle';
+        backToTop.style.display = 'none';
+        document.body.appendChild(backToTop);
+
+        window.addEventListener('scroll', () => {
+            if (window.pageYOffset > 100) {
+                backToTop.style.display = 'block';
+            } else {
+                backToTop.style.display = 'none';
+            }
+        });
+
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+
+        // 添加表格行悬停效果
+        document.querySelectorAll('.table-hover tr').forEach(row => {
+            row.addEventListener('mouseenter', () => {
+                row.style.transform = 'scale(1.01)';
+            });
+            row.addEventListener('mouseleave', () => {
+                row.style.transform = 'scale(1)';
+            });
+        });
+    </script>
 </body>
 </html>

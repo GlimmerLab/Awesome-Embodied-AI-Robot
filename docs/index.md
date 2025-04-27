@@ -1,49 +1,58 @@
-# 具身智能
+---
+layout: default
+title: RoboLLM Hub - 机器人学习资源中心
+description: 收集机器人学习、强化学习和具身智能领域的最新论文和资源
+lang: zh
+---
 
-> 🌐 Language: [English](index_en.md) | [中文](index.md)
+# 欢迎来到 RoboLLM Hub
 
-欢迎来到具身智能论文资源库 - 一个专注于具身智能领域最新研究进展的在线资源库。
+RoboLLM Hub 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
 
-## 最新论文
+## 主要分类
 
-- [基础理论](fundamental-theory.md)
-- [机器人学习与强化学习](robot-learning.md)
-- [环境感知](environment-perception.md)
-- [运动规划](motion-planning.md)
-- [任务规划](task-planning.md)
-- [多模态交互](multimodal-interaction.md)
-- [仿真平台](simulation-platforms.md)
+### 1. 机器人学习与强化学习
+- [查看详情](/Robot-Learning-and-Reinforcement-Learning/)
+- 最新的机器人学习算法、强化学习方法和实践经验
 
-## 领域关联
+### 2. 环境感知
+- [查看详情](/Environment-Perception/)
+- 机器人环境感知和场景理解研究
 
-具身智能研究涉及多个相互关联的领域：
+### 3. 任务规划
+- [查看详情](/Task-Planning/)
+- 任务分解、分层规划和基于学习的规划方法
 
-- **基础理论**：为具身智能提供理论基础，包括认知科学、控制理论等
-- **机器人学习与强化学习**：实现机器人的自主学习和决策能力
-- **环境感知**：使机器人能够理解和适应环境，包括视觉语言理解
-- **运动规划与任务规划**：实现机器人的动作执行和任务分解
-- **多模态交互**：支持机器人与环境、人类的多模态交互
-- **仿真平台**：提供机器人学习和测试的虚拟环境
+### 4. 运动规划
+- [查看详情](/Motion-Planning/)
+- 路径规划、轨迹优化及相关研究
 
-## 特色功能
+### 5. 多模态交互
+- [查看详情](/Multimodal-Interaction/)
+- 机器人-人类和机器人-环境的多模态交互研究
 
-- 📚 每日更新最新论文
-- 🔍 支持论文搜索
-- 📥 支持论文打包下载
-- 🌏 中英文双语支持
+### 6. 仿真平台
+- [查看详情](/Simulation-Platforms/)
+- 各类机器人仿真平台和工具
 
-## 贡献指南
+## 最新更新
 
-我们欢迎您的贡献！如果您发现了优秀的论文，请：
+我们持续更新：
+- 最新研究论文
+- 代码实现
+- 实验数据
+- 技术博客
 
-1. Fork 本仓库
-2. 创建您的分支
-3. 提交您的更改
-4. 发起 Pull Request
+## 参与贡献
+
+欢迎通过以下方式参与贡献：
+1. 提交新论文
+2. 分享代码实现
+3. 改进文档
+4. 报告问题
 
 ## 联系我们
 
 如有任何问题或建议，请通过以下方式联系我们：
-
-- 在 GitHub 上[提交 Issue](https://github.com/GlimmerLab/Awesome-Embodied-AI/issues)
-- 发送邮件至 [contact@glimmerlab.org](mailto:contact@glimmerlab.org)
+- GitHub Issues
+- 邮箱：[your-email@example.com]

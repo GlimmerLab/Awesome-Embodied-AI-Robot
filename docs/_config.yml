@@ -2,41 +2,58 @@ title: Awesome Embodied AI
 description: A curated list of awesome embodied AI papers with code implementations
 baseurl: ""
 url: "https://glimmerlab.github.io/Awesome-Embodied-AI"
+github_username: LJoson
 
 # 主题设置
 theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
-# 语言设置
-lang: zh-CN
-languages: ["en", "zh-CN"]
-default_lang: zh-CN
-exclude_from_langs: []
+# 多语言支持
+lang: en
+languages: ["en", "zh"]
+default_lang: en
 lang_names:
   en: English
-  zh-CN: 中文
+  zh: 中文
 
-# GitHub 设置
-github_username: GlimmerLab
-github_repo: Awesome-Embodied-AI
+# 导航设置
+nav:
+  - title: Home
+    url: /
+  - title: GitHub
+    url: https://github.com/LJoson/Awesome-Embodied-AI
+
+# 分类设置
+categories:
+  - fundamental_theory
+  - robot_learning_and_reinforcement_learning
+  - environment_perception
+  - motion_planning
+  - task_planning
+  - multimodal_interaction
+  - simulation_platforms
 
 # 构建设置
-markdown: kramdown
-permalink: pretty
-timezone: Asia/Shanghai
+show_downloads: true
+include:
+  - _layouts
+  - _includes
+  - assets
 
 # 默认布局
 defaults:
   -
     scope:
       path: ""
+      type: "pages"
     values:
       layout: "default"
-
-# 排除文件
-exclude:
-  - .git/
-  - .github/
-  - .gitignore
-
-# 其他设置
-show_downloads: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "theme"

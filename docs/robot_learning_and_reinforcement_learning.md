@@ -1,3 +1,10 @@
+---
+layout: default
+title: Robot Learning and Reinforcement Learning
+description: Papers on robot learning and reinforcement learning
+lang: en
+---
+
 # Robot-Learning-and-Reinforcement-Learning
 
 > [English](README.md) | 中文
@@ -46,34 +53,58 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Secure Non-Interactive Outsourced MLP Training|[[pdf]](http://arxiv.org/abs/2504.17785v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2504.17784v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Unleashing the Power of Natural Audio Featuring Multiple Sound Sources|[[pdf]](http://arxiv.org/abs/2504.17782v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Retaining Domain Knowledge in Streaming Language Models|[[pdf]](http://arxiv.org/abs/2504.17780v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Fitting Tree Metrics and Ultrametrics in Data Streams|[[pdf]](http://arxiv.org/abs/2504.17776v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control|[[pdf]](http://arxiv.org/abs/2504.17771v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Sparse Attention Trade-offs in Transformer LLMs|[[pdf]](http://arxiv.org/abs/2504.17768v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables|[[pdf]](http://arxiv.org/abs/2504.17767v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|The Unifying Layer for Zero Trust Infrastructure|[[pdf]](http://arxiv.org/abs/2504.17759v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Disaggregated Deep Learning via In-Physics Computing at Radio Frequency|[[pdf]](http://arxiv.org/abs/2504.17752v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction|[[pdf]](http://arxiv.org/abs/2504.17749v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Robotic Task Ambiguity Resolution via Natural Language Interaction|[[pdf]](http://arxiv.org/abs/2504.17748v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Embedding Empirical Distributions for Computing Optimal Transport Maps|[[pdf]](http://arxiv.org/abs/2504.17740v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Interpretable Early Detection of Parkinson's Disease through Speech Analysis|[[pdf]](http://arxiv.org/abs/2504.17739v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies|[[pdf]](http://arxiv.org/abs/2504.17736v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning|[[pdf]](http://arxiv.org/abs/2504.17726v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|an Adversarial Robustness Measurement Framework|[[pdf]](http://arxiv.org/abs/2504.17723v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Emergence of Instability in Follower Layer Below Critical Temperatures|[[pdf]](http://arxiv.org/abs/2504.17714v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A State-of-the-Art Review with Policy Applications to Chile's Pension Reform|[[pdf]](http://arxiv.org/abs/2504.17713v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees|[[pdf]](http://arxiv.org/abs/2504.17721v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Evaluating Uncertainty in Deep Gaussian Processes|[[pdf]](http://arxiv.org/abs/2504.17719v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations|[[pdf]](http://arxiv.org/abs/2504.17717v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields|[[pdf]](http://arxiv.org/abs/2504.17712v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Plasma State Monitoring and Disruption Characterization using Multimodal VAEs|[[pdf]](http://arxiv.org/abs/2504.17710v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation|[[pdf]](http://arxiv.org/abs/2504.17709v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|A Survey on Privacy-Preserving Collaborative Intelligence|[[pdf]](http://arxiv.org/abs/2504.17703v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|A Prospectus|[[pdf]](http://arxiv.org/abs/2504.17700v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring|[[pdf]](http://arxiv.org/abs/2504.17693v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Analogue based analysis of historical MIROC6 simulations|[[pdf]](http://arxiv.org/abs/2504.17691v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Quadratic Interest Network for Multimodal Click-Through Rate Prediction|[[pdf]](http://arxiv.org/abs/2504.17699v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning|[[pdf]](http://arxiv.org/abs/2504.17698v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Hierarchical and Multimodal Data for Daily Activity Understanding|[[pdf]](http://arxiv.org/abs/2504.17696v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|On the Generalization of Adversarially Trained Quantum Classifiers|[[pdf]](http://arxiv.org/abs/2504.17690v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Evaluating the Vulnerability of ML-Based Ethereum Phishing Detectors to Single-Feature Adversarial Perturbations|[[pdf]](http://arxiv.org/abs/2504.17684v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Bridging the Student-Teacher Gap in Times of Large Language Models|[[pdf]](http://arxiv.org/abs/2504.17677v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Unified Localization Combining Model-Based Geometry and Unsupervised Learning|[[pdf]](http://arxiv.org/abs/2504.17676v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Energy Considerations of Large Language Model Inference and Efficiency Optimizations|[[pdf]](http://arxiv.org/abs/2504.17674v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction|[[pdf]](http://arxiv.org/abs/2504.17671v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Towards a HIPAA Compliant Agentic AI System in Healthcare|[[pdf]](http://arxiv.org/abs/2504.17669v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|On Multivariate Financial Time Series Classification|[[pdf]](http://arxiv.org/abs/2504.17664v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Exposing Limitations in Technical Governance of AI-Generated Non-Consensual Intimate Images of Adults|[[pdf]](http://arxiv.org/abs/2504.17663v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models|[[pdf]](http://arxiv.org/abs/2504.17660v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|A Learning Framework for Atomic-level Polymer Structure Generation|[[pdf]](http://arxiv.org/abs/2504.17656v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Towards a comprehensive taxonomy of online abusive language informed by machine leaning|[[pdf]](http://arxiv.org/abs/2504.17653v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction|[[pdf]](http://arxiv.org/abs/2504.17655v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Near-Term Pseudorandom and Pseudoresource Quantum States|[[pdf]](http://arxiv.org/abs/2504.17650v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|A Robust Fault Detection Filter for Linear Time-Varying System with Non-Gaussian Noise|[[pdf]](http://arxiv.org/abs/2504.17648v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Unifying Complementarity Constraints and Control Barrier Functions for Safe Whole-Body Robot Control|[[pdf]](http://arxiv.org/abs/2504.17647v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Pseudo-Label Temporal Curriculum Learning for Label-Limited Dynamic Graph|[[pdf]](http://arxiv.org/abs/2504.17641v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization|[[pdf]](http://arxiv.org/abs/2504.17628v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Improving Open-World Object Localization by Discovering Background|[[pdf]](http://arxiv.org/abs/2504.17626v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Likelihood-Free Variational Autoencoders|[[pdf]](http://arxiv.org/abs/2504.17622v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|The effects of Hessian eigenvalue spectral density type on the applicability of Hessian analysis to generalization capability assessment of neural networks|[[pdf]](http://arxiv.org/abs/2504.17618v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Decentralized Time Series Classification with ROCKET Features|[[pdf]](http://arxiv.org/abs/2504.17617v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation|[[pdf]](http://arxiv.org/abs/2504.17613v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Curriculum learning Strategies for deep learning image steganography models|[[pdf]](http://arxiv.org/abs/2504.17609v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2504.17603v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Interpretable non-linear dimensionality reduction using gaussian weighted linear transformation|[[pdf]](http://arxiv.org/abs/2504.17601v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
-- Total Papers: 48
+- Total Papers: 72
 - Code Implementations: 13
 - Last Updated: April 2025

@@ -1,0 +1,119 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h1 class="card-title mb-4">{{ page.title }}</h1>
+                    <p class="lead">{{ page.description }}</p>
+
+                    {% if page.manually_added_papers %}
+                    <h2 class="mt-4 mb-3">
+                        {% if page.lang == 'zh' %}
+                        手动添加的论文
+                        {% else %}
+                        Manually Added Papers
+                        {% endif %}
+                    </h2>
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Title</th>
+                                    <th>Paper</th>
+                                    <th>Code</th>
+                                    <th>Rating</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for paper in page.manually_added_papers %}
+                                <tr>
+                                    <td>{{ paper.date }}</td>
+                                    <td>{{ paper.title }}</td>
+                                    <td><a href="{{ paper.paper_link }}" target="_blank"><i class="bi bi-file-pdf"></i></a></td>
+                                    <td><a href="{{ paper.code_link }}" target="_blank"><i class="bi bi-github"></i></a></td>
+                                    <td>
+                                        {% for i in (1..paper.rating) %}
+                                        <i class="bi bi-star-fill text-warning"></i>
+                                        {% endfor %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                    {% endif %}
+
+                    {% if page.auto_updated_papers %}
+                    <h2 class="mt-4 mb-3">
+                        {% if page.lang == 'zh' %}
+                        自动更新的论文
+                        {% else %}
+                        Auto-Updated Papers
+                        {% endif %}
+                    </h2>
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Title</th>
+                                    <th>Paper</th>
+                                    <th>Code</th>
+                                    <th>Rating</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for paper in page.auto_updated_papers %}
+                                <tr>
+                                    <td>{{ paper.date }}</td>
+                                    <td>{{ paper.title }}</td>
+                                    <td><a href="{{ paper.paper_link }}" target="_blank"><i class="bi bi-file-pdf"></i></a></td>
+                                    <td><a href="{{ paper.code_link }}" target="_blank"><i class="bi bi-github"></i></a></td>
+                                    <td>
+                                        {% for i in (1..paper.rating) %}
+                                        <i class="bi bi-star-fill text-warning"></i>
+                                        {% endfor %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                    {% endif %}
+
+                    {% if page.download_links %}
+                    <div class="download-section">
+                        <h3>
+                            {% if page.lang == 'zh' %}
+                            下载选项
+                            {% else %}
+                            Download Options
+                            {% endif %}
+                        </h3>
+                        <div class="d-flex gap-3">
+                            {% for link in page.download_links %}
+                            <a href="{{ link.url }}" class="btn btn-primary">
+                                <i class="bi bi-download"></i> {{ link.text }}
+                            </a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    <div class="language-switch mt-4">
+                        {% if page.lang == 'zh' %}
+                        <a href="{{ page.url | replace: '_cn', '' }}">English</a>
+                        {% else %}
+                        <a href="{{ page.url | replace: '.md', '_cn.md' }}">中文</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

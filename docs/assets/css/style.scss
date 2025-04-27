@@ -1,1 +1,240 @@
- 
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --text-color: #2c3e50;
+    --bg-color: #f8f9fa;
+    --card-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    --hover-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    --transition-speed: 0.3s;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    line-height: 1.6;
+}
+
+/* 导航栏样式 */
+.navbar {
+    background-color: var(--primary-color);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    color: white !important;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: rgba(255,255,255,0.9) !important;
+    font-weight: 500;
+    transition: color var(--transition-speed) ease;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
+
+/* 容器样式 */
+.container {
+    max-width: 1200px;
+    padding: 2rem 1rem;
+}
+
+/* 卡片样式 */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: var(--card-shadow);
+    transition: transform var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+    margin-bottom: 1.5rem;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--hover-shadow);
+}
+
+.card-header {
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 10px 10px 0 0 !important;
+    padding: 1rem;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+/* 表格样式 */
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    border-top: none;
+    background-color: rgba(0,0,0,0.02);
+}
+
+.table-hover tbody tr {
+    transition: transform var(--transition-speed) ease;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(52, 152, 219, 0.1);
+}
+
+/* 徽章样式 */
+.badge {
+    padding: 0.5em 1em;
+    font-weight: 500;
+}
+
+/* 页脚样式 */
+.footer {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 2rem 0;
+    margin-top: 3rem;
+}
+
+.footer a {
+    color: rgba(255,255,255,0.9);
+    text-decoration: none;
+    transition: color var(--transition-speed) ease;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+/* 语言切换样式 */
+.language-switch {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.language-switch a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color var(--transition-speed) ease;
+}
+
+.language-switch a:hover {
+    color: var(--accent-color);
+}
+
+/* 统计信息样式 */
+.stats {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 2rem;
+}
+
+.stats h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.stats p {
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+/* 下载区域样式 */
+.download-section {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: var(--card-shadow);
+    margin-top: 2rem;
+}
+
+/* 按钮样式 */
+.btn-primary {
+    background-color: var(--secondary-color);
+    border: none;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+    transition: background-color var(--transition-speed) ease;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+}
+
+/* 返回顶部按钮样式 */
+.btn-primary.position-fixed {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+
+    .card {
+        margin-bottom: 1rem;
+    }
+
+    .table-responsive {
+        margin-bottom: 1rem;
+    }
+
+    .stats {
+        padding: 1rem;
+    }
+
+    .download-section {
+        padding: 1rem;
+    }
+}
+
+/* 动画效果 */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.card {
+    animation: fadeIn 0.5s ease-out;
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--secondary-color);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--accent-color);
+}
