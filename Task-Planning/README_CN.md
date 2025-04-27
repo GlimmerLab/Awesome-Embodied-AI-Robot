@@ -36,6 +36,10 @@
 |2025-04-24|electrostatic self-interactions of topological defects|[[pdf]](http://arxiv.org/abs/2504.17778v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Fitting Tree Metrics and Ultrametrics in Data Streams|[[pdf]](http://arxiv.org/abs/2504.17776v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Collisionless ion-electron energy exchange in magnetized shocks|[[pdf]](http://arxiv.org/abs/2504.17774v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Josephson anomalous vortices|[[pdf]](http://arxiv.org/abs/2504.17779v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|electrostatic self-interactions of topological defects|[[pdf]](http://arxiv.org/abs/2504.17778v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates|[[pdf]](http://arxiv.org/abs/2504.17777v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Long-term stable nonlinear evolutions of ultracompact black-hole mimickers|[[pdf]](http://arxiv.org/abs/2504.17775v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|magnetostatic self-interactions of bulk chiral magnetic skyrmions|[[pdf]](http://arxiv.org/abs/2504.17772v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Zeptosecond free-electron compression through temporal lensing|[[pdf]](http://arxiv.org/abs/2504.17770v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +66,9 @@
 |2025-04-24|Considering observations of gamma-ray bursts and kilonovae|[[pdf]](http://arxiv.org/abs/2504.17741v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|Embedding Empirical Distributions for Computing Optimal Transport Maps|[[pdf]](http://arxiv.org/abs/2504.17740v1)|⚠️|⭐️⭐️⭐️|
 |2025-04-24|the case of five double-mode radial SX Phoenicis pulsators|[[pdf]](http://arxiv.org/abs/2504.17738v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Modularity of tadpole Nahm sums in ranks 4 and 5|[[pdf]](http://arxiv.org/abs/2504.17737v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-24|an integrated approach|[[pdf]](http://arxiv.org/abs/2504.17733v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
