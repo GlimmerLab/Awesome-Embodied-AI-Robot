@@ -46,34 +46,59 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-24|Rethinking Point Diffusion for Lidar Scene Completion|[[pdf]](http://arxiv.org/abs/2504.17791v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Secure Non-Interactive Outsourced MLP Training|[[pdf]](http://arxiv.org/abs/2504.17785v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2504.17784v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Retaining Domain Knowledge in Streaming Language Models|[[pdf]](http://arxiv.org/abs/2504.17780v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Fitting Tree Metrics and Ultrametrics in Data Streams|[[pdf]](http://arxiv.org/abs/2504.17776v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons|[[pdf]](http://arxiv.org/abs/2504.17769v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Sparse Attention Trade-offs in Transformer LLMs|[[pdf]](http://arxiv.org/abs/2504.17768v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables|[[pdf]](http://arxiv.org/abs/2504.17767v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|The Unifying Layer for Zero Trust Infrastructure|[[pdf]](http://arxiv.org/abs/2504.17759v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction|[[pdf]](http://arxiv.org/abs/2504.17749v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Robotic Task Ambiguity Resolution via Natural Language Interaction|[[pdf]](http://arxiv.org/abs/2504.17748v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor|[[pdf]](http://arxiv.org/abs/2504.17735v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|an Adversarial Robustness Measurement Framework|[[pdf]](http://arxiv.org/abs/2504.17723v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Emergence of Instability in Follower Layer Below Critical Temperatures|[[pdf]](http://arxiv.org/abs/2504.17714v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A State-of-the-Art Review with Policy Applications to Chile's Pension Reform|[[pdf]](http://arxiv.org/abs/2504.17713v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields|[[pdf]](http://arxiv.org/abs/2504.17712v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A Survey on Privacy-Preserving Collaborative Intelligence|[[pdf]](http://arxiv.org/abs/2504.17703v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A Prospectus|[[pdf]](http://arxiv.org/abs/2504.17700v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring|[[pdf]](http://arxiv.org/abs/2504.17693v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Analogue based analysis of historical MIROC6 simulations|[[pdf]](http://arxiv.org/abs/2504.17691v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Bridging the Student-Teacher Gap in Times of Large Language Models|[[pdf]](http://arxiv.org/abs/2504.17677v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Unified Localization Combining Model-Based Geometry and Unsupervised Learning|[[pdf]](http://arxiv.org/abs/2504.17676v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Exposing Limitations in Technical Governance of AI-Generated Non-Consensual Intimate Images of Adults|[[pdf]](http://arxiv.org/abs/2504.17663v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|A Learning Framework for Atomic-level Polymer Structure Generation|[[pdf]](http://arxiv.org/abs/2504.17656v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-24|Towards a comprehensive taxonomy of online abusive language informed by machine leaning|[[pdf]](http://arxiv.org/abs/2504.17653v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Generalization Capability for Imitation Learning|[[pdf]](http://arxiv.org/abs/2504.18538v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Adapting Probabilistic Risk Assessment for AI|[[pdf]](http://arxiv.org/abs/2504.18536v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A Probabilistic Reasoning Approach to Controllable Language Generation|[[pdf]](http://arxiv.org/abs/2504.18535v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|First upper limits on the 21-cm signal power spectrum of neutral hydrogen at $z=9.16$ from the LOFAR 3C196 field|[[pdf]](http://arxiv.org/abs/2504.18534v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Scaling Laws For Scalable Oversight|[[pdf]](http://arxiv.org/abs/2504.18530v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Optimizing Workflows for Precision and Accuracy|[[pdf]](http://arxiv.org/abs/2504.18525v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Augmenting Perceptual Super-Resolution via Image Quality Predictors|[[pdf]](http://arxiv.org/abs/2504.18524v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Representation Learning for Distributional Perturbation Extrapolation|[[pdf]](http://arxiv.org/abs/2504.18522v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks|[[pdf]](http://arxiv.org/abs/2504.18519v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Proper Orthogonal Decomposition Neural Operators|[[pdf]](http://arxiv.org/abs/2504.18513v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A New Process Metric for Defect Prediction|[[pdf]](http://arxiv.org/abs/2504.18511v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Efficient Transition Path Sampling with the Onsager-Machlup Functional|[[pdf]](http://arxiv.org/abs/2504.18506v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Music Tempo Estimation on Solo Instrumental Performance|[[pdf]](http://arxiv.org/abs/2504.18502v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries|[[pdf]](http://arxiv.org/abs/2504.18501v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Design Decisions in the Context of Algorithmic Performance for Robotics|[[pdf]](http://arxiv.org/abs/2504.18500v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests|[[pdf]](http://arxiv.org/abs/2504.18498v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Attribute Inference Attacks Against Limited Fixed Aggregate Statistics|[[pdf]](http://arxiv.org/abs/2504.18497v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Application to the S-PLUS DR4 data|[[pdf]](http://arxiv.org/abs/2504.18491v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A Case Study|[[pdf]](http://arxiv.org/abs/2504.18481v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Interface phonon modes governing the ideal limit of thermal transport across diamond/cubic boron nitride interfaces|[[pdf]](http://arxiv.org/abs/2504.18473v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Action Flow Matching for Continual Robot Learning|[[pdf]](http://arxiv.org/abs/2504.18471v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A Novel Taxonomy and Classification Scheme for Code Smell Interactions|[[pdf]](http://arxiv.org/abs/2504.18469v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A Taylor Series Approach to Correction of Input Errors in Gaussian Process Regression|[[pdf]](http://arxiv.org/abs/2504.18463v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Discovering Governing Equations of Geomagnetic Storm Dynamics with Symbolic Regression|[[pdf]](http://arxiv.org/abs/2504.18461v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension|[[pdf]](http://arxiv.org/abs/2504.18457v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior|[[pdf]](http://arxiv.org/abs/2504.18455v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Robust and Efficient Data-Parallel Training|[[pdf]](http://arxiv.org/abs/2504.18454v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation|[[pdf]](http://arxiv.org/abs/2504.18453v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Enhancing Strawberry Yield Forecasting with Backcasted IoT Sensor Data and Machine Learning|[[pdf]](http://arxiv.org/abs/2504.18451v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Boosting-Enabled Robust System Identification of Partially Observed LTI Systems Under Heavy-Tailed Noise|[[pdf]](http://arxiv.org/abs/2504.18444v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality MRI|[[pdf]](http://arxiv.org/abs/2504.18442v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|The Development That Led to Full-Scale Autonomous Racing|[[pdf]](http://arxiv.org/abs/2504.18439v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse|[[pdf]](http://arxiv.org/abs/2504.18437v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|An Axiomatic Assessment of Entropy- and Variance-based Uncertainty Quantification in Regression|[[pdf]](http://arxiv.org/abs/2504.18433v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A SmartNIC-Centric, Line-Rate and Flexible Network Stack|[[pdf]](http://arxiv.org/abs/2504.18432v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Kimi-Audio Technical Report|[[pdf]](http://arxiv.org/abs/2504.18425v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Harnessing the Power of LLMs For Vulnerability Detection|[[pdf]](http://arxiv.org/abs/2504.18423v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A Case Study in Trajectory Prediction and Planning|[[pdf]](http://arxiv.org/abs/2504.18421v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs|[[pdf]](http://arxiv.org/abs/2504.18415v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|applied to multiphase porous media flow|[[pdf]](http://arxiv.org/abs/2504.18414v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Generating Hepatobiliary Phase MRI with Perceptual and Adversarial Models|[[pdf]](http://arxiv.org/abs/2504.18405v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography|[[pdf]](http://arxiv.org/abs/2504.18400v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Optimal Control for Network of Coupled Oscillators|[[pdf]](http://arxiv.org/abs/2504.18399v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Reviewing Concepts and Advancing Planning Perspectives for Transforming Integrated Energy Systems|[[pdf]](http://arxiv.org/abs/2504.18396v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Three Types of Calibration with Properties and their Semantic and Formal Relationships|[[pdf]](http://arxiv.org/abs/2504.18395v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|The Italian EHR Case|[[pdf]](http://arxiv.org/abs/2504.18393v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Robust Classifier Metrics with Missing Labels|[[pdf]](http://arxiv.org/abs/2504.18385v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Large Language Models Enhanced Cross-domain Sequential Recommendation|[[pdf]](http://arxiv.org/abs/2504.18383v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|A 3D Inference Pipeline for XR Applications|[[pdf]](http://arxiv.org/abs/2504.18380v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-25|Statistical Disaggregation -- a Monte Carlo Approach for Imputation under Constraints|[[pdf]](http://arxiv.org/abs/2504.18377v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
-- 论文总数：48篇
+- 论文总数：73篇
 - 代码实现：13个
 - 最后更新：2025年04月
