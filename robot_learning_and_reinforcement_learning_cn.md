@@ -53,56 +53,56 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-25|Generalization Capability for Imitation Learning|[[pdf]](http://arxiv.org/abs/2504.18538v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Adapting Probabilistic Risk Assessment for AI|[[pdf]](http://arxiv.org/abs/2504.18536v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Probabilistic Reasoning Approach to Controllable Language Generation|[[pdf]](http://arxiv.org/abs/2504.18535v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|First upper limits on the 21-cm signal power spectrum of neutral hydrogen at $z=9.16$ from the LOFAR 3C196 field|[[pdf]](http://arxiv.org/abs/2504.18534v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Scaling Laws For Scalable Oversight|[[pdf]](http://arxiv.org/abs/2504.18530v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Optimizing Workflows for Precision and Accuracy|[[pdf]](http://arxiv.org/abs/2504.18525v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Augmenting Perceptual Super-Resolution via Image Quality Predictors|[[pdf]](http://arxiv.org/abs/2504.18524v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Representation Learning for Distributional Perturbation Extrapolation|[[pdf]](http://arxiv.org/abs/2504.18522v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks|[[pdf]](http://arxiv.org/abs/2504.18519v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Proper Orthogonal Decomposition Neural Operators|[[pdf]](http://arxiv.org/abs/2504.18513v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A New Process Metric for Defect Prediction|[[pdf]](http://arxiv.org/abs/2504.18511v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Efficient Transition Path Sampling with the Onsager-Machlup Functional|[[pdf]](http://arxiv.org/abs/2504.18506v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Music Tempo Estimation on Solo Instrumental Performance|[[pdf]](http://arxiv.org/abs/2504.18502v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries|[[pdf]](http://arxiv.org/abs/2504.18501v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Design Decisions in the Context of Algorithmic Performance for Robotics|[[pdf]](http://arxiv.org/abs/2504.18500v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests|[[pdf]](http://arxiv.org/abs/2504.18498v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Attribute Inference Attacks Against Limited Fixed Aggregate Statistics|[[pdf]](http://arxiv.org/abs/2504.18497v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Application to the S-PLUS DR4 data|[[pdf]](http://arxiv.org/abs/2504.18491v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Case Study|[[pdf]](http://arxiv.org/abs/2504.18481v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Interface phonon modes governing the ideal limit of thermal transport across diamond/cubic boron nitride interfaces|[[pdf]](http://arxiv.org/abs/2504.18473v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Action Flow Matching for Continual Robot Learning|[[pdf]](http://arxiv.org/abs/2504.18471v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Novel Taxonomy and Classification Scheme for Code Smell Interactions|[[pdf]](http://arxiv.org/abs/2504.18469v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Taylor Series Approach to Correction of Input Errors in Gaussian Process Regression|[[pdf]](http://arxiv.org/abs/2504.18463v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Discovering Governing Equations of Geomagnetic Storm Dynamics with Symbolic Regression|[[pdf]](http://arxiv.org/abs/2504.18461v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension|[[pdf]](http://arxiv.org/abs/2504.18457v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior|[[pdf]](http://arxiv.org/abs/2504.18455v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Robust and Efficient Data-Parallel Training|[[pdf]](http://arxiv.org/abs/2504.18454v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation|[[pdf]](http://arxiv.org/abs/2504.18453v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Enhancing Strawberry Yield Forecasting with Backcasted IoT Sensor Data and Machine Learning|[[pdf]](http://arxiv.org/abs/2504.18451v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Boosting-Enabled Robust System Identification of Partially Observed LTI Systems Under Heavy-Tailed Noise|[[pdf]](http://arxiv.org/abs/2504.18444v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality MRI|[[pdf]](http://arxiv.org/abs/2504.18442v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|The Development That Led to Full-Scale Autonomous Racing|[[pdf]](http://arxiv.org/abs/2504.18439v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse|[[pdf]](http://arxiv.org/abs/2504.18437v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|An Axiomatic Assessment of Entropy- and Variance-based Uncertainty Quantification in Regression|[[pdf]](http://arxiv.org/abs/2504.18433v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A SmartNIC-Centric, Line-Rate and Flexible Network Stack|[[pdf]](http://arxiv.org/abs/2504.18432v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Kimi-Audio Technical Report|[[pdf]](http://arxiv.org/abs/2504.18425v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Harnessing the Power of LLMs For Vulnerability Detection|[[pdf]](http://arxiv.org/abs/2504.18423v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Case Study in Trajectory Prediction and Planning|[[pdf]](http://arxiv.org/abs/2504.18421v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs|[[pdf]](http://arxiv.org/abs/2504.18415v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|applied to multiphase porous media flow|[[pdf]](http://arxiv.org/abs/2504.18414v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Generating Hepatobiliary Phase MRI with Perceptual and Adversarial Models|[[pdf]](http://arxiv.org/abs/2504.18405v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography|[[pdf]](http://arxiv.org/abs/2504.18400v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Optimal Control for Network of Coupled Oscillators|[[pdf]](http://arxiv.org/abs/2504.18399v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Reviewing Concepts and Advancing Planning Perspectives for Transforming Integrated Energy Systems|[[pdf]](http://arxiv.org/abs/2504.18396v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Three Types of Calibration with Properties and their Semantic and Formal Relationships|[[pdf]](http://arxiv.org/abs/2504.18395v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|The Italian EHR Case|[[pdf]](http://arxiv.org/abs/2504.18393v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Robust Classifier Metrics with Missing Labels|[[pdf]](http://arxiv.org/abs/2504.18385v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Large Language Models Enhanced Cross-domain Sequential Recommendation|[[pdf]](http://arxiv.org/abs/2504.18383v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A 3D Inference Pipeline for XR Applications|[[pdf]](http://arxiv.org/abs/2504.18380v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Statistical Disaggregation -- a Monte Carlo Approach for Imputation under Constraints|[[pdf]](http://arxiv.org/abs/2504.18377v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Learning Streaming Video Representation via Multitask Training|[[pdf]](http://arxiv.org/abs/2504.20041v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Monocular Surface Priors for Robust Structure-from-Motion|[[pdf]](http://arxiv.org/abs/2504.20040v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Judge Decoding Without Manual Annotation|[[pdf]](http://arxiv.org/abs/2504.20039v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Monte Carlo simulations compared to analytical formula|[[pdf]](http://arxiv.org/abs/2504.20037v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Rotation curves, azimuthal velocity substructures, and pressure variations|[[pdf]](http://arxiv.org/abs/2504.20036v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images|[[pdf]](http://arxiv.org/abs/2504.20033v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Towards Explicit and Generalizable 3D Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2504.20024v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages|[[pdf]](http://arxiv.org/abs/2504.20022v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|An Indispensable Path towards New-Generation Large Language Models|[[pdf]](http://arxiv.org/abs/2504.20020v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control|[[pdf]](http://arxiv.org/abs/2504.20019v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy|[[pdf]](http://arxiv.org/abs/2504.20011v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Simultaneous Trajectory Estimation & Local Adaptation|[[pdf]](http://arxiv.org/abs/2504.20009v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage|[[pdf]](http://arxiv.org/abs/2504.20007v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Inferring Yielding Intentions for Safer Interactions|[[pdf]](http://arxiv.org/abs/2504.20004v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom|[[pdf]](http://arxiv.org/abs/2504.20000v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery|[[pdf]](http://arxiv.org/abs/2504.19996v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Semi-parametric bulk and tail regression using spline-based neural networks|[[pdf]](http://arxiv.org/abs/2504.19994v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data|[[pdf]](http://arxiv.org/abs/2504.19991v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Hamilton-Jacobi Reachability with Neural Operators|[[pdf]](http://arxiv.org/abs/2504.19989v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Graph Neural Network Prediction of Nonlinear Optical Properties|[[pdf]](http://arxiv.org/abs/2504.19987v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Closed-Loop Approach|[[pdf]](http://arxiv.org/abs/2504.19985v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Emergence and scaling laws in SGD learning of shallow neural networks|[[pdf]](http://arxiv.org/abs/2504.19983v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons|[[pdf]](http://arxiv.org/abs/2504.19982v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets|[[pdf]](http://arxiv.org/abs/2504.19981v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Deep Declarative Risk Budgeting Portfolios|[[pdf]](http://arxiv.org/abs/2504.19980v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Transfer Learning Under High-Dimensional Network Convolutional Regression Model|[[pdf]](http://arxiv.org/abs/2504.19979v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|challenges and opportunities for data-driven modelling|[[pdf]](http://arxiv.org/abs/2504.19974v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism|[[pdf]](http://arxiv.org/abs/2504.19967v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework|[[pdf]](http://arxiv.org/abs/2504.19965v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Machine Learning Identification of Gravimentally Microlensed Gamma-Ray Bursts|[[pdf]](http://arxiv.org/abs/2504.19958v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Robust Federated Personalised Mean Estimation for the Gaussian Mixture Model|[[pdf]](http://arxiv.org/abs/2504.19955v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Tight Lower and Upper Bounds|[[pdf]](http://arxiv.org/abs/2504.19952v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Zero Trust Registry-Based Approach|[[pdf]](http://arxiv.org/abs/2504.19951v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Capturing Aerodynamic Characteristics of ATTAS Aircraft with Evolving Intelligent System|[[pdf]](http://arxiv.org/abs/2504.19949v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Tendon-Actuated Concentric Tube Endonasal Robot (TACTER)|[[pdf]](http://arxiv.org/abs/2504.19948v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Texturing Mesh with Spherical Harmonics|[[pdf]](http://arxiv.org/abs/2504.19938v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model|[[pdf]](http://arxiv.org/abs/2504.19935v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Automated decision-making for dynamic task assignment at scale|[[pdf]](http://arxiv.org/abs/2504.19933v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Accelerating Mixture-of-Experts Training with Adaptive Expert Replication|[[pdf]](http://arxiv.org/abs/2504.19925v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data|[[pdf]](http://arxiv.org/abs/2504.19924v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI|[[pdf]](http://arxiv.org/abs/2504.19918v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization|[[pdf]](http://arxiv.org/abs/2504.19903v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Attention Mechanism, Max-Affine Partition, and Universal Approximation|[[pdf]](http://arxiv.org/abs/2504.19901v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Breast Cancer Detection from Multi-View Screening Mammograms with Visual Prompt Tuning|[[pdf]](http://arxiv.org/abs/2504.19900v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets|[[pdf]](http://arxiv.org/abs/2504.19898v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Consistent Keyframe Synthesis for Cinematic Scene Composition|[[pdf]](http://arxiv.org/abs/2504.19894v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network|[[pdf]](http://arxiv.org/abs/2504.19888v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Causal Augmentation View|[[pdf]](http://arxiv.org/abs/2504.19882v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images|[[pdf]](http://arxiv.org/abs/2504.19876v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Online Vector Quantization with Near-optimal Distortion Rate|[[pdf]](http://arxiv.org/abs/2504.19874v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 

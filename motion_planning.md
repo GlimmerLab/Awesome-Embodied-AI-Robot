@@ -39,56 +39,56 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-25|Generalization Capability for Imitation Learning|[[pdf]](http://arxiv.org/abs/2504.18538v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Adapting Probabilistic Risk Assessment for AI|[[pdf]](http://arxiv.org/abs/2504.18536v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Probabilistic Reasoning Approach to Controllable Language Generation|[[pdf]](http://arxiv.org/abs/2504.18535v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|First upper limits on the 21-cm signal power spectrum of neutral hydrogen at $z=9.16$ from the LOFAR 3C196 field|[[pdf]](http://arxiv.org/abs/2504.18534v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Comment on "Superconductivity and Mott Physics in Organic Charge Transfer Materials"|[[pdf]](http://arxiv.org/abs/2504.18531v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Scaling Laws For Scalable Oversight|[[pdf]](http://arxiv.org/abs/2504.18530v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Classical Interfaces for Controlling Cryogenic Quantum Computing Technologies|[[pdf]](http://arxiv.org/abs/2504.18527v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Optimizing Workflows for Precision and Accuracy|[[pdf]](http://arxiv.org/abs/2504.18525v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Augmenting Perceptual Super-Resolution via Image Quality Predictors|[[pdf]](http://arxiv.org/abs/2504.18524v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Real-World Dataset for Event-based Visible Light Communication And Localization|[[pdf]](http://arxiv.org/abs/2504.18521v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks|[[pdf]](http://arxiv.org/abs/2504.18519v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Proper Orthogonal Decomposition Neural Operators|[[pdf]](http://arxiv.org/abs/2504.18513v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A QED approach|[[pdf]](http://arxiv.org/abs/2504.18512v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Efficient Transition Path Sampling with the Onsager-Machlup Functional|[[pdf]](http://arxiv.org/abs/2504.18506v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Information Freshness in Dynamic Gossip Networks|[[pdf]](http://arxiv.org/abs/2504.18504v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Design Decisions in the Context of Algorithmic Performance for Robotics|[[pdf]](http://arxiv.org/abs/2504.18500v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Equations of motion for dynamical systems with angular momentum on Finsler geometries|[[pdf]](http://arxiv.org/abs/2504.18499v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Validation of the ESPRESSO Wavelength Calibration Using Iodine Absorption Cell Spectra|[[pdf]](http://arxiv.org/abs/2504.18485v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Investigating Co-Constructive Behavior of Large Language Models in Explanation Dialogues|[[pdf]](http://arxiv.org/abs/2504.18483v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Case Study|[[pdf]](http://arxiv.org/abs/2504.18481v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Interface phonon modes governing the ideal limit of thermal transport across diamond/cubic boron nitride interfaces|[[pdf]](http://arxiv.org/abs/2504.18473v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Action Flow Matching for Continual Robot Learning|[[pdf]](http://arxiv.org/abs/2504.18471v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Characterization of Long-Term Stable Photonic Microwaves based on a Difference Frequency Comb|[[pdf]](http://arxiv.org/abs/2504.18470v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Swash flow due to obliquely incident bores|[[pdf]](http://arxiv.org/abs/2504.18467v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Voltage Stability and Control of Electrical Distribution Systems with High Penetration of Power Electronic Converters|[[pdf]](http://arxiv.org/abs/2504.18466v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Generalized Chebyshev Acceleration|[[pdf]](http://arxiv.org/abs/2504.18465v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A Taylor Series Approach to Correction of Input Errors in Gaussian Process Regression|[[pdf]](http://arxiv.org/abs/2504.18463v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Discovering Governing Equations of Geomagnetic Storm Dynamics with Symbolic Regression|[[pdf]](http://arxiv.org/abs/2504.18461v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Going Beyond 1.53dB AWGN Gain With the Non-Linear Demapper|[[pdf]](http://arxiv.org/abs/2504.18459v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Fast-Slow Thinking for Large Vision-Language Model Reasoning|[[pdf]](http://arxiv.org/abs/2504.18458v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension|[[pdf]](http://arxiv.org/abs/2504.18457v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Filtering of second order generalized stochastic processes corrupted by additive noise|[[pdf]](http://arxiv.org/abs/2504.18456v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Enhancing Strawberry Yield Forecasting with Backcasted IoT Sensor Data and Machine Learning|[[pdf]](http://arxiv.org/abs/2504.18451v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Automatic Bias Detection in Source Code Review|[[pdf]](http://arxiv.org/abs/2504.18449v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration|[[pdf]](http://arxiv.org/abs/2504.18448v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Iterative Event-based Motion Segmentation by Variational Contrast Maximization|[[pdf]](http://arxiv.org/abs/2504.18447v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Modulated Rank-One Projections for compressive radio interferometric imaging|[[pdf]](http://arxiv.org/abs/2504.18446v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Testing a large size triple GEM detector for the first station of the CBM-Muon Chambers with a high-intensity gamma source at GIF++ under large-area illumination|[[pdf]](http://arxiv.org/abs/2504.18445v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Boosting-Enabled Robust System Identification of Partially Observed LTI Systems Under Heavy-Tailed Noise|[[pdf]](http://arxiv.org/abs/2504.18444v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Pseudo-Boolean Proof Logging for Optimal Classical Planning|[[pdf]](http://arxiv.org/abs/2504.18443v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|The Development That Led to Full-Scale Autonomous Racing|[[pdf]](http://arxiv.org/abs/2504.18439v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse|[[pdf]](http://arxiv.org/abs/2504.18437v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Limit results for incomplete risk markets|[[pdf]](http://arxiv.org/abs/2504.18436v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Robust Binding Energy Distribution Sampling on Amorphous Solid Water Models. Method testing and validation with NH3, CO and CH4|[[pdf]](http://arxiv.org/abs/2504.18435v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|A SmartNIC-Centric, Line-Rate and Flexible Network Stack|[[pdf]](http://arxiv.org/abs/2504.18432v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Efficiency, Expressivity, and Extensibility in a Close-to-Metal NPU Programming Interface|[[pdf]](http://arxiv.org/abs/2504.18430v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|CHSH Violations using Dynamic Circuits|[[pdf]](http://arxiv.org/abs/2504.18429v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Evaluating Mathematical Reasoning in Multilingual Contexts|[[pdf]](http://arxiv.org/abs/2504.18428v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Subexponential and Parameterized Mixing Times of Glauber Dynamics on Independent Sets|[[pdf]](http://arxiv.org/abs/2504.18427v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-25|Harnessing the Power of LLMs For Vulnerability Detection|[[pdf]](http://arxiv.org/abs/2504.18423v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|On the Properties of Cosmological Ionization Fronts|[[pdf]](http://arxiv.org/abs/2504.20046v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Learning Streaming Video Representation via Multitask Training|[[pdf]](http://arxiv.org/abs/2504.20041v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Monocular Surface Priors for Robust Structure-from-Motion|[[pdf]](http://arxiv.org/abs/2504.20040v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Rotation curves, azimuthal velocity substructures, and pressure variations|[[pdf]](http://arxiv.org/abs/2504.20036v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions|[[pdf]](http://arxiv.org/abs/2504.20031v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields|[[pdf]](http://arxiv.org/abs/2504.20026v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|exoALMA. XVII. Characterizing the Gas Dynamics around Dust Asymmetries|[[pdf]](http://arxiv.org/abs/2504.20023v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|An Indispensable Path towards New-Generation Large Language Models|[[pdf]](http://arxiv.org/abs/2504.20020v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control|[[pdf]](http://arxiv.org/abs/2504.20019v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|an integer linear programming model and a fast heuristic|[[pdf]](http://arxiv.org/abs/2504.20017v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Interpreting the height of CO emission layer|[[pdf]](http://arxiv.org/abs/2504.20012v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy|[[pdf]](http://arxiv.org/abs/2504.20011v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Simultaneous Trajectory Estimation & Local Adaptation|[[pdf]](http://arxiv.org/abs/2504.20009v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage|[[pdf]](http://arxiv.org/abs/2504.20007v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Inferring Yielding Intentions for Safer Interactions|[[pdf]](http://arxiv.org/abs/2504.20004v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Boundary crisis and long transients of the Atlantic overturning circulation mediated by an edge state|[[pdf]](http://arxiv.org/abs/2504.20002v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Rigorous lower bounds for the domains of definition of extended generating functions|[[pdf]](http://arxiv.org/abs/2504.19993v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures|[[pdf]](http://arxiv.org/abs/2504.19992v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Hamilton-Jacobi Reachability with Neural Operators|[[pdf]](http://arxiv.org/abs/2504.19989v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Latency of multipartite entanglement distribution in a quantum SDN architecture|[[pdf]](http://arxiv.org/abs/2504.19988v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Closed-Loop Approach|[[pdf]](http://arxiv.org/abs/2504.19985v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|3D MPSoC with On-Chip Cache Support -- Design and Exploitation|[[pdf]](http://arxiv.org/abs/2504.19984v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Emergence and scaling laws in SGD learning of shallow neural networks|[[pdf]](http://arxiv.org/abs/2504.19983v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Deep Declarative Risk Budgeting Portfolios|[[pdf]](http://arxiv.org/abs/2504.19980v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|closing the fine-structure-anomaly gap|[[pdf]](http://arxiv.org/abs/2504.19977v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|challenges and opportunities for data-driven modelling|[[pdf]](http://arxiv.org/abs/2504.19974v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism|[[pdf]](http://arxiv.org/abs/2504.19967v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework|[[pdf]](http://arxiv.org/abs/2504.19965v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Stochastic Subspace via Probabilistic Principal Component Analysis for Characterizing Model Error|[[pdf]](http://arxiv.org/abs/2504.19963v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Analytical solutions for the Extracellular-Membrane-Intracellular model|[[pdf]](http://arxiv.org/abs/2504.19960v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Revisiting Directed Disjoint Paths on tournaments (and relatives)|[[pdf]](http://arxiv.org/abs/2504.19957v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Zero Trust Registry-Based Approach|[[pdf]](http://arxiv.org/abs/2504.19951v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Data-Driven Stabilization of Unknown Linear-Threshold Network Dynamics|[[pdf]](http://arxiv.org/abs/2504.19950v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Capturing Aerodynamic Characteristics of ATTAS Aircraft with Evolving Intelligent System|[[pdf]](http://arxiv.org/abs/2504.19949v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Tendon-Actuated Concentric Tube Endonasal Robot (TACTER)|[[pdf]](http://arxiv.org/abs/2504.19948v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Nonlinear states of the conservative complex Swift-Hohenberg equation|[[pdf]](http://arxiv.org/abs/2504.19947v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|The Diffuse Solid Method for Wetting and Multiphase Fluid Simulations in Complex Geometries|[[pdf]](http://arxiv.org/abs/2504.19941v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Stability inequalities with explicit constants for a family of reverse Sobolev inequalities on the sphere|[[pdf]](http://arxiv.org/abs/2504.19939v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Texturing Mesh with Spherical Harmonics|[[pdf]](http://arxiv.org/abs/2504.19938v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|A Novel Approach for Quantum-Enhanced Vehicle Routing Optimization|[[pdf]](http://arxiv.org/abs/2504.19934v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Automated decision-making for dynamic task assignment at scale|[[pdf]](http://arxiv.org/abs/2504.19933v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Dependence of the Radical Dynamics on the Beam Temporal Profile in FLASH Radiotherapy|[[pdf]](http://arxiv.org/abs/2504.19927v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Accelerating Mixture-of-Experts Training with Adaptive Expert Replication|[[pdf]](http://arxiv.org/abs/2504.19925v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data|[[pdf]](http://arxiv.org/abs/2504.19924v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Dynamical analysis of stacked samples of asymmetric, non-static, self-gravitating systems|[[pdf]](http://arxiv.org/abs/2504.19922v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Gravitational lensing by $k-n$ generalized black-bounce space-times|[[pdf]](http://arxiv.org/abs/2504.19920v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Nonconvexity and Heterogeneity|[[pdf]](http://arxiv.org/abs/2504.19919v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|An Achievability Bound for Type-Based Unsourced Multiple Access|[[pdf]](http://arxiv.org/abs/2504.19916v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Finitness of measured homoclinic classes with large Lyapunov exponents for $\mathcal{C}^2$ surface diffeomorphisms|[[pdf]](http://arxiv.org/abs/2504.19908v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-28|Interpretable additive model for analyzing high-dimensional functional time series|[[pdf]](http://arxiv.org/abs/2504.19904v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
