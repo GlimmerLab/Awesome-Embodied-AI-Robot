@@ -53,59 +53,59 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-28|Learning Streaming Video Representation via Multitask Training|[[pdf]](http://arxiv.org/abs/2504.20041v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Monocular Surface Priors for Robust Structure-from-Motion|[[pdf]](http://arxiv.org/abs/2504.20040v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Judge Decoding Without Manual Annotation|[[pdf]](http://arxiv.org/abs/2504.20039v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|A Monte Carlo simulations compared to analytical formula|[[pdf]](http://arxiv.org/abs/2504.20037v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Rotation curves, azimuthal velocity substructures, and pressure variations|[[pdf]](http://arxiv.org/abs/2504.20036v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images|[[pdf]](http://arxiv.org/abs/2504.20033v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Towards Explicit and Generalizable 3D Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2504.20024v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages|[[pdf]](http://arxiv.org/abs/2504.20022v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|An Indispensable Path towards New-Generation Large Language Models|[[pdf]](http://arxiv.org/abs/2504.20020v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control|[[pdf]](http://arxiv.org/abs/2504.20019v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy|[[pdf]](http://arxiv.org/abs/2504.20011v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Simultaneous Trajectory Estimation & Local Adaptation|[[pdf]](http://arxiv.org/abs/2504.20009v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage|[[pdf]](http://arxiv.org/abs/2504.20007v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Inferring Yielding Intentions for Safer Interactions|[[pdf]](http://arxiv.org/abs/2504.20004v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom|[[pdf]](http://arxiv.org/abs/2504.20000v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery|[[pdf]](http://arxiv.org/abs/2504.19996v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Semi-parametric bulk and tail regression using spline-based neural networks|[[pdf]](http://arxiv.org/abs/2504.19994v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data|[[pdf]](http://arxiv.org/abs/2504.19991v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Hamilton-Jacobi Reachability with Neural Operators|[[pdf]](http://arxiv.org/abs/2504.19989v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Graph Neural Network Prediction of Nonlinear Optical Properties|[[pdf]](http://arxiv.org/abs/2504.19987v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|A Closed-Loop Approach|[[pdf]](http://arxiv.org/abs/2504.19985v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Emergence and scaling laws in SGD learning of shallow neural networks|[[pdf]](http://arxiv.org/abs/2504.19983v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons|[[pdf]](http://arxiv.org/abs/2504.19982v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets|[[pdf]](http://arxiv.org/abs/2504.19981v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Deep Declarative Risk Budgeting Portfolios|[[pdf]](http://arxiv.org/abs/2504.19980v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Transfer Learning Under High-Dimensional Network Convolutional Regression Model|[[pdf]](http://arxiv.org/abs/2504.19979v2)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|challenges and opportunities for data-driven modelling|[[pdf]](http://arxiv.org/abs/2504.19974v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism|[[pdf]](http://arxiv.org/abs/2504.19967v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework|[[pdf]](http://arxiv.org/abs/2504.19965v2)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Machine Learning Identification of Gravimentally Microlensed Gamma-Ray Bursts|[[pdf]](http://arxiv.org/abs/2504.19958v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Robust Federated Personalised Mean Estimation for the Gaussian Mixture Model|[[pdf]](http://arxiv.org/abs/2504.19955v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Tight Lower and Upper Bounds|[[pdf]](http://arxiv.org/abs/2504.19952v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|A Zero Trust Registry-Based Approach|[[pdf]](http://arxiv.org/abs/2504.19951v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Capturing Aerodynamic Characteristics of ATTAS Aircraft with Evolving Intelligent System|[[pdf]](http://arxiv.org/abs/2504.19949v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Tendon-Actuated Concentric Tube Endonasal Robot (TACTER)|[[pdf]](http://arxiv.org/abs/2504.19948v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Texturing Mesh with Spherical Harmonics|[[pdf]](http://arxiv.org/abs/2504.19938v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model|[[pdf]](http://arxiv.org/abs/2504.19935v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Automated decision-making for dynamic task assignment at scale|[[pdf]](http://arxiv.org/abs/2504.19933v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Accelerating Mixture-of-Experts Training with Adaptive Expert Replication|[[pdf]](http://arxiv.org/abs/2504.19925v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data|[[pdf]](http://arxiv.org/abs/2504.19924v2)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI|[[pdf]](http://arxiv.org/abs/2504.19918v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization|[[pdf]](http://arxiv.org/abs/2504.19903v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Attention Mechanism, Max-Affine Partition, and Universal Approximation|[[pdf]](http://arxiv.org/abs/2504.19901v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Breast Cancer Detection from Multi-View Screening Mammograms with Visual Prompt Tuning|[[pdf]](http://arxiv.org/abs/2504.19900v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets|[[pdf]](http://arxiv.org/abs/2504.19898v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Consistent Keyframe Synthesis for Cinematic Scene Composition|[[pdf]](http://arxiv.org/abs/2504.19894v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network|[[pdf]](http://arxiv.org/abs/2504.19888v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|A Causal Augmentation View|[[pdf]](http://arxiv.org/abs/2504.19882v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images|[[pdf]](http://arxiv.org/abs/2504.19876v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-28|Online Vector Quantization with Near-optimal Distortion Rate|[[pdf]](http://arxiv.org/abs/2504.19874v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Toward Efficient Exploration by Large Language Model Agents|[[pdf]](http://arxiv.org/abs/2504.20997v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Learning 4D Embodied World Models|[[pdf]](http://arxiv.org/abs/2504.20995v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Comparative Study of Panel Regressions and Random Forest|[[pdf]](http://arxiv.org/abs/2504.20993v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Modification of the scattering mechanisms in bilayer graphene in proximity to a molecular thin film probed in the mesoscopic regime|[[pdf]](http://arxiv.org/abs/2504.20990v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Photonic Quantum Convolutional Neural Networks with Adaptive State Injection|[[pdf]](http://arxiv.org/abs/2504.20989v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Efficient and Scalable Collaborative Machine Learning|[[pdf]](http://arxiv.org/abs/2504.20988v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Security Architecture for LLM-Integrated App Systems|[[pdf]](http://arxiv.org/abs/2504.20984v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling|[[pdf]](http://arxiv.org/abs/2504.20982v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Equivariant non-linear maps for neural networks on homogeneous spaces|[[pdf]](http://arxiv.org/abs/2504.20974v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Knowledge Editing for Knowledge Elements Overlap|[[pdf]](http://arxiv.org/abs/2504.20972v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features|[[pdf]](http://arxiv.org/abs/2504.20970v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search|[[pdf]](http://arxiv.org/abs/2504.20969v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|No Attention Sink, No Massive Activations with Rectified Softmax|[[pdf]](http://arxiv.org/abs/2504.20966v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Scaling Agentic Systems for Self-Reflective Defense in LLM Security|[[pdf]](http://arxiv.org/abs/2504.20965v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Longitudinal Study|[[pdf]](http://arxiv.org/abs/2504.20956v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation|[[pdf]](http://arxiv.org/abs/2504.20955v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Pinpointing energy transfer mechanisms in the quenching process of microwave air plasma|[[pdf]](http://arxiv.org/abs/2504.20952v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition|[[pdf]](http://arxiv.org/abs/2504.20948v2)|[DS_FusionNet](https://github.com/YanghuiSong/DS_FusionNet)|⭐️⭐️⭐️|
+|2025-04-29|Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors|[[pdf]](http://arxiv.org/abs/2504.20947v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements|[[pdf]](http://arxiv.org/abs/2504.20944v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Scenario-based Compositional Verification of Autonomous Systems with Neural Perception|[[pdf]](http://arxiv.org/abs/2504.20942v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Flow-Based Framework Without Data|[[pdf]](http://arxiv.org/abs/2504.20940v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Serving More Users Through Similarity Range Constraints|[[pdf]](http://arxiv.org/abs/2504.20939v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Towards Understanding the Nature of Attention with Low-Rank Sparse Decomposition|[[pdf]](http://arxiv.org/abs/2504.20938v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A real-time interactive visualization library for CUDA programs|[[pdf]](http://arxiv.org/abs/2504.20937v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity|[[pdf]](http://arxiv.org/abs/2504.20932v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification|[[pdf]](http://arxiv.org/abs/2504.20930v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces|[[pdf]](http://arxiv.org/abs/2504.20929v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Exploiting inter-agent coupling information for efficient reinforcement learning of cooperative LQR|[[pdf]](http://arxiv.org/abs/2504.20927v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Bipartite Randomized Response Mechanism for Local Differential Privacy|[[pdf]](http://arxiv.org/abs/2504.20926v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Domain-Agnostic Scalable AI Safety Ensuring Framework|[[pdf]](http://arxiv.org/abs/2504.20924v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|a RawNet-Based Approach with Cross-Dataset Evaluation|[[pdf]](http://arxiv.org/abs/2504.20923v2)|[RawNetLite](https://github.com/adipiz99/RawNetLite)|⭐️⭐️⭐️|
+|2025-04-29|Dynamic computing for Transformers and Mamba based architectures|[[pdf]](http://arxiv.org/abs/2504.20922v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Characterizing CMB noise anisotropies from CMB delensing|[[pdf]](http://arxiv.org/abs/2504.20919v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Statistical and Predictive Analysis to Identify Risk Factors and Effects of Post COVID-19 Syndrome|[[pdf]](http://arxiv.org/abs/2504.20915v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Bayesian and Statistical Analysis of the Open Star Cluster NGC 6416|[[pdf]](http://arxiv.org/abs/2504.20909v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability|[[pdf]](http://arxiv.org/abs/2504.20908v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Low-Code Application to Benchmark Machine Learning Models and Fairness-Enhancing Methods|[[pdf]](http://arxiv.org/abs/2504.20907v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems|[[pdf]](http://arxiv.org/abs/2504.20906v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Dual Explanations via Subgraph Matching for Malware Detection|[[pdf]](http://arxiv.org/abs/2504.20904v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Modeling AI-Human Collaboration as a Multi-Agent Adaptation|[[pdf]](http://arxiv.org/abs/2504.20903v1)|[NKC-Multi-Agent-Models](https://github.com/saimihirj/NKC-Multi-Agent-Models)|⭐️⭐️⭐️|
+|2025-04-29|Toward Unsupervised Automatic Bias Detection for Visual Classifiers|[[pdf]](http://arxiv.org/abs/2504.20902v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Novel Metrics and Benchmarking|[[pdf]](http://arxiv.org/abs/2504.20900v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Almgren's Three-Legged Starfish|[[pdf]](http://arxiv.org/abs/2504.20895v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Does Feedback Help in Bandits with Arm Erasures?|[[pdf]](http://arxiv.org/abs/2504.20894v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Mapping Object Corners and Edges with Stereo X-ray Tomography|[[pdf]](http://arxiv.org/abs/2504.20892v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Sample-Efficient CVaR Policy Gradient Optimisation|[[pdf]](http://arxiv.org/abs/2504.20887v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Gravitational Form Factors and the QCD Dilaton at Large Momentum Transfer|[[pdf]](http://arxiv.org/abs/2504.20884v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|Guessing Efficiently for Constrained Subspace Approximation|[[pdf]](http://arxiv.org/abs/2504.20883v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-29|The Leaderboard Illusion|[[pdf]](http://arxiv.org/abs/2504.20879v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
 - Total Papers: 73
-- Code Implementations: 13
-- Last Updated: April 2025
+- Code Implementations: 16
+- Last Updated: May 2025
