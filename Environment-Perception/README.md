@@ -26,59 +26,59 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-04-29|Two neighbours to the ultra-short-period Earth-sized planet K2-157 b in the warm Neptunian savanna|[[pdf]](http://arxiv.org/abs/2504.20999v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Introducing New Modality to Frozen Large Language Models|[[pdf]](http://arxiv.org/abs/2504.20996v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Learning 4D Embodied World Models|[[pdf]](http://arxiv.org/abs/2504.20995v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|PTAs, LISA and time-varying tension|[[pdf]](http://arxiv.org/abs/2504.20994v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Comparative Study of Panel Regressions and Random Forest|[[pdf]](http://arxiv.org/abs/2504.20993v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Constraints on primordial non-Gaussianity from Quaia|[[pdf]](http://arxiv.org/abs/2504.20992v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Quantum Hypothesis Testing Lemma for Deterministic Identification over Quantum Channels|[[pdf]](http://arxiv.org/abs/2504.20991v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Modification of the scattering mechanisms in bilayer graphene in proximity to a molecular thin film probed in the mesoscopic regime|[[pdf]](http://arxiv.org/abs/2504.20990v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Efficient and Scalable Collaborative Machine Learning|[[pdf]](http://arxiv.org/abs/2504.20988v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Localized Fock Space Cages in Kinetically Constrained Models|[[pdf]](http://arxiv.org/abs/2504.20987v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Security Architecture for LLM-Integrated App Systems|[[pdf]](http://arxiv.org/abs/2504.20984v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains|[[pdf]](http://arxiv.org/abs/2504.20983v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling|[[pdf]](http://arxiv.org/abs/2504.20982v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Jekyll-and-Hyde Tipping Point in an AI's Behavior|[[pdf]](http://arxiv.org/abs/2504.20980v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Integral of the double-emission eikonal function for a massive and a massless emitter at an arbitrary angle|[[pdf]](http://arxiv.org/abs/2504.20977v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Real-Time Wayfinding Assistant for Blind and Low-Vision Users|[[pdf]](http://arxiv.org/abs/2504.20976v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Equivariant non-linear maps for neural networks on homogeneous spaces|[[pdf]](http://arxiv.org/abs/2504.20974v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features|[[pdf]](http://arxiv.org/abs/2504.20970v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search|[[pdf]](http://arxiv.org/abs/2504.20969v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|No Attention Sink, No Massive Activations with Rectified Softmax|[[pdf]](http://arxiv.org/abs/2504.20966v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Benchmarking LLMs on Specification Generation Tasks for Operating System Verification|[[pdf]](http://arxiv.org/abs/2504.20964v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|MINER Reactor Based Search for Axion-Like Particles Using Sapphire (Al2O3) Detectors|[[pdf]](http://arxiv.org/abs/2504.20960v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength|[[pdf]](http://arxiv.org/abs/2504.20958v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Quieter State of Charge -- Ultra-Low-Noise Collective Current in Charge-Density-Wave Nanowires|[[pdf]](http://arxiv.org/abs/2504.20957v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Longitudinal Study|[[pdf]](http://arxiv.org/abs/2504.20956v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Pinpointing energy transfer mechanisms in the quenching process of microwave air plasma|[[pdf]](http://arxiv.org/abs/2504.20952v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Field-Theoretic Model for Token Selection in Large Language Models|[[pdf]](http://arxiv.org/abs/2504.20951v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Prekosmic Grothendieck/Galois Categories|[[pdf]](http://arxiv.org/abs/2504.20949v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition|[[pdf]](http://arxiv.org/abs/2504.20948v2)|[DS_FusionNet](https://github.com/YanghuiSong/DS_FusionNet)|⭐️⭐️⭐️|
-|2025-04-29|Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors|[[pdf]](http://arxiv.org/abs/2504.20947v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models|[[pdf]](http://arxiv.org/abs/2504.20946v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|There is no boundary problem|[[pdf]](http://arxiv.org/abs/2504.20945v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements|[[pdf]](http://arxiv.org/abs/2504.20944v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Scenario-based Compositional Verification of Autonomous Systems with Neural Perception|[[pdf]](http://arxiv.org/abs/2504.20942v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Differential Privacy on Riemannian Manifolds via Conformal Transformation|[[pdf]](http://arxiv.org/abs/2504.20941v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Flow-Based Framework Without Data|[[pdf]](http://arxiv.org/abs/2504.20940v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Serving More Users Through Similarity Range Constraints|[[pdf]](http://arxiv.org/abs/2504.20939v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Towards Understanding the Nature of Attention with Low-Rank Sparse Decomposition|[[pdf]](http://arxiv.org/abs/2504.20938v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A real-time interactive visualization library for CUDA programs|[[pdf]](http://arxiv.org/abs/2504.20937v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Note about the complexity of the acyclic orientation with parity constraint problem|[[pdf]](http://arxiv.org/abs/2504.20935v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing|[[pdf]](http://arxiv.org/abs/2504.20934v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity|[[pdf]](http://arxiv.org/abs/2504.20932v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification|[[pdf]](http://arxiv.org/abs/2504.20930v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|stormy, with a steep power spectrum|[[pdf]](http://arxiv.org/abs/2504.20928v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Exploiting inter-agent coupling information for efficient reinforcement learning of cooperative LQR|[[pdf]](http://arxiv.org/abs/2504.20927v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Bipartite Randomized Response Mechanism for Local Differential Privacy|[[pdf]](http://arxiv.org/abs/2504.20926v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|Chemotactic aggregation dynamics of micro-swimmers in Brinkman flows|[[pdf]](http://arxiv.org/abs/2504.20925v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|A Domain-Agnostic Scalable AI Safety Ensuring Framework|[[pdf]](http://arxiv.org/abs/2504.20924v1)|⚠️|⭐️⭐️⭐️|
-|2025-04-29|a RawNet-Based Approach with Cross-Dataset Evaluation|[[pdf]](http://arxiv.org/abs/2504.20923v2)|[RawNetLite](https://github.com/adipiz99/RawNetLite)|⭐️⭐️⭐️|
-|2025-04-29|Dynamic computing for Transformers and Mamba based architectures|[[pdf]](http://arxiv.org/abs/2504.20922v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction|[[pdf]](http://arxiv.org/abs/2504.21855v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|A Survey of Interactive Generative Video|[[pdf]](http://arxiv.org/abs/2504.21853v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|a Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884|[[pdf]](http://arxiv.org/abs/2504.21852v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments|[[pdf]](http://arxiv.org/abs/2504.21851v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|COMPositional Atomic-to-Complex Visual Capability Tuning|[[pdf]](http://arxiv.org/abs/2504.21850v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Perceived Risk, Trust, and Regulation Support|[[pdf]](http://arxiv.org/abs/2504.21849v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Characterizing AI Agents for Alignment and Governance|[[pdf]](http://arxiv.org/abs/2504.21848v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Differentiable Room Acoustic Rendering with Multi-View Vision Priors|[[pdf]](http://arxiv.org/abs/2504.21847v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Active Light Modulation to Counter Manipulation of Speech Visual Content|[[pdf]](http://arxiv.org/abs/2504.21846v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2504.21844v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Neuro-Symbolic Generation of Explanations for Robot Policies with Weighted Signal Temporal Logic|[[pdf]](http://arxiv.org/abs/2504.21841v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|2501.14381|[[pdf]](http://arxiv.org/abs/2504.21839v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|an electromagnetic gyrokinetic particle code with a Piecewise Field-Aligned Finite Element Method for Micro- and Macro-Instability Studies in Tokamak Core Plasmas|[[pdf]](http://arxiv.org/abs/2504.21837v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|3D Stylization via Large Reconstruction Model|[[pdf]](http://arxiv.org/abs/2504.21836v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Non-standard quantum algebras and infinite-dimensional PT-symmetric systems|[[pdf]](http://arxiv.org/abs/2504.21833v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Optimal Dynamic Control of Bounded Jacobian Discrete-Time Systems via Interval Observers|[[pdf]](http://arxiv.org/abs/2504.21832v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization|[[pdf]](http://arxiv.org/abs/2504.21831v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation|[[pdf]](http://arxiv.org/abs/2504.21826v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Rovibrational computation of H$_3^+$ with permutationally invariant Pekeris coordinates|[[pdf]](http://arxiv.org/abs/2504.21825v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|A Sequoia stellar candidate with very high 7Li and 9Be|[[pdf]](http://arxiv.org/abs/2504.21823v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|On the difficulty of capturing the distribution function of neutrinos in neutron star merger simulations|[[pdf]](http://arxiv.org/abs/2504.21822v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Local Weak Degeneracy of Planar Graphs|[[pdf]](http://arxiv.org/abs/2504.21821v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|a practical guide for thermal conductivity experiments in bulk samples|[[pdf]](http://arxiv.org/abs/2504.21820v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Comparative Perspectives of Evaluating Text-to-Music Systems|[[pdf]](http://arxiv.org/abs/2504.21815v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields|[[pdf]](http://arxiv.org/abs/2504.21814v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Turning a negative neutrino mass into a positive optical depth|[[pdf]](http://arxiv.org/abs/2504.21813v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator|[[pdf]](http://arxiv.org/abs/2504.21812v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|A simple and effective approach for body part recognition on CT scans based on projection estimation|[[pdf]](http://arxiv.org/abs/2504.21810v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|non-rotating floes|[[pdf]](http://arxiv.org/abs/2504.21809v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|An Efficient Split and Merge Algorithm|[[pdf]](http://arxiv.org/abs/2504.21808v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding|[[pdf]](http://arxiv.org/abs/2504.21803v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition|[[pdf]](http://arxiv.org/abs/2504.21801v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues|[[pdf]](http://arxiv.org/abs/2504.21800v2)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Scaling Data for Software Engineering Agents|[[pdf]](http://arxiv.org/abs/2504.21798v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Balancing Interpretability and Flexibility in Modeling Diagnostic Trajectories with an Embedded Neural Hawkes Process Model|[[pdf]](http://arxiv.org/abs/2504.21795v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Reconciling Discrete-Time Mixed Policies and Continuous-Time Relaxed Controls in Reinforcement Learning and Stochastic Control|[[pdf]](http://arxiv.org/abs/2504.21793v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Martingale problem of the two-dimensional stochastic heat equation at criticality|[[pdf]](http://arxiv.org/abs/2504.21791v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation|[[pdf]](http://arxiv.org/abs/2504.21789v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|The Challenges of Detecting Gases in Exoplanet Atmospheres|[[pdf]](http://arxiv.org/abs/2504.21788v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Estimation of discrete distributions in relative entropy, and the deviations of the missing mass|[[pdf]](http://arxiv.org/abs/2504.21787v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Improved Lanczos Algorithm using Matrix Product States|[[pdf]](http://arxiv.org/abs/2504.21786v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Frozen Gaussian Grid-point Correction For Semi-classical Schrödinger Equation|[[pdf]](http://arxiv.org/abs/2504.21785v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Three-dimensional horseshoes near an unfolding of a Hopf-Hopf singularity|[[pdf]](http://arxiv.org/abs/2504.21783v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Transformations and summations for bilateral basic hypergeometric series|[[pdf]](http://arxiv.org/abs/2504.21782v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|an open-source library for mesh agglomeration by Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2504.21780v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Low Complexity Learned Image Coding Using Hierarchical Feature Transforms|[[pdf]](http://arxiv.org/abs/2504.21778v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Near-Optimal Distributed Ruling Sets for Trees and High-Girth Graphs|[[pdf]](http://arxiv.org/abs/2504.21777v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Empowering Large Reasoning Models with Deep Research Capability|[[pdf]](http://arxiv.org/abs/2504.21776v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning|[[pdf]](http://arxiv.org/abs/2504.21775v1)|⚠️|⭐️⭐️⭐️|
+|2025-04-30|Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?|[[pdf]](http://arxiv.org/abs/2504.21774v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
 - Total Papers: 55
-- Code Implementations: 5
+- Code Implementations: 3
 - Last Updated: May 2025
