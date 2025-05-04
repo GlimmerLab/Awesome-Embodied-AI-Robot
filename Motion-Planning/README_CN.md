@@ -32,59 +32,23 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-05-01|Controllable Weather Synthesis and Removal with Video Diffusion Models|[[pdf]](http://arxiv.org/abs/2505.00704v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT|[[pdf]](http://arxiv.org/abs/2505.00703v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|A log-depth in-place quantum Fourier transform that rarely needs ancillas|[[pdf]](http://arxiv.org/abs/2505.00701v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Robotic Visual Instruction|[[pdf]](http://arxiv.org/abs/2505.00693v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Physical Limits and Optimal Synthesis of Beyond Diagonal Anomalous Scatterers|[[pdf]](http://arxiv.org/abs/2505.00691v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Towards Autonomous Micromobility through Scalable Urban Simulation|[[pdf]](http://arxiv.org/abs/2505.00690v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Axially symmetric collapses in the 2-D Benjamin-Ono equation|[[pdf]](http://arxiv.org/abs/2505.00689v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Bounds on performance metrics by measurement time|[[pdf]](http://arxiv.org/abs/2505.00686v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Visual Test-time Scaling for GUI Agent Grounding|[[pdf]](http://arxiv.org/abs/2505.00684v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Quantum Circuit Overhead|[[pdf]](http://arxiv.org/abs/2505.00683v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Photonic Crystal Microring Resonators on a Hybrid Silicon Nitride-on-Lithium Niobate Platform|[[pdf]](http://arxiv.org/abs/2505.00678v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Linear Parameter Varying Attitude Control For CubeSats Using Electrospray Thrusters|[[pdf]](http://arxiv.org/abs/2505.00677v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Spectral-timing analysis of the kilohertz quasi-periodic oscillations and constraints on the mass of the neutron star in $4U 1636-536$ using AstroSat observations|[[pdf]](http://arxiv.org/abs/2505.00676v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Taxonomy, Operations, Topics, and Future Directions|[[pdf]](http://arxiv.org/abs/2505.00675v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2505.00671v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|A python framework for patient-specific digital twins in oncology|[[pdf]](http://arxiv.org/abs/2505.00670v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments|[[pdf]](http://arxiv.org/abs/2505.00668v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|A Practical Framework for Simulating Time-Resolved Spectroscopy Based on a Real-time Dyson Expansion|[[pdf]](http://arxiv.org/abs/2505.00667v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Wasserstein Policy Optimization|[[pdf]](http://arxiv.org/abs/2505.00663v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|a controlled study|[[pdf]](http://arxiv.org/abs/2505.00661v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|RIS Partitioning and User Clustering for Resilient Non-Orthogonal Multiple Access UAV Networks|[[pdf]](http://arxiv.org/abs/2505.00658v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients|[[pdf]](http://arxiv.org/abs/2505.00656v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Hadron multiplicity fluctuations in perturbative QCD|[[pdf]](http://arxiv.org/abs/2505.00652v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Open-Source LLM-Driven Federated Transformer for Predictive IoV Management|[[pdf]](http://arxiv.org/abs/2505.00651v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty|[[pdf]](http://arxiv.org/abs/2505.00647v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|The Whitehead group and stably trivial $G$-smoothings|[[pdf]](http://arxiv.org/abs/2505.00646v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Predatory dynamics in susceptible and resistant $\textit{Eriopis connexa}$ populations|[[pdf]](http://arxiv.org/abs/2505.00644v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI|[[pdf]](http://arxiv.org/abs/2505.00643v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces|[[pdf]](http://arxiv.org/abs/2505.00640v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Probing excited-state dynamics of transmon ionization|[[pdf]](http://arxiv.org/abs/2505.00639v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Bayes-Optimal Fair Classification with Multiple Sensitive Features|[[pdf]](http://arxiv.org/abs/2505.00631v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis|[[pdf]](http://arxiv.org/abs/2505.00627v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Hidden Shortcuts in LLM Role Learning (and How to Fix Them)|[[pdf]](http://arxiv.org/abs/2505.00626v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation|[[pdf]](http://arxiv.org/abs/2505.00624v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|A Case Study|[[pdf]](http://arxiv.org/abs/2505.00622v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Combining LLMs with Logic-Based Framework to Explain MCTS|[[pdf]](http://arxiv.org/abs/2505.00610v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-01|Generating multi-wavelength phase screens for atmospheric wave optics simulations using fast Fourier transforms|[[pdf]](http://arxiv.org/abs/2505.00613v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|density-split analyses of pairwise velocities|[[pdf]](http://arxiv.org/abs/2505.00608v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|The Impacts of Open RAN Disaggregation on Latency and Resilience|[[pdf]](http://arxiv.org/abs/2505.00605v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Frustration, dynamics and catalysis|[[pdf]](http://arxiv.org/abs/2505.00600v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|A Finite-State Controller Based Offline Solver for Deterministic POMDPs|[[pdf]](http://arxiv.org/abs/2505.00596v1)|[DetMCVI](https://github.com/ori-goals/DetMCVI)|⭐️⭐️⭐️|
-|2025-05-01|A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks|[[pdf]](http://arxiv.org/abs/2505.00593v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading|[[pdf]](http://arxiv.org/abs/2505.00592v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting|[[pdf]](http://arxiv.org/abs/2505.00590v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Exact Many-body Quantum Dynamics in One-Dimensional Baths via "Superspins"|[[pdf]](http://arxiv.org/abs/2505.00588v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-01|Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models|[[pdf]](http://arxiv.org/abs/2505.00586v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Dimension-reduced Optimization of Multi-zone Thermostatically Controlled Loads|[[pdf]](http://arxiv.org/abs/2505.00585v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|A continuum thermodynamic model of the influence of non-ionic surfactant on mass transfer from gas bubbles|[[pdf]](http://arxiv.org/abs/2505.00581v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors|[[pdf]](http://arxiv.org/abs/2505.00580v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Unveiling competitions between carrier recombination pathways in semiconductors via mechanical damping|[[pdf]](http://arxiv.org/abs/2505.00575v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-01|Secure Multi-Hop Relaying in Large-Scale Space-Air-Ground-Sea Integrated Networks|[[pdf]](http://arxiv.org/abs/2505.00573v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
-- 论文总数：60篇
-- 代码实现：6个
+- 论文总数：24篇
+- 代码实现：5个
 - 最后更新：2025年05月
