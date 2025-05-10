@@ -25,59 +25,59 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-05-07|Is the end of Insight in Sight ?|[[pdf]](http://arxiv.org/abs/2505.04627v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle|[[pdf]](http://arxiv.org/abs/2505.04625v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Testing Thermal-Relic Dark Matter with a Dark Photon Mediator|[[pdf]](http://arxiv.org/abs/2505.04626v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Dissipative solitons in parity-time symmetric laser cavities|[[pdf]](http://arxiv.org/abs/2505.04624v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.04623v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer|[[pdf]](http://arxiv.org/abs/2505.04622v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Source Separation, Synthesis, and Beyond|[[pdf]](http://arxiv.org/abs/2505.04621v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.04619v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Linear Thermal Instability of a Condensing Gas-Particle Mixture|[[pdf]](http://arxiv.org/abs/2505.04618v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Improved Predictions on Higgs-Starobinsky Inflation and Reheating with ACT DR6 and Primordial Gravitational Waves|[[pdf]](http://arxiv.org/abs/2505.04615v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Axion Dark Matter Archaeology with Primordial Gravitational Waves|[[pdf]](http://arxiv.org/abs/2505.04614v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|From Two Sample Testing to Singular Gaussian Discrimination|[[pdf]](http://arxiv.org/abs/2505.04613v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Revisiting Dense and Scalable Structure from Motion|[[pdf]](http://arxiv.org/abs/2505.04612v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|A Gas Enshrouded Little Red Dot Hosting a Broad-line AGN at z=9.288|[[pdf]](http://arxiv.org/abs/2505.04609v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales|[[pdf]](http://arxiv.org/abs/2505.04608v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|A Multilingual and Multimodal Benchmark for GitHub Issue Resolution|[[pdf]](http://arxiv.org/abs/2505.04606v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|I-Love-Q Relations of Fermion-Boson Stars|[[pdf]](http://arxiv.org/abs/2505.04605v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Testing Juntas Optimally with Samples|[[pdf]](http://arxiv.org/abs/2505.04604v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching|[[pdf]](http://arxiv.org/abs/2505.04603v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Extracting local velocity from cosmic dipole using simulations|[[pdf]](http://arxiv.org/abs/2505.04602v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning|[[pdf]](http://arxiv.org/abs/2505.04601v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|How Model Personalization Normalizes Gendered Harm|[[pdf]](http://arxiv.org/abs/2505.04600v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness|[[pdf]](http://arxiv.org/abs/2505.04599v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems|[[pdf]](http://arxiv.org/abs/2505.04596v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Chain-of-Prediction for Monocular 3D Object Detection|[[pdf]](http://arxiv.org/abs/2505.04594v2)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|The Strategic Landscape and Actionable Research Questions|[[pdf]](http://arxiv.org/abs/2505.04592v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Incentivize the Search Capability of LLMs without Searching|[[pdf]](http://arxiv.org/abs/2505.04588v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Integral Chow rings of modular compactifications of $\mathcal{M}_{1,n\leq 6}$|[[pdf]](http://arxiv.org/abs/2505.04587v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Active Sampling for MRI-based Sequential Decision Making|[[pdf]](http://arxiv.org/abs/2505.04586v1)|[mri_sequential_active_sampling](https://github.com/vios-s/mri_sequential_active_sampling)|⭐️⭐️⭐️|
-|2025-05-07|Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs|[[pdf]](http://arxiv.org/abs/2505.04585v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions|[[pdf]](http://arxiv.org/abs/2505.04584v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Modeling Personalized Difficulty of Rehabilitation Exercises Using Causal Trees|[[pdf]](http://arxiv.org/abs/2505.04583v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|toward creating an electron-free volume|[[pdf]](http://arxiv.org/abs/2505.04582v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Consensus Seminorms and their Applications|[[pdf]](http://arxiv.org/abs/2505.04580v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions|[[pdf]](http://arxiv.org/abs/2505.04579v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Defending Against Malicious RL Fine-Tuning via Reward Neutralization|[[pdf]](http://arxiv.org/abs/2505.04578v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Relative benefits of different active learning methods to conceptual physics learning|[[pdf]](http://arxiv.org/abs/2505.04577v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Resolution effects in two-screen models|[[pdf]](http://arxiv.org/abs/2505.04576v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Componential Prompt-Knowledge Alignment for Domain Incremental Learning|[[pdf]](http://arxiv.org/abs/2505.04575v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Nanoscale Mechanical Structures Fabricated from Silicon-on-Insulator Substrates|[[pdf]](http://arxiv.org/abs/2505.04574v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Local uniqueness of the Black String with small circle size|[[pdf]](http://arxiv.org/abs/2505.04573v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Robotic Packing of Items into Fabric Pods|[[pdf]](http://arxiv.org/abs/2505.04572v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Duality-Based Algorithm and Numerical Analysis for Optimal Insulation Problems on Non-Smooth Domains|[[pdf]](http://arxiv.org/abs/2505.04571v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications|[[pdf]](http://arxiv.org/abs/2505.04570v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Conformal Survival Bands for Risk Screening under Right-Censoring|[[pdf]](http://arxiv.org/abs/2505.04568v1)|[conformal_survival_screening](https://github.com/msesia/conformal_survival_screening)|⭐️⭐️⭐️|
-|2025-05-07|Assessing the Reconstruction of the Critical Line in the QCD Phase Diagram from Imaginary to Real Chemical Potential|[[pdf]](http://arxiv.org/abs/2505.04569v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Flexing RISC-V Instruction Subset Processors (RISPs) to Extreme Edge|[[pdf]](http://arxiv.org/abs/2505.04567v2)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Multitask LSTM for Arboviral Outbreak Prediction Using Public Health Data|[[pdf]](http://arxiv.org/abs/2505.04566v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Understanding the Rationale Behind Task Demonstrations|[[pdf]](http://arxiv.org/abs/2505.04565v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Optimal Deterministic Rendezvous in Labeled Lines|[[pdf]](http://arxiv.org/abs/2505.04564v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
+|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
+|2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Evaluating Legally Consistent Bias in Machine Learning|[[pdf]](http://arxiv.org/abs/2505.05471v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Training Flow Matching Models via Online RL|[[pdf]](http://arxiv.org/abs/2505.05470v1)|[flow_grpo](https://github.com/yifan123/flow_grpo)|⭐️⭐️⭐️|
+|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A Solovay-Kitaev theorem for quantum signal processing|[[pdf]](http://arxiv.org/abs/2505.05468v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant|[[pdf]](http://arxiv.org/abs/2505.05467v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Comparison of integral equations used to study $T_{cc}^+$|[[pdf]](http://arxiv.org/abs/2505.05466v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Preference Alignment via Comparison Oracles|[[pdf]](http://arxiv.org/abs/2505.05465v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
+|2025-05-08|Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe|[[pdf]](http://arxiv.org/abs/2505.05463v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Marsden--Meyer--Weinstein reduction for $k$-contact field theories|[[pdf]](http://arxiv.org/abs/2505.05462v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Representation Stability for Marked Graph Complexes|[[pdf]](http://arxiv.org/abs/2505.05461v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Reduced Basis Method for Driven-Dissipative Quantum Systems|[[pdf]](http://arxiv.org/abs/2505.05460v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A Dataset of Misleading Narratives Surrounding Recent UK General Elections|[[pdf]](http://arxiv.org/abs/2505.05459v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Emergence of Spin-Polarized Unconventional Skin Effect in Hatano-Nelson Model|[[pdf]](http://arxiv.org/abs/2505.05458v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source|[[pdf]](http://arxiv.org/abs/2505.05457v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|towards Spatial Intelligence Thorough Evaluation|[[pdf]](http://arxiv.org/abs/2505.05456v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Calculation of ground state energy of Lithium and Beryllium based on variational method|[[pdf]](http://arxiv.org/abs/2505.05455v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Resolution of the Solar Convective Conundrum? New Results Using the Time-Distance Deep-Focus Method|[[pdf]](http://arxiv.org/abs/2505.05454v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Conversational Process Model Redesign|[[pdf]](http://arxiv.org/abs/2505.05453v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles|[[pdf]](http://arxiv.org/abs/2505.05452v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Novel Forms of Early Dark Energy|[[pdf]](http://arxiv.org/abs/2505.05450v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Manifest Gauge Invariance for Structure Dependent Radiative Corrections to Processes Involving Atoms and Nuclei|[[pdf]](http://arxiv.org/abs/2505.05449v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Quantum effects in rotating thermal states on anti-de Sitter space-time|[[pdf]](http://arxiv.org/abs/2505.05448v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding|[[pdf]](http://arxiv.org/abs/2505.05446v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|todd|[[pdf]](http://arxiv.org/abs/2505.05445v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|a cosmic explosion with a complex off-axis jet and cocoon from a massive progenitor|[[pdf]](http://arxiv.org/abs/2505.05444v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|implications for the observed abundance of ultra-violet luminous galaxies at z>10|[[pdf]](http://arxiv.org/abs/2505.05442v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality|[[pdf]](http://arxiv.org/abs/2505.05441v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation|[[pdf]](http://arxiv.org/abs/2505.05440v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Stabilization of Kac polynomials|[[pdf]](http://arxiv.org/abs/2505.05439v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Scalable Bernoulli factories for Bayesian inference with intractable likelihoods|[[pdf]](http://arxiv.org/abs/2505.05438v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Cell size heterogeneity controls crystallization of the developing fruit fly wing|[[pdf]](http://arxiv.org/abs/2505.05437v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|The effective energy of a lattice metamaterial|[[pdf]](http://arxiv.org/abs/2505.05436v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Asymmetric decay of quantum many-body scars in XYZ quantum spin chains|[[pdf]](http://arxiv.org/abs/2505.05435v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Artifact Sharing for Information Retrieval Research|[[pdf]](http://arxiv.org/abs/2505.05434v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Non-Markovianity in collision models with initial intra-environment correlations|[[pdf]](http://arxiv.org/abs/2505.05433v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Boundary Energy-Momentum Tensors for Asymptotically Flat Spacetimes|[[pdf]](http://arxiv.org/abs/2505.05432v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems|[[pdf]](http://arxiv.org/abs/2505.05431v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Two-dimensional water waves with constant vorticity and general bottom topography|[[pdf]](http://arxiv.org/abs/2505.05430v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Theoretical modeling of approximate universality of tidally deformed neutron stars|[[pdf]](http://arxiv.org/abs/2505.05429v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Empowering Scientific Workflows with Federated Agents|[[pdf]](http://arxiv.org/abs/2505.05428v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Efficient Data Filtering and Verification for High-Quality LLM Training Data|[[pdf]](http://arxiv.org/abs/2505.05427v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Sideways on the highways|[[pdf]](http://arxiv.org/abs/2505.05426v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|On differentiation of integrals in Lebesgue spaces|[[pdf]](http://arxiv.org/abs/2505.05425v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|An efficient second-order cone programming approach for dynamic optimal transport on staggered grid discretization|[[pdf]](http://arxiv.org/abs/2505.05424v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|an LLM-based literary Translation evaluation metric with Professional Question Answering|[[pdf]](http://arxiv.org/abs/2505.05423v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation|[[pdf]](http://arxiv.org/abs/2505.05422v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
 - Total Papers: 50
-- Code Implementations: 2
+- Code Implementations: 4
 - Last Updated: May 2025
