@@ -25,56 +25,56 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-05-07|First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle|[[pdf]](http://arxiv.org/abs/2505.04625v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Testing Thermal-Relic Dark Matter with a Dark Photon Mediator|[[pdf]](http://arxiv.org/abs/2505.04626v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Dissipative solitons in parity-time symmetric laser cavities|[[pdf]](http://arxiv.org/abs/2505.04624v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.04623v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer|[[pdf]](http://arxiv.org/abs/2505.04622v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Source Separation, Synthesis, and Beyond|[[pdf]](http://arxiv.org/abs/2505.04621v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|General-Level and General-Bench|[[pdf]](http://arxiv.org/abs/2505.04620v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.04619v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Improved Predictions on Higgs-Starobinsky Inflation and Reheating with ACT DR6 and Primordial Gravitational Waves|[[pdf]](http://arxiv.org/abs/2505.04615v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Axion Dark Matter Archaeology with Primordial Gravitational Waves|[[pdf]](http://arxiv.org/abs/2505.04614v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Revisiting Dense and Scalable Structure from Motion|[[pdf]](http://arxiv.org/abs/2505.04612v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Early and Extensive Ultraviolet Through Near Infrared Observations of the Intermediate-Luminosity Type Iax Supernovae 2024pxl|[[pdf]](http://arxiv.org/abs/2505.04610v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales|[[pdf]](http://arxiv.org/abs/2505.04608v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Experimental demonstration of a multi-particle collective measurement for optimal quantum state estimation|[[pdf]](http://arxiv.org/abs/2505.04607v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|A Multilingual and Multimodal Benchmark for GitHub Issue Resolution|[[pdf]](http://arxiv.org/abs/2505.04606v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|I-Love-Q Relations of Fermion-Boson Stars|[[pdf]](http://arxiv.org/abs/2505.04605v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Testing Juntas Optimally with Samples|[[pdf]](http://arxiv.org/abs/2505.04604v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning|[[pdf]](http://arxiv.org/abs/2505.04601v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|How Model Personalization Normalizes Gendered Harm|[[pdf]](http://arxiv.org/abs/2505.04600v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness|[[pdf]](http://arxiv.org/abs/2505.04599v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Engineering topological exciton structures in two-dimensional semiconductors by a periodic electrostatic potential|[[pdf]](http://arxiv.org/abs/2505.04597v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems|[[pdf]](http://arxiv.org/abs/2505.04596v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Adiabatic state preparation and thermalization of simulated phase noise in a Rydberg spin Hamiltonian|[[pdf]](http://arxiv.org/abs/2505.04595v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Chain-of-Prediction for Monocular 3D Object Detection|[[pdf]](http://arxiv.org/abs/2505.04594v2)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|The Strategic Landscape and Actionable Research Questions|[[pdf]](http://arxiv.org/abs/2505.04592v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Incentivize the Search Capability of LLMs without Searching|[[pdf]](http://arxiv.org/abs/2505.04588v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Integral Chow rings of modular compactifications of $\mathcal{M}_{1,n\leq 6}$|[[pdf]](http://arxiv.org/abs/2505.04587v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Active Sampling for MRI-based Sequential Decision Making|[[pdf]](http://arxiv.org/abs/2505.04586v1)|[mri_sequential_active_sampling](https://github.com/vios-s/mri_sequential_active_sampling)|⭐️⭐️⭐️|
-|2025-05-07|Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs|[[pdf]](http://arxiv.org/abs/2505.04585v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions|[[pdf]](http://arxiv.org/abs/2505.04584v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Modeling Personalized Difficulty of Rehabilitation Exercises Using Causal Trees|[[pdf]](http://arxiv.org/abs/2505.04583v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Consensus Seminorms and their Applications|[[pdf]](http://arxiv.org/abs/2505.04580v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions|[[pdf]](http://arxiv.org/abs/2505.04579v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Defending Against Malicious RL Fine-Tuning via Reward Neutralization|[[pdf]](http://arxiv.org/abs/2505.04578v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Resolution effects in two-screen models|[[pdf]](http://arxiv.org/abs/2505.04576v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Nanoscale Mechanical Structures Fabricated from Silicon-on-Insulator Substrates|[[pdf]](http://arxiv.org/abs/2505.04574v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Local uniqueness of the Black String with small circle size|[[pdf]](http://arxiv.org/abs/2505.04573v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Robotic Packing of Items into Fabric Pods|[[pdf]](http://arxiv.org/abs/2505.04572v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Duality-Based Algorithm and Numerical Analysis for Optimal Insulation Problems on Non-Smooth Domains|[[pdf]](http://arxiv.org/abs/2505.04571v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications|[[pdf]](http://arxiv.org/abs/2505.04570v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Conformal Survival Bands for Risk Screening under Right-Censoring|[[pdf]](http://arxiv.org/abs/2505.04568v1)|[conformal_survival_screening](https://github.com/msesia/conformal_survival_screening)|⭐️⭐️⭐️|
-|2025-05-07|Assessing the Reconstruction of the Critical Line in the QCD Phase Diagram from Imaginary to Real Chemical Potential|[[pdf]](http://arxiv.org/abs/2505.04569v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Flexing RISC-V Instruction Subset Processors (RISPs) to Extreme Edge|[[pdf]](http://arxiv.org/abs/2505.04567v2)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Multitask LSTM for Arboviral Outbreak Prediction Using Public Health Data|[[pdf]](http://arxiv.org/abs/2505.04566v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Understanding the Rationale Behind Task Demonstrations|[[pdf]](http://arxiv.org/abs/2505.04565v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Optimal Deterministic Rendezvous in Labeled Lines|[[pdf]](http://arxiv.org/abs/2505.04564v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Manin's Conjecture for Equivariant compactifications of forms of $\mathbb{G}_a^n$|[[pdf]](http://arxiv.org/abs/2505.04562v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$-Divergence|[[pdf]](http://arxiv.org/abs/2505.04560v1)|[abkd](https://github.com/ghwang-s/abkd)|⭐️⭐️⭐️|
-|2025-05-07|An Improved Analytical Kinetic Energy Density Functional for Quantum Chemistry|[[pdf]](http://arxiv.org/abs/2505.04559v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-07|Purity Law for Generalizable Neural TSP Solvers|[[pdf]](http://arxiv.org/abs/2505.04558v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
+|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
+|2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant|[[pdf]](http://arxiv.org/abs/2505.05467v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Preference Alignment via Comparison Oracles|[[pdf]](http://arxiv.org/abs/2505.05465v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
+|2025-05-08|Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe|[[pdf]](http://arxiv.org/abs/2505.05463v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Marsden--Meyer--Weinstein reduction for $k$-contact field theories|[[pdf]](http://arxiv.org/abs/2505.05462v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Representation Stability for Marked Graph Complexes|[[pdf]](http://arxiv.org/abs/2505.05461v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A Dataset of Misleading Narratives Surrounding Recent UK General Elections|[[pdf]](http://arxiv.org/abs/2505.05459v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Emergence of Spin-Polarized Unconventional Skin Effect in Hatano-Nelson Model|[[pdf]](http://arxiv.org/abs/2505.05458v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source|[[pdf]](http://arxiv.org/abs/2505.05457v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|towards Spatial Intelligence Thorough Evaluation|[[pdf]](http://arxiv.org/abs/2505.05456v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Conversational Process Model Redesign|[[pdf]](http://arxiv.org/abs/2505.05453v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles|[[pdf]](http://arxiv.org/abs/2505.05452v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|The Brownian marble|[[pdf]](http://arxiv.org/abs/2505.05451v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Novel Forms of Early Dark Energy|[[pdf]](http://arxiv.org/abs/2505.05450v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding|[[pdf]](http://arxiv.org/abs/2505.05446v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|todd|[[pdf]](http://arxiv.org/abs/2505.05445v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|a cosmic explosion with a complex off-axis jet and cocoon from a massive progenitor|[[pdf]](http://arxiv.org/abs/2505.05444v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|implications for the observed abundance of ultra-violet luminous galaxies at z>10|[[pdf]](http://arxiv.org/abs/2505.05442v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality|[[pdf]](http://arxiv.org/abs/2505.05441v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation|[[pdf]](http://arxiv.org/abs/2505.05440v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Stabilization of Kac polynomials|[[pdf]](http://arxiv.org/abs/2505.05439v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Scalable Bernoulli factories for Bayesian inference with intractable likelihoods|[[pdf]](http://arxiv.org/abs/2505.05438v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|The effective energy of a lattice metamaterial|[[pdf]](http://arxiv.org/abs/2505.05436v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Non-Markovianity in collision models with initial intra-environment correlations|[[pdf]](http://arxiv.org/abs/2505.05433v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Boundary Energy-Momentum Tensors for Asymptotically Flat Spacetimes|[[pdf]](http://arxiv.org/abs/2505.05432v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems|[[pdf]](http://arxiv.org/abs/2505.05431v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Two-dimensional water waves with constant vorticity and general bottom topography|[[pdf]](http://arxiv.org/abs/2505.05430v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Theoretical modeling of approximate universality of tidally deformed neutron stars|[[pdf]](http://arxiv.org/abs/2505.05429v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Empowering Scientific Workflows with Federated Agents|[[pdf]](http://arxiv.org/abs/2505.05428v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Efficient Data Filtering and Verification for High-Quality LLM Training Data|[[pdf]](http://arxiv.org/abs/2505.05427v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|On differentiation of integrals in Lebesgue spaces|[[pdf]](http://arxiv.org/abs/2505.05425v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|An efficient second-order cone programming approach for dynamic optimal transport on staggered grid discretization|[[pdf]](http://arxiv.org/abs/2505.05424v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|an LLM-based literary Translation evaluation metric with Professional Question Answering|[[pdf]](http://arxiv.org/abs/2505.05423v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation|[[pdf]](http://arxiv.org/abs/2505.05422v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Robustly optimal dynamics for active matter reservoir computing|[[pdf]](http://arxiv.org/abs/2505.05420v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A new time-dependent quantum theory based on Tsallis' distribution|[[pdf]](http://arxiv.org/abs/2505.05419v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|A Budget-Constrained Routing Perspective|[[pdf]](http://arxiv.org/abs/2505.05418v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Evidence of chiral fermion edge modes through geometric engineering of thermal Hall in $α$-RuCl$_3$|[[pdf]](http://arxiv.org/abs/2505.05417v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models|[[pdf]](http://arxiv.org/abs/2505.05416v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Fermi lune and transdimensional orbital magnetism in rhombohedral multilayer graphene|[[pdf]](http://arxiv.org/abs/2505.05414v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Post-Training Compression for Ultra-Low Power Hyperdimensional Computing|[[pdf]](http://arxiv.org/abs/2505.05413v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Dynamic injection of a compressible gas into a confined porous layer|[[pdf]](http://arxiv.org/abs/2505.05412v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Reasoning Models Don't Always Say What They Think|[[pdf]](http://arxiv.org/abs/2505.05410v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It|[[pdf]](http://arxiv.org/abs/2505.05409v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Crosslingual Reasoning through Test-Time Scaling|[[pdf]](http://arxiv.org/abs/2505.05408v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Neural network methods for power series problems of Perron-Frobenius operators|[[pdf]](http://arxiv.org/abs/2505.05407v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
