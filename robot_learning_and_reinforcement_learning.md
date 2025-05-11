@@ -57,55 +57,32 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Evaluating Legally Consistent Bias in Machine Learning|[[pdf]](http://arxiv.org/abs/2505.05471v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Training Flow Matching Models via Online RL|[[pdf]](http://arxiv.org/abs/2505.05470v1)|[flow_grpo](https://github.com/yifan123/flow_grpo)|⭐️⭐️⭐️|
-|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant|[[pdf]](http://arxiv.org/abs/2505.05467v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Preference Alignment via Comparison Oracles|[[pdf]](http://arxiv.org/abs/2505.05465v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|towards Spatial Intelligence Thorough Evaluation|[[pdf]](http://arxiv.org/abs/2505.05456v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
 |2025-05-08|Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles|[[pdf]](http://arxiv.org/abs/2505.05452v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Artifact Sharing for Information Retrieval Research|[[pdf]](http://arxiv.org/abs/2505.05434v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Empowering Scientific Workflows with Federated Agents|[[pdf]](http://arxiv.org/abs/2505.05428v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Robustly optimal dynamics for active matter reservoir computing|[[pdf]](http://arxiv.org/abs/2505.05420v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Post-Training Compression for Ultra-Low Power Hyperdimensional Computing|[[pdf]](http://arxiv.org/abs/2505.05413v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Reasoning Models Don't Always Say What They Think|[[pdf]](http://arxiv.org/abs/2505.05410v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It|[[pdf]](http://arxiv.org/abs/2505.05409v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Crosslingual Reasoning through Test-Time Scaling|[[pdf]](http://arxiv.org/abs/2505.05408v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Neural network methods for power series problems of Perron-Frobenius operators|[[pdf]](http://arxiv.org/abs/2505.05407v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Representing spherical tensors with scalar-based machine-learning models|[[pdf]](http://arxiv.org/abs/2505.05404v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Oblique Decision Tree Induction via Exhaustive Search|[[pdf]](http://arxiv.org/abs/2505.05402v1)|[cart-elc](https://github.com/andrewlaack/cart-elc)|⭐️⭐️⭐️|
 |2025-05-08|Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model|[[pdf]](http://arxiv.org/abs/2505.05397v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|A Pain Assessment Framework based on multimodal data and Deep Machine Learning methods|[[pdf]](http://arxiv.org/abs/2505.05396v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Machine learning model for efficient nonthermal tuning of the charge density wave in monolayer NbSe$_2$|[[pdf]](http://arxiv.org/abs/2505.05384v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting|[[pdf]](http://arxiv.org/abs/2505.05381v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2505.05375v1)|[tm-otta-snn](https://github.com/nneurotransmitterr/tm-otta-snn)|⭐️⭐️⭐️|
+|2025-05-08|Modeling and Existence of Weak Solutions|[[pdf]](http://arxiv.org/abs/2505.05383v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation|[[pdf]](http://arxiv.org/abs/2505.05374v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Evaluating End-to-End Automated Sleep Analysis|[[pdf]](http://arxiv.org/abs/2505.05371v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Machine learning bridging battery field data and laboratory data|[[pdf]](http://arxiv.org/abs/2505.05364v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning|[[pdf]](http://arxiv.org/abs/2505.05360v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Nearly Optimal Sample Complexity for Learning with Label Proportions|[[pdf]](http://arxiv.org/abs/2505.05355v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Leveraging Deep Learning for Fast Computations|[[pdf]](http://arxiv.org/abs/2505.05354v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Magnetic ground states of highly doped two-leg Hubbard ladders with a particle bath|[[pdf]](http://arxiv.org/abs/2505.05350v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|A Simple TopDown Mechanism for Hierarchical Differentially Private Counting Queries|[[pdf]](http://arxiv.org/abs/2505.05347v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Robust Online Learning with Private Information|[[pdf]](http://arxiv.org/abs/2505.05341v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|A Unified Approach to Covariate Adjustment for Survival Endpoints in Randomized Clinical Trials|[[pdf]](http://arxiv.org/abs/2505.05338v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors|[[pdf]](http://arxiv.org/abs/2505.05336v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Signature Decomposition Method Applying to Pair Trading|[[pdf]](http://arxiv.org/abs/2505.05332v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Timestamp-based Nakamoto-style Blockchains are Vulnerable|[[pdf]](http://arxiv.org/abs/2505.05328v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|In-Context Contribution for Automatic Data Selection|[[pdf]](http://arxiv.org/abs/2505.05327v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|A Comprehensive Deep Learning Framework|[[pdf]](http://arxiv.org/abs/2505.05325v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Feature-Augmented Deep Networks for Multiscale Building Segmentation in High-Resolution UAV and Satellite Imagery|[[pdf]](http://arxiv.org/abs/2505.05321v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Research Landscape, Challenges, and Prospects|[[pdf]](http://arxiv.org/abs/2505.05318v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo|[[pdf]](http://arxiv.org/abs/2505.05317v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Scalable Chain of Thoughts via Elastic Reasoning|[[pdf]](http://arxiv.org/abs/2505.05315v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|Localization and path following for an autonomous e-scooter|[[pdf]](http://arxiv.org/abs/2505.05314v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|The Case of the Cayley Tree|[[pdf]](http://arxiv.org/abs/2505.05311v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Augmented Deep Contexts for Spatially Embedded Video Coding|[[pdf]](http://arxiv.org/abs/2505.05309v1)|[sevc](https://github.com/esakak/sevc)|⭐️⭐️⭐️|
-|2025-05-08|Operator-Level Quantum Acceleration of Non-Logconcave Sampling|[[pdf]](http://arxiv.org/abs/2505.05301v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Why Large Language Models Should Argue with Us by Design|[[pdf]](http://arxiv.org/abs/2505.05298v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Repair Crew Routing for Infrastructure Network Restoration under Incomplete Information|[[pdf]](http://arxiv.org/abs/2505.05297v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Performance Estimation in Binary Classification Using Calibrated Confidence|[[pdf]](http://arxiv.org/abs/2505.05295v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Benchmarking Ophthalmology Foundation Models for Clinically Significant Age Macular Degeneration Detection|[[pdf]](http://arxiv.org/abs/2505.05291v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Automated Precision Experiments with Optical Tweezers|[[pdf]](http://arxiv.org/abs/2505.05290v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Language-Guided Object Placement in Real 3D Scenes|[[pdf]](http://arxiv.org/abs/2505.05288v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
-- Total Papers: 73
-- Code Implementations: 18
+- Total Papers: 50
+- Code Implementations: 17
 - Last Updated: May 2025
