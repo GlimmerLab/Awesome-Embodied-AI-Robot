@@ -27,6 +27,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-09|Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework|[[pdf]](http://arxiv.org/abs/2505.06151v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|An Empirical Study of Fuzz Harness Degradation|[[pdf]](http://arxiv.org/abs/2505.06177v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Polymer-Shell Coating of Mie-Resonant Silicon Nanospheres for Controlled Fabrication of Self-Assembled Monolayer|[[pdf]](http://arxiv.org/abs/2505.06036v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -75,6 +77,6 @@
 
 ## 📊 统计
 
-- 论文总数：50篇
+- 论文总数：52篇
 - 代码实现：6个
 - 最后更新：2025年05月

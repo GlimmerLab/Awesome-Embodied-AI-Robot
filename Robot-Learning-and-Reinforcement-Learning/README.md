@@ -73,10 +73,18 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-09|Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study|[[pdf]](http://arxiv.org/abs/2505.06149v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|A Convergent Inexact Abedin-Kitagawa Iteration Method for Monge-Ampère Eigenvalue Problems|[[pdf]](http://arxiv.org/abs/2505.06160v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising|[[pdf]](http://arxiv.org/abs/2505.06203v1)|⚠️|⭐️⭐️⭐️|
-
+|2025-05-09|[TREND] TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations|[[pdf]](http://arxiv.org/abs/2505.06079v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[Humanoid] Safe-EF: Error Feedback for Nonsmooth Constrained Optimization|[[pdf]](http://arxiv.org/abs/2505.06053v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Discretized Approximate Ancestral Sampling|[[pdf]](http://arxiv.org/abs/2505.06098v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models|[[pdf]](http://arxiv.org/abs/2505.06110v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times|[[pdf]](http://arxiv.org/abs/2505.06121v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review|[[pdf]](http://arxiv.org/abs/2505.06118v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.06122v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Algebraic Topology Principles behind Topological Quantum Error Correction|[[pdf]](http://arxiv.org/abs/2505.06082v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|The role of non-equilibrium populations in dark exciton formation|[[pdf]](http://arxiv.org/abs/2505.06074v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
-- Total Papers: 101
-- Code Implementations: 22
+- Total Papers: 59
+- Code Implementations: 17
 - Last Updated: May 2025

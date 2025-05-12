@@ -47,6 +47,10 @@ This directory collects papers and code implementations related to simulation pl
 |2025-05-09|Efficient time-domain scattering synthesis via frequency-domain singularity subtraction|[[pdf]](http://arxiv.org/abs/2505.06189v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|[Turbo-ICL] Turbo-ICL: In-Context Learning-Based Turbo Equalization|[[pdf]](http://arxiv.org/abs/2505.06175v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[en] New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Robust Method for Confidence Interval Estimation in Outlier-Prone Datasets: Application to Molecular and Biophysical Data|[[pdf]](http://arxiv.org/abs/2505.06139v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades|[[pdf]](http://arxiv.org/abs/2505.06080v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Hexagonal ice density dependence on inter atomic distance changes due to nuclear quantum effects|[[pdf]](http://arxiv.org/abs/2505.06132v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -98,6 +102,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 73
+- Total Papers: 77
 - Code Implementations: 21
 - Last Updated: May 2025

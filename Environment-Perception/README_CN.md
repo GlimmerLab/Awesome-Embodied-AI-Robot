@@ -27,6 +27,8 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-09|[Topo-VM-UNetV2] Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation|[[pdf]](http://arxiv.org/abs/2505.06210v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[en] Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.06113v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Differentiating Emigration from Return Migration of Scholars Using Name-Based Nationality Detection Models|[[pdf]](http://arxiv.org/abs/2505.06107v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -79,6 +81,6 @@
 
 ## 📊 统计
 
-- 论文总数：55篇
+- 论文总数：57篇
 - 代码实现：8个
 - 最后更新：2025年05月

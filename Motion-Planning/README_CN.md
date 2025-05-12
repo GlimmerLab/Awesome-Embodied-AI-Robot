@@ -41,6 +41,9 @@
 |2025-05-09|Anomalous spin dynamics after dual optical excitation|[[pdf]](http://arxiv.org/abs/2505.06225v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Counting observables in stochastic excursions|[[pdf]](http://arxiv.org/abs/2505.06208v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Average Optimal Control of Uncertain Control-Affine Systems|[[pdf]](http://arxiv.org/abs/2505.06204v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[KRRF] KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning|[[pdf]](http://arxiv.org/abs/2505.06126v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[HashKitty] HashKitty: Distributed Password Analysis|[[pdf]](http://arxiv.org/abs/2505.06084v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Centralized Decision-Making for Platooning By Using SPaT-Driven Reference Speeds|[[pdf]](http://arxiv.org/abs/2505.06071v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[AvaLovelace1/LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
 |2025-05-08|A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source|[[pdf]](http://arxiv.org/abs/2505.05457v1)|⚠️|⭐️⭐️⭐️|
@@ -94,6 +97,6 @@
 
 ## 📊 统计
 
-- 论文总数：69篇
+- 论文总数：72篇
 - 代码实现：7个
 - 最后更新：2025年05月
