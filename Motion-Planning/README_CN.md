@@ -18,22 +18,31 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025|HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion|[[pdf]](https://arxiv.org/abs/2502.03206)|⚠️|⭐️⭐️⭐️|
-|2024-10|HOVER: A Versatile Humanoid Robot Controller|[[pdf]](https://arxiv.org/abs/2410.21229)|[HOVER](https://github.com/NVlabs/HOVER)|⭐️⭐️⭐️|
+|2024-10|HOVER: A Versatile Humanoid Robot Controller|[[pdf]](https://arxiv.org/abs/2410.21229)|[NVlabs/HOVER](https://github.com/NVlabs/HOVER)|⭐️⭐️⭐️|
 |2024|PIE: Parkour with Implicit-Explicit Learning Framework for Legged Robots|[[pdf]](https://arxiv.org/abs/2408.13740)|⚠️|⭐️⭐️|
-|2024|Expressive Whole-Body Control for Humanoid Robots|[[pdf]](https://arxiv.org/abs/2402.16796)|[expressive-humanoid](https://github.com/chengxuxin/expressive-humanoid)|⭐️⭐️⭐️|
-|2024|Visual Whole-Body Control for Legged Loco-Manipulation|[[pdf]](https://arxiv.org/abs/2403.16967)|[visual_wholebody](https://github.com/Ericonaldo/visual_wholebody)|⭐️⭐️⭐️|
+|2024|Expressive Whole-Body Control for Humanoid Robots|[[pdf]](https://arxiv.org/abs/2402.16796)|[chengxuxin/expressive-humanoid](https://github.com/chengxuxin/expressive-humanoid)|⭐️⭐️⭐️|
+|2024|Visual Whole-Body Control for Legged Loco-Manipulation|[[pdf]](https://arxiv.org/abs/2403.16967)|[Ericonaldo/visual_wholebody](https://github.com/Ericonaldo/visual_wholebody)|⭐️⭐️⭐️|
 |2024|Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control|[[pdf]](https://arxiv.org/abs/2412.07773)|⚠️|⭐️⭐️|
 |2023|ANYmal Parkour: Learning Agile Navigation for Quadrupedal Robots|[[pdf]](https://arxiv.org/abs/2306.14874)|⚠️|⭐️⭐️⭐️|
 |2023|DTC: Deep Tracking Control|[[pdf]](https://arxiv.org/abs/2309.15462)|⚠️|⭐️⭐️⭐️|
-|2023|Extreme Parkour with Legged Robots|[[pdf]](https://arxiv.org/abs/2309.14341)|[extreme-parkour](https://github.com/chengxuxin/extreme-parkour)|⭐️⭐️⭐️|
-|2023|Robot Parkour Learning|[[pdf]](https://arxiv.org/abs/2309.05665)|[parkour](https://github.com/ZiwenZhuang/parkour)|⭐️⭐️⭐️|
+|2023|Extreme Parkour with Legged Robots|[[pdf]](https://arxiv.org/abs/2309.14341)|[chengxuxin/extreme-parkour](https://github.com/chengxuxin/extreme-parkour)|⭐️⭐️⭐️|
+|2023|Robot Parkour Learning|[[pdf]](https://arxiv.org/abs/2309.05665)|[ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour)|⭐️⭐️⭐️|
 
 ## 自动更新的论文
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-09|Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning|[[pdf]](http://arxiv.org/abs/2505.06126v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment|[[pdf]](http://arxiv.org/abs/2505.06211v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Inverse Problem for the Schrödinger Equation with Non-self-adjoint Matrix Potential|[[pdf]](http://arxiv.org/abs/2505.06142v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data|[[pdf]](http://arxiv.org/abs/2505.06171v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Anomalous spin dynamics after dual optical excitation|[[pdf]](http://arxiv.org/abs/2505.06225v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Counting observables in stochastic excursions|[[pdf]](http://arxiv.org/abs/2505.06208v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Average Optimal Control of Uncertain Control-Affine Systems|[[pdf]](http://arxiv.org/abs/2505.06204v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
+|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[AvaLovelace1/LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
 |2025-05-08|A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source|[[pdf]](http://arxiv.org/abs/2505.05457v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles|[[pdf]](http://arxiv.org/abs/2505.05452v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|The Brownian marble|[[pdf]](http://arxiv.org/abs/2505.05451v1)|⚠️|⭐️⭐️⭐️|
@@ -64,7 +73,7 @@
 |2025-05-08|Amplified Feedback and Spontaneous Emission Injection in Quantum Cascade Ring Laser Systems|[[pdf]](http://arxiv.org/abs/2505.05382v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting|[[pdf]](http://arxiv.org/abs/2505.05381v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Unconventional magnetoresistance and spin gapless semiconductor like behavior across the Martensitic transformation in off-stoichiometric Co-Fe-Ti-Si Heusler alloy thin films|[[pdf]](http://arxiv.org/abs/2505.05379v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2505.05375v2)|[tm-otta-snn](https://github.com/nneurotransmitterr/tm-otta-snn)|⭐️⭐️⭐️|
+|2025-05-08|Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2505.05375v2)|[nneurotransmitterr/tm-otta-snn](https://github.com/nneurotransmitterr/tm-otta-snn)|⭐️⭐️⭐️|
 |2025-05-08|Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt|[[pdf]](http://arxiv.org/abs/2505.05367v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Software-Defined Reliability Architecture for Planetary Scale RDMA Communication|[[pdf]](http://arxiv.org/abs/2505.05366v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Machine learning bridging battery field data and laboratory data|[[pdf]](http://arxiv.org/abs/2505.05364v1)|⚠️|⭐️⭐️⭐️|
@@ -85,6 +94,6 @@
 
 ## 📊 统计
 
-- 论文总数：60篇
+- 论文总数：69篇
 - 代码实现：7个
 - 最后更新：2025年05月
