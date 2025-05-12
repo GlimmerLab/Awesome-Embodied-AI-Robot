@@ -25,18 +25,26 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
-|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
+|2025-05-09|Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies|[[pdf]](http://arxiv.org/abs/2505.06145v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling|[[pdf]](http://arxiv.org/abs/2505.06184v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Adapting a Segmentation Foundation Model for Medical Image Classification|[[pdf]](http://arxiv.org/abs/2505.06217v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Ohana trees and Taylor expansion for the $λ$I-calculus. No variable gets left behind or forgotten!|[[pdf]](http://arxiv.org/abs/2505.06193v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[en] Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Representation of tensor functions using low-order structural tensor set: two-dimensional point group|[[pdf]](http://arxiv.org/abs/2505.06156v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Revisiting the connection of baryon number, lepton number, and operator dimension|[[pdf]](http://arxiv.org/abs/2505.06172v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Rydberg atomic spectrum analyzer with microwave-dressed-state-locking and multimode Floquet theory|[[pdf]](http://arxiv.org/abs/2505.06034v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
+|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|An Omni Foundation Model for Interleaved Multi-Modal Generation|[[pdf]](http://arxiv.org/abs/2505.05472v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Evaluating Legally Consistent Bias in Machine Learning|[[pdf]](http://arxiv.org/abs/2505.05471v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Training Flow Matching Models via Online RL|[[pdf]](http://arxiv.org/abs/2505.05470v1)|[flow_grpo](https://github.com/yifan123/flow_grpo)|⭐️⭐️⭐️|
-|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
+|2025-05-08|Training Flow Matching Models via Online RL|[[pdf]](http://arxiv.org/abs/2505.05470v1)|[yifan123/flow_grpo](https://github.com/yifan123/flow_grpo)|⭐️⭐️⭐️|
+|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[AvaLovelace1/LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
 |2025-05-08|A Solovay-Kitaev theorem for quantum signal processing|[[pdf]](http://arxiv.org/abs/2505.05468v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant|[[pdf]](http://arxiv.org/abs/2505.05467v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Comparison of integral equations used to study $T_{cc}^+$|[[pdf]](http://arxiv.org/abs/2505.05466v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Preference Alignment via Comparison Oracles|[[pdf]](http://arxiv.org/abs/2505.05465v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
+|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[shiqichen17/vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
 |2025-05-08|Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe|[[pdf]](http://arxiv.org/abs/2505.05463v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Marsden--Meyer--Weinstein reduction for $k$-contact field theories|[[pdf]](http://arxiv.org/abs/2505.05462v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Representation Stability for Marked Graph Complexes|[[pdf]](http://arxiv.org/abs/2505.05461v1)|⚠️|⭐️⭐️⭐️|
@@ -78,6 +86,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：50篇
+- 论文总数：58篇
 - 代码实现：5个
 - 最后更新：2025年05月

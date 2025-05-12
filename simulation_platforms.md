@@ -24,32 +24,44 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
-|RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
-|PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
+|Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[openai/safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
+|RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimTech/raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
+|PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
 |Name|Description|[[pdf]](Paper)|[Code](Code)|Recommendation|
 |NVIDIA Omniverse|Platform for virtual worlds and digital twins|[[pdf]]([[docs]](https://docs.omniverse.nvidia.com/)|[NVIDIA-Omniverse](https://github.com/NVIDIA-Omniverse)|⭐️⭐️⭐️|
-|MuJoCo|High-performance physics engine for robotics and ML|[[pdf]](https://arxiv.org/abs/2106.14481)|[mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
-|Legged Gym|Environments for legged robots|[[pdf]](https://arxiv.org/abs/2109.11978)|[legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
-|IsaacGym|NVIDIA's GPU-accelerated physics simulator|[[pdf]](https://arxiv.org/abs/2108.10470)|[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
-|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](⚠️)|[MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
-|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](https://arxiv.org/abs/2410.17491)|[MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
-||Safety Gym: Safe exploration environments|[[pdf]](⚠️)|[safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
-||RaiSim: High-performance physics engine for robotics|[[pdf]](⚠️)|[raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
-||PyBullet: Physics simulation for robotics and ML|[[pdf]](⚠️)|[bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
+|MuJoCo|High-performance physics engine for robotics and ML|[[pdf]](https://arxiv.org/abs/2106.14481)|[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
+|Legged Gym|Environments for legged robots|[[pdf]](https://arxiv.org/abs/2109.11978)|[leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
+|IsaacGym|NVIDIA's GPU-accelerated physics simulator|[[pdf]](https://arxiv.org/abs/2108.10470)|[NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
+|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](⚠️)|[NVlabs/MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
+|2024-10|MobilityGen: A Framework for Generating Synthetic Robot Motion Data|[[pdf]](https://arxiv.org/abs/2410.17491)|[NVlabs/MobilityGen](https://github.com/NVlabs/MobilityGen)|⭐️⭐️⭐️|
+||Safety Gym: Safe exploration environments|[[pdf]](⚠️)|[openai/safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
+||RaiSim: High-performance physics engine for robotics|[[pdf]](⚠️)|[raisimTech/raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
+||PyBullet: Physics simulation for robotics and ML|[[pdf]](⚠️)|[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
 ||NVIDIA Omniverse: Platform for virtual worlds and digital twins|[[pdf]](⚠️)|[NVIDIA-Omniverse](https://github.com/NVIDIA-Omniverse)|⭐️⭐️⭐️|
-||MuJoCo: High-performance physics engine for robotics and ML|[[pdf]](⚠️)|[mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
-||Legged Gym: Environments for legged robots|[[pdf]](⚠️)|[legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
-||IsaacGym: NVIDIA's GPU-accelerated physics simulator|[[pdf]](⚠️)|[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
+||MuJoCo: High-performance physics engine for robotics and ML|[[pdf]](⚠️)|[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)|⭐️⭐️⭐️⭐️|
+||Legged Gym: Environments for legged robots|[[pdf]](⚠️)|[leggedrobotics/legged_gym](https://github.com/leggedrobotics/legged_gym)|⭐️⭐️⭐️|
+||IsaacGym: NVIDIA's GPU-accelerated physics simulator|[[pdf]](⚠️)|[NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)|⭐️⭐️⭐️|
 
 ## Auto-Updated Papers
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
-|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
+|2025-05-09|[ABAMGuid+] ABAMGuid+: An Enhanced Aerocapture Guidance Framework using Augmented Bank Angle Modulation|[[pdf]](http://arxiv.org/abs/2505.06161v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[ProME] ProME: An Integrated Computational Platform for Material Properties at Extremes and Its Application in Multicomponent Alloy Design|[[pdf]](http://arxiv.org/abs/2505.06194v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Control of encounter kinetics by chemically active droplets|[[pdf]](http://arxiv.org/abs/2505.06153v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|An Empirical Study of Fuzz Harness Degradation|[[pdf]](http://arxiv.org/abs/2505.06177v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Revisiting the connection of baryon number, lepton number, and operator dimension|[[pdf]](http://arxiv.org/abs/2505.06172v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Efficient time-domain scattering synthesis via frequency-domain singularity subtraction|[[pdf]](http://arxiv.org/abs/2505.06189v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[Turbo-ICL] Turbo-ICL: In-Context Learning-Based Turbo Equalization|[[pdf]](http://arxiv.org/abs/2505.06175v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[en] New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Robust Method for Confidence Interval Estimation in Outlier-Prone Datasets: Application to Molecular and Biophysical Data|[[pdf]](http://arxiv.org/abs/2505.06139v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades|[[pdf]](http://arxiv.org/abs/2505.06080v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Hexagonal ice density dependence on inter atomic distance changes due to nuclear quantum effects|[[pdf]](http://arxiv.org/abs/2505.06132v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
+|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
+|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[AvaLovelace1/LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
 |2025-05-08|A Solovay-Kitaev theorem for quantum signal processing|[[pdf]](http://arxiv.org/abs/2505.05468v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Comparison of integral equations used to study $T_{cc}^+$|[[pdf]](http://arxiv.org/abs/2505.05466v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe|[[pdf]](http://arxiv.org/abs/2505.05463v1)|⚠️|⭐️⭐️⭐️|
@@ -89,7 +101,7 @@ This directory collects papers and code implementations related to simulation pl
 |2025-05-08|Crosslingual Reasoning through Test-Time Scaling|[[pdf]](http://arxiv.org/abs/2505.05408v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Testing an unstable cosmic neutrino background|[[pdf]](http://arxiv.org/abs/2505.05405v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Application to attosecond X-ray spectroscopy|[[pdf]](http://arxiv.org/abs/2505.05403v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Oblique Decision Tree Induction via Exhaustive Search|[[pdf]](http://arxiv.org/abs/2505.05402v1)|[cart-elc](https://github.com/andrewlaack/cart-elc)|⭐️⭐️⭐️|
+|2025-05-08|Oblique Decision Tree Induction via Exhaustive Search|[[pdf]](http://arxiv.org/abs/2505.05402v1)|[andrewlaack/cart-elc](https://github.com/andrewlaack/cart-elc)|⭐️⭐️⭐️|
 |2025-05-08|Efficient Numerical Quantification of Flettner Rotor Installations|[[pdf]](http://arxiv.org/abs/2505.05401v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation|[[pdf]](http://arxiv.org/abs/2505.05399v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Photonic Structures to Achieve High-Performance Dew-Harvesting in a 24-h Day-Night Cycle|[[pdf]](http://arxiv.org/abs/2505.05398v1)|⚠️|⭐️⭐️⭐️|
@@ -97,6 +109,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 65
+- Total Papers: 77
 - Code Implementations: 21
 - Last Updated: May 2025

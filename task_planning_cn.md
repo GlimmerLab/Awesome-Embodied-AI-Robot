@@ -23,23 +23,30 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2023|Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks|[[pdf]](https://openreview.net/forum?id=QG_ERxtDAP-&referrer=%5Bthe%20profile%20of%20Marco%20Hutter%5D(%2Fprofile%3Fid%3D~Marco_Hutter1)|[curiosity_tamp](https://github.com/example/curiosity_tamp)|⭐️⭐️|
+|2023|Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks|[[pdf]](https://openreview.net/forum?id=QG_ERxtDAP-&referrer=%5Bthe%20profile%20of%20Marco%20Hutter%5D(%2Fprofile%3Fid%3D~Marco_Hutter1)|[example/curiosity_tamp](https://github.com/example/curiosity_tamp)|⭐️⭐️|
 
 ## 自动更新的论文
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
-|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
-|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
+|2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters|[[pdf]](http://arxiv.org/abs/2505.06174v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment|[[pdf]](http://arxiv.org/abs/2505.06211v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Above-room-temperature ferromagnetism in large-area epitaxial Fe3GaTe2/graphene van der Waals heterostructures|[[pdf]](http://arxiv.org/abs/2505.06128v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|An Empirical Study of Fuzz Harness Degradation|[[pdf]](http://arxiv.org/abs/2505.06177v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
+|2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|An Omni Foundation Model for Interleaved Multi-Modal Generation|[[pdf]](http://arxiv.org/abs/2505.05472v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Evaluating Legally Consistent Bias in Machine Learning|[[pdf]](http://arxiv.org/abs/2505.05471v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Training Flow Matching Models via Online RL|[[pdf]](http://arxiv.org/abs/2505.05470v1)|[flow_grpo](https://github.com/yifan123/flow_grpo)|⭐️⭐️⭐️|
-|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
+|2025-05-08|Training Flow Matching Models via Online RL|[[pdf]](http://arxiv.org/abs/2505.05470v1)|[yifan123/flow_grpo](https://github.com/yifan123/flow_grpo)|⭐️⭐️⭐️|
+|2025-05-08|Generating Physically Stable and Buildable LEGO Designs from Text|[[pdf]](http://arxiv.org/abs/2505.05469v1)|[AvaLovelace1/LegoGPT](https://github.com/AvaLovelace1/LegoGPT)|⭐️⭐️⭐️|
 |2025-05-08|Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant|[[pdf]](http://arxiv.org/abs/2505.05467v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Comparison of integral equations used to study $T_{cc}^+$|[[pdf]](http://arxiv.org/abs/2505.05466v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Preference Alignment via Comparison Oracles|[[pdf]](http://arxiv.org/abs/2505.05465v1)|⚠️|⭐️⭐️⭐️|
-|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
+|2025-05-08|Understanding Perception and Reasoning through Model Merging|[[pdf]](http://arxiv.org/abs/2505.05464v1)|[shiqichen17/vlm_merging](https://github.com/shiqichen17/vlm_merging)|⭐️⭐️⭐️|
 |2025-05-08|Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe|[[pdf]](http://arxiv.org/abs/2505.05463v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Marsden--Meyer--Weinstein reduction for $k$-contact field theories|[[pdf]](http://arxiv.org/abs/2505.05462v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Representation Stability for Marked Graph Complexes|[[pdf]](http://arxiv.org/abs/2505.05461v1)|⚠️|⭐️⭐️⭐️|
@@ -82,6 +89,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：51篇
+- 论文总数：58篇
 - 代码实现：6个
 - 最后更新：2025年05月
