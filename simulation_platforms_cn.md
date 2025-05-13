@@ -58,6 +58,7 @@ lang: zh
 |2025-05-09|Robust Method for Confidence Interval Estimation in Outlier-Prone Datasets: Application to Molecular and Biophysical Data|[[pdf]](http://arxiv.org/abs/2505.06139v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades|[[pdf]](http://arxiv.org/abs/2505.06080v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Hexagonal ice density dependence on inter atomic distance changes due to nuclear quantum effects|[[pdf]](http://arxiv.org/abs/2505.06132v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Above-room-temperature ferromagnetism in large-area epitaxial Fe3GaTe2/graphene van der Waals heterostructures|[[pdf]](http://arxiv.org/abs/2505.06128v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -109,6 +110,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：77篇
+- 论文总数：78篇
 - 代码实现：21个
 - 最后更新：2025年05月
