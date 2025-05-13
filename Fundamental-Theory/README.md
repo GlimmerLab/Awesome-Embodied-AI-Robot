@@ -26,6 +26,7 @@ This directory collects papers and code implementations related to fundamental t
 |2025-05-09|Representation of tensor functions using low-order structural tensor set: two-dimensional point group|[[pdf]](http://arxiv.org/abs/2505.06156v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Revisiting the connection of baryon number, lepton number, and operator dimension|[[pdf]](http://arxiv.org/abs/2505.06172v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Rydberg atomic spectrum analyzer with microwave-dressed-state-locking and multimode Floquet theory|[[pdf]](http://arxiv.org/abs/2505.06034v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -79,6 +80,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 58
+- Total Papers: 59
 - Code Implementations: 5
 - Last Updated: May 2025

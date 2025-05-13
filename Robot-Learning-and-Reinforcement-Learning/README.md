@@ -82,9 +82,13 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-09|Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.06122v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Algebraic Topology Principles behind Topological Quantum Error Correction|[[pdf]](http://arxiv.org/abs/2505.06082v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|The role of non-equilibrium populations in dark exciton formation|[[pdf]](http://arxiv.org/abs/2505.06074v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Deep Diffusion Maps|[[pdf]](http://arxiv.org/abs/2505.06087v1)|[sgh14/deep-diffusion-maps](https://github.com/sgh14/deep-diffusion-maps)|⭐️⭐️⭐️|
+|2025-05-09|Methodology for Topological Interface Engineering in 2D Photonic Crystals|[[pdf]](http://arxiv.org/abs/2505.06077v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|[FIC-TSC] FIC-TSC: Learning Time Series Classification with Fisher Information Constraint|[[pdf]](http://arxiv.org/abs/2505.06114v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
-- Total Papers: 59
-- Code Implementations: 17
+- Total Papers: 63
+- Code Implementations: 18
 - Last Updated: May 2025

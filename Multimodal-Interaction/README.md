@@ -29,6 +29,7 @@ This directory collects papers and code implementations related to multimodal in
 |2025-05-09|An Empirical Study of Fuzz Harness Degradation|[[pdf]](http://arxiv.org/abs/2505.06177v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Polymer-Shell Coating of Mie-Resonant Silicon Nanospheres for Controlled Fabrication of Self-Assembled Monolayer|[[pdf]](http://arxiv.org/abs/2505.06036v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Context Informed Incremental Learning Improves Myoelectric Control Performance in Virtual Reality Object Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2505.06064v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -77,6 +78,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 52
+- Total Papers: 53
 - Code Implementations: 6
 - Last Updated: May 2025
