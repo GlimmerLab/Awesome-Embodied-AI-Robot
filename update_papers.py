@@ -3,12 +3,36 @@ import re
 import json
 import requests
 import arxiv
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 import string
 import logging
 import traceback
+import argparse
+
+"""
+论文更新脚本 - 具身AI与机器人相关论文收集工具
+
+主要功能:
+1. 从arXiv获取最新的具身AI与机器人相关论文
+2. 对论文进行智能分类和评分
+3. 自动更新各分类目录下的README文件
+4. 支持按发布日期过滤论文(新功能)
+
+使用方法:
+- 基本运行: python update_papers.py
+  (默认获取最近30天内发布的论文)
+
+- 指定日期范围: python update_papers.py --days 60
+  (获取最近60天内发布的论文)
+
+- 获取更长时间范围: python update_papers.py --days 90
+  (获取最近90天内发布的论文)
+
+- 仅获取最新论文: python update_papers.py --days 7
+  (获取最近7天内发布的论文)
+"""
 
 # 设置日志
 logging.basicConfig(
@@ -21,17 +45,25 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class PaperUpdater:
-    def __init__(self):
-        self.base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-        # 定义目录和对应的检索关键词，添加robot前缀确保筛选机器人相关论文
+    def __init__(self, days_filter=30):
+        """
+        初始化论文更新器
+        Args:
+            days_filter: 筛选最近多少天内的论文，默认30天
+        """
+        # 保存日期筛选配置
+        self.days_filter = days_filter
+        logger.info(f"初始化论文更新器，筛选最近 {self.days_filter} 天内发表的论文")
+
+        # 分类名称及对应的arXiv分类和关键词
         self.categories = {
-            "Motion-Planning": "robot motion planning OR robot trajectory optimization OR robot path planning OR robot collision avoidance OR robot whole-body motion OR robot dynamic motion OR robot real-time planning OR robot humanoid control OR robot locomotion OR robot legged robot OR robot parkour OR robot kinodynamic planning OR robot loco-manipulation OR robot agile motion OR robot dexterous control OR robot reactive planning",
-            "Task-Planning": "robot task planning OR robot task decomposition OR robot task scheduling OR robot hierarchical planning OR robot TAMP OR robot task and motion planning OR robot learning-based planning OR robot multi-agent planning OR robot long-horizon planning OR robot semantic planning OR robot manipulation planning OR robot symbolic planning OR robot belief planning OR robot plan adaptation OR robot goal reasoning OR robot PDDL",
-            "Simulation-Platforms": "robot physics engine OR robot simulation OR robot simulation environment OR robot digital twin OR robot synthetic data OR robot benchmark platform OR robot physics simulator OR robot virtual environment OR robot learning environment OR robot embodied simulation OR robot simulation framework OR robot domain randomization OR robot sim-to-real OR robot high-fidelity simulation OR robot differentiable simulation OR robot simulator calibration",
-            "Robot-Learning-and-Reinforcement-Learning": "robot reinforcement learning OR robot legged robot learning OR robot quadruped robot learning OR robot biped robot learning OR robot locomotion learning OR robot motor skill learning OR robot imitation learning OR robot policy learning OR robot sim2real OR robot transfer learning OR robot multi-task learning OR robot hierarchical RL OR robot meta-learning OR robot offline RL OR robot adversarial motion prior OR robot skill generalization OR robot zero-shot learning OR robot motion prior OR robot deep reinforcement learning OR robot inverse reinforcement learning",
-            "Multimodal-Interaction": "robot multimodal interaction OR robot-human interaction OR robot vision language OR robot gesture recognition OR robot speech interaction OR robot tactile interaction OR robot social robotics OR robot natural language for robots OR robot reasoning OR robot embodied interaction OR robot embodied communication OR robot haptic feedback OR robot teleoperation OR robot telemanipulation OR robot shared autonomy OR robot interface OR robot dialog OR robot emotion recognition OR robot human tracking OR robot assistive robotics",
-            "Environment-Perception": "robot environment perception OR robot scene understanding OR robot object detection OR robot visual perception OR robot terrain understanding OR robot SLAM OR robot mapping OR robot sensor fusion OR robot 3D perception OR robot semantic segmentation OR robot depth estimation OR robot point cloud processing OR robot visual navigation OR robot active perception OR robot novelty detection OR robot self-localization OR robot semantic mapping OR robot affordance detection OR robot place recognition OR robot anomaly detection",
-            "Fundamental-Theory": "robot embodied AI theory OR robot embodied intelligence OR robot embodied learning OR robot cognitive science OR robot control theory OR robot embodied cognition OR robot computational models OR robot embodied learning theory OR robot evaluation methods OR robot embodied representation OR robot embodied generalization OR robot embodied reasoning OR robot foundation model OR robot world model OR robot intrinsic motivation OR robot representation learning OR robot self-supervision OR robot developmental robotics OR robot survey OR robot benchmark"
+            "Motion-Planning": "cs.RO OR cs.AI AND (motion planning OR path planning OR trajectory planning OR navigation)",
+            "Task-Planning": "cs.AI OR cs.RO AND (task planning OR hierarchical planning OR symbolic planning OR goal reasoning)",
+            "Simulation-Platforms": "cs.RO OR cs.AI AND (simulation OR simulator OR virtual environment OR digital twin)",
+            "Robot-Learning-and-Reinforcement-Learning": "cs.LG OR cs.AI OR cs.RO AND (robot learning OR reinforcement learning OR imitation learning)",
+            "Multimodal-Interaction": "cs.HC OR cs.AI OR cs.RO AND (human-robot interaction OR multimodal interaction OR natural language instruction OR gesture recognition)",
+            "Environment-Perception": "cs.CV OR cs.RO AND (perception OR object detection OR scene understanding OR 3D reconstruction OR SLAM)",
+            "Fundamental-Theory": "cs.AI OR cs.RO AND (theory OR algorithm OR topology OR kinematics OR dynamics)"
         }
 
         # 机器人特定硬件关键词 - 添加到查询中以提高相关性
@@ -662,10 +694,16 @@ class PaperUpdater:
         # 如果无法确定，返回None
         return None
 
-    def get_daily_papers(self, category, query, max_results=100):
+    def get_daily_papers(self, category, query, max_results=500, days=None):
         """
         获取每日论文，使用官方Client API替代旧的Search接口
         添加更精细的相关性检测和分类
+
+        Args:
+            category: 论文类别
+            query: 搜索查询
+            max_results: 最大返回结果数
+            days: 如果提供，只返回最近days天内的论文
         """
         papers = []
         try:
@@ -674,110 +712,299 @@ class PaperUpdater:
             # 构建更精细的查询
             basic_query = self.categories[category]
 
-            # 使用ArXiv的官方Client API
+            # 添加日期筛选，进行多次尝试以确保获取最新论文
+            date_ranges = []
+            if days:
+                # 主日期范围 - 从过去days天到现在
+                today = datetime.now()
+                from_date = today - timedelta(days=days)
+
+                # 按照arxiv API要求的格式构建日期范围：[YYYYMMDDTTTT+TO+YYYYMMDDTTTT]
+                from_date_str = from_date.strftime('%Y%m%d0000')
+                to_date_str = today.strftime('%Y%m%d2359')
+
+                # 构建日期范围列表，包括完整范围以及更短的最近时间段
+                # 这样即使最近论文很多，也会确保最新的论文被获取到
+                date_ranges.append({
+                    "filter": f" AND submittedDate:[{from_date_str}+TO+{to_date_str}]",
+                    "description": f"完整{days}天日期范围"
+                })
+
+                # 添加最近7天的范围，确保最新论文优先获取
+                if days > 7:
+                    recent_date = today - timedelta(days=7)
+                    recent_date_str = recent_date.strftime('%Y%m%d0000')
+                    date_ranges.append({
+                        "filter": f" AND submittedDate:[{recent_date_str}+TO+{to_date_str}]",
+                        "description": "最近7天日期范围"
+                    })
+
+                # 添加最近14天的范围
+                if days > 14:
+                    recent_date = today - timedelta(days=14)
+                    recent_date_str = recent_date.strftime('%Y%m%d0000')
+                    date_ranges.append({
+                        "filter": f" AND submittedDate:[{recent_date_str}+TO+{to_date_str}]",
+                        "description": "最近14天日期范围"
+                    })
+            else:
+                # 如果未指定天数，默认尝试获取最近30天的论文
+                today = datetime.now()
+                from_date = today - timedelta(days=30)
+                from_date_str = from_date.strftime('%Y%m%d0000')
+                to_date_str = today.strftime('%Y%m%d2359')
+                date_ranges.append({
+                    "filter": f" AND submittedDate:[{from_date_str}+TO+{to_date_str}]",
+                    "description": "默认30天日期范围"
+                })
+
+            # 创建客户端，增加重试次数和延迟以应对API限制
             client = arxiv.Client(
                 page_size=100,
                 delay_seconds=3,
                 num_retries=5
             )
 
-            # 构建查询对象，简化查询以避免API错误
-            search_query = arxiv.Search(
-                query=basic_query,
-                max_results=max_results,
-                sort_by=arxiv.SortCriterion.SubmittedDate
-            )
+            # 记录所有获取到的论文的ID，避免重复
+            found_paper_ids = set()
 
-            try:
-                # 获取论文列表
-                for i, result in enumerate(tqdm(client.results(search_query), desc=f"获取{category}论文", total=max_results)):
-                    try:
-                        # 如果已经达到最大结果数，则退出
-                        if i >= max_results:
-                            break
+            # 对每个日期范围进行查询，合并结果
+            for date_range in date_ranges:
+                date_filter = date_range["filter"]
+                full_query = basic_query + date_filter
 
-                        paper_id = result.get_short_id()
+                logger.info(f"尝试使用{date_range['description']}查询: {full_query}")
 
-                        # 检查是否已存在
-                        if any(paper["title"] == result.title for paper in self.existing_papers[category]):
+                # 构建查询对象
+                search_query = arxiv.Search(
+                    query=full_query,
+                    max_results=max_results,
+                    sort_by=arxiv.SortCriterion.SubmittedDate
+                )
+
+                try:
+                    # 获取结果
+                    results = list(client.results(search_query))
+                    logger.info(f"使用{date_range['description']}从ArXiv获取到 {len(results)} 篇论文")
+
+                    # 输出最新5篇论文的信息进行调试
+                    if results:
+                        logger.info(f"{date_range['description']}最近论文示例:")
+                        for i, result in enumerate(results[:5]):
+                            logger.info(f"  论文 {i+1}: {result.title} (发布日期: {result.published.date()})")
+
+                    # 处理获取到的论文
+                    for result in results:
+                        try:
+                            paper_id = result.get_short_id()
+
+                            # 检查是否已经处理过这篇论文
+                            if paper_id in found_paper_ids:
+                                continue
+
+                            # 添加到已处理集合
+                            found_paper_ids.add(paper_id)
+
+                            # 检查是否已存在
+                            if any(paper["title"] == result.title for paper in self.existing_papers[category]):
+                                logger.debug(f"论文已存在，跳过: {result.title}")
+                                continue
+
+                            # 获取标题和摘要，用于相关性检查
+                            title = result.title
+                            abstract = result.summary
+
+                            # 输出特别关注的论文信息（调试用）
+                            if any(keyword in title.lower() for keyword in ['adaptive motion', 'hyper-dexterous', 'amo:', 'parkour']):
+                                logger.info(f"找到潜在重要论文: {title}")
+                                logger.info(f"  发布日期: {result.published.date()}")
+                                logger.info(f"  ID: {paper_id}")
+
+                            # 进行相关性评估
+                            relevance_assessment = self.assess_paper_relevance(title, abstract, category)
+
+                            # 如果不相关，跳过
+                            if not relevance_assessment["is_relevant"]:
+                                logger.debug(f"论文不相关，跳过: {title}")
+                                logger.debug(f"  相关性分数: {relevance_assessment['score']}")
+                                logger.debug(f"  原因: {', '.join(relevance_assessment['reasons'][:3])}")
+                                continue
+
+                            # 在相关的情况下继续处理
+                            relevance_score = relevance_assessment["score"]
+                            is_special_paper = relevance_assessment["is_special_paper"]
+
+                            # 获取代码链接
+                            code_url = self.get_paper_info(paper_id)
+
+                            # 尝试识别标签
+                            tag = self.identify_tag(category, title, abstract)
+
+                            # 如果标题中有冒号，且没有自动识别出标签，尝试提取前缀作为标签
+                            if not tag and ":" in title:
+                                prefix = title.split(":")[0].strip()
+                                # 只有当前缀较短时才使用它作为标签
+                                if len(prefix) < 20:
+                                    tag = prefix
+
+                            # 确定论文的最佳分类类别
+                            best_category = self.determine_paper_category(title, abstract)
+                            category_switched = False
+
+                            # 如果该论文被确定为更适合其他类别，标记它
+                            if best_category and best_category != category:
+                                category_switched = True
+
+                            # 创建论文信息对象
+                            paper_info = {
+                                "date": str(result.published.date()),
+                                "title": title,
+                                "tag": tag,
+                                "authors": [author.name for author in result.authors],
+                                "abstract": abstract,
+                                "pdf_url": result.entry_id,
+                                "code_url": code_url if code_url else "⚠️",
+                                "rating": "⭐️⭐️⭐️",  # 默认评分
+                                "has_code": code_url is not None,
+                                "manual": False,  # 标记为自动更新
+                                "relevance_score": relevance_score,  # 记录相关性分数
+                                "is_special_paper": is_special_paper,  # 标记是否为特殊论文
+                                "relevance_reasons": relevance_assessment["reasons"][:3],  # 记录相关性的主要原因
+                                "best_category": best_category,  # 记录最佳分类
+                                "category_switched": category_switched  # 标记是否需要重新分类
+                            }
+                            papers.append(paper_info)
+
+                            # 记录高相关性论文（仅用于调试）
+                            if relevance_score > 15:  # 高相关性论文
+                                logger.info(f"高相关性论文: {title}")
+                                logger.info(f"  相关性分数: {relevance_score}")
+                                logger.info(f"  相关性原因: {', '.join(relevance_assessment['reasons'][:3])}")
+                        except Exception as e:
+                            logger.error(f"处理论文 {result.title if hasattr(result, 'title') else '未知标题'} 时发生错误: {str(e)}")
+                            logger.error(traceback.format_exc())
                             continue
 
-                        # 获取标题和摘要，用于相关性检查
-                        title = result.title
-                        abstract = result.summary
+                except arxiv.UnexpectedEmptyPageError as e:
+                    logger.warning(f"{date_range['description']}查询时ArXiv API返回空页面错误: {str(e)}")
+                except Exception as e:
+                    logger.error(f"{date_range['description']}查询时发生错误: {str(e)}")
+                    logger.error(traceback.format_exc())
 
-                        # 进行相关性评估
-                        relevance_assessment = self.assess_paper_relevance(title, abstract, category)
+            # 如果没有找到任何论文，尝试直接通过直接关键词搜索
+            if not papers:
+                logger.info("没有找到任何论文，尝试无日期限制的关键词搜索...")
 
-                        # 如果不相关，跳过
-                        if not relevance_assessment["is_relevant"]:
-                            logger.debug(f"论文不相关，跳过: {title}")
-                            logger.debug(f"  相关性分数: {relevance_assessment['score']}")
-                            logger.debug(f"  原因: {', '.join(relevance_assessment['reasons'][:3])}")
+                # 使用更宽泛的关键词搜索
+                try:
+                    search_query = arxiv.Search(
+                        query=basic_query,
+                        max_results=50,
+                        sort_by=arxiv.SortCriterion.SubmittedDate
+                    )
+
+                    results = list(client.results(search_query))
+                    logger.info(f"无日期限制搜索找到 {len(results)} 篇论文")
+
+                    # 处理论文（使用与上面相同的逻辑，但仅处理最近30天的论文）
+                    cutoff_date = datetime.now() - timedelta(days=30)
+                    for result in results:
+                        try:
+                            # 仅处理最近30天的论文
+                            if result.published.date() < cutoff_date.date():
+                                continue
+
+                            paper_id = result.get_short_id()
+
+                            # 检查是否已经处理过这篇论文
+                            if paper_id in found_paper_ids:
+                                continue
+
+                            # 添加到已处理集合
+                            found_paper_ids.add(paper_id)
+
+                            # 检查是否已存在
+                            if any(paper["title"] == result.title for paper in self.existing_papers[category]):
+                                logger.debug(f"论文已存在，跳过: {result.title}")
+                                continue
+
+                            # 获取标题和摘要，用于相关性检查
+                            title = result.title
+                            abstract = result.summary
+
+                            # 输出特别关注的论文信息（调试用）
+                            if any(keyword in title.lower() for keyword in ['adaptive motion', 'hyper-dexterous', 'amo:', 'parkour']):
+                                logger.info(f"找到潜在重要论文: {title}")
+                                logger.info(f"  发布日期: {result.published.date()}")
+                                logger.info(f"  ID: {paper_id}")
+
+                            # 进行相关性评估
+                            relevance_assessment = self.assess_paper_relevance(title, abstract, category)
+
+                            # 如果不相关，跳过
+                            if not relevance_assessment["is_relevant"]:
+                                logger.debug(f"论文不相关，跳过: {title}")
+                                logger.debug(f"  相关性分数: {relevance_assessment['score']}")
+                                logger.debug(f"  原因: {', '.join(relevance_assessment['reasons'][:3])}")
+                                continue
+
+                            # 在相关的情况下继续处理
+                            relevance_score = relevance_assessment["score"]
+                            is_special_paper = relevance_assessment["is_special_paper"]
+
+                            # 获取代码链接
+                            code_url = self.get_paper_info(paper_id)
+
+                            # 尝试识别标签
+                            tag = self.identify_tag(category, title, abstract)
+
+                            # 如果标题中有冒号，且没有自动识别出标签，尝试提取前缀作为标签
+                            if not tag and ":" in title:
+                                prefix = title.split(":")[0].strip()
+                                # 只有当前缀较短时才使用它作为标签
+                                if len(prefix) < 20:
+                                    tag = prefix
+
+                            # 确定论文的最佳分类类别
+                            best_category = self.determine_paper_category(title, abstract)
+                            category_switched = False
+
+                            # 如果该论文被确定为更适合其他类别，标记它
+                            if best_category and best_category != category:
+                                category_switched = True
+
+                            # 创建论文信息对象
+                            paper_info = {
+                                "date": str(result.published.date()),
+                                "title": title,
+                                "tag": tag,
+                                "authors": [author.name for author in result.authors],
+                                "abstract": abstract,
+                                "pdf_url": result.entry_id,
+                                "code_url": code_url if code_url else "⚠️",
+                                "rating": "⭐️⭐️⭐️",  # 默认评分
+                                "has_code": code_url is not None,
+                                "manual": False,  # 标记为自动更新
+                                "relevance_score": relevance_score,  # 记录相关性分数
+                                "is_special_paper": is_special_paper,  # 标记是否为特殊论文
+                                "relevance_reasons": relevance_assessment["reasons"][:3],  # 记录相关性的主要原因
+                                "best_category": best_category,  # 记录最佳分类
+                                "category_switched": category_switched  # 标记是否需要重新分类
+                            }
+                            papers.append(paper_info)
+
+                            # 记录高相关性论文（仅用于调试）
+                            if relevance_score > 15:  # 高相关性论文
+                                logger.info(f"高相关性论文: {title}")
+                                logger.info(f"  相关性分数: {relevance_score}")
+                                logger.info(f"  相关性原因: {', '.join(relevance_assessment['reasons'][:3])}")
+                        except Exception as e:
+                            logger.error(f"处理论文 {result.title if hasattr(result, 'title') else '未知标题'} 时发生错误: {str(e)}")
+                            logger.error(traceback.format_exc())
                             continue
-
-                        # 在相关的情况下继续处理
-                        relevance_score = relevance_assessment["score"]
-                        is_special_paper = relevance_assessment["is_special_paper"]
-
-                        # 获取代码链接
-                        code_url = self.get_paper_info(paper_id)
-
-                        # 尝试识别标签
-                        tag = self.identify_tag(category, title, abstract)
-
-                        # 如果标题中有冒号，且没有自动识别出标签，尝试提取前缀作为标签
-                        if not tag and ":" in title:
-                            prefix = title.split(":")[0].strip()
-                            # 只有当前缀较短时才使用它作为标签
-                            if len(prefix) < 20:
-                                tag = prefix
-
-                        # 确定论文的最佳分类类别
-                        best_category = self.determine_paper_category(title, abstract)
-                        category_switched = False
-
-                        # 如果该论文被确定为更适合其他类别，标记它
-                        if best_category and best_category != category:
-                            category_switched = True
-
-                        # 创建论文信息对象
-                        paper_info = {
-                            "date": str(result.published.date()),
-                            "title": title,
-                            "tag": tag,
-                            "authors": [author.name for author in result.authors],
-                            "abstract": abstract,
-                            "pdf_url": result.entry_id,
-                            "code_url": code_url if code_url else "⚠️",
-                            "rating": "⭐️⭐️⭐️",  # 默认评分
-                            "has_code": code_url is not None,
-                            "manual": False,  # 标记为自动更新
-                            "relevance_score": relevance_score,  # 记录相关性分数
-                            "is_special_paper": is_special_paper,  # 标记是否为特殊论文
-                            "relevance_reasons": relevance_assessment["reasons"][:3],  # 记录相关性的主要原因
-                            "best_category": best_category,  # 记录最佳分类
-                            "category_switched": category_switched  # 标记是否需要重新分类
-                        }
-                        papers.append(paper_info)
-
-                        # 记录高相关性论文（仅用于调试）
-                        if relevance_score > 15:  # 高相关性论文
-                            logger.info(f"高相关性论文: {title}")
-                            logger.info(f"  相关性分数: {relevance_score}")
-                            logger.info(f"  相关性原因: {', '.join(relevance_assessment['reasons'][:3])}")
-                    except Exception as e:
-                        logger.error(f"处理论文 {result.title if hasattr(result, 'title') else '未知标题'} 时发生错误: {str(e)}")
-                        logger.error(traceback.format_exc())
-                        continue
-
-            except arxiv.UnexpectedEmptyPageError as e:
-                logger.warning(f"ArXiv API返回空页面错误: {str(e)}")
-                logger.info(f"已收集到{len(papers)}篇论文，继续处理...")
-            except Exception as e:
-                logger.error(f"获取{category}论文时发生错误: {str(e)}")
-                logger.error(traceback.format_exc())
-                logger.info(f"已收集到{len(papers)}篇论文，继续处理...")
+                except Exception as e:
+                    logger.error(f"无日期限制搜索时发生错误: {str(e)}")
+                    logger.error(traceback.format_exc())
 
             # 按相关性分数排序，确保最相关的论文排在前面
             papers.sort(key=lambda x: x.get('relevance_score', 0), reverse=True)
@@ -1170,13 +1397,16 @@ class PaperUpdater:
         """运行更新程序，完成论文采集、智能分类和更新"""
         logger.info("开始更新论文列表...")
 
+        # 使用初始化时设置的日期筛选参数
+        logger.info(f"筛选最近 {self.days_filter} 天内发表的论文")
+
         # 第一步：获取各类别的论文
         all_papers = {}
         for category, query in self.keywords.items():
             try:
                 logger.info(f"\n处理分类: {category}")
                 logger.info(f"使用查询: {query}")
-                papers = self.get_daily_papers(category, query)
+                papers = self.get_daily_papers(category, query, days=self.days_filter)
                 if papers:
                     logger.info(f"找到 {len(papers)} 篇新论文")
                     all_papers[category] = papers
@@ -1284,10 +1514,12 @@ class PaperUpdater:
             logger.error(traceback.format_exc())
 
     def update_special_papers_ratings(self):
-        """为特殊论文（如AMO, OmniH2O等）添加额外评分"""
-        # 特殊论文关键词及对应评分
+        """为特殊论文添加额外评分"""
+        logger.info("开始更新特殊论文评分...")
+
+        # 特殊论文关键词及对应评分 - 更全面的关键词列表
         special_paper_keywords = {
-            # 高评分特殊论文类型
+            # 顶级论文评分关键词
             'adaptive motion optimization': '⭐️⭐️⭐️⭐️⭐️',
             'amo': '⭐️⭐️⭐️⭐️⭐️',
             'human-to-humanoid': '⭐️⭐️⭐️⭐️⭐️',
@@ -1295,56 +1527,112 @@ class PaperUpdater:
             'dexterous humanoid': '⭐️⭐️⭐️⭐️⭐️',
             'hyper-dexterous': '⭐️⭐️⭐️⭐️⭐️',
             'parkour robot': '⭐️⭐️⭐️⭐️⭐️',
-            'agile robot': '⭐️⭐️⭐️⭐️',
+            'agile humanoid': '⭐️⭐️⭐️⭐️⭐️',
+            'humanoid backflip': '⭐️⭐️⭐️⭐️⭐️',
+            'acrobatic': '⭐️⭐️⭐️⭐️⭐️',
 
-            # 知名机器人平台相关论文
+            # 高水平评分关键词
+            'agile robot': '⭐️⭐️⭐️⭐️',
             'atlas': '⭐️⭐️⭐️⭐️',
             'digit': '⭐️⭐️⭐️⭐️',
             'cassie': '⭐️⭐️⭐️⭐️',
             'anymal': '⭐️⭐️⭐️⭐️',
             'spot': '⭐️⭐️⭐️⭐️',
             'go1': '⭐️⭐️⭐️⭐️',
-
-            # 热门技术和流行方法
+            'tesla optimus': '⭐️⭐️⭐️⭐️',
+            'figure 01': '⭐️⭐️⭐️⭐️',
             'whole-body control': '⭐️⭐️⭐️⭐️',
-            'foundation model robot': '⭐️⭐️⭐️⭐️',
-            'world model robot': '⭐️⭐️⭐️⭐️',
-            'embodied intelligence': '⭐️⭐️⭐️⭐️',
-            'task and motion planning': '⭐️⭐️⭐️⭐️',
-            'tamp': '⭐️⭐️⭐️⭐️',
-            'vision-language robot': '⭐️⭐️⭐️⭐️',
-            'zero-shot robot': '⭐️⭐️⭐️⭐️',
+            'dynamic locomotion': '⭐️⭐️⭐️⭐️',
+            'legged': '⭐️⭐️⭐️',
+            'quadruped': '⭐️⭐️⭐️',
 
-            # 有代码实现的论文额外评分提升
-            # 在下方的逻辑中处理
+            # 特殊类别
+            'diffusion': '⭐️⭐️⭐️',
+            'transformer': '⭐️⭐️⭐️',
+            'vision language': '⭐️⭐️⭐️',
+            'embodied ai': '⭐️⭐️⭐️⭐️',
+            'foundation model': '⭐️⭐️⭐️⭐️',
+            'embodied intelligence': '⭐️⭐️⭐️⭐️',
+
+            # 特殊公司/机构
+            'deepmind': '⭐️⭐️⭐️⭐️',
+            'nvidia': '⭐️⭐️⭐️⭐️',
+            'berkeley': '⭐️⭐️⭐️⭐️',
+            'stanford': '⭐️⭐️⭐️⭐️',
+            'mit': '⭐️⭐️⭐️⭐️',
+            'cmu': '⭐️⭐️⭐️⭐️',
+            'eth zurich': '⭐️⭐️⭐️⭐️',
+            'google': '⭐️⭐️⭐️⭐️',
         }
 
+        # 特殊论文类型（可能覆盖上面的关键词评分）
+        special_paper_types = {
+            # 重要会议/期刊的论文
+            'icra': '⭐️⭐️⭐️⭐️',
+            'iros': '⭐️⭐️⭐️⭐️',
+            'corl': '⭐️⭐️⭐️⭐️',
+            'rss': '⭐️⭐️⭐️⭐️⭐️',
+            'science robotics': '⭐️⭐️⭐️⭐️⭐️',
+            'nature': '⭐️⭐️⭐️⭐️⭐️',
+            'science': '⭐️⭐️⭐️⭐️⭐️',
+            'icml': '⭐️⭐️⭐️⭐️',
+            'nips': '⭐️⭐️⭐️⭐️',
+            'neurips': '⭐️⭐️⭐️⭐️',
+            'cvpr': '⭐️⭐️⭐️⭐️',
+            'iccv': '⭐️⭐️⭐️⭐️',
+        }
+
+        # 遍历各个类别下的论文并更新评分
         updated_count = 0
-        for category, papers in self.existing_papers.items():
-            for paper in papers:
-                if not paper.get("manual", False):  # 只处理自动更新的论文
-                    title = paper.get("title", "").lower()
-                    abstract = paper.get("abstract", "").lower() if paper.get("abstract") else ""
-                    combined_text = title + " " + abstract
+        for category in self.existing_papers.keys():
+            for paper in self.existing_papers[category]:
+                title = paper.get('title', '').lower()
+                abstract = paper.get('abstract', '').lower()
 
-                    # 检查是否为特殊论文
-                    for keyword, rating in special_paper_keywords.items():
-                        if keyword in combined_text:
-                            paper["rating"] = rating
-                            logger.info(f"为特殊论文添加评分 {rating}: {paper['title']}")
-                            updated_count += 1
-                            break
+                # 如果是手动添加的论文，保持其评分不变
+                if paper.get('manual', False):
+                    continue
 
-                    # 如果论文有代码实现，额外提升评分
-                    if paper.get("code_url") and paper.get("code_url") != "⚠️":
-                        current_rating = paper.get("rating", "⭐️⭐️⭐️")
-                        # 如果评分少于4星，提升一级
-                        if current_rating.count("⭐️") < 4:
-                            paper["rating"] = current_rating + "⭐️"
-                            logger.info(f"为有代码实现的论文提升评分: {paper['title']}")
-                            updated_count += 1
+                # 默认评分为3星
+                max_rating = '⭐️⭐️⭐️'
 
-        logger.info(f"共更新了 {updated_count} 篇论文的评分")
+                # 检查特殊论文类型（如顶级会议）
+                for type_keyword, type_rating in special_paper_types.items():
+                    if type_keyword in title.lower() or type_keyword in abstract.lower():
+                        if type_rating > max_rating:
+                            max_rating = type_rating
+                            logger.debug(f"论文 '{paper['title']}' 属于特殊类型 '{type_keyword}'，评分提升为 {max_rating}")
+
+                # 根据内容关键词检查并更新评分
+                for keyword, rating in special_paper_keywords.items():
+                    if keyword in title.lower() or keyword in abstract.lower():
+                        if rating > max_rating:
+                            max_rating = rating
+                            logger.debug(f"论文 '{paper['title']}' 包含关键词 '{keyword}'，评分提升为 {max_rating}")
+
+                # 提升有代码的论文评分
+                if paper.get('has_code', False) and paper.get('code_url', '') != '⚠️':
+                    # 如果有代码且评分低于4星，提升一级
+                    if max_rating == '⭐️⭐️⭐️':
+                        max_rating = '⭐️⭐️⭐️⭐️'
+                        logger.debug(f"论文 '{paper['title']}' 有代码实现，评分提升为 {max_rating}")
+
+                # 根据相关性分数提升评分
+                relevance_score = paper.get('relevance_score', 0)
+                if relevance_score > 20 and max_rating < '⭐️⭐️⭐️⭐️⭐️':
+                    max_rating = '⭐️⭐️⭐️⭐️⭐️'
+                    logger.debug(f"论文 '{paper['title']}' 相关性极高 ({relevance_score})，评分提升为 {max_rating}")
+                elif relevance_score > 15 and max_rating < '⭐️⭐️⭐️⭐️':
+                    max_rating = '⭐️⭐️⭐️⭐️'
+                    logger.debug(f"论文 '{paper['title']}' 相关性很高 ({relevance_score})，评分提升为 {max_rating}")
+
+                # 更新论文评分
+                if paper.get('rating', '') != max_rating:
+                    logger.debug(f"更新论文 '{paper['title']}' 的评分从 {paper.get('rating', '')} 到 {max_rating}")
+                    paper['rating'] = max_rating
+                    updated_count += 1
+
+        logger.info(f"特殊论文评分更新完成，共更新了 {updated_count} 篇论文的评分")
 
     def assess_paper_relevance(self, title, abstract, category):
         """
@@ -1723,5 +2011,13 @@ class PaperUpdater:
             }
 
 if __name__ == "__main__":
-    updater = PaperUpdater()
+    # 创建命令行参数解析器
+    parser = argparse.ArgumentParser(description='更新具身AI与机器人相关论文列表')
+    parser.add_argument('--days', type=int, default=30, help='筛选最近多少天内发表的论文，默认30天')
+
+    # 解析命令行参数
+    args = parser.parse_args()
+
+    # 使用命令行参数初始化PaperUpdater
+    updater = PaperUpdater(days_filter=args.days)
     updater.run()

@@ -22,8 +22,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM|[[pdf]](http://arxiv.org/abs/2505.08492v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology|[[pdf]](http://arxiv.org/abs/2505.08765v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model|[[pdf]](http://arxiv.org/abs/2505.07820v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Topological Indices Among Strong Support Vertex|[[pdf]](http://arxiv.org/abs/2505.07774v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule|[[pdf]](http://arxiv.org/abs/2505.07286v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[CHD] CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2505.07261v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Cooperative Assembly with Autonomous Mobile Manipulators in an Underwater Scenario|[[pdf]](http://arxiv.org/abs/2505.07441v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-11|Efficient Robotic Policy Learning via Latent Space Backward Planning|[[pdf]](http://arxiv.org/abs/2505.06861v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters|[[pdf]](http://arxiv.org/abs/2505.06174v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
@@ -84,6 +90,6 @@
 
 ## 📊 统计
 
-- 论文总数：60篇
+- 论文总数：66篇
 - 代码实现：6个
 - 最后更新：2025年05月
