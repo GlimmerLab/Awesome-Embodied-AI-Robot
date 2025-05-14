@@ -1,19 +1,26 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en' }}">
+<html lang="{{ page.lang | default: site.default_lang | default: 'en' }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ page.description | default: site.description }}">
     <title>{{ site.title }} - {{ page.title }}</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+    <link rel="alternate icon" href="{{ '/favicon.ico' | relative_url }}">
 </head>
 <body>
+    <!-- 顶部导航栏 -->
     <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="/">
-                <i class="bi bi-robot"></i> {{ site.title }}
+            <a class="navbar-brand d-flex align-items-center" href="{{ site.baseurl }}/">
+                <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="RoboLLM Hub Logo" class="me-2" height="40">
+                {{ site.title }}
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -21,45 +28,100 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/"><i class="bi bi-house-door"></i> Home</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/"><i class="bi bi-house-door"></i> 首页</a>
                     </li>
+                    <!-- 分类导航 -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="categoriesDropdown" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-collection"></i> 分类
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="categoriesDropdown">
+                            {% assign lang_suffix = page.lang == 'zh' ? '_cn' : '' %}
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/fundamental_theory{{ lang_suffix }}.html">{% if page.lang == 'zh' %}基础理论{% else %}Fundamental Theory{% endif %}</a></li>
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/robot_learning_and_reinforcement_learning{{ lang_suffix }}.html">{% if page.lang == 'zh' %}机器人学习与强化学习{% else %}Robot Learning{% endif %}</a></li>
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/environment_perception{{ lang_suffix }}.html">{% if page.lang == 'zh' %}环境感知{% else %}Environment Perception{% endif %}</a></li>
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/motion_planning{{ lang_suffix }}.html">{% if page.lang == 'zh' %}运动规划{% else %}Motion Planning{% endif %}</a></li>
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/task_planning{{ lang_suffix }}.html">{% if page.lang == 'zh' %}任务规划{% else %}Task Planning{% endif %}</a></li>
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/multimodal_interaction{{ lang_suffix }}.html">{% if page.lang == 'zh' %}多模态交互{% else %}Multimodal Interaction{% endif %}</a></li>
+                            <li><a class="dropdown-item" href="{{ site.baseurl }}/simulation_platforms{{ lang_suffix }}.html">{% if page.lang == 'zh' %}仿真平台{% else %}Simulation Platforms{% endif %}</a></li>
+                        </ul>
+                    </li>
+                    <!-- GitHub链接 -->
                     <li class="nav-item">
                         <a class="nav-link" href="https://github.com/LJoson/Awesome-Embodied-AI" target="_blank">
                             <i class="bi bi-github"></i> GitHub
                         </a>
                     </li>
+                    <!-- 语言切换 -->
                     <li class="nav-item">
-                        <a class="nav-link" href="/index_en.html">English</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/index_cn.html">中文</a>
+                        {% if page.lang == 'zh' %}
+                        <a class="nav-link" href="{{ page.url | replace: '_cn.html', '.html' | replace: 'index_cn.html', 'index_en.html' }}">
+                            <i class="bi bi-translate"></i> English
+                        </a>
+                        {% else %}
+                        <a class="nav-link" href="{{ page.url | replace: '.html', '_cn.html' | replace: 'index_en.html', 'index_cn.html' }}">
+                            <i class="bi bi-translate"></i> 中文
+                        </a>
+                        {% endif %}
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <main class="py-4">
-        {{ content }}
+    <!-- 主体内容区 -->
+    <main class="container py-4">
+        <div class="content-wrapper">
+            {{ content }}
+        </div>
     </main>
 
-    <footer class="footer">
+    <!-- 页脚 -->
+    <footer class="footer mt-auto">
         <div class="container">
             <div class="row">
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="d-flex align-items-center mb-2">
+                        <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="RoboLLM Hub Logo" height="30" class="me-2">
+                        <h5 class="m-0">{{ site.title }}</h5>
+                    </div>
+                    <p class="text-light">{% if page.lang == 'zh' %}具身智能与机器人学习资源集合{% else %}A collection of embodied AI and robot learning resources{% endif %}</p>
+                </div>
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <h5>{% if page.lang == 'zh' %}快速链接{% else %}Quick Links{% endif %}</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="{{ site.baseurl }}/" class="footer-link"><i class="bi bi-house-door"></i> {% if page.lang == 'zh' %}首页{% else %}Home{% endif %}</a></li>
+                        <li><a href="https://github.com/LJoson/Awesome-Embodied-AI" target="_blank" class="footer-link"><i class="bi bi-github"></i> GitHub</a></li>
+                        <li><a href="https://github.com/LJoson/Awesome-Embodied-AI/issues" target="_blank" class="footer-link"><i class="bi bi-bug"></i> {% if page.lang == 'zh' %}报告问题{% else %}Report Issues{% endif %}</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>{% if page.lang == 'zh' %}语言{% else %}Languages{% endif %}</h5>
+                    <div class="language-switch">
+                        <a href="{{ site.baseurl }}/index_en.html" class="footer-link me-3">English</a>
+                        <a href="{{ site.baseurl }}/index_cn.html" class="footer-link">中文</a>
+                    </div>
+                </div>
+            </div>
+            <hr class="mt-4 mb-3">
+            <div class="row">
                 <div class="col-12 text-center">
-                    <p class="mb-0">© {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+                    <p class="mb-0">© {{ site.time | date: '%Y' }} {{ site.title }}. {% if page.lang == 'zh' %}保留所有权利{% else %}All rights reserved{% endif %}.</p>
                     <p class="mt-2 mb-0">
-                        Maintained by <a href="https://github.com/LJoson" target="_blank" class="text-white">LJoson</a>
-                        <span class="mx-2">|</span>
-                        <a href="https://github.com/LJoson/Awesome-Embodied-AI/issues" target="_blank" class="text-white">
-                            <i class="bi bi-bug"></i> Report Issues
-                        </a>
+                        {% if page.lang == 'zh' %}由{% else %}Maintained by{% endif %} <a href="https://github.com/LJoson" target="_blank" class="text-white">LJoson</a>
+                        {% if page.lang == 'zh' %}维护{% endif %}
                     </p>
                 </div>
             </div>
         </div>
     </footer>
 
+    <!-- 返回顶部按钮 -->
+    <button id="backToTop" class="btn btn-primary back-to-top" aria-label="Back to top">
+        <i class="bi bi-arrow-up"></i>
+    </button>
+
+    <!-- JavaScript 脚本 -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         // 添加平滑滚动
@@ -72,18 +134,14 @@
             });
         });
 
-        // 添加返回顶部按钮
-        const backToTop = document.createElement('button');
-        backToTop.innerHTML = '<i class="bi bi-arrow-up"></i>';
-        backToTop.className = 'btn btn-primary position-fixed bottom-0 end-0 m-3 rounded-circle';
-        backToTop.style.display = 'none';
-        document.body.appendChild(backToTop);
+        // 返回顶部按钮
+        const backToTop = document.getElementById('backToTop');
 
         window.addEventListener('scroll', () => {
             if (window.pageYOffset > 100) {
-                backToTop.style.display = 'block';
+                backToTop.classList.add('show');
             } else {
-                backToTop.style.display = 'none';
+                backToTop.classList.remove('show');
             }
         });
 
@@ -94,13 +152,27 @@
             });
         });
 
-        // 添加表格行悬停效果
-        document.querySelectorAll('.table-hover tr').forEach(row => {
-            row.addEventListener('mouseenter', () => {
-                row.style.transform = 'scale(1.01)';
-            });
-            row.addEventListener('mouseleave', () => {
-                row.style.transform = 'scale(1)';
+        // 表格增强
+        document.addEventListener('DOMContentLoaded', function() {
+            const tables = document.querySelectorAll('table');
+            tables.forEach(table => {
+                table.classList.add('table', 'table-striped', 'table-hover', 'table-responsive');
+
+                // 添加表头样式
+                const thead = table.querySelector('thead');
+                if (thead) {
+                    thead.classList.add('table-dark');
+                }
+
+                // 如果没有表头但有tr，将第一个tr作为表头
+                if (!thead && table.querySelector('tr')) {
+                    const firstTr = table.querySelector('tr');
+                    const newThead = document.createElement('thead');
+                    newThead.classList.add('table-dark');
+                    newThead.appendChild(firstTr.cloneNode(true));
+                    table.insertBefore(newThead, table.firstChild);
+                    firstTr.remove();
+                }
             });
         });
     </script>

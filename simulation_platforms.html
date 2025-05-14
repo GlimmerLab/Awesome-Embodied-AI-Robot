@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Simulation platforms for embodied AI research">
+    <title>RoboLLM Hub - Simulation Platforms</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/Awesome-Embodied-AI/assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="/Awesome-Embodied-AI/assets/images/favicon.svg">
+    <link rel="alternate icon" href="/Awesome-Embodied-AI/favicon.ico">
+</head>
+<body>
+    <!-- 顶部导航栏 -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="/Awesome-Embodied-AI/">
+                <img src="/Awesome-Embodied-AI/assets/images/logo.svg" alt="RoboLLM Hub Logo" class="me-2" height="40">
+                RoboLLM Hub
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Awesome-Embodied-AI/"><i class="bi bi-house-door"></i> 首页</a>
+                    </li>
+                    <!-- 分类导航 -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="categoriesDropdown" role="button" data-bs-toggle="dropdown">
+                            <i class="bi bi-collection"></i> 分类
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="categoriesDropdown">
+                            
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/fundamental_theoryen.html">Fundamental Theory</a></li>
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/robot_learning_and_reinforcement_learningen.html">Robot Learning</a></li>
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/environment_perceptionen.html">Environment Perception</a></li>
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/motion_planningen.html">Motion Planning</a></li>
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/task_planningen.html">Task Planning</a></li>
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/multimodal_interactionen.html">Multimodal Interaction</a></li>
+                            <li><a class="dropdown-item" href="/Awesome-Embodied-AI/simulation_platformsen.html">Simulation Platforms</a></li>
+                        </ul>
+                    </li>
+                    <!-- GitHub链接 -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/LJoson/Awesome-Embodied-AI" target="_blank">
+                            <i class="bi bi-github"></i> GitHub
+                        </a>
+                    </li>
+                    <!-- 语言切换 -->
+                    <li class="nav-item">
+                        
+                        <a class="nav-link" href="/simulation_platforms_cn.html">
+                            <i class="bi bi-translate"></i> 中文
+                        </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主体内容区 -->
+    <main class="container py-4">
+        <div class="content-wrapper">
+            <h1 id="-simulation-platforms"><i class="bi bi-pc-display"></i> Simulation Platforms</h1>
+
+<blockquote>
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="README.md">English</a></td>
+        <td>中文</td>
+      </tr>
+    </tbody>
+  </table>
+</blockquote>
+
+<p>This directory collects papers and code implementations related to simulation platforms in embodied AI.</p>
+
+<h2 id="main-contents">Main Contents</h2>
+
+<ul>
+  <li>Physics Simulators</li>
+  <li>Robot Simulation Environments</li>
+  <li>Learning Environments</li>
+  <li>Benchmarking Platforms</li>
+  <li>Digital Twins</li>
+  <li>Synthetic Data Generation</li>
+</ul>
+
+<h2 id="manually-added-papers">Manually Added Papers</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Title</th>
+      <th style="text-align: center">Paper</th>
+      <th style="text-align: center">Code</th>
+      <th style="text-align: center">Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Safety Gym</td>
+      <td style="text-align: center">Safe exploration environments</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/1910.09465">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/openai/safety-gym">openai/safety-gym</a></td>
+      <td style="text-align: center">⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">RaiSim</td>
+      <td style="text-align: center">High-performance physics engine for robotics</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/2011.08924">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/raisimTech/raisimLib">raisimTech/raisimLib</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">PyBullet</td>
+      <td style="text-align: center">Physics simulation for robotics and ML</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/2108.10470">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/bulletphysics/bullet3">bulletphysics/bullet3</a></td>
+      <td style="text-align: center">⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Name</td>
+      <td style="text-align: center">Description</td>
+      <td style="text-align: center"><a href="Paper">[pdf]</a></td>
+      <td style="text-align: center"><a href="Code">Code</a></td>
+      <td style="text-align: center">Recommendation</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">NVIDIA Omniverse</td>
+      <td style="text-align: center">Platform for virtual worlds and digital twins</td>
+      <td style="text-align: center">[[pdf]](<a href="https://docs.omniverse.nvidia.com/">[docs]</a></td>
+      <td style="text-align: center"><a href="https://github.com/NVIDIA-Omniverse">NVIDIA-Omniverse</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">MuJoCo</td>
+      <td style="text-align: center">High-performance physics engine for robotics and ML</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/2106.14481">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/google-deepmind/mujoco">google-deepmind/mujoco</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Legged Gym</td>
+      <td style="text-align: center">Environments for legged robots</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/2109.11978">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/leggedrobotics/legged_gym">leggedrobotics/legged_gym</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">IsaacGym</td>
+      <td style="text-align: center">NVIDIA’s GPU-accelerated physics simulator</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/2108.10470">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/NVIDIA-Omniverse/IsaacGymEnvs">NVIDIA-Omniverse/IsaacGymEnvs</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2024-10</td>
+      <td style="text-align: center">MobilityGen: A Framework for Generating Synthetic Robot Motion Data</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/NVlabs/MobilityGen">NVlabs/MobilityGen</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2024-10</td>
+      <td style="text-align: center">MobilityGen: A Framework for Generating Synthetic Robot Motion Data</td>
+      <td style="text-align: center"><a href="https://arxiv.org/abs/2410.17491">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/NVlabs/MobilityGen">NVlabs/MobilityGen</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">Safety Gym: Safe exploration environments</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/openai/safety-gym">openai/safety-gym</a></td>
+      <td style="text-align: center">⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">RaiSim: High-performance physics engine for robotics</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/raisimTech/raisimLib">raisimTech/raisimLib</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">PyBullet: Physics simulation for robotics and ML</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/bulletphysics/bullet3">bulletphysics/bullet3</a></td>
+      <td style="text-align: center">⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">NVIDIA Omniverse: Platform for virtual worlds and digital twins</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/NVIDIA-Omniverse">NVIDIA-Omniverse</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">MuJoCo: High-performance physics engine for robotics and ML</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/google-deepmind/mujoco">google-deepmind/mujoco</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">Legged Gym: Environments for legged robots</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/leggedrobotics/legged_gym">leggedrobotics/legged_gym</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">IsaacGym: NVIDIA’s GPU-accelerated physics simulator</td>
+      <td style="text-align: center"><a href="⚠️">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/NVIDIA-Omniverse/IsaacGymEnvs">NVIDIA-Omniverse/IsaacGymEnvs</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="auto-updated-papers">Auto-Updated Papers</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Title</th>
+      <th style="text-align: center">Paper</th>
+      <th style="text-align: center">Code</th>
+      <th style="text-align: center">Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">2025-05-13</td>
+      <td style="text-align: center">Big Data and the Computational Social Science of Entrepreneurship and Innovation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.08706v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-13</td>
+      <td style="text-align: center">[BAT] BAT: Benchmark for Auto-bidding Task</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.08485v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.07779v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">Mixed state deep thermalization</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.07795v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">The Effect of Luminosity Outbursts on the Abundance of Pebbles and Their Ice Mantles in Protoplanetary Disks</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.07718v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">[PRISM] PRISM: Complete Online Decentralized Multi-Agent Pathfinding with Rapid Information Sharing using Motion Constraints</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.08025v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">[NAZM] NAZM: Network Analysis of Zonal Metrics in Persian Poetic Tradition</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.08052v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">Land-Coverage Aware Path-Planning for Multi-UAV Swarms in Search and Rescue Scenarios</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.08060v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-12</td>
+      <td style="text-align: center">[en] Stiffness-based Analytic Centre Method for Cable-Driven Parallel Robots</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.07348v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">[ABAMGuid+] ABAMGuid+: An Enhanced Aerocapture Guidance Framework using Augmented Bank Angle Modulation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06161v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">[ProME] ProME: An Integrated Computational Platform for Material Properties at Extremes and Its Application in Multicomponent Alloy Design</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06194v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Control of encounter kinetics by chemically active droplets</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06153v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">An Empirical Study of Fuzz Harness Degradation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06177v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Revisiting the connection of baryon number, lepton number, and operator dimension</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06172v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Efficient time-domain scattering synthesis via frequency-domain singularity subtraction</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06189v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">[Turbo-ICL] Turbo-ICL: In-Context Learning-Based Turbo Equalization</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06175v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06187v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">[en] New Advances in Phonons: From Band Topology to Quasiparticle Chirality</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06179v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Robust Method for Confidence Interval Estimation in Outlier-Prone Datasets: Application to Molecular and Biophysical Data</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06139v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06080v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Hexagonal ice density dependence on inter atomic distance changes due to nuclear quantum effects</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06132v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-09</td>
+      <td style="text-align: center">Above-room-temperature ferromagnetism in large-area epitaxial Fe3GaTe2/graphene van der Waals heterostructures</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.06128v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05475v1">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/yc4ny/SVAD">yc4ny/SVAD</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">A Survey</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05474v1">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/hzxie/awesome-3d-scene-generation">hzxie/awesome-3d-scene-generation</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Predicting Structure and Motion via Ray Origin and Endpoint Diffusion</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05473v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Generating Physically Stable and Buildable LEGO Designs from Text</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05469v1">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/AvaLovelace1/LegoGPT">AvaLovelace1/LegoGPT</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">A Solovay-Kitaev theorem for quantum signal processing</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05468v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Comparison of integral equations used to study $T_{cc}^+$</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05466v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05463v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Marsden–Meyer–Weinstein reduction for $k$-contact field theories</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05462v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Reduced Basis Method for Driven-Dissipative Quantum Systems</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05460v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Emergence of Spin-Polarized Unconventional Skin Effect in Hatano-Nelson Model</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05458v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">towards Spatial Intelligence Thorough Evaluation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05456v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Calculation of ground state energy of Lithium and Beryllium based on variational method</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05455v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Resolution of the Solar Convective Conundrum? New Results Using the Time-Distance Deep-Focus Method</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05454v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05452v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Novel Forms of Early Dark Energy</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05450v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Manifest Gauge Invariance for Structure Dependent Radiative Corrections to Processes Involving Atoms and Nuclei</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05449v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Quantum effects in rotating thermal states on anti-de Sitter space-time</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05448v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Characterisation of Markov property on planar maps</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05447v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05446v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">a cosmic explosion with a complex off-axis jet and cocoon from a massive progenitor</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05444v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">implications for the observed abundance of ultra-violet luminous galaxies at z&gt;10</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05442v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05441v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Scalable Bernoulli factories for Bayesian inference with intractable likelihoods</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05438v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Cell size heterogeneity controls crystallization of the developing fruit fly wing</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05437v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">The effective energy of a lattice metamaterial</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05436v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Asymmetric decay of quantum many-body scars in XYZ quantum spin chains</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05435v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Non-Markovianity in collision models with initial intra-environment correlations</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05433v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Boundary Energy-Momentum Tensors for Asymptotically Flat Spacetimes</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05432v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05431v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Theoretical modeling of approximate universality of tidally deformed neutron stars</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05429v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Empowering Scientific Workflows with Federated Agents</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05428v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Efficient Data Filtering and Verification for High-Quality LLM Training Data</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05427v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05422v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Robustly optimal dynamics for active matter reservoir computing</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05420v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">A new time-dependent quantum theory based on Tsallis’ distribution</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05419v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05416v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Fermi lune and transdimensional orbital magnetism in rhombohedral multilayer graphene</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05414v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Post-Training Compression for Ultra-Low Power Hyperdimensional Computing</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05413v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Quantum Simulation of Dynamical Response Functions of Equilibrium States</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05411v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Transformer Symmetries Obscure Sharpness &amp; Riemannian Geometry Finds It</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05409v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Crosslingual Reasoning through Test-Time Scaling</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05408v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Testing an unstable cosmic neutrino background</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05405v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Application to attosecond X-ray spectroscopy</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05403v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Oblique Decision Tree Induction via Exhaustive Search</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05402v1">[pdf]</a></td>
+      <td style="text-align: center"><a href="https://github.com/andrewlaack/cart-elc">andrewlaack/cart-elc</a></td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Efficient Numerical Quantification of Flettner Rotor Installations</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05401v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05399v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">Photonic Structures to Achieve High-Performance Dew-Harvesting in a 24-h Day-Night Cycle</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05398v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2025-05-08</td>
+      <td style="text-align: center">A Pain Assessment Framework based on multimodal data and Deep Machine Learning methods</td>
+      <td style="text-align: center"><a href="http://arxiv.org/abs/2505.05396v1">[pdf]</a></td>
+      <td style="text-align: center">⚠️</td>
+      <td style="text-align: center">⭐️⭐️⭐️</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-statistics">📊 Statistics</h2>
+
+<ul>
+  <li>Total Papers: 87</li>
+  <li>Code Implementations: 21</li>
+  <li>Last Updated: May 2025</li>
+</ul>
+
+<p class="text-muted text-end"><small>Last updated: 2025-05-14</small></p>
+
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer mt-auto">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="d-flex align-items-center mb-2">
+                        <img src="/Awesome-Embodied-AI/assets/images/logo.svg" alt="RoboLLM Hub Logo" height="30" class="me-2">
+                        <h5 class="m-0">RoboLLM Hub</h5>
+                    </div>
+                    <p class="text-light">A collection of embodied AI and robot learning resources</p>
+                </div>
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/Awesome-Embodied-AI/" class="footer-link"><i class="bi bi-house-door"></i> Home</a></li>
+                        <li><a href="https://github.com/LJoson/Awesome-Embodied-AI" target="_blank" class="footer-link"><i class="bi bi-github"></i> GitHub</a></li>
+                        <li><a href="https://github.com/LJoson/Awesome-Embodied-AI/issues" target="_blank" class="footer-link"><i class="bi bi-bug"></i> Report Issues</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Languages</h5>
+                    <div class="language-switch">
+                        <a href="/Awesome-Embodied-AI/index_en.html" class="footer-link me-3">English</a>
+                        <a href="/Awesome-Embodied-AI/index_cn.html" class="footer-link">中文</a>
+                    </div>
+                </div>
+            </div>
+            <hr class="mt-4 mb-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <p class="mb-0">© 2025 RoboLLM Hub. All rights reserved.</p>
+                    <p class="mt-2 mb-0">
+                        Maintained by <a href="https://github.com/LJoson" target="_blank" class="text-white">LJoson</a>
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 返回顶部按钮 -->
+    <button id="backToTop" class="btn btn-primary back-to-top" aria-label="Back to top">
+        <i class="bi bi-arrow-up"></i>
+    </button>
+
+    <!-- JavaScript 脚本 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // 添加平滑滚动
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // 返回顶部按钮
+        const backToTop = document.getElementById('backToTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.pageYOffset > 100) {
+                backToTop.classList.add('show');
+            } else {
+                backToTop.classList.remove('show');
+            }
+        });
+
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+
+        // 表格增强
+        document.addEventListener('DOMContentLoaded', function() {
+            const tables = document.querySelectorAll('table');
+            tables.forEach(table => {
+                table.classList.add('table', 'table-striped', 'table-hover', 'table-responsive');
+
+                // 添加表头样式
+                const thead = table.querySelector('thead');
+                if (thead) {
+                    thead.classList.add('table-dark');
+                }
+
+                // 如果没有表头但有tr，将第一个tr作为表头
+                if (!thead && table.querySelector('tr')) {
+                    const firstTr = table.querySelector('tr');
+                    const newThead = document.createElement('thead');
+                    newThead.classList.add('table-dark');
+                    newThead.appendChild(firstTr.cloneNode(true));
+                    table.insertBefore(newThead, table.firstChild);
+                    firstTr.remove();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

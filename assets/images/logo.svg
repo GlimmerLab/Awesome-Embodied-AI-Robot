@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆 -->
+  <circle cx="60" cy="60" r="58" fill="#2c3e50" stroke="#3498db" stroke-width="4"/>
+
+  <!-- 机器人基本形状 -->
+  <rect x="35" y="30" width="50" height="40" rx="5" fill="#3498db"/>
+
+  <!-- 机器人头部 -->
+  <rect x="45" y="18" width="30" height="20" rx="5" fill="#3498db"/>
+
+  <!-- 机器人眼睛 -->
+  <circle cx="55" cy="28" r="4" fill="#ffffff"/>
+  <circle cx="65" cy="28" r="4" fill="#ffffff"/>
+
+  <!-- 机器人胳膊 -->
+  <rect x="25" y="40" width="10" height="30" rx="3" fill="#3498db"/>
+  <rect x="85" y="40" width="10" height="30" rx="3" fill="#3498db"/>
+
+  <!-- 机器人腿 -->
+  <rect x="45" y="70" width="10" height="25" rx="3" fill="#3498db"/>
+  <rect x="65" y="70" width="10" height="25" rx="3" fill="#3498db"/>
+
+  <!-- 脑电波 -->
+  <path d="M50 10 Q55 5, 60 10 Q65 15, 70 10" stroke="#e74c3c" stroke-width="3" fill="none"/>
+
+  <!-- 光环效果 -->
+  <circle cx="60" cy="5" r="3" fill="#f39c12"/>
+
+  <!-- 文字 -->
+  <text x="60" y="100" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">RoboLLM Hub</text>
+</svg>
