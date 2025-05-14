@@ -210,7 +210,7 @@ li {
 .footer {
     background-color: var(--primary-color);
     color: white;
-    padding: 3rem 0 2rem;
+    padding: 3rem 0;
     margin-top: 3rem;
     line-height: 1.5;
 }
@@ -218,17 +218,17 @@ li {
 .footer h5 {
     color: white;
     font-weight: 700;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
     font-size: 1.2rem;
     letter-spacing: 0.5px;
 }
 
 .footer-link {
-    color: rgba(255,255,255,0.8);
+    color: rgba(255,255,255,0.85);
     display: inline-block;
     transition: all var(--transition-speed) ease;
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .footer-link:hover {
@@ -237,13 +237,13 @@ li {
     text-decoration: none;
 }
 
-.footer-links li {
+.footer ul li {
     margin-bottom: 0.8rem;
 }
 
 .footer hr {
     border-color: rgba(255, 255, 255, 0.1);
-    margin: 1.5rem 0;
+    margin: 2rem 0;
 }
 
 .language-switch {
@@ -392,7 +392,16 @@ img {
     }
 
     .footer {
-        padding: 2rem 0 1.5rem;
+        padding: 2rem 0;
+        text-align: center;
+    }
+
+    .footer ul li {
+        text-align: center;
+    }
+
+    .footer-link {
+        display: inline-block;
     }
 }
 
