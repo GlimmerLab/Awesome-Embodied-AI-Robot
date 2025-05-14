@@ -33,9 +33,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs|[[pdf]](http://arxiv.org/abs/2505.08704v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Pixel Motion as Universal Representation for Robot Control|[[pdf]](http://arxiv.org/abs/2505.07817v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2505.07691v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Hybrid Spiking Vision Transformer for Object Detection with Event Cameras|[[pdf]](http://arxiv.org/abs/2505.07715v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-11|[en] Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation|[[pdf]](http://arxiv.org/abs/2505.06794v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|[Topo-VM-UNetV2] Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation|[[pdf]](http://arxiv.org/abs/2505.06210v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|[en] Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.06113v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Differentiating Emigration from Return Migration of Scholars Using Name-Based Nationality Detection Models|[[pdf]](http://arxiv.org/abs/2505.06107v1)|⚠️|⭐️⭐️⭐️|
@@ -92,6 +94,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 61
+- Total Papers: 63
 - Code Implementations: 8
 - Last Updated: May 2025

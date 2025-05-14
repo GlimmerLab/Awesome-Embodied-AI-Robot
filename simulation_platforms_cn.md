@@ -46,9 +46,15 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|Big Data and the Computational Social Science of Entrepreneurship and Innovation|[[pdf]](http://arxiv.org/abs/2505.08706v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[BAT] BAT: Benchmark for Auto-bidding Task|[[pdf]](http://arxiv.org/abs/2505.08485v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization|[[pdf]](http://arxiv.org/abs/2505.07779v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Mixed state deep thermalization|[[pdf]](http://arxiv.org/abs/2505.07795v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|The Effect of Luminosity Outbursts on the Abundance of Pebbles and Their Ice Mantles in Protoplanetary Disks|[[pdf]](http://arxiv.org/abs/2505.07718v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[PRISM] PRISM: Complete Online Decentralized Multi-Agent Pathfinding with Rapid Information Sharing using Motion Constraints|[[pdf]](http://arxiv.org/abs/2505.08025v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[NAZM] NAZM: Network Analysis of Zonal Metrics in Persian Poetic Tradition|[[pdf]](http://arxiv.org/abs/2505.08052v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Land-Coverage Aware Path-Planning for Multi-UAV Swarms in Search and Rescue Scenarios|[[pdf]](http://arxiv.org/abs/2505.08060v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[en] Stiffness-based Analytic Centre Method for Cable-Driven Parallel Robots|[[pdf]](http://arxiv.org/abs/2505.07348v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|[ABAMGuid+] ABAMGuid+: An Enhanced Aerocapture Guidance Framework using Augmented Bank Angle Modulation|[[pdf]](http://arxiv.org/abs/2505.06161v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|[ProME] ProME: An Integrated Computational Platform for Material Properties at Extremes and Its Application in Multicomponent Alloy Design|[[pdf]](http://arxiv.org/abs/2505.06194v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Control of encounter kinetics by chemically active droplets|[[pdf]](http://arxiv.org/abs/2505.06153v1)|⚠️|⭐️⭐️⭐️|
@@ -113,6 +119,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：81篇
+- 论文总数：87篇
 - 代码实现：21个
 - 最后更新：2025年05月

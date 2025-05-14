@@ -39,9 +39,16 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|A Comparative Study of Human Activity Recognition: Motion, Tactile, and multi-modal Approaches|[[pdf]](http://arxiv.org/abs/2505.08657v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[M3G] M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis|[[pdf]](http://arxiv.org/abs/2505.08293v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[en] Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering|[[pdf]](http://arxiv.org/abs/2505.08724v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|A Tightly Coupled IMU-Based Motion Capture Approach for Estimating Multibody Kinematics and Kinetics|[[pdf]](http://arxiv.org/abs/2505.08193v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation|[[pdf]](http://arxiv.org/abs/2505.07699v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Separable models for dynamic signed networks|[[pdf]](http://arxiv.org/abs/2505.07669v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells|[[pdf]](http://arxiv.org/abs/2505.07661v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[JAEGER] JAEGER: Dual-Level Humanoid Whole-Body Controller|[[pdf]](http://arxiv.org/abs/2505.06584v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[en] FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2505.06776v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[ProFashion] ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images|[[pdf]](http://arxiv.org/abs/2505.06537v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning|[[pdf]](http://arxiv.org/abs/2505.06126v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
@@ -104,9 +111,10 @@ This directory collects papers and code implementations related to motion planni
 |2025-05-08|A Unified Approach to Covariate Adjustment for Survival Endpoints in Randomized Clinical Trials|[[pdf]](http://arxiv.org/abs/2505.05338v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors|[[pdf]](http://arxiv.org/abs/2505.05336v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|Forecasting Thai inflation from univariate Bayesian regression perspective|[[pdf]](http://arxiv.org/abs/2505.05334v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-06|[AMO] AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control|[[pdf]](http://arxiv.org/abs/2505.03738v1)|[](https://amo-humanoid.github.io/)|⭐️⭐️⭐️⭐️|
 
 ## 📊 Statistics
 
-- Total Papers: 75
-- Code Implementations: 7
+- Total Papers: 83
+- Code Implementations: 8
 - Last Updated: May 2025

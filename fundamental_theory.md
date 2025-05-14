@@ -25,10 +25,14 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|[ARC-NCA] ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus|[[pdf]](http://arxiv.org/abs/2505.08778v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[LAMM-ViT] LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention|[[pdf]](http://arxiv.org/abs/2505.07734v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Learning from Peers in Reasoning Models|[[pdf]](http://arxiv.org/abs/2505.07787v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Learning Dynamics in Continual Pre-Training for Large Language Models|[[pdf]](http://arxiv.org/abs/2505.07796v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Joint Graph Convolution and Sequential Modeling for Scalable Network Traffic Estimation|[[pdf]](http://arxiv.org/abs/2505.07674v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Towards user-centered interactive medical image segmentation in VR with an assistive AI agent|[[pdf]](http://arxiv.org/abs/2505.07214v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[en] Cooperative Assembly with Autonomous Mobile Manipulators in an Underwater Scenario|[[pdf]](http://arxiv.org/abs/2505.07441v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[en] STRIVE: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation|[[pdf]](http://arxiv.org/abs/2505.06729v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies|[[pdf]](http://arxiv.org/abs/2505.06145v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling|[[pdf]](http://arxiv.org/abs/2505.06184v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Adapting a Segmentation Foundation Model for Medical Image Classification|[[pdf]](http://arxiv.org/abs/2505.06217v1)|⚠️|⭐️⭐️⭐️|
@@ -38,6 +42,7 @@ This directory collects papers and code implementations related to fundamental t
 |2025-05-09|Revisiting the connection of baryon number, lepton number, and operator dimension|[[pdf]](http://arxiv.org/abs/2505.06172v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Rydberg atomic spectrum analyzer with microwave-dressed-state-locking and multimode Floquet theory|[[pdf]](http://arxiv.org/abs/2505.06034v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Bi-LSTM based Multi-Agent DRL with Computation-aware Pruning for Agent Twins Migration in Vehicular Embodied AI Networks|[[pdf]](http://arxiv.org/abs/2505.06378v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-08|From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation|[[pdf]](http://arxiv.org/abs/2505.05475v1)|[yc4ny/SVAD](https://github.com/yc4ny/SVAD)|⭐️⭐️⭐️|
 |2025-05-08|A Survey|[[pdf]](http://arxiv.org/abs/2505.05474v1)|[hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)|⭐️⭐️⭐️|
 |2025-05-08|Predicting Structure and Motion via Ray Origin and Endpoint Diffusion|[[pdf]](http://arxiv.org/abs/2505.05473v1)|⚠️|⭐️⭐️⭐️|
@@ -91,6 +96,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 63
+- Total Papers: 68
 - Code Implementations: 5
 - Last Updated: May 2025

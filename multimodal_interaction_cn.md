@@ -32,12 +32,17 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|[CLTP] CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding|[[pdf]](http://arxiv.org/abs/2505.08194v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News|[[pdf]](http://arxiv.org/abs/2505.08532v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[en] A Social Robot with Inner Speech for Dietary Guidance|[[pdf]](http://arxiv.org/abs/2505.08664v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots|[[pdf]](http://arxiv.org/abs/2505.07668v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Adaptive] Hybrid Control Strategies for Safe and Adaptive Robot-Assisted Dressing|[[pdf]](http://arxiv.org/abs/2505.07710v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[AcoustoBots] AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions|[[pdf]](http://arxiv.org/abs/2505.07808v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|When Near Becomes Far: From Rayleigh to Optimal Near-Field and Far-Field Boundaries|[[pdf]](http://arxiv.org/abs/2505.07743v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[BodyGPS] BodyGPS: Anatomical Positioning System|[[pdf]](http://arxiv.org/abs/2505.07744v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators|[[pdf]](http://arxiv.org/abs/2505.07770v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[UAV-CodeAgents] UAV-CodeAgents: Scalable UAV Mission Planning via Multi-Agent ReAct and Vision-Language Reasoning|[[pdf]](http://arxiv.org/abs/2505.07236v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[TPT-Bench] TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking|[[pdf]](http://arxiv.org/abs/2505.07446v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework|[[pdf]](http://arxiv.org/abs/2505.06151v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|An Empirical Study of Fuzz Harness Degradation|[[pdf]](http://arxiv.org/abs/2505.06177v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Polymer-Shell Coating of Mie-Resonant Silicon Nanospheres for Controlled Fabrication of Self-Assembled Monolayer|[[pdf]](http://arxiv.org/abs/2505.06036v1)|⚠️|⭐️⭐️⭐️|
@@ -91,6 +96,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：59篇
+- 论文总数：64篇
 - 代码实现：6个
 - 最后更新：2025年05月

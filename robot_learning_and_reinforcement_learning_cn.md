@@ -25,6 +25,7 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-02|ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills|[[pdf]](https://arxiv.org/pdf/2502.01143)|[LeCAR-Lab/ASAP](https://github.com/LeCAR-Lab/ASAP)|⭐️⭐️⭐️⭐️|
 |2025-02|COMPASS: A Universal Framework for Cross-Morphology Robot Learning|[[pdf]](https://arxiv.org/pdf/2502.16372)|[NVlabs/COMPASS](https://github.com/NVlabs/COMPASS)|⭐️⭐️⭐️|
 |2024|Learning-based legged locomotion state of the art and future perspectives|[[pdf]](https://arxiv.org/abs/2406.01152)|⚠️|⭐️⭐️⭐️|
 |2024|Exbody2: Advanced Expressive Humanoid Whole-Body Control|[[pdf]](https://arxiv.org/abs/2412.13196)|⚠️|⭐️⭐️|
@@ -53,6 +54,34 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-13|Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.08222v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning|[[pdf]](http://arxiv.org/abs/2505.08238v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2505.08574v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.08548v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[FOCI] FOCI: Trajectory Optimization on Gaussian Splats|[[pdf]](http://arxiv.org/abs/2505.08510v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[ORACLE-Grasp] ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models|[[pdf]](http://arxiv.org/abs/2505.08417v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Adaptive Diffusion Policy Optimization for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.08376v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Rethink Repeatable Measures of Robot Performance with Statistical Query|[[pdf]](http://arxiv.org/abs/2505.08216v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Reasoning] Training Strategies for Efficient Embodied Reasoning|[[pdf]](http://arxiv.org/abs/2505.08243v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[en] Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.08361v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[en] Reinforcement Learning-based Fault-Tolerant Control for Quadrotor with Online Transformer Adaptation|[[pdf]](http://arxiv.org/abs/2505.08223v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[en] Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.08264v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Strategy-Augmented Planning for Large Language Models via Opponent Exploitation|[[pdf]](http://arxiv.org/abs/2505.08459v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Multi-Agent] HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands|[[pdf]](http://arxiv.org/abs/2505.08213v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Zero-Shot Sim-to-Real Reinforcement Learning for Fruit Harvesting|[[pdf]](http://arxiv.org/abs/2505.08458v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Biped] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance|[[pdf]](http://arxiv.org/abs/2505.08712v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Hierarchical] MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos|[[pdf]](http://arxiv.org/abs/2505.08367v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Imitation] Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration|[[pdf]](http://arxiv.org/abs/2505.08625v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness|[[pdf]](http://arxiv.org/abs/2505.08627v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[PWC-MoE] PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts|[[pdf]](http://arxiv.org/abs/2505.08719v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Continuous World Coverage Path Planning for Fixed-Wing UAVs using Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.08382v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges|[[pdf]](http://arxiv.org/abs/2505.08453v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Multi-Agent] Fast Contact Detection via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2505.08334v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[HMR-ODTA] HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots|[[pdf]](http://arxiv.org/abs/2505.08419v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Cost Function Estimation Using Inverse Reinforcement Learning with Minimal Observations|[[pdf]](http://arxiv.org/abs/2505.08619v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[UniSkill] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations|[[pdf]](http://arxiv.org/abs/2505.08787v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[SKiD-SLAM] SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments|[[pdf]](http://arxiv.org/abs/2505.08230v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|A spherical amplitude-phase formulation for 3-D adaptive line-of-sight (ALOS) guidance with USGES stability guarantees|[[pdf]](http://arxiv.org/abs/2505.08344v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Hyper-Dexterous] DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies|[[pdf]](http://arxiv.org/abs/2505.07813v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Neural Brain] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.07634v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Improving Trajectory Stitching with Flow Models|[[pdf]](http://arxiv.org/abs/2505.07802v1)|⚠️|⭐️⭐️⭐️|
@@ -73,6 +102,18 @@ lang: zh
 |2025-05-12|A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms|[[pdf]](http://arxiv.org/abs/2505.07660v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.07690v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Effective bands and band-like electron transport in amorphous solids|[[pdf]](http://arxiv.org/abs/2505.07707v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[Humanoid] HuB: Learning Extreme Humanoid Balance|[[pdf]](http://arxiv.org/abs/2505.07294v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[ReinboT] ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.07395v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[en] Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review|[[pdf]](http://arxiv.org/abs/2505.07911v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Explainable Reinforcement Learning Agents Using World Models|[[pdf]](http://arxiv.org/abs/2505.08073v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|What Matters for Batch Online Reinforcement Learning in Robotics?|[[pdf]](http://arxiv.org/abs/2505.08078v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[en] GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion|[[pdf]](http://arxiv.org/abs/2505.07455v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[en] Autonomous Robotic Pruning in Orchards and Vineyards: a Review|[[pdf]](http://arxiv.org/abs/2505.07318v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-11|[X-Sim] X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real|[[pdf]](http://arxiv.org/abs/2505.07096v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-11|[en] FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots|[[pdf]](http://arxiv.org/abs/2505.06883v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[en] Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach|[[pdf]](http://arxiv.org/abs/2505.06482v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[en] CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments|[[pdf]](http://arxiv.org/abs/2505.06483v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[en] LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus|[[pdf]](http://arxiv.org/abs/2505.06513v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Let Humanoids Hike! Integrative Skill Development on Complex Trails|[[pdf]](http://arxiv.org/abs/2505.06218v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach|[[pdf]](http://arxiv.org/abs/2505.06182v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning|[[pdf]](http://arxiv.org/abs/2505.06131v1)|⚠️|⭐️⭐️⭐️|
@@ -113,9 +154,10 @@ lang: zh
 |2025-05-09|Deep Diffusion Maps|[[pdf]](http://arxiv.org/abs/2505.06087v1)|[sgh14/deep-diffusion-maps](https://github.com/sgh14/deep-diffusion-maps)|⭐️⭐️⭐️|
 |2025-05-09|Methodology for Topological Interface Engineering in 2D Photonic Crystals|[[pdf]](http://arxiv.org/abs/2505.06077v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|[FIC-TSC] FIC-TSC: Learning Time Series Classification with Fisher Information Constraint|[[pdf]](http://arxiv.org/abs/2505.06114v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-09|Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects|[[pdf]](http://arxiv.org/abs/2505.06363v1)|⚠️|⭐️⭐️⭐️|
 
 ## 📊 统计
 
-- 论文总数：83篇
-- 代码实现：19个
+- 论文总数：125篇
+- 代码实现：20个
 - 最后更新：2025年05月
