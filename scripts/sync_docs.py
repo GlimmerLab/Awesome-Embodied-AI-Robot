@@ -257,7 +257,7 @@ def create_index_files():
 def generate_sitemap():
     """生成网站地图"""
     print("生成sitemap.xml...")
-    site_base_url = "https://glimmerlab.github.io/Awesome-Embodied-AI"
+    site_base_url = "https://glimmerlab.github.io/Awesome-Embodied-AI-Robot"
 
     files = []
     for root, _, filenames in os.walk("docs"):
@@ -316,7 +316,7 @@ def ensure_assets():
     # 创建robots.txt
     if not os.path.exists("docs/robots.txt"):
         with open("docs/robots.txt", "w", encoding="utf-8") as f:
-            f.write("User-agent: *\nAllow: /\nSitemap: https://glimmerlab.github.io/Awesome-Embodied-AI/sitemap.xml")
+            f.write("User-agent: *\nAllow: /\nSitemap: https://glimmerlab.github.io/Awesome-Embodied-AI-Robot/sitemap.xml")
         print("已创建robots.txt")
 
     # 创建404页面

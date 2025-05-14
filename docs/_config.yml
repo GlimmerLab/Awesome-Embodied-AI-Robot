@@ -1,9 +1,9 @@
 title: RoboLLM Hub
 description: A curated collection of robot learning, reinforcement learning, and embodied AI resources
-baseurl: "/Awesome-Embodied-AI"
-url: "https://glimmerlab.github.io/Awesome-Embodied-AI"
-repository: "LJoson/Awesome-Embodied-AI"
-github_username: LJoson
+baseurl: "/Awesome-Embodied-AI-Robot"
+url: "https://glimmerlab.github.io"
+repository: "GlimmerLab/Awesome-Embodied-AI-Robot"
+github_username: GlimmerLab
 
 # 主题设置
 theme: jekyll-theme-minimal
@@ -89,7 +89,7 @@ nav:
   - title:
       en: GitHub
       zh: GitHub
-    url: https://github.com/LJoson/Awesome-Embodied-AI
+    url: https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot
     external: true
 
 # 分类设置
@@ -153,7 +153,7 @@ categories:
 
 # 社交媒体链接
 social_links:
-  github: LJoson/Awesome-Embodied-AI
+  github: GlimmerLab/Awesome-Embodied-AI-Robot
   email: your-email@example.com
 
 # 构建设置
