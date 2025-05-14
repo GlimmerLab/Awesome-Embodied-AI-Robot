@@ -8,6 +8,12 @@ on:
       - completed
   # 允许手动触发
   workflow_dispatch:
+  # 当docs目录或_config.yml文件变更时自动触发
+  push:
+    paths:
+      - 'docs/**'
+      - '_config.yml'
+      - 'scripts/sync_docs.py'
 
 # 添加权限设置
 permissions:
@@ -15,20 +21,27 @@ permissions:
   pages: write
   id-token: write
 
+# 构建环境变量
+env:
+  JEKYLL_ENV: production
+
 jobs:
   sync:
     name: Sync to Docs
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' || github.event_name == 'push' }}
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -39,12 +52,23 @@ jobs:
         run: |
           python scripts/sync_docs.py
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./_site
           publish_branch: gh-pages
-          commit_message: "docs: sync content from main branch"
+          commit_message: "docs: sync and deploy site content [skip ci]"
+          full_commit_message: "docs: sync content from main branch and deploy site with Jekyll"
           force: true
-          enable_jekyll: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'

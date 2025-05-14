@@ -1,7 +1,8 @@
-title: Awesome Embodied AI
-description: A curated list of awesome embodied AI papers with code implementations
-baseurl: ""
+title: RoboLLM Hub
+description: A curated collection of robot learning, reinforcement learning, and embodied AI resources
+baseurl: "/Awesome-Embodied-AI"
 url: "https://glimmerlab.github.io/Awesome-Embodied-AI"
+repository: "LJoson/Awesome-Embodied-AI"
 github_username: LJoson
 
 # 主题设置
@@ -10,31 +11,150 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 # 多语言支持
 lang: en
 languages: ["en", "zh"]
 default_lang: en
+exclude_from_langs:
+  - pages
+  - assets
+  - _layouts
+  - _includes
 lang_names:
   en: English
   zh: 中文
 
 # 导航设置
 nav:
-  - title: Home
+  - title:
+      en: Home
+      zh: 首页
     url: /
-  - title: GitHub
+  - title:
+      en: Categories
+      zh: 分类
+    url: '#categories'
+    submenu:
+      - title:
+          en: Fundamental Theory
+          zh: 基础理论
+        url:
+          en: /fundamental_theory.html
+          zh: /fundamental_theory_cn.html
+      - title:
+          en: Robot Learning
+          zh: 机器人学习与强化学习
+        url:
+          en: /robot_learning_and_reinforcement_learning.html
+          zh: /robot_learning_and_reinforcement_learning_cn.html
+      - title:
+          en: Environment Perception
+          zh: 环境感知
+        url:
+          en: /environment_perception.html
+          zh: /environment_perception_cn.html
+      - title:
+          en: Motion Planning
+          zh: 运动规划
+        url:
+          en: /motion_planning.html
+          zh: /motion_planning_cn.html
+      - title:
+          en: Task Planning
+          zh: 任务规划
+        url:
+          en: /task_planning.html
+          zh: /task_planning_cn.html
+      - title:
+          en: Multimodal Interaction
+          zh: 多模态交互
+        url:
+          en: /multimodal_interaction.html
+          zh: /multimodal_interaction_cn.html
+      - title:
+          en: Simulation Platforms
+          zh: 仿真平台
+        url:
+          en: /simulation_platforms.html
+          zh: /simulation_platforms_cn.html
+  - title:
+      en: GitHub
+      zh: GitHub
     url: https://github.com/LJoson/Awesome-Embodied-AI
+    external: true
 
 # 分类设置
 categories:
-  - fundamental_theory
-  - robot_learning_and_reinforcement_learning
-  - environment_perception
-  - motion_planning
-  - task_planning
-  - multimodal_interaction
-  - simulation_platforms
+  - id: fundamental_theory
+    title:
+      en: Fundamental Theory
+      zh: 基础理论
+    icon: book
+    description:
+      en: Core theoretical foundations of embodied AI
+      zh: 具身智能的核心理论基础
+  - id: robot_learning_and_reinforcement_learning
+    title:
+      en: Robot Learning and Reinforcement Learning
+      zh: 机器人学习与强化学习
+    icon: robot
+    description:
+      en: Papers on robot learning and reinforcement learning
+      zh: 机器人学习和强化学习相关论文
+  - id: environment_perception
+    title:
+      en: Environment Perception
+      zh: 环境感知
+    icon: camera
+    description:
+      en: Research on environment perception in embodied AI
+      zh: 具身智能中的环境感知研究
+  - id: motion_planning
+    title:
+      en: Motion Planning
+      zh: 运动规划
+    icon: map
+    description:
+      en: Motion planning algorithms and implementations
+      zh: 运动规划算法与实现
+  - id: task_planning
+    title:
+      en: Task Planning
+      zh: 任务规划
+    icon: list-task
+    description:
+      en: Task planning and execution in embodied AI
+      zh: 具身智能中的任务规划与执行
+  - id: multimodal_interaction
+    title:
+      en: Multimodal Interaction
+      zh: 多模态交互
+    icon: chat-dots
+    description:
+      en: Multimodal interaction research in embodied AI
+      zh: 具身智能中的多模态交互研究
+  - id: simulation_platforms
+    title:
+      en: Simulation Platforms
+      zh: 仿真平台
+    icon: pc-display
+    description:
+      en: Simulation platforms for embodied AI research
+      zh: 具身智能研究的仿真平台
+
+# 社交媒体链接
+social_links:
+  github: LJoson/Awesome-Embodied-AI
+  email: your-email@example.com
 
 # 构建设置
 show_downloads: true
@@ -42,6 +162,15 @@ include:
   - _layouts
   - _includes
   - assets
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+keep_files:
+  - .git
+  - .gitignore
 
 # 默认布局
 defaults:
@@ -53,7 +182,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
-      type: "posts"
+      path: "docs"
+      type: "pages"
     values:
-      layout: "theme"
+      layout: "default"

@@ -1,9 +1,17 @@
 ---
 layout: default
-title: RoboLLM Hub - 机器人学习资源中心
-description: 收集机器人学习、强化学习和具身智能领域的最新论文和资源
-lang: zh
+title: RoboLLM Hub - 首页
+description: Robot Learning Resources
+redirect_to: /index_cn.html
 ---
+
+<meta http-equiv="refresh" content="0; url={{ site.baseurl }}/index_cn.html">
+
+<script>
+  window.location.href = "{{ site.baseurl }}/index_cn.html";
+</script>
+
+<p>如果页面没有自动跳转，请点击<a href="{{ site.baseurl }}/index_cn.html">这里</a>。</p>
 
 # 欢迎来到 RoboLLM Hub
 

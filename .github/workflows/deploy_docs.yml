@@ -1,0 +1,52 @@
+name: Deploy Docs
+
+on:
+  # 仅允许手动触发
+  workflow_dispatch:
+    inputs:
+      deploy_message:
+        description: '部署说明'
+        required: true
+        default: '手动部署文档'
+
+# 构建环境变量
+env:
+  JEKYLL_ENV: production
+
+# 添加权限设置
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          commit_message: "docs: ${{ github.event.inputs.deploy_message || 'manual deployment' }} [skip ci]"
+          full_commit_message: "docs: ${{ github.event.inputs.deploy_message || 'manually deployed site content' }} [skip ci]"
+          force: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
