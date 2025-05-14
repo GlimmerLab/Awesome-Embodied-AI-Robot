@@ -212,21 +212,23 @@ li {
     color: white;
     padding: 3rem 0 2rem;
     margin-top: 3rem;
+    line-height: 1.5;
 }
 
 .footer h5 {
     color: white;
-    font-weight: 600;
-    margin-bottom: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
     font-size: 1.2rem;
+    letter-spacing: 0.5px;
 }
 
 .footer-link {
     color: rgba(255,255,255,0.8);
     display: inline-block;
-    margin-bottom: 0.8rem;
     transition: all var(--transition-speed) ease;
     text-decoration: none;
+    font-weight: 400;
 }
 
 .footer-link:hover {
@@ -235,9 +237,22 @@ li {
     text-decoration: none;
 }
 
+.footer-links li {
+    margin-bottom: 0.8rem;
+}
+
 .footer hr {
     border-color: rgba(255, 255, 255, 0.1);
     margin: 1.5rem 0;
+}
+
+.language-switch {
+    display: flex;
+    align-items: center;
+}
+
+.language-switch a {
+    font-weight: 500;
 }
 
 /* 返回顶部按钮 */
