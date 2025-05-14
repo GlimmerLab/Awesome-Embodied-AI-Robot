@@ -25,6 +25,12 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-12|Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots|[[pdf]](http://arxiv.org/abs/2505.07668v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[Adaptive] Hybrid Control Strategies for Safe and Adaptive Robot-Assisted Dressing|[[pdf]](http://arxiv.org/abs/2505.07710v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[AcoustoBots] AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions|[[pdf]](http://arxiv.org/abs/2505.07808v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|When Near Becomes Far: From Rayleigh to Optimal Near-Field and Far-Field Boundaries|[[pdf]](http://arxiv.org/abs/2505.07743v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[BodyGPS] BodyGPS: Anatomical Positioning System|[[pdf]](http://arxiv.org/abs/2505.07744v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators|[[pdf]](http://arxiv.org/abs/2505.07770v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework|[[pdf]](http://arxiv.org/abs/2505.06151v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|An Empirical Study of Fuzz Harness Degradation|[[pdf]](http://arxiv.org/abs/2505.06177v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Polymer-Shell Coating of Mie-Resonant Silicon Nanospheres for Controlled Fabrication of Self-Assembled Monolayer|[[pdf]](http://arxiv.org/abs/2505.06036v1)|⚠️|⭐️⭐️⭐️|
@@ -78,6 +84,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 53
+- Total Papers: 59
 - Code Implementations: 6
 - Last Updated: May 2025

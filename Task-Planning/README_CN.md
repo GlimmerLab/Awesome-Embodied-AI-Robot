@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-12|Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model|[[pdf]](http://arxiv.org/abs/2505.07820v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Topological Indices Among Strong Support Vertex|[[pdf]](http://arxiv.org/abs/2505.07774v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters|[[pdf]](http://arxiv.org/abs/2505.06174v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
@@ -82,6 +84,6 @@
 
 ## 📊 统计
 
-- 论文总数：58篇
+- 论文总数：60篇
 - 代码实现：6个
 - 最后更新：2025年05月
