@@ -4,6 +4,7 @@ baseurl: "/Awesome-Embodied-AI-Robot"
 url: "https://glimmerlab.github.io"
 repository: "GlimmerLab/Awesome-Embodied-AI-Robot"
 github_username: GlimmerLab
+main_site_url: "https://glimmerlab.github.io"
 
 # 主题设置
 theme: jekyll-theme-minimal
@@ -86,6 +87,11 @@ nav:
         url:
           en: /simulation_platforms.html
           zh: /simulation_platforms_cn.html
+  - title:
+      en: GlimmerLab
+      zh: GlimmerLab
+    url: https://glimmerlab.github.io/
+    external: true
   - title:
       en: GitHub
       zh: GitHub
