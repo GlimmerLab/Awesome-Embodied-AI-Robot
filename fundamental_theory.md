@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-12|[LAMM-ViT] LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention|[[pdf]](http://arxiv.org/abs/2505.07734v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Learning from Peers in Reasoning Models|[[pdf]](http://arxiv.org/abs/2505.07787v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Learning Dynamics in Continual Pre-Training for Large Language Models|[[pdf]](http://arxiv.org/abs/2505.07796v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Joint Graph Convolution and Sequential Modeling for Scalable Network Traffic Estimation|[[pdf]](http://arxiv.org/abs/2505.07674v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies|[[pdf]](http://arxiv.org/abs/2505.06145v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling|[[pdf]](http://arxiv.org/abs/2505.06184v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Adapting a Segmentation Foundation Model for Medical Image Classification|[[pdf]](http://arxiv.org/abs/2505.06217v1)|⚠️|⭐️⭐️⭐️|
@@ -87,6 +91,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 59
+- Total Papers: 63
 - Code Implementations: 5
 - Last Updated: May 2025

@@ -29,6 +29,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-12|Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model|[[pdf]](http://arxiv.org/abs/2505.07820v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Topological Indices Among Strong Support Vertex|[[pdf]](http://arxiv.org/abs/2505.07774v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Leakage-resilient Algebraic Manipulation Detection Codes with Optimal Parameters|[[pdf]](http://arxiv.org/abs/2505.06174v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree|[[pdf]](http://arxiv.org/abs/2505.06187v1)|⚠️|⭐️⭐️⭐️|
@@ -89,6 +91,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 58
+- Total Papers: 60
 - Code Implementations: 6
 - Last Updated: May 2025

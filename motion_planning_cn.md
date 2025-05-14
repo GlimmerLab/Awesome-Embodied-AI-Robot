@@ -39,6 +39,9 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-12|Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation|[[pdf]](http://arxiv.org/abs/2505.07699v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Separable models for dynamic signed networks|[[pdf]](http://arxiv.org/abs/2505.07669v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells|[[pdf]](http://arxiv.org/abs/2505.07661v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning|[[pdf]](http://arxiv.org/abs/2505.06126v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Neuro-Symbolic Concepts|[[pdf]](http://arxiv.org/abs/2505.06191v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|New Advances in Phonons: From Band Topology to Quasiparticle Chirality|[[pdf]](http://arxiv.org/abs/2505.06179v1)|⚠️|⭐️⭐️⭐️|
@@ -104,6 +107,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：72篇
+- 论文总数：75篇
 - 代码实现：7个
 - 最后更新：2025年05月

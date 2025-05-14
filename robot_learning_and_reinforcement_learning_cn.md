@@ -53,6 +53,26 @@ lang: zh
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-12|[Hyper-Dexterous] DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies|[[pdf]](http://arxiv.org/abs/2505.07813v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[Neural Brain] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.07634v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Improving Trajectory Stitching with Flow Models|[[pdf]](http://arxiv.org/abs/2505.07802v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[H$^{\mathbf{3}}$DP] H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning|[[pdf]](http://arxiv.org/abs/2505.07819v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.07815v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Modal analysis of oblique shock-induced flow dynamics in a supersonic reacting shear layer|[[pdf]](http://arxiv.org/abs/2505.07636v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Singular Control in Inventory Management with Smooth Ambiguity|[[pdf]](http://arxiv.org/abs/2505.07761v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[S-GRPO] S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models|[[pdf]](http://arxiv.org/abs/2505.07686v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|'Congratulations, morons': Dynamics of Toxicity and Interaction Polarization in the Covid Vaccination and Ukraine War Twitter Debates|[[pdf]](http://arxiv.org/abs/2505.07646v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution|[[pdf]](http://arxiv.org/abs/2505.07766v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[PtyRAD] PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation|[[pdf]](http://arxiv.org/abs/2505.07814v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Guiding Data Collection via Factored Scaling Curves|[[pdf]](http://arxiv.org/abs/2505.07728v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|A Comparative Analysis of Static Word Embeddings for Hungarian|[[pdf]](http://arxiv.org/abs/2505.07809v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving|[[pdf]](http://arxiv.org/abs/2505.07773v1)|[anonymize-author/agentrl](https://github.com/anonymize-author/agentrl)|⭐️⭐️⭐️|
+|2025-05-12|[Step1X-3D] Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets|[[pdf]](http://arxiv.org/abs/2505.07747v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[MLE-Dojo] MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering|[[pdf]](http://arxiv.org/abs/2505.07782v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[DanceGRPO] DanceGRPO: Unleashing GRPO on Visual Generation|[[pdf]](http://arxiv.org/abs/2505.07818v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms|[[pdf]](http://arxiv.org/abs/2505.07660v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.07690v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Effective bands and band-like electron transport in amorphous solids|[[pdf]](http://arxiv.org/abs/2505.07707v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Let Humanoids Hike! Integrative Skill Development on Complex Trails|[[pdf]](http://arxiv.org/abs/2505.06218v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach|[[pdf]](http://arxiv.org/abs/2505.06182v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning|[[pdf]](http://arxiv.org/abs/2505.06131v1)|⚠️|⭐️⭐️⭐️|
@@ -96,6 +116,6 @@ lang: zh
 
 ## 📊 统计
 
-- 论文总数：63篇
-- 代码实现：18个
+- 论文总数：83篇
+- 代码实现：19个
 - 最后更新：2025年05月
