@@ -1,13 +1,13 @@
 ---
 layout: default
-title: RoboLLM Hub - 机器人学习资源中心
+title: GlimmerLab - 机器人学习资源中心
 description: 收集机器人学习、强化学习和具身智能领域的最新论文和资源
 lang: zh
 ---
 
-# 欢迎来到 RoboLLM Hub
+# 欢迎来到 GlimmerLab
 
-RoboLLM Hub 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
+GlimmerLab 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
 
 <div class="row mb-5">
   <div class="col-md-4 mb-4">

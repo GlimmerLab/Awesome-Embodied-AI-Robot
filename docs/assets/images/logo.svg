@@ -28,5 +28,5 @@
   <circle cx="60" cy="5" r="3" fill="#f39c12"/>
 
   <!-- 文字 -->
-  <text x="60" y="100" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">RoboLLM Hub</text>
+  <text x="60" y="100" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">GlimmerLab</text>
 </svg>

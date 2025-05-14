@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboLLM Hub - 首页
+title: GlimmerLab - 首页
 description: Robot Learning Resources
 redirect_to: /index_cn.html
 ---
@@ -13,9 +13,9 @@ redirect_to: /index_cn.html
 
 <p>如果页面没有自动跳转，请点击<a href="{{ site.baseurl }}/index_cn.html">这里</a>。</p>
 
-# 欢迎来到 RoboLLM Hub
+# 欢迎来到 GlimmerLab
 
-RoboLLM Hub 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
+GlimmerLab 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
 
 ## 主要分类
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: RoboLLM Hub - Robot Learning Resources
+title: GlimmerLab - Robot Learning Resources
 description: A curated collection of robot learning, reinforcement learning, and embodied AI resources
 lang: en
 ---
 
-# Welcome to RoboLLM Hub
+# Welcome to GlimmerLab
 
-RoboLLM Hub is a resource center focused on robot learning, reinforcement learning, and embodied AI. We are dedicated to collecting and organizing the latest research advancements, papers, and code implementations in this field.
+GlimmerLab is a resource center focused on robot learning, reinforcement learning, and embodied AI. We are dedicated to collecting and organizing the latest research advancements, papers, and code implementations in this field.
 
 <div class="row mb-5">
   <div class="col-md-4 mb-4">
