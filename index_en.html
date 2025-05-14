@@ -213,46 +213,49 @@
     </main>
 
     <!-- 页脚 -->
-    <footer class="footer mt-auto py-5">
+    <footer class="site-footer">
         <div class="container">
-            <div class="row text-center text-md-start">
-                <div class="col-12 col-md-4 mb-4">
-                    <div class="d-flex align-items-center justify-content-center justify-content-md-start mb-3">
-                        <img src="/Awesome-Embodied-AI-Robot/assets/images/logo.svg" alt="GlimmerLab Logo" height="50" class="me-3">
-                        <div>
-                            <h5 class="m-0 fw-bold">GlimmerLab</h5>
-                            <p class="text-light mb-0 small">A collection of embodied AI and robot learning resources</p>
-                        </div>
+            <!-- 页脚品牌和信息 -->
+            <div class="footer-brand text-center">
+                <img src="/Awesome-Embodied-AI-Robot/assets/images/logo.svg" alt="GlimmerLab Logo" height="60" class="mb-3">
+                <h3 class="footer-title">GlimmerLab</h3>
+                <p class="footer-description">
+                    A collection of embodied AI and robot learning resources
+                </p>
+            </div>
+
+            <!-- 页脚链接 -->
+            <div class="footer-links text-center">
+                <div class="row justify-content-center">
+                    <div class="col-auto mx-3 mb-3">
+                        <a href="/Awesome-Embodied-AI-Robot/" class="footer-nav-link">
+                            <i class="bi bi-house-door"></i> Home
+                        </a>
                     </div>
-                </div>
-
-                <div class="col-6 col-md-4 mb-4">
-                    <h5 class="mb-3 fw-bold">Quick Links</h5>
-                    <ul class="list-unstyled">
-                        <li class="mb-2"><a href="/Awesome-Embodied-AI-Robot/" class="footer-link"><i class="bi bi-house-door"></i> Home</a></li>
-                        <li class="mb-2"><a href="https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot" target="_blank" class="footer-link"><i class="bi bi-github"></i> GitHub</a></li>
-                        <li class="mb-2"><a href="https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot/issues" target="_blank" class="footer-link"><i class="bi bi-bug"></i> Report Issues</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-6 col-md-4 mb-4">
-                    <h5 class="mb-3 fw-bold">Languages</h5>
-                    <div class="mb-3 d-flex justify-content-center justify-content-md-start">
-                        <a href="/Awesome-Embodied-AI-Robot/index_en.html" class="footer-link me-3"><i class="bi bi-globe"></i> English</a>
-                        <a href="/Awesome-Embodied-AI-Robot/index_cn.html" class="footer-link"><i class="bi bi-globe"></i> 中文</a>
+                    <div class="col-auto mx-3 mb-3">
+                        <a href="https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot" target="_blank" class="footer-nav-link">
+                            <i class="bi bi-github"></i> GitHub
+                        </a>
+                    </div>
+                    <div class="col-auto mx-3 mb-3">
+                        <a href="https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot/issues" target="_blank" class="footer-nav-link">
+                            <i class="bi bi-bug"></i> Report Issues
+                        </a>
                     </div>
                 </div>
             </div>
 
-            <hr class="mt-2 mb-4">
+            <!-- 语言切换 -->
+            <div class="footer-languages text-center mb-4">
+                <a href="/Awesome-Embodied-AI-Robot/index_en.html" class="language-link active">English</a>
+                <span class="language-divider">|</span>
+                <a href="/Awesome-Embodied-AI-Robot/index_cn.html" class="language-link ">中文</a>
+            </div>
 
-            <div class="row">
-                <div class="col-12 text-center">
-                    <p class="mb-2">© 2025 GlimmerLab. All rights reserved.</p>
-                    <p class="mb-0">
-                        <span class="d-inline-block">Maintained by <a href="https://github.com/GlimmerLab" target="_blank" class="footer-link">GlimmerLab</a> </span>
-                    </p>
-                </div>
+            <!-- 版权信息 -->
+            <div class="footer-copyright text-center">
+                <p>© 2025 GlimmerLab. All rights reserved.</p>
+                <p>Maintained by <a href="https://github.com/GlimmerLab" target="_blank" class="maintainer-link">GlimmerLab</a> </p>
             </div>
         </div>
     </footer>
@@ -315,6 +318,27 @@
                     firstTr.remove();
                 }
             });
+
+            // 页脚链接hover效果增强
+            const footerLinks = document.querySelectorAll('.footer-nav-link');
+            footerLinks.forEach(link => {
+                link.addEventListener('mouseenter', function() {
+                    this.style.transition = 'all 0.3s ease';
+                });
+            });
+
+            // 页脚品牌动画
+            const footerBrand = document.querySelector('.footer-brand img');
+            if (footerBrand) {
+                footerBrand.addEventListener('mouseenter', function() {
+                    this.style.transform = 'scale(1.1)';
+                    this.style.transition = 'transform 0.3s ease';
+                });
+
+                footerBrand.addEventListener('mouseleave', function() {
+                    this.style.transform = 'scale(1)';
+                });
+            }
         });
     </script>
 </body>
