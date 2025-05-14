@@ -66,6 +66,15 @@
 |2025-05-13|[Hierarchical] MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos|[[pdf]](http://arxiv.org/abs/2505.08367v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[Imitation] Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration|[[pdf]](http://arxiv.org/abs/2505.08625v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness|[[pdf]](http://arxiv.org/abs/2505.08627v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[PWC-MoE] PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts|[[pdf]](http://arxiv.org/abs/2505.08719v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Continuous World Coverage Path Planning for Fixed-Wing UAVs using Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.08382v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges|[[pdf]](http://arxiv.org/abs/2505.08453v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[Multi-Agent] Fast Contact Detection via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2505.08334v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[HMR-ODTA] HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots|[[pdf]](http://arxiv.org/abs/2505.08419v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Cost Function Estimation Using Inverse Reinforcement Learning with Minimal Observations|[[pdf]](http://arxiv.org/abs/2505.08619v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[UniSkill] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations|[[pdf]](http://arxiv.org/abs/2505.08787v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[SKiD-SLAM] SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments|[[pdf]](http://arxiv.org/abs/2505.08230v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|A spherical amplitude-phase formulation for 3-D adaptive line-of-sight (ALOS) guidance with USGES stability guarantees|[[pdf]](http://arxiv.org/abs/2505.08344v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Hyper-Dexterous] DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies|[[pdf]](http://arxiv.org/abs/2505.07813v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Neural Brain] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.07634v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Improving Trajectory Stitching with Flow Models|[[pdf]](http://arxiv.org/abs/2505.07802v1)|⚠️|⭐️⭐️⭐️|
@@ -97,6 +106,7 @@
 |2025-05-11|[en] FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots|[[pdf]](http://arxiv.org/abs/2505.06883v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[en] Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach|[[pdf]](http://arxiv.org/abs/2505.06482v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[en] CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments|[[pdf]](http://arxiv.org/abs/2505.06483v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-10|[en] LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus|[[pdf]](http://arxiv.org/abs/2505.06513v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Let Humanoids Hike! Integrative Skill Development on Complex Trails|[[pdf]](http://arxiv.org/abs/2505.06218v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach|[[pdf]](http://arxiv.org/abs/2505.06182v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-09|Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning|[[pdf]](http://arxiv.org/abs/2505.06131v1)|⚠️|⭐️⭐️⭐️|
@@ -141,6 +151,6 @@
 
 ## 📊 统计
 
-- 论文总数：115篇
+- 论文总数：125篇
 - 代码实现：20个
 - 最后更新：2025年05月
