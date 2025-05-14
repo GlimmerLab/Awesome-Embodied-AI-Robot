@@ -206,53 +206,103 @@ li {
     margin-bottom: 0.5rem;
 }
 
-/* 页脚样式 */
-.footer {
+/* 页脚样式 - 完全重写 */
+.site-footer {
     background-color: var(--primary-color);
     color: white;
-    padding: 3rem 0;
-    margin-top: 3rem;
-    line-height: 1.5;
+    padding: 4rem 0 2rem;
+    margin-top: 4rem;
+    text-align: center;
 }
 
-.footer h5 {
+/* 页脚品牌部分 */
+.footer-brand {
+    margin-bottom: 2.5rem;
+}
+
+.footer-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin: 0.5rem 0;
+    color: white;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.8);
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+
+/* 页脚链接 */
+.footer-links {
+    margin-bottom: 2.5rem;
+}
+
+.footer-nav-link {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+    font-size: 1.1rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
+
+.footer-nav-link:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-3px);
+}
+
+/* 语言切换 */
+.footer-languages {
+    margin-bottom: 2rem;
+}
+
+.language-link {
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0.3rem 0.8rem;
+    transition: all 0.3s ease;
+}
+
+.language-link:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.language-link.active {
     color: white;
     font-weight: 700;
-    margin-bottom: 1.2rem;
-    font-size: 1.2rem;
-    letter-spacing: 0.5px;
 }
 
-.footer-link {
-    color: rgba(255,255,255,0.85);
-    display: inline-block;
-    transition: all var(--transition-speed) ease;
-    text-decoration: none;
-    font-weight: 500;
+.language-divider {
+    color: rgba(255, 255, 255, 0.4);
+    margin: 0 0.5rem;
 }
 
-.footer-link:hover {
+/* 版权信息 */
+.footer-copyright {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.9rem;
+}
+
+.footer-copyright p {
+    margin-bottom: 0.5rem;
+}
+
+.maintainer-link {
     color: white;
-    transform: translateX(5px);
+    font-weight: 600;
     text-decoration: none;
+    transition: color 0.3s ease;
 }
 
-.footer ul li {
-    margin-bottom: 0.8rem;
-}
-
-.footer hr {
-    border-color: rgba(255, 255, 255, 0.1);
-    margin: 2rem 0;
-}
-
-.language-switch {
-    display: flex;
-    align-items: center;
-}
-
-.language-switch a {
-    font-weight: 500;
+.maintainer-link:hover {
+    color: var(--accent-color);
+    text-decoration: none;
 }
 
 /* 返回顶部按钮 */
@@ -391,17 +441,17 @@ img {
         padding: 1.25rem;
     }
 
-    .footer {
-        padding: 2rem 0;
-        text-align: center;
+    .site-footer {
+        padding: 3rem 0 1.5rem;
     }
 
-    .footer ul li {
-        text-align: center;
+    .footer-title {
+        font-size: 1.5rem;
     }
 
-    .footer-link {
-        display: inline-block;
+    .footer-nav-link {
+        font-size: 1rem;
+        padding: 0.4rem 0.8rem;
     }
 }
 
