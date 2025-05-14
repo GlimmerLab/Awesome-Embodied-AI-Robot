@@ -1,13 +1,13 @@
 ---
 layout: default
-title: GlimmerLab - 机器人学习资源中心
+title: Awesome-Embodied-AI-Robot - 机器人学习资源中心
 description: 收集机器人学习、强化学习和具身智能领域的最新论文和资源
 lang: zh
 ---
 
-# 欢迎来到 GlimmerLab
+# 欢迎来到 Awesome-Embodied-AI-Robot
 
-GlimmerLab 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
+Awesome-Embodied-AI-Robot 是一个专注于机器人学习、强化学习和具身智能的资源中心。我们致力于收集和整理该领域的最新研究进展、论文和代码实现。
 
 <div class="row mb-5">
   <div class="col-md-4 mb-4">
@@ -143,5 +143,5 @@ GlimmerLab 是一个专注于机器人学习、强化学习和具身智能的资
     <li>分享您的使用经验和案例</li>
   </ul>
   <hr>
-  <p class="mb-0">请通过 <a href="https://github.com/LJoson/Awesome-Embodied-AI/issues" class="alert-link">GitHub Issues</a> 或发起 Pull Request 参与贡献。</p>
+  <p class="mb-0">请通过 <a href="https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot/issues" class="alert-link">GitHub Issues</a> 或发起 Pull Request 参与贡献。</p>
 </div>

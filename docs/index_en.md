@@ -1,13 +1,13 @@
 ---
 layout: default
-title: GlimmerLab - Robot Learning Resources
+title: Awesome-Embodied-AI-Robot - Robot Learning Resources
 description: A curated collection of robot learning, reinforcement learning, and embodied AI resources
 lang: en
 ---
 
-# Welcome to GlimmerLab
+# Welcome to Awesome-Embodied-AI-Robot
 
-GlimmerLab is a resource center focused on robot learning, reinforcement learning, and embodied AI. We are dedicated to collecting and organizing the latest research advancements, papers, and code implementations in this field.
+Awesome-Embodied-AI-Robot is a resource center focused on robot learning, reinforcement learning, and embodied AI. We are dedicated to collecting and organizing the latest research advancements, papers, and code implementations in this field.
 
 <div class="row mb-5">
   <div class="col-md-4 mb-4">
@@ -143,5 +143,5 @@ GlimmerLab is a resource center focused on robot learning, reinforcement learnin
     <li>Share your experiences and case studies</li>
   </ul>
   <hr>
-  <p class="mb-0">Please contribute through <a href="https://github.com/LJoson/Awesome-Embodied-AI/issues" class="alert-link">GitHub Issues</a> or by creating a Pull Request.</p>
+  <p class="mb-0">Please contribute through <a href="https://github.com/GlimmerLab/Awesome-Embodied-AI-Robot/issues" class="alert-link">GitHub Issues</a> or by creating a Pull Request.</p>
 </div>
