@@ -75,6 +75,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-13|[UniSkill] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations|[[pdf]](http://arxiv.org/abs/2505.08787v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[SKiD-SLAM] SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments|[[pdf]](http://arxiv.org/abs/2505.08230v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|A spherical amplitude-phase formulation for 3-D adaptive line-of-sight (ALOS) guidance with USGES stability guarantees|[[pdf]](http://arxiv.org/abs/2505.08344v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[DLO-Splatting] DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2505.08644v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Hyper-Dexterous] DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies|[[pdf]](http://arxiv.org/abs/2505.07813v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Neural Brain] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.07634v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Improving Trajectory Stitching with Flow Models|[[pdf]](http://arxiv.org/abs/2505.07802v1)|⚠️|⭐️⭐️⭐️|
@@ -102,8 +103,12 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-12|What Matters for Batch Online Reinforcement Learning in Robotics?|[[pdf]](http://arxiv.org/abs/2505.08078v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[en] GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion|[[pdf]](http://arxiv.org/abs/2505.07455v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[en] Autonomous Robotic Pruning in Orchards and Vineyards: a Review|[[pdf]](http://arxiv.org/abs/2505.07318v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Generative Pre-trained Autoregressive Diffusion Transformer|[[pdf]](http://arxiv.org/abs/2505.07344v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[JSover] JSover: Joint Spectrum Estimation and Multi-Material Decomposition from Single-Energy CT Projections|[[pdf]](http://arxiv.org/abs/2505.08123v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|[SLAG] SLAG: Scalable Language-Augmented Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2505.08124v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-11|[X-Sim] X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real|[[pdf]](http://arxiv.org/abs/2505.07096v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-11|[en] FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots|[[pdf]](http://arxiv.org/abs/2505.06883v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-11|[en] Realistic Counterfactual Explanations for Machine Learning-Controlled Mobile Robots using 2D LiDAR|[[pdf]](http://arxiv.org/abs/2505.06906v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[en] Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach|[[pdf]](http://arxiv.org/abs/2505.06482v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[en] CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments|[[pdf]](http://arxiv.org/abs/2505.06483v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[en] LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus|[[pdf]](http://arxiv.org/abs/2505.06513v1)|⚠️|⭐️⭐️⭐️|
@@ -151,6 +156,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 125
+- Total Papers: 130
 - Code Implementations: 20
 - Last Updated: May 2025

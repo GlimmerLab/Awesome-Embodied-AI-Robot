@@ -36,9 +36,12 @@ This directory collects papers and code implementations related to motion planni
 |2025-05-13|[M3G] M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis|[[pdf]](http://arxiv.org/abs/2505.08293v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[en] Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering|[[pdf]](http://arxiv.org/abs/2505.08724v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|A Tightly Coupled IMU-Based Motion Capture Approach for Estimating Multibody Kinematics and Kinetics|[[pdf]](http://arxiv.org/abs/2505.08193v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation|[[pdf]](http://arxiv.org/abs/2505.08229v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[MC-Swarm] MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm|[[pdf]](http://arxiv.org/abs/2505.08593v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation|[[pdf]](http://arxiv.org/abs/2505.07699v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Separable models for dynamic signed networks|[[pdf]](http://arxiv.org/abs/2505.07669v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells|[[pdf]](http://arxiv.org/abs/2505.07661v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-12|Virtual Holonomic Constraints in Motion Planning: Revisiting Feasibility and Limitations|[[pdf]](http://arxiv.org/abs/2505.07983v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[JAEGER] JAEGER: Dual-Level Humanoid Whole-Body Controller|[[pdf]](http://arxiv.org/abs/2505.06584v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[en] FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2505.06776v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-10|[ProFashion] ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images|[[pdf]](http://arxiv.org/abs/2505.06537v1)|⚠️|⭐️⭐️⭐️|
@@ -108,6 +111,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 83
+- Total Papers: 86
 - Code Implementations: 8
 - Last Updated: May 2025

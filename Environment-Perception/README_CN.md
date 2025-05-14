@@ -27,6 +27,7 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-13|LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs|[[pdf]](http://arxiv.org/abs/2505.08704v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[MDF] MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM|[[pdf]](http://arxiv.org/abs/2505.08388v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Pixel Motion as Universal Representation for Robot Control|[[pdf]](http://arxiv.org/abs/2505.07817v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2505.07691v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Hybrid Spiking Vision Transformer for Object Detection with Event Cameras|[[pdf]](http://arxiv.org/abs/2505.07715v1)|⚠️|⭐️⭐️⭐️|
@@ -87,6 +88,6 @@
 
 ## 📊 统计
 
-- 论文总数：63篇
+- 论文总数：64篇
 - 代码实现：8个
 - 最后更新：2025年05月
