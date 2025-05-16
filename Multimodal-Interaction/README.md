@@ -25,9 +25,11 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-14|[Flash-VL 2B] Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput|[[pdf]](http://arxiv.org/abs/2505.09498v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[CLTP] CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding|[[pdf]](http://arxiv.org/abs/2505.08194v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News|[[pdf]](http://arxiv.org/abs/2505.08532v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[en] A Social Robot with Inner Speech for Dietary Guidance|[[pdf]](http://arxiv.org/abs/2505.08664v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|WaLLM -- Insights from an LLM-Powered Chatbot deployment via WhatsApp|[[pdf]](http://arxiv.org/abs/2505.08894v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots|[[pdf]](http://arxiv.org/abs/2505.07668v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Adaptive] Hybrid Control Strategies for Safe and Adaptive Robot-Assisted Dressing|[[pdf]](http://arxiv.org/abs/2505.07710v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[AcoustoBots] AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions|[[pdf]](http://arxiv.org/abs/2505.07808v1)|⚠️|⭐️⭐️⭐️|
@@ -89,6 +91,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 64
+- Total Papers: 66
 - Code Implementations: 6
 - Last Updated: May 2025

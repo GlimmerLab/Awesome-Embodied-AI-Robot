@@ -47,6 +47,21 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-14|[Trajectory] RT-cache: Efficient Robot Trajectory Retrieval System|[[pdf]](http://arxiv.org/abs/2505.09040v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[Trajectory] Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities|[[pdf]](http://arxiv.org/abs/2505.09477v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Imitation Learning for Adaptive Control of a Virtual Soft Exoglove|[[pdf]](http://arxiv.org/abs/2505.09099v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Robot-Assisted Drone Recovery on a Wavy Surface Using Error-State Kalman Filter and Receding Horizon Model Predictive Control|[[pdf]](http://arxiv.org/abs/2505.09145v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[VTLA] VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation|[[pdf]](http://arxiv.org/abs/2505.09577v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[DataMIL] DataMIL: Selecting Data for Robot Imitation Learning with Datamodels|[[pdf]](http://arxiv.org/abs/2505.09603v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Embodied Intelligent Industrial Robotics: Concepts and Techniques|[[pdf]](http://arxiv.org/abs/2505.09305v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU|[[pdf]](http://arxiv.org/abs/2505.09430v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[FoldNet] FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis|[[pdf]](http://arxiv.org/abs/2505.09109v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions|[[pdf]](http://arxiv.org/abs/2505.09074v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[en] Learning Long-Context Diffusion Policies via Past-Token Prediction|[[pdf]](http://arxiv.org/abs/2505.09561v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[\textsc{rfPG}] \textsc{rfPG}: Robust Finite-Memory Policy Gradients for Hidden-Model POMDPs|[[pdf]](http://arxiv.org/abs/2505.09518v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[Imitation] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware|[[pdf]](http://arxiv.org/abs/2505.09601v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Distilling Realizable Students from Unrealizable Teachers|[[pdf]](http://arxiv.org/abs/2505.09546v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion|[[pdf]](http://arxiv.org/abs/2505.09424v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.08222v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning|[[pdf]](http://arxiv.org/abs/2505.08238v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2505.08574v1)|⚠️|⭐️⭐️⭐️|
@@ -76,6 +91,13 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-13|[SKiD-SLAM] SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments|[[pdf]](http://arxiv.org/abs/2505.08230v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|A spherical amplitude-phase formulation for 3-D adaptive line-of-sight (ALOS) guidance with USGES stability guarantees|[[pdf]](http://arxiv.org/abs/2505.08344v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[DLO-Splatting] DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2505.08644v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Generative AI for Autonomous Driving: Frontiers and Opportunities|[[pdf]](http://arxiv.org/abs/2505.08854v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Deep reinforcement learning-based longitudinal control strategy for automated vehicles at signalised intersections|[[pdf]](http://arxiv.org/abs/2505.08896v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Enhancing Aerial Combat Tactics through Hierarchical Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.08995v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Efficiently Manipulating Clutter via Learning and Search-Based Reasoning|[[pdf]](http://arxiv.org/abs/2505.08853v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|[ChicGrasp] ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation|[[pdf]](http://arxiv.org/abs/2505.08986v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Monte Carlo Beam Search for Actor-Critic Reinforcement Learning in Continuous Control|[[pdf]](http://arxiv.org/abs/2505.09029v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores|[[pdf]](http://arxiv.org/abs/2505.08835v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Hyper-Dexterous] DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies|[[pdf]](http://arxiv.org/abs/2505.07813v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Neural Brain] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.07634v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Improving Trajectory Stitching with Flow Models|[[pdf]](http://arxiv.org/abs/2505.07802v1)|⚠️|⭐️⭐️⭐️|
@@ -156,6 +178,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 130
+- Total Papers: 152
 - Code Implementations: 20
 - Last Updated: May 2025

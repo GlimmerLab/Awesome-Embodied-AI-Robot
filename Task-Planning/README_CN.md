@@ -25,6 +25,7 @@
 |2025-05-13|Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM|[[pdf]](http://arxiv.org/abs/2505.08492v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology|[[pdf]](http://arxiv.org/abs/2505.08765v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Symbolically-Guided Visual Plan Inference from Uncurated Video Data|[[pdf]](http://arxiv.org/abs/2505.08444v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Multi-step manipulation task and motion planning guided by video demonstration|[[pdf]](http://arxiv.org/abs/2505.08949v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model|[[pdf]](http://arxiv.org/abs/2505.07820v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Topological Indices Among Strong Support Vertex|[[pdf]](http://arxiv.org/abs/2505.07774v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule|[[pdf]](http://arxiv.org/abs/2505.07286v1)|⚠️|⭐️⭐️⭐️|
@@ -91,6 +92,6 @@
 
 ## 📊 统计
 
-- 论文总数：67篇
+- 论文总数：68篇
 - 代码实现：6个
 - 最后更新：2025年05月
