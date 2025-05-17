@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-15|[APEX] APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots|[[pdf]](http://arxiv.org/abs/2505.10022v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[AutoCam] AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics|[[pdf]](http://arxiv.org/abs/2505.10398v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting|[[pdf]](http://arxiv.org/abs/2505.09395v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[Trustless Autonomy] Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents|[[pdf]](http://arxiv.org/abs/2505.09757v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Learning Rock Pushability on Rough Planetary Terrain|[[pdf]](http://arxiv.org/abs/2505.09833v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|A Comparative Study of Human Activity Recognition: Motion, Tactile, and multi-modal Approaches|[[pdf]](http://arxiv.org/abs/2505.08657v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[M3G] M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis|[[pdf]](http://arxiv.org/abs/2505.08293v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[en] Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering|[[pdf]](http://arxiv.org/abs/2505.08724v1)|⚠️|⭐️⭐️⭐️|
@@ -111,6 +116,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 86
+- Total Papers: 91
 - Code Implementations: 8
 - Last Updated: May 2025

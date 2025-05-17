@@ -39,6 +39,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-15|Quantum Computing and AI: Perspectives on Advanced Automation in Science and Engineering|[[pdf]](http://arxiv.org/abs/2505.10012v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Decentralized Nonlinear Model Predictive Control-Based Flock Navigation with Real-Time Obstacle Avoidance in Unknown Obstructed Environments|[[pdf]](http://arxiv.org/abs/2505.09434v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Big Data and the Computational Social Science of Entrepreneurship and Innovation|[[pdf]](http://arxiv.org/abs/2505.08706v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[BAT] BAT: Benchmark for Auto-bidding Task|[[pdf]](http://arxiv.org/abs/2505.08485v1)|⚠️|⭐️⭐️⭐️|
@@ -113,6 +114,6 @@
 
 ## 📊 统计
 
-- 论文总数：88篇
+- 论文总数：89篇
 - 代码实现：21个
 - 最后更新：2025年05月

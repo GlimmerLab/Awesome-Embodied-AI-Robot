@@ -47,6 +47,22 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-15|Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning|[[pdf]](http://arxiv.org/abs/2505.10547v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps|[[pdf]](http://arxiv.org/abs/2505.10482v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Multi-Agent Path Finding For Large Agents Is Intractable|[[pdf]](http://arxiv.org/abs/2505.10387v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI|[[pdf]](http://arxiv.org/abs/2505.10093v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[EmbodiedMAE] EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.10105v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[IN-RIL] IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning|[[pdf]](http://arxiv.org/abs/2505.10442v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[pc-dbCBS] pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams|[[pdf]](http://arxiv.org/abs/2505.10355v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[en] Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation|[[pdf]](http://arxiv.org/abs/2505.10522v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[en] Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering|[[pdf]](http://arxiv.org/abs/2505.10073v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[en] Efficient Adaptation of Reinforcement Learning Agents to Sudden Environmental Change|[[pdf]](http://arxiv.org/abs/2505.10330v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Robust Federated Learning on Edge Devices with Domain Heterogeneity|[[pdf]](http://arxiv.org/abs/2505.10128v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[ORL-LDM] ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction|[[pdf]](http://arxiv.org/abs/2505.10027v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Training People to Reward Robots|[[pdf]](http://arxiv.org/abs/2505.10151v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2505.09979v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[NVSPolicy] NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning|[[pdf]](http://arxiv.org/abs/2505.10359v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Towards Safe Robot Foundation Models Using Inductive Biases|[[pdf]](http://arxiv.org/abs/2505.10219v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trajectory] RT-cache: Efficient Robot Trajectory Retrieval System|[[pdf]](http://arxiv.org/abs/2505.09040v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trajectory] Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities|[[pdf]](http://arxiv.org/abs/2505.09477v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Imitation Learning for Adaptive Control of a Virtual Soft Exoglove|[[pdf]](http://arxiv.org/abs/2505.09099v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +78,12 @@
 |2025-05-14|[Imitation] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware|[[pdf]](http://arxiv.org/abs/2505.09601v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Distilling Realizable Students from Unrealizable Teachers|[[pdf]](http://arxiv.org/abs/2505.09546v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion|[[pdf]](http://arxiv.org/abs/2505.09424v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|General Dynamic Goal Recognition|[[pdf]](http://arxiv.org/abs/2505.09737v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling|[[pdf]](http://arxiv.org/abs/2505.09731v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[EnerVerse-AC] EnerVerse-AC: Envisioning Embodied Environments with Action Condition|[[pdf]](http://arxiv.org/abs/2505.09723v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[ManipBench] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.09698v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|[Trailblazer] Trailblazer: Learning offroad costmaps for long range planning|[[pdf]](http://arxiv.org/abs/2505.09739v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Neural Associative Skill Memories for safer robotics and modelling human sensorimotor repertoires|[[pdf]](http://arxiv.org/abs/2505.09760v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.08222v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning|[[pdf]](http://arxiv.org/abs/2505.08238v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2505.08574v1)|⚠️|⭐️⭐️⭐️|
@@ -98,6 +120,7 @@
 |2025-05-13|[ChicGrasp] ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation|[[pdf]](http://arxiv.org/abs/2505.08986v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Monte Carlo Beam Search for Actor-Critic Reinforcement Learning in Continuous Control|[[pdf]](http://arxiv.org/abs/2505.09029v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores|[[pdf]](http://arxiv.org/abs/2505.08835v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-13|Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation|[[pdf]](http://arxiv.org/abs/2505.09653v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Hyper-Dexterous] DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies|[[pdf]](http://arxiv.org/abs/2505.07813v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[Neural Brain] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.07634v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Improving Trajectory Stitching with Flow Models|[[pdf]](http://arxiv.org/abs/2505.07802v1)|⚠️|⭐️⭐️⭐️|
@@ -178,6 +201,6 @@
 
 ## 📊 统计
 
-- 论文总数：152篇
+- 论文总数：175篇
 - 代码实现：20个
 - 最后更新：2025年05月

@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-15|[SRT-H] SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.10251v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[FlowDreamer] FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.10075v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM|[[pdf]](http://arxiv.org/abs/2505.08492v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology|[[pdf]](http://arxiv.org/abs/2505.08765v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Symbolically-Guided Visual Plan Inference from Uncurated Video Data|[[pdf]](http://arxiv.org/abs/2505.08444v1)|⚠️|⭐️⭐️⭐️|
@@ -92,6 +94,6 @@
 
 ## 📊 统计
 
-- 论文总数：68篇
+- 论文总数：70篇
 - 代码实现：6个
 - 最后更新：2025年05月
