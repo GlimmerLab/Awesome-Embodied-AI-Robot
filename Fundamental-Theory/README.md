@@ -18,6 +18,7 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-14|[EWMBench] EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models|[[pdf]](http://arxiv.org/abs/2505.09694v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[ARC-NCA] ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus|[[pdf]](http://arxiv.org/abs/2505.08778v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[LAMM-ViT] LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention|[[pdf]](http://arxiv.org/abs/2505.07734v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Learning from Peers in Reasoning Models|[[pdf]](http://arxiv.org/abs/2505.07787v1)|⚠️|⭐️⭐️⭐️|
@@ -89,6 +90,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 68
+- Total Papers: 69
 - Code Implementations: 5
 - Last Updated: May 2025

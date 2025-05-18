@@ -63,6 +63,13 @@
 |2025-05-15|Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2505.09979v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[NVSPolicy] NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning|[[pdf]](http://arxiv.org/abs/2505.10359v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Towards Safe Robot Foundation Models Using Inductive Biases|[[pdf]](http://arxiv.org/abs/2505.10219v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Internal State Estimation in Groups via Active Information Gathering|[[pdf]](http://arxiv.org/abs/2505.10415v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[Diffusion-SAFE] Diffusion-SAFE: Shared Autonomy Framework with Diffusion for Safe Human-to-Robot Driving Handover|[[pdf]](http://arxiv.org/abs/2505.09889v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[Hyper Yoshimura] Hyper Yoshimura: How a slight tweak on a classical folding pattern unleashes meta-stability for deployable robots|[[pdf]](http://arxiv.org/abs/2505.09919v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps|[[pdf]](http://arxiv.org/abs/2505.10552v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Evaluating Robustness of Deep Reinforcement Learning for Autonomous Surface Vehicle Control in Field Tests|[[pdf]](http://arxiv.org/abs/2505.10033v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Force-Driven Validation for Collaborative Robotics in Automated Avionics Testing|[[pdf]](http://arxiv.org/abs/2505.10224v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[Multi-Agent] LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping|[[pdf]](http://arxiv.org/abs/2505.10018v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trajectory] RT-cache: Efficient Robot Trajectory Retrieval System|[[pdf]](http://arxiv.org/abs/2505.09040v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trajectory] Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities|[[pdf]](http://arxiv.org/abs/2505.09477v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Imitation Learning for Adaptive Control of a Virtual Soft Exoglove|[[pdf]](http://arxiv.org/abs/2505.09099v1)|⚠️|⭐️⭐️⭐️|
@@ -84,6 +91,7 @@
 |2025-05-14|[ManipBench] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.09698v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trailblazer] Trailblazer: Learning offroad costmaps for long range planning|[[pdf]](http://arxiv.org/abs/2505.09739v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Neural Associative Skill Memories for safer robotics and modelling human sensorimotor repertoires|[[pdf]](http://arxiv.org/abs/2505.09760v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Risk-Aware Safe Reinforcement Learning for Control of Stochastic Linear Systems|[[pdf]](http://arxiv.org/abs/2505.09734v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.08222v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning|[[pdf]](http://arxiv.org/abs/2505.08238v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2505.08574v1)|⚠️|⭐️⭐️⭐️|
@@ -201,6 +209,6 @@
 
 ## 📊 统计
 
-- 论文总数：175篇
+- 论文总数：183篇
 - 代码实现：20个
 - 最后更新：2025年05月
