@@ -27,8 +27,10 @@ This directory collects papers and code implementations related to environment p
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-15|Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior|[[pdf]](http://arxiv.org/abs/2505.09887v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Large-Scale Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2505.09915v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Air-Ground Collaboration for Language-Specified Missions in Unknown Environments|[[pdf]](http://arxiv.org/abs/2505.09108v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation|[[pdf]](http://arxiv.org/abs/2505.09144v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|EdgeAI Drone for Autonomous Construction Site Demonstrator|[[pdf]](http://arxiv.org/abs/2505.09837v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs|[[pdf]](http://arxiv.org/abs/2505.08704v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[MDF] MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM|[[pdf]](http://arxiv.org/abs/2505.08388v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|Pixel Motion as Universal Representation for Robot Control|[[pdf]](http://arxiv.org/abs/2505.07817v1)|⚠️|⭐️⭐️⭐️|
@@ -92,6 +94,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 68
+- Total Papers: 70
 - Code Implementations: 8
 - Last Updated: May 2025

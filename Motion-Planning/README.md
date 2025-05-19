@@ -34,6 +34,8 @@ This directory collects papers and code implementations related to motion planni
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-15|[APEX] APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots|[[pdf]](http://arxiv.org/abs/2505.10022v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[AutoCam] AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics|[[pdf]](http://arxiv.org/abs/2505.10398v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Fast Heuristic Scheduling and Trajectory Planning for Robotic Fruit Harvesters with Multiple Cartesian Arms|[[pdf]](http://arxiv.org/abs/2505.10028v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[Quad-LCD] Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning|[[pdf]](http://arxiv.org/abs/2505.10228v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting|[[pdf]](http://arxiv.org/abs/2505.09395v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trustless Autonomy] Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents|[[pdf]](http://arxiv.org/abs/2505.09757v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Learning Rock Pushability on Rough Planetary Terrain|[[pdf]](http://arxiv.org/abs/2505.09833v1)|⚠️|⭐️⭐️⭐️|
@@ -117,6 +119,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 92
+- Total Papers: 94
 - Code Implementations: 8
 - Last Updated: May 2025

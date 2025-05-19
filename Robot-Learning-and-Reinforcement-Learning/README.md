@@ -92,6 +92,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-14|[Trailblazer] Trailblazer: Learning offroad costmaps for long range planning|[[pdf]](http://arxiv.org/abs/2505.09739v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Neural Associative Skill Memories for safer robotics and modelling human sensorimotor repertoires|[[pdf]](http://arxiv.org/abs/2505.09760v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Risk-Aware Safe Reinforcement Learning for Control of Stochastic Linear Systems|[[pdf]](http://arxiv.org/abs/2505.09734v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Neural Inertial Odometry from Lie Events|[[pdf]](http://arxiv.org/abs/2505.09780v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.08222v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning|[[pdf]](http://arxiv.org/abs/2505.08238v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2505.08574v1)|⚠️|⭐️⭐️⭐️|
@@ -209,6 +210,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 183
+- Total Papers: 184
 - Code Implementations: 20
 - Last Updated: May 2025

@@ -92,6 +92,7 @@
 |2025-05-14|[Trailblazer] Trailblazer: Learning offroad costmaps for long range planning|[[pdf]](http://arxiv.org/abs/2505.09739v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Neural Associative Skill Memories for safer robotics and modelling human sensorimotor repertoires|[[pdf]](http://arxiv.org/abs/2505.09760v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Risk-Aware Safe Reinforcement Learning for Control of Stochastic Linear Systems|[[pdf]](http://arxiv.org/abs/2505.09734v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-14|Neural Inertial Odometry from Lie Events|[[pdf]](http://arxiv.org/abs/2505.09780v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.08222v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|Motion Control of High-Dimensional Musculoskeletal Systems with Hierarchical Model-Based Planning|[[pdf]](http://arxiv.org/abs/2505.08238v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2505.08574v1)|⚠️|⭐️⭐️⭐️|
@@ -209,6 +210,6 @@
 
 ## 📊 统计
 
-- 论文总数：183篇
+- 论文总数：184篇
 - 代码实现：20个
 - 最后更新：2025年05月
