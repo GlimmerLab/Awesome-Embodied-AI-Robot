@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-16|[PoE-World] PoE-World: Compositional World Modeling with Products of Programmatic Experts|[[pdf]](http://arxiv.org/abs/2505.10819v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?|[[pdf]](http://arxiv.org/abs/2505.10924v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] PARSEC: Preference Adaptation for Robotic Object Rearrangement from Scene Context|[[pdf]](http://arxiv.org/abs/2505.11108v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration|[[pdf]](http://arxiv.org/abs/2505.11191v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition|[[pdf]](http://arxiv.org/abs/2505.11175v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[EWMBench] EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models|[[pdf]](http://arxiv.org/abs/2505.09694v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-13|[ARC-NCA] ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus|[[pdf]](http://arxiv.org/abs/2505.08778v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-12|[LAMM-ViT] LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention|[[pdf]](http://arxiv.org/abs/2505.07734v1)|⚠️|⭐️⭐️⭐️|
@@ -90,6 +95,6 @@
 
 ## 📊 统计
 
-- 论文总数：69篇
+- 论文总数：74篇
 - 代码实现：5个
 - 最后更新：2025年05月

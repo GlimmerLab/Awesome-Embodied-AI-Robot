@@ -47,6 +47,30 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-16|[Trajectory] REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?|[[pdf]](http://arxiv.org/abs/2505.10872v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[DexGarmentLab] DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy|[[pdf]](http://arxiv.org/abs/2505.11032v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[SurgPose] SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision|[[pdf]](http://arxiv.org/abs/2505.11439v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Geofenced Unmanned Aerial Robotic Defender for Deer Detection and Deterrence (GUARD)|[[pdf]](http://arxiv.org/abs/2505.10770v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[Visual Planning] Visual Planning: Let's Think Only with Images|[[pdf]](http://arxiv.org/abs/2505.11409v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics|[[pdf]](http://arxiv.org/abs/2505.11311v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining|[[pdf]](http://arxiv.org/abs/2505.11122v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|LLMs unlock new paths to monetizing exploits|[[pdf]](http://arxiv.org/abs/2505.11449v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[GROQLoco] GROQLoco: Generalist and RObot-agnostic Quadruped Locomotion Control using Offline Datasets|[[pdf]](http://arxiv.org/abs/2505.10973v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space|[[pdf]](http://arxiv.org/abs/2505.11366v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[SHIELD] SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics|[[pdf]](http://arxiv.org/abs/2505.11494v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[ReWiND] ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations|[[pdf]](http://arxiv.org/abs/2505.10911v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Estimating Deformable-Rigid Contact Interactions for a Deformable Tool via Learning and Model-Based Optimization|[[pdf]](http://arxiv.org/abs/2505.10884v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Self-supervised perception for tactile skin covered dexterous hands|[[pdf]](http://arxiv.org/abs/2505.11420v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[X2C] X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation|[[pdf]](http://arxiv.org/abs/2505.11146v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[Dynam3D] Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2505.11383v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Conditioning Matters: Training Diffusion Policies is Faster Than You Think|[[pdf]](http://arxiv.org/abs/2505.11123v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Reinforcement Learning for AMR Charging Decisions: The Impact of Reward and Action Space Design|[[pdf]](http://arxiv.org/abs/2505.11136v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Scalability of Reinforcement Learning Methods for Dispatching in Semiconductor Frontend Fabs: A Comparison of Open-Source Models with Real Industry Datasets|[[pdf]](http://arxiv.org/abs/2505.11135v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|DRL-Based Injection Molding Process Parameter Optimization for Adaptive and Profitable Production|[[pdf]](http://arxiv.org/abs/2505.10988v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|Attention-Based Reward Shaping for Sparse and Delayed Rewards|[[pdf]](http://arxiv.org/abs/2505.10802v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[Parkour in the Wild] Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning|[[pdf]](http://arxiv.org/abs/2505.11164v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[Multi-Agent] UMArm: Untethered, Modular, Wearable, Soft Pneumatic Arm|[[pdf]](http://arxiv.org/abs/2505.11476v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow|[[pdf]](http://arxiv.org/abs/2505.11116v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning|[[pdf]](http://arxiv.org/abs/2505.10547v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps|[[pdf]](http://arxiv.org/abs/2505.10482v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Multi-Agent Path Finding For Large Agents Is Intractable|[[pdf]](http://arxiv.org/abs/2505.10387v1)|⚠️|⭐️⭐️⭐️|
@@ -70,6 +94,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-15|Evaluating Robustness of Deep Reinforcement Learning for Autonomous Surface Vehicle Control in Field Tests|[[pdf]](http://arxiv.org/abs/2505.10033v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Force-Driven Validation for Collaborative Robotics in Automated Avionics Testing|[[pdf]](http://arxiv.org/abs/2505.10224v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[Multi-Agent] LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping|[[pdf]](http://arxiv.org/abs/2505.10018v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Code-Driven Planning in Grid Worlds with Large Language Models|[[pdf]](http://arxiv.org/abs/2505.10749v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|Large Language Models for Cancer Communication: Evaluating Linguistic Quality, Safety, and Accessibility in Generative AI|[[pdf]](http://arxiv.org/abs/2505.10472v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[Infinigen-Sim] Infinigen-Sim: Procedural Generation of Articulated Simulation Assets|[[pdf]](http://arxiv.org/abs/2505.10755v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trajectory] RT-cache: Efficient Robot Trajectory Retrieval System|[[pdf]](http://arxiv.org/abs/2505.09040v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Trajectory] Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities|[[pdf]](http://arxiv.org/abs/2505.09477v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Imitation Learning for Adaptive Control of a Virtual Soft Exoglove|[[pdf]](http://arxiv.org/abs/2505.09099v1)|⚠️|⭐️⭐️⭐️|
@@ -210,6 +237,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 184
+- Total Papers: 211
 - Code Implementations: 20
 - Last Updated: May 2025

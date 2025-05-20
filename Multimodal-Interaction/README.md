@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-16|Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions|[[pdf]](http://arxiv.org/abs/2505.11214v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Open-Source Multi-Viewpoint Surgical Telerobotics|[[pdf]](http://arxiv.org/abs/2505.11142v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction|[[pdf]](http://arxiv.org/abs/2505.10239v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|[Flash-VL 2B] Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput|[[pdf]](http://arxiv.org/abs/2505.09498v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Grasp EveryThing (GET): 1-DoF, 3-Fingered Gripper with Tactile Sensing for Robust Grasping|[[pdf]](http://arxiv.org/abs/2505.09771v1)|⚠️|⭐️⭐️⭐️|
@@ -93,6 +95,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 68
+- Total Papers: 70
 - Code Implementations: 6
 - Last Updated: May 2025

@@ -26,8 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-16|[en] Attention on the Sphere|[[pdf]](http://arxiv.org/abs/2505.11157v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior|[[pdf]](http://arxiv.org/abs/2505.09887v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Large-Scale Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2505.09915v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-15|[TartanGround] TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation|[[pdf]](http://arxiv.org/abs/2505.10696v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Air-Ground Collaboration for Language-Specified Missions in Unknown Environments|[[pdf]](http://arxiv.org/abs/2505.09108v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation|[[pdf]](http://arxiv.org/abs/2505.09144v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-14|EdgeAI Drone for Autonomous Construction Site Demonstrator|[[pdf]](http://arxiv.org/abs/2505.09837v1)|⚠️|⭐️⭐️⭐️|
@@ -94,6 +96,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 70
+- Total Papers: 72
 - Code Implementations: 8
 - Last Updated: May 2025
