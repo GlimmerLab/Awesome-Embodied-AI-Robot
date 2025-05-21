@@ -47,6 +47,49 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-19|[Learning] TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation|[[pdf]](http://arxiv.org/abs/2505.12748v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[Learning] DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories|[[pdf]](http://arxiv.org/abs/2505.12705v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[ViPlan] ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.13180v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.12737v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Mixture Policy based Multi-Hop Reasoning over N-tuple Temporal Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2505.12788v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Temporal Distance-aware Transition Augmentation for Offline Model-based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.13144v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[FinePhys] FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance|[[pdf]](http://arxiv.org/abs/2505.13437v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[OPA-Pack] OPA-Pack: Object-Property-Aware Robotic Bin Packing|[[pdf]](http://arxiv.org/abs/2505.13339v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[SounDiT] SounDiT: Geo-Contextual Soundscape-to-Landscape Generation|[[pdf]](http://arxiv.org/abs/2505.12734v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[Dribble Master] Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion|[[pdf]](http://arxiv.org/abs/2505.12679v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[SafeMove-RL] SafeMove-RL: A Certifiable Reinforcement Learning Framework for Dynamic Motion Constraints in Trajectory Planning|[[pdf]](http://arxiv.org/abs/2505.12648v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[MOON] MOON: Multi-Objective Optimization-Driven Object-Goal Navigation Using a Variable-Horizon Set-Orienteering Planner|[[pdf]](http://arxiv.org/abs/2505.12752v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|A Comprehensive Survey on Physical Risk Control in the Era of Foundation Model-enabled Robotics|[[pdf]](http://arxiv.org/abs/2505.12583v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic|[[pdf]](http://arxiv.org/abs/2505.13253v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Hybrid Voting-Based Task Assignment in Modular Construction Scenarios|[[pdf]](http://arxiv.org/abs/2505.13278v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[en] Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.12744v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[en] Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.12811v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Advancing Sequential Numerical Prediction in Autoregressive Models|[[pdf]](http://arxiv.org/abs/2505.13077v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|The Computation of Generalized Embeddings for Underwater Acoustic Target Recognition using Contrastive Learning|[[pdf]](http://arxiv.org/abs/2505.12904v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity|[[pdf]](http://arxiv.org/abs/2505.13350v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Audio-Visual Contact Classification for Tree Structures in Agriculture|[[pdf]](http://arxiv.org/abs/2505.12665v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[RoboFAC] RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction|[[pdf]](http://arxiv.org/abs/2505.12224v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|Visuospatial Cognitive Assistant|[[pdf]](http://arxiv.org/abs/2505.12312v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|Enhance Mobile Agents Thinking Process Via Iterative Preference Learning|[[pdf]](http://arxiv.org/abs/2505.12299v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[UIShift] UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.12493v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[Depth Transfer] Depth Transfer: Learning to See Like a Simulator for Real-World Drone Navigation|[[pdf]](http://arxiv.org/abs/2505.12428v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.12370v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[en] ProMi: An Efficient Prototype-Mixture Baseline for Few-Shot Segmentation with Bounding-Box Annotations|[[pdf]](http://arxiv.org/abs/2505.12547v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|Towards Open-world Generalized Deepfake Detection: General Feature Extraction via Unsupervised Domain Adaptation|[[pdf]](http://arxiv.org/abs/2505.12339v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing|[[pdf]](http://arxiv.org/abs/2505.12537v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[MTIL] MTIL: Encoding Full History with Mamba for Temporal Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.12410v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[PartDexTOG] PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis|[[pdf]](http://arxiv.org/abs/2505.12294v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[en] BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2505.12443v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[en] Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding|[[pdf]](http://arxiv.org/abs/2505.12194v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|Proactive tactile exploration for object-agnostic shape reconstruction from minimal visual priors|[[pdf]](http://arxiv.org/abs/2505.11975v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[H2R] H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos|[[pdf]](http://arxiv.org/abs/2505.11920v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|Integrating Model-based Control and RL for Sim2Real Transfer of Tight Insertion Policies|[[pdf]](http://arxiv.org/abs/2505.11858v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[L2D2] L2D2: Robot Learning from 2D Drawings|[[pdf]](http://arxiv.org/abs/2505.12072v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[en] Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control|[[pdf]](http://arxiv.org/abs/2505.11808v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[en] Bridging the Reality Gap in Digital Twins with Context-Aware, Physics-Guided Deep Learning|[[pdf]](http://arxiv.org/abs/2505.11847v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[en] GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.11865v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[en] PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter|[[pdf]](http://arxiv.org/abs/2505.11848v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[en] Federated Deep Reinforcement Learning for Privacy-Preserving Robotic-Assisted Surgery|[[pdf]](http://arxiv.org/abs/2505.12153v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[Trajectory] REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?|[[pdf]](http://arxiv.org/abs/2505.10872v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[DexGarmentLab] DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy|[[pdf]](http://arxiv.org/abs/2505.11032v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[SurgPose] SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision|[[pdf]](http://arxiv.org/abs/2505.11439v1)|⚠️|⭐️⭐️⭐️|
@@ -71,6 +114,11 @@
 |2025-05-16|[Parkour in the Wild] Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning|[[pdf]](http://arxiv.org/abs/2505.11164v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[Multi-Agent] UMArm: Untethered, Modular, Wearable, Soft Pneumatic Arm|[[pdf]](http://arxiv.org/abs/2505.11476v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[en] Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow|[[pdf]](http://arxiv.org/abs/2505.11116v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video|[[pdf]](http://arxiv.org/abs/2505.11709v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Zero-Shot Visual Generalization in Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.11719v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Grounded Task Axes: Zero-Shot Semantic Skill Generalization via Task-Axis Controllers and Visual Foundation Models|[[pdf]](http://arxiv.org/abs/2505.11680v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] GRoQ-Loco: Generalist and Robot-agnostic Quadruped Locomotion Control using Offline Datasets|[[pdf]](http://arxiv.org/abs/2505.10973v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-16|[en] Adaptive Ergodic Search with Energy-Aware Scheduling for Persistent Multi-Robot Missions|[[pdf]](http://arxiv.org/abs/2505.11663v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning|[[pdf]](http://arxiv.org/abs/2505.10547v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps|[[pdf]](http://arxiv.org/abs/2505.10482v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Multi-Agent Path Finding For Large Agents Is Intractable|[[pdf]](http://arxiv.org/abs/2505.10387v1)|⚠️|⭐️⭐️⭐️|
@@ -237,6 +285,6 @@
 
 ## 📊 统计
 
-- 论文总数：211篇
+- 论文总数：259篇
 - 代码实现：20个
 - 最后更新：2025年05月

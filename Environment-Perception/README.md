@@ -26,6 +26,7 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-19|[en] MatPredict: a dataset and benchmark for learning material properties of diverse indoor objects|[[pdf]](http://arxiv.org/abs/2505.13201v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[en] Attention on the Sphere|[[pdf]](http://arxiv.org/abs/2505.11157v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior|[[pdf]](http://arxiv.org/abs/2505.09887v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Large-Scale Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2505.09915v1)|⚠️|⭐️⭐️⭐️|
@@ -96,6 +97,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 72
+- Total Papers: 73
 - Code Implementations: 8
 - Last Updated: May 2025

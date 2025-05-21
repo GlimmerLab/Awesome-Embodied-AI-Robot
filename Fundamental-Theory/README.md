@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-19|[PLAICraft] PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI|[[pdf]](http://arxiv.org/abs/2505.12707v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[MM-PRM] MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision|[[pdf]](http://arxiv.org/abs/2505.13427v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots|[[pdf]](http://arxiv.org/abs/2505.13376v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[PEER pressure] PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization|[[pdf]](http://arxiv.org/abs/2505.12745v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[ARIW-Framework] ARIW-Framework: Adaptive Robust Iterative Watermarking Framework|[[pdf]](http://arxiv.org/abs/2505.13101v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[en] BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind|[[pdf]](http://arxiv.org/abs/2505.12321v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[PoE-World] PoE-World: Compositional World Modeling with Products of Programmatic Experts|[[pdf]](http://arxiv.org/abs/2505.10819v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?|[[pdf]](http://arxiv.org/abs/2505.10924v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[en] PARSEC: Preference Adaptation for Robotic Object Rearrangement from Scene Context|[[pdf]](http://arxiv.org/abs/2505.11108v1)|⚠️|⭐️⭐️⭐️|
@@ -95,6 +101,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 74
+- Total Papers: 80
 - Code Implementations: 5
 - Last Updated: May 2025

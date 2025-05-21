@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-19|Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche|[[pdf]](http://arxiv.org/abs/2505.12934v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-17|[OneTwoVLA] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning|[[pdf]](http://arxiv.org/abs/2505.11917v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[SRT-H] SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.10251v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[FlowDreamer] FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.10075v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[AORRTC] AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect|[[pdf]](http://arxiv.org/abs/2505.10542v1)|⚠️|⭐️⭐️⭐️|
@@ -95,6 +97,6 @@
 
 ## 📊 统计
 
-- 论文总数：71篇
+- 论文总数：73篇
 - 代码实现：6个
 - 最后更新：2025年05月
