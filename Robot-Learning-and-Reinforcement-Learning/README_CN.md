@@ -47,6 +47,25 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-20|[en] NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2505.14526v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Embedded Mean Field Reinforcement Learning for Perimeter-defense Game|[[pdf]](http://arxiv.org/abs/2505.14209v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] Enhancing Robot Navigation Policies with Task-Specific Uncertainty Managements|[[pdf]](http://arxiv.org/abs/2505.13837v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Federated learning in low-resource settings: A chest imaging study in Africa -- Challenges and lessons learned|[[pdf]](http://arxiv.org/abs/2505.14217v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[KIPPO] KIPPO: Koopman-Inspired Proximal Policy Optimization|[[pdf]](http://arxiv.org/abs/2505.14566v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection|[[pdf]](http://arxiv.org/abs/2505.14289v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study|[[pdf]](http://arxiv.org/abs/2505.14544v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] Bellman operator convergence enhancements in reinforcement learning algorithms|[[pdf]](http://arxiv.org/abs/2505.14564v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[Quadruped] Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams|[[pdf]](http://arxiv.org/abs/2505.13834v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[Multi-Agent] Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds|[[pdf]](http://arxiv.org/abs/2505.14366v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[AutoBio] AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory|[[pdf]](http://arxiv.org/abs/2505.14030v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Time Reversal Symmetry for Efficient Robotic Manipulations in Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.13925v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[Sim2Real] Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning|[[pdf]](http://arxiv.org/abs/2505.14266v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.13982v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Robust Immersive Bilateral Teleoperation of Dissimilar Systems with Enhanced Transparency and Sense of Embodiment|[[pdf]](http://arxiv.org/abs/2505.14486v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Semantically-driven Deep Reinforcement Learning for Inspection Path Planning|[[pdf]](http://arxiv.org/abs/2505.14443v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Certifiably Safe Manipulation of Deformable Linear Objects via Joint Shape and Tension Prediction|[[pdf]](http://arxiv.org/abs/2505.13889v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Unconventional Hexacopters via Evolution and Learning: Performance Gains and New Insights|[[pdf]](http://arxiv.org/abs/2505.14129v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] 4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision|[[pdf]](http://arxiv.org/abs/2505.13905v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[Learning] TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation|[[pdf]](http://arxiv.org/abs/2505.12748v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[Learning] DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories|[[pdf]](http://arxiv.org/abs/2505.12705v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[ViPlan] ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.13180v1)|⚠️|⭐️⭐️⭐️|
@@ -68,6 +87,12 @@
 |2025-05-19|The Computation of Generalized Embeddings for Underwater Acoustic Target Recognition using Contrastive Learning|[[pdf]](http://arxiv.org/abs/2505.12904v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity|[[pdf]](http://arxiv.org/abs/2505.13350v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Audio-Visual Contact Classification for Tree Structures in Agriculture|[[pdf]](http://arxiv.org/abs/2505.12665v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.13709v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings|[[pdf]](http://arxiv.org/abs/2505.13718v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.13667v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|Practice Makes Perfect: A Study of Digital Twin Technology for Assembly and Problem-solving using Lunar Surface Telerobotics|[[pdf]](http://arxiv.org/abs/2505.13722v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[Policy] Policy Contrastive Decoding for Robotic Foundation Models|[[pdf]](http://arxiv.org/abs/2505.13255v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[en] TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2505.13549v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-18|[RoboFAC] RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction|[[pdf]](http://arxiv.org/abs/2505.12224v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-18|Visuospatial Cognitive Assistant|[[pdf]](http://arxiv.org/abs/2505.12312v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-18|Enhance Mobile Agents Thinking Process Via Iterative Preference Learning|[[pdf]](http://arxiv.org/abs/2505.12299v1)|⚠️|⭐️⭐️⭐️|
@@ -81,6 +106,7 @@
 |2025-05-18|[PartDexTOG] PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis|[[pdf]](http://arxiv.org/abs/2505.12294v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-18|[en] BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2505.12443v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-18|[en] Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding|[[pdf]](http://arxiv.org/abs/2505.12194v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-18|[en] Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey|[[pdf]](http://arxiv.org/abs/2505.12384v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-17|Proactive tactile exploration for object-agnostic shape reconstruction from minimal visual priors|[[pdf]](http://arxiv.org/abs/2505.11975v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-17|[H2R] H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos|[[pdf]](http://arxiv.org/abs/2505.11920v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-17|Integrating Model-based Control and RL for Sim2Real Transfer of Tight Insertion Policies|[[pdf]](http://arxiv.org/abs/2505.11858v1)|⚠️|⭐️⭐️⭐️|
@@ -285,6 +311,6 @@
 
 ## 📊 统计
 
-- 论文总数：259篇
+- 论文总数：285篇
 - 代码实现：20个
 - 最后更新：2025年05月

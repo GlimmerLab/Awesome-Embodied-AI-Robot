@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-20|Sketch Interface for Teleoperation of Mobile Manipulator to Enable Intuitive and Intended Operation: A Proof of Concept|[[pdf]](http://arxiv.org/abs/2505.13931v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture|[[pdf]](http://arxiv.org/abs/2505.13916v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents|[[pdf]](http://arxiv.org/abs/2505.12632v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[Multi-Agent] Interpretable Robotic Friction Learning via Symbolic Regression|[[pdf]](http://arxiv.org/abs/2505.13186v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions|[[pdf]](http://arxiv.org/abs/2505.11214v1)|⚠️|⭐️⭐️⭐️|
@@ -97,6 +99,6 @@
 
 ## 📊 统计
 
-- 论文总数：72篇
+- 论文总数：74篇
 - 代码实现：6个
 - 最后更新：2025年05月

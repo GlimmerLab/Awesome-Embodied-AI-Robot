@@ -18,6 +18,8 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-20|[KORGym] KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation|[[pdf]](http://arxiv.org/abs/2505.14552v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] Memory-Centric Embodied Question Answer|[[pdf]](http://arxiv.org/abs/2505.13948v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[PLAICraft] PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI|[[pdf]](http://arxiv.org/abs/2505.12707v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[MM-PRM] MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision|[[pdf]](http://arxiv.org/abs/2505.13427v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots|[[pdf]](http://arxiv.org/abs/2505.13376v1)|⚠️|⭐️⭐️⭐️|
@@ -101,6 +103,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 80
+- Total Papers: 82
 - Code Implementations: 5
 - Last Updated: May 2025

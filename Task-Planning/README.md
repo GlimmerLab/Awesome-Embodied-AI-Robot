@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-20|[APEX] APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight|[[pdf]](http://arxiv.org/abs/2505.13921v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche|[[pdf]](http://arxiv.org/abs/2505.12934v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-17|[OneTwoVLA] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning|[[pdf]](http://arxiv.org/abs/2505.11917v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[SRT-H] SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.10251v1)|⚠️|⭐️⭐️⭐️|
@@ -97,6 +98,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 73
+- Total Papers: 74
 - Code Implementations: 6
 - Last Updated: May 2025

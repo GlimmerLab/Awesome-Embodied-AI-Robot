@@ -36,6 +36,8 @@ This directory collects papers and code implementations related to motion planni
 |2025-05-19|Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies|[[pdf]](http://arxiv.org/abs/2505.12963v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[UniHM] UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes|[[pdf]](http://arxiv.org/abs/2505.12774v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|The Robot of Theseus: A modular robotic testbed for legged locomotion|[[pdf]](http://arxiv.org/abs/2505.12649v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[en] SayCoNav: Utilizing Large Language Models for Adaptive Collaboration in Decentralized Multi-Robot Navigation|[[pdf]](http://arxiv.org/abs/2505.13729v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-19|[Biped] Dynamic Bipedal MPC with Foot-level Obstacle Avoidance and Adjustable Step Timing|[[pdf]](http://arxiv.org/abs/2505.13715v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-18|Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.12278v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space|[[pdf]](http://arxiv.org/abs/2505.10918v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[Biped] Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models|[[pdf]](http://arxiv.org/abs/2505.11495v1)|⚠️|⭐️⭐️⭐️|
@@ -126,6 +128,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 101
+- Total Papers: 103
 - Code Implementations: 8
 - Last Updated: May 2025
