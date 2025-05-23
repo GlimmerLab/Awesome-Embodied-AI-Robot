@@ -39,6 +39,7 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-21|Neural Quantum Digital Twins for Optimizing Quantum Annealing|[[pdf]](http://arxiv.org/abs/2505.15662v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[When Bias Backfires] When Bias Backfires: The Modulatory Role of Counterfactual Explanations on the Adoption of Algorithmic Bias in XAI-Supported Human Decision-Making|[[pdf]](http://arxiv.org/abs/2505.14377v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] The Traitors: Deception and Trust in Multi-Agent Language Model Simulations|[[pdf]](http://arxiv.org/abs/2505.12923v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[AutoMat] AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use|[[pdf]](http://arxiv.org/abs/2505.12650v1)|⚠️|⭐️⭐️⭐️|
@@ -124,6 +125,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 99
+- Total Papers: 100
 - Code Implementations: 21
 - Last Updated: May 2025

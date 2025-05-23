@@ -39,6 +39,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-21|Neural Quantum Digital Twins for Optimizing Quantum Annealing|[[pdf]](http://arxiv.org/abs/2505.15662v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[When Bias Backfires] When Bias Backfires: The Modulatory Role of Counterfactual Explanations on the Adoption of Algorithmic Bias in XAI-Supported Human Decision-Making|[[pdf]](http://arxiv.org/abs/2505.14377v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] The Traitors: Deception and Trust in Multi-Agent Language Model Simulations|[[pdf]](http://arxiv.org/abs/2505.12923v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[AutoMat] AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use|[[pdf]](http://arxiv.org/abs/2505.12650v1)|⚠️|⭐️⭐️⭐️|
@@ -124,6 +125,6 @@
 
 ## 📊 统计
 
-- 论文总数：99篇
+- 论文总数：100篇
 - 代码实现：21个
 - 最后更新：2025年05月

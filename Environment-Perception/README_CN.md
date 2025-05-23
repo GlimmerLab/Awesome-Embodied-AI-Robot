@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-21|[en] RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation|[[pdf]](http://arxiv.org/abs/2505.15373v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] MatPredict: a dataset and benchmark for learning material properties of diverse indoor objects|[[pdf]](http://arxiv.org/abs/2505.13201v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[en] Attention on the Sphere|[[pdf]](http://arxiv.org/abs/2505.11157v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior|[[pdf]](http://arxiv.org/abs/2505.09887v1)|⚠️|⭐️⭐️⭐️|
@@ -97,6 +98,6 @@
 
 ## 📊 统计
 
-- 论文总数：73篇
+- 论文总数：74篇
 - 代码实现：8个
 - 最后更新：2025年05月

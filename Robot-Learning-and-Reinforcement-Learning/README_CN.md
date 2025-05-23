@@ -47,6 +47,29 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-21|[Trajectory] Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets|[[pdf]](http://arxiv.org/abs/2505.15517v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[Hyper-Dexterous] Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.15098v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Learning-based Autonomous Oversteer Control and Collision Avoidance|[[pdf]](http://arxiv.org/abs/2505.15275v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[AM-PPO] AM-PPO: (Advantage) Alpha-Modulation with Proximal Policy Optimization|[[pdf]](http://arxiv.org/abs/2505.15514v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[LLM-Explorer] LLM-Explorer: A Plug-in Reinforcement Learning Policy Exploration Enhancement Driven by Large Language Models|[[pdf]](http://arxiv.org/abs/2505.15293v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Reconsider the Template Mesh in Deep Learning-based Mesh Reconstruction|[[pdf]](http://arxiv.org/abs/2505.15285v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Improving planning and MBRL with temporally-extended actions|[[pdf]](http://arxiv.org/abs/2505.15754v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs|[[pdf]](http://arxiv.org/abs/2505.15265v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|World Models as Reference Trajectories for Rapid Motor Adaptation|[[pdf]](http://arxiv.org/abs/2505.15589v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[Trajectory] Robo-DM: Data Management For Large Robot Datasets|[[pdf]](http://arxiv.org/abs/2505.15558v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Trajectory Bellman Residual Minimization: A Simple Value-Based Method for LLM Reasoning|[[pdf]](http://arxiv.org/abs/2505.15311v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.15607v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems|[[pdf]](http://arxiv.org/abs/2505.15685v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Cascaded Diffusion Models for Neural Motion Planning|[[pdf]](http://arxiv.org/abs/2505.15157v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[FLARE] FLARE: Robot Learning with Implicit World Modeling|[[pdf]](http://arxiv.org/abs/2505.15659v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization|[[pdf]](http://arxiv.org/abs/2505.15660v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control|[[pdf]](http://arxiv.org/abs/2505.15304v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Average Reward Reinforcement Learning for Omega-Regular and Mean-Payoff Objectives|[[pdf]](http://arxiv.org/abs/2505.15693v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[en] Fault-Tolerant Multi-Robot Coordination with Limited Sensing within Confined Environments|[[pdf]](http://arxiv.org/abs/2505.15036v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Guided Policy Optimization under Partial Observability|[[pdf]](http://arxiv.org/abs/2505.15418v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[AnyBody] AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation|[[pdf]](http://arxiv.org/abs/2505.14986v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[GCNT] GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.15211v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[SwarmDiff] SwarmDiff: Swarm Robotic Trajectory Planning in Cluttered Environments via Diffusion Transformer|[[pdf]](http://arxiv.org/abs/2505.15679v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2505.14526v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Embedded Mean Field Reinforcement Learning for Perimeter-defense Game|[[pdf]](http://arxiv.org/abs/2505.14209v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] Enhancing Robot Navigation Policies with Task-Specific Uncertainty Managements|[[pdf]](http://arxiv.org/abs/2505.13837v1)|⚠️|⭐️⭐️⭐️|
@@ -66,6 +89,11 @@
 |2025-05-20|Certifiably Safe Manipulation of Deformable Linear Objects via Joint Shape and Tension Prediction|[[pdf]](http://arxiv.org/abs/2505.13889v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Unconventional Hexacopters via Evolution and Learning: Performance Gains and New Insights|[[pdf]](http://arxiv.org/abs/2505.14129v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] 4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision|[[pdf]](http://arxiv.org/abs/2505.13905v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Flattening Hierarchies with Policy Bootstrapping|[[pdf]](http://arxiv.org/abs/2505.14975v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[DORA] DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.14819v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Integrating Field of View in Human-Aware Collaborative Planning|[[pdf]](http://arxiv.org/abs/2505.14805v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] Programmatic Video Prediction Using Large Language Models|[[pdf]](http://arxiv.org/abs/2505.14948v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2505.13888v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[Learning] TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation|[[pdf]](http://arxiv.org/abs/2505.12748v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[Learning] DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories|[[pdf]](http://arxiv.org/abs/2505.12705v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[ViPlan] ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.13180v1)|⚠️|⭐️⭐️⭐️|
@@ -311,6 +339,6 @@
 
 ## 📊 统计
 
-- 论文总数：285篇
+- 论文总数：313篇
 - 代码实现：20个
 - 最后更新：2025年05月

@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-21|[EndoVLA] EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy|[[pdf]](http://arxiv.org/abs/2505.15206v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[Intentional Gesture] Intentional Gesture: Deliver Your Intentions with Gestures for Speech|[[pdf]](http://arxiv.org/abs/2505.15197v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Shape-Adaptive Planning and Control for a Deformable Quadrotor|[[pdf]](http://arxiv.org/abs/2505.15010v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] On the Day They Experience: Awakening Self-Sovereign Experiential AI Agents|[[pdf]](http://arxiv.org/abs/2505.14893v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Degradation-Aware Feature Perturbation for All-in-One Image Restoration|[[pdf]](http://arxiv.org/abs/2505.12630v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies|[[pdf]](http://arxiv.org/abs/2505.12963v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[UniHM] UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes|[[pdf]](http://arxiv.org/abs/2505.12774v1)|⚠️|⭐️⭐️⭐️|
@@ -128,6 +132,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 103
+- Total Papers: 107
 - Code Implementations: 8
 - Last Updated: May 2025

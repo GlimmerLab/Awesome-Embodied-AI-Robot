@@ -23,6 +23,9 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-20|[APEX] APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight|[[pdf]](http://arxiv.org/abs/2505.13921v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning|[[pdf]](http://arxiv.org/abs/2505.14938v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|Fast and scalable multi-robot deployment planning under connectivity constraints|[[pdf]](http://arxiv.org/abs/2505.14760v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[Multi-Agent] Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs|[[pdf]](http://arxiv.org/abs/2505.14899v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche|[[pdf]](http://arxiv.org/abs/2505.12934v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-17|[OneTwoVLA] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning|[[pdf]](http://arxiv.org/abs/2505.11917v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|[SRT-H] SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.10251v1)|⚠️|⭐️⭐️⭐️|
@@ -98,6 +101,6 @@
 
 ## 📊 统计
 
-- 论文总数：74篇
+- 论文总数：77篇
 - 代码实现：6个
 - 最后更新：2025年05月
