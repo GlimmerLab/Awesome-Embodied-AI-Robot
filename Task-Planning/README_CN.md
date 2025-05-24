@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-22|Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning|[[pdf]](http://arxiv.org/abs/2505.16928v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[APEX] APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight|[[pdf]](http://arxiv.org/abs/2505.13921v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning|[[pdf]](http://arxiv.org/abs/2505.14938v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Fast and scalable multi-robot deployment planning under connectivity constraints|[[pdf]](http://arxiv.org/abs/2505.14760v1)|⚠️|⭐️⭐️⭐️|
@@ -101,6 +102,6 @@
 
 ## 📊 统计
 
-- 论文总数：77篇
+- 论文总数：78篇
 - 代码实现：6个
 - 最后更新：2025年05月

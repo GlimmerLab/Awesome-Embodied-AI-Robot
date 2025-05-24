@@ -47,6 +47,25 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-22|[Find the Fruit] Find the Fruit: Designing a Zero-Shot Sim2Real Deep RL Planner for Occlusion Aware Plant Manipulation|[[pdf]](http://arxiv.org/abs/2505.16547v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control|[[pdf]](http://arxiv.org/abs/2505.16249v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Gaze Into the Abyss -- Planning to Seek Entropy When Reward is Scarce|[[pdf]](http://arxiv.org/abs/2505.16787v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16854v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[Raw2Drive] Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)|[[pdf]](http://arxiv.org/abs/2505.16394v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[VL-SAFE] VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.16377v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[ManipLVM-R1] ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16517v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Tactile-based Reinforcement Learning for Adaptive Grasping under Observation Uncertainties|[[pdf]](http://arxiv.org/abs/2505.16167v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[en] EasyInsert: A Data-Efficient and Generalizable Insertion Policy|[[pdf]](http://arxiv.org/abs/2505.16187v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[en] Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection|[[pdf]](http://arxiv.org/abs/2505.16512v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms|[[pdf]](http://arxiv.org/abs/2505.16362v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[en] Safe Uncertainty-Aware Learning of Robotic Suturing|[[pdf]](http://arxiv.org/abs/2505.16596v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Interactive Post-Training for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2505.17016v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[CoMo] CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning|[[pdf]](http://arxiv.org/abs/2505.17006v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[SpineWave] SpineWave: Harnessing Fish Rigid-Flexible Spinal Kinematics for Enhancing Biomimetic Robotic Locomotion|[[pdf]](http://arxiv.org/abs/2505.16453v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|3D Equivariant Visuomotor Policy Learning via Spherical Projection|[[pdf]](http://arxiv.org/abs/2505.16969v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[FlashBack] FlashBack: Consistency Model-Accelerated Shared Autonomy|[[pdf]](http://arxiv.org/abs/2505.16892v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[MEbots] MEbots: Integrating a RISC-V Virtual Platform with a Robotic Simulator for Energy-aware Design|[[pdf]](http://arxiv.org/abs/2505.16682v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Perceptual Quality Assessment for Embodied AI|[[pdf]](http://arxiv.org/abs/2505.16815v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Trajectory] Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets|[[pdf]](http://arxiv.org/abs/2505.15517v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Hyper-Dexterous] Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.15098v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Learning-based Autonomous Oversteer Control and Collision Avoidance|[[pdf]](http://arxiv.org/abs/2505.15275v1)|⚠️|⭐️⭐️⭐️|
@@ -70,6 +89,10 @@
 |2025-05-21|[AnyBody] AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation|[[pdf]](http://arxiv.org/abs/2505.14986v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[GCNT] GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.15211v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[SwarmDiff] SwarmDiff: Swarm Robotic Trajectory Planning in Cluttered Environments via Diffusion Transformer|[[pdf]](http://arxiv.org/abs/2505.15679v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[SynEVO] SynEVO: A neuro-inspired spatiotemporal evolutional framework for cross-domain adaptation|[[pdf]](http://arxiv.org/abs/2505.16080v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Motion Priors Reimagined: Adapting Flat-Terrain Skills for Complex Quadruped Mobility|[[pdf]](http://arxiv.org/abs/2505.16084v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Reference Free Platform Adaptive Locomotion for Quadrupedal Robots using a Dynamics Conditioned Policy|[[pdf]](http://arxiv.org/abs/2505.16042v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Filtering Learning Histories Enhances In-Context Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.15143v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2505.14526v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Embedded Mean Field Reinforcement Learning for Perimeter-defense Game|[[pdf]](http://arxiv.org/abs/2505.14209v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] Enhancing Robot Navigation Policies with Task-Specific Uncertainty Managements|[[pdf]](http://arxiv.org/abs/2505.13837v1)|⚠️|⭐️⭐️⭐️|
@@ -339,6 +362,6 @@
 
 ## 📊 统计
 
-- 论文总数：313篇
+- 论文总数：336篇
 - 代码实现：20个
 - 最后更新：2025年05月

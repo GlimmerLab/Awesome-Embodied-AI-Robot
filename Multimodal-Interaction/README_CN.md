@@ -25,7 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-22|[Circle-RoPE] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16416v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[ClickSight] ClickSight: Interpreting Student Clickstreams to Reveal Insights on Learning Strategies via LLMs|[[pdf]](http://arxiv.org/abs/2505.15410v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios|[[pdf]](http://arxiv.org/abs/2505.16055v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Sketch Interface for Teleoperation of Mobile Manipulator to Enable Intuitive and Intended Operation: A Proof of Concept|[[pdf]](http://arxiv.org/abs/2505.13931v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture|[[pdf]](http://arxiv.org/abs/2505.13916v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Building a Stable Planner: An Extended Finite State Machine Based Planning Module for Mobile GUI Agent|[[pdf]](http://arxiv.org/abs/2505.14141v1)|⚠️|⭐️⭐️⭐️|
@@ -103,6 +105,6 @@
 
 ## 📊 统计
 
-- 论文总数：78篇
+- 论文总数：80篇
 - 代码实现：6个
 - 最后更新：2025年05月

@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-22|Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces|[[pdf]](http://arxiv.org/abs/2505.16087v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[MASLab] MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2505.16988v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Artificial Intelligence for Direct Prediction of Molecular Dynamics Across Chemical Space|[[pdf]](http://arxiv.org/abs/2505.16301v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[TacCompress] TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.16289v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Neural Quantum Digital Twins for Optimizing Quantum Annealing|[[pdf]](http://arxiv.org/abs/2505.15662v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[When Bias Backfires] When Bias Backfires: The Modulatory Role of Counterfactual Explanations on the Adoption of Algorithmic Bias in XAI-Supported Human Decision-Making|[[pdf]](http://arxiv.org/abs/2505.14377v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] The Traitors: Deception and Trust in Multi-Agent Language Model Simulations|[[pdf]](http://arxiv.org/abs/2505.12923v1)|⚠️|⭐️⭐️⭐️|
@@ -125,6 +129,6 @@
 
 ## 📊 统计
 
-- 论文总数：100篇
+- 论文总数：104篇
 - 代码实现：21个
 - 最后更新：2025年05月

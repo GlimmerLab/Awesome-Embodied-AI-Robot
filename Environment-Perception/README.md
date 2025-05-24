@@ -26,7 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-22|[en] D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping|[[pdf]](http://arxiv.org/abs/2505.16726v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[en] RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation|[[pdf]](http://arxiv.org/abs/2505.15373v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|[WaveTouch] WaveTouch: Active Tactile Sensing Using Vibro-Feedback for Classification of Variable Stiffness and Infill Density Objects|[[pdf]](http://arxiv.org/abs/2505.16062v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] MatPredict: a dataset and benchmark for learning material properties of diverse indoor objects|[[pdf]](http://arxiv.org/abs/2505.13201v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-16|[en] Attention on the Sphere|[[pdf]](http://arxiv.org/abs/2505.11157v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-15|Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior|[[pdf]](http://arxiv.org/abs/2505.09887v1)|⚠️|⭐️⭐️⭐️|
@@ -98,6 +100,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 74
+- Total Papers: 76
 - Code Implementations: 8
 - Last Updated: May 2025
