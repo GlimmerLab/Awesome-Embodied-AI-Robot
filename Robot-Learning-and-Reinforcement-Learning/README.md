@@ -66,6 +66,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-22|[FlashBack] FlashBack: Consistency Model-Accelerated Shared Autonomy|[[pdf]](http://arxiv.org/abs/2505.16892v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[MEbots] MEbots: Integrating a RISC-V Virtual Platform with a Robotic Simulator for Energy-aware Design|[[pdf]](http://arxiv.org/abs/2505.16682v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Perceptual Quality Assessment for Embodied AI|[[pdf]](http://arxiv.org/abs/2505.16815v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Efficient Online RL Fine Tuning with Offline Pre-trained Policy Only|[[pdf]](http://arxiv.org/abs/2505.16856v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation|[[pdf]](http://arxiv.org/abs/2505.16985v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Monitoring Electrostatic Adhesion Forces via Acoustic Pressure|[[pdf]](http://arxiv.org/abs/2505.16609v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Behavioral Safety Assessment towards Large-scale Deployment of Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.16214v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Trajectory] Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets|[[pdf]](http://arxiv.org/abs/2505.15517v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Hyper-Dexterous] Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.15098v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Learning-based Autonomous Oversteer Control and Collision Avoidance|[[pdf]](http://arxiv.org/abs/2505.15275v1)|⚠️|⭐️⭐️⭐️|
@@ -93,6 +97,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-21|Motion Priors Reimagined: Adapting Flat-Terrain Skills for Complex Quadruped Mobility|[[pdf]](http://arxiv.org/abs/2505.16084v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Reference Free Platform Adaptive Locomotion for Quadrupedal Robots using a Dynamics Conditioned Policy|[[pdf]](http://arxiv.org/abs/2505.16042v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Filtering Learning Histories Enhances In-Context Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.15143v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Synthetic Enclosed Echoes: A New Dataset to Mitigate the Gap Between Simulated and Real-World Sonar Data|[[pdf]](http://arxiv.org/abs/2505.15465v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2505.14526v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Embedded Mean Field Reinforcement Learning for Perimeter-defense Game|[[pdf]](http://arxiv.org/abs/2505.14209v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] Enhancing Robot Navigation Policies with Task-Specific Uncertainty Managements|[[pdf]](http://arxiv.org/abs/2505.13837v1)|⚠️|⭐️⭐️⭐️|
@@ -362,6 +367,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 336
+- Total Papers: 341
 - Code Implementations: 20
 - Last Updated: May 2025

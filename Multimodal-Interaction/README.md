@@ -26,6 +26,7 @@ This directory collects papers and code implementations related to multimodal in
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-22|[Circle-RoPE] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16416v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[DriveMoE] DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.16278v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[ClickSight] ClickSight: Interpreting Student Clickstreams to Reveal Insights on Learning Strategies via LLMs|[[pdf]](http://arxiv.org/abs/2505.15410v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios|[[pdf]](http://arxiv.org/abs/2505.16055v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|Sketch Interface for Teleoperation of Mobile Manipulator to Enable Intuitive and Intended Operation: A Proof of Concept|[[pdf]](http://arxiv.org/abs/2505.13931v2)|⚠️|⭐️⭐️⭐️|
@@ -105,6 +106,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 80
+- Total Papers: 81
 - Code Implementations: 6
 - Last Updated: May 2025

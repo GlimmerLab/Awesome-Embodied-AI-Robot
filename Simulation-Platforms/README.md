@@ -43,8 +43,13 @@ This directory collects papers and code implementations related to simulation pl
 |2025-05-22|[MASLab] MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2505.16988v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Artificial Intelligence for Direct Prediction of Molecular Dynamics Across Chemical Space|[[pdf]](http://arxiv.org/abs/2505.16301v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[TacCompress] TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.16289v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Finetuning-Activated Backdoors in LLMs|[[pdf]](http://arxiv.org/abs/2505.16567v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[RealEngine] RealEngine: Simulating Autonomous Driving in Realistic Context|[[pdf]](http://arxiv.org/abs/2505.16902v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[UAV See, UGV Do] UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat|[[pdf]](http://arxiv.org/abs/2505.16912v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Neural Quantum Digital Twins for Optimizing Quantum Annealing|[[pdf]](http://arxiv.org/abs/2505.15662v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Coloring Between the Lines: Personalization in the Null Space of Planning Constraints|[[pdf]](http://arxiv.org/abs/2505.15503v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[When Bias Backfires] When Bias Backfires: The Modulatory Role of Counterfactual Explanations on the Adoption of Algorithmic Bias in XAI-Supported Human Decision-Making|[[pdf]](http://arxiv.org/abs/2505.14377v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] RoboCulture: A Robotics Platform for Automated Biological Experimentation|[[pdf]](http://arxiv.org/abs/2505.14941v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] The Traitors: Deception and Trust in Multi-Agent Language Model Simulations|[[pdf]](http://arxiv.org/abs/2505.12923v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[AutoMat] AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use|[[pdf]](http://arxiv.org/abs/2505.12650v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|From Structural Design to Dynamics Modeling: Control-Oriented Development of a 3-RRR Parallel Ankle Rehabilitation Robot|[[pdf]](http://arxiv.org/abs/2505.13762v1)|⚠️|⭐️⭐️⭐️|
@@ -129,6 +134,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 104
+- Total Papers: 109
 - Code Implementations: 21
 - Last Updated: May 2025

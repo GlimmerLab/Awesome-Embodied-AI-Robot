@@ -23,6 +23,7 @@
 |2025-05-22|[SpatialScore] SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding|[[pdf]](http://arxiv.org/abs/2505.17012v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[SPaRC] SPaRC: A Spatial Pathfinding Reasoning Challenge|[[pdf]](http://arxiv.org/abs/2505.16686v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[en] SEM: Enhancing Spatial Understanding for Robust Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.16196v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[Beyond Correlation] Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine|[[pdf]](http://arxiv.org/abs/2505.16982v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[VERDI] VERDI: VLM-Embedded Reasoning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.15925v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[KORGym] KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation|[[pdf]](http://arxiv.org/abs/2505.14552v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] Memory-Centric Embodied Question Answer|[[pdf]](http://arxiv.org/abs/2505.13948v1)|⚠️|⭐️⭐️⭐️|
@@ -110,6 +111,6 @@
 
 ## 📊 统计
 
-- 论文总数：89篇
+- 论文总数：90篇
 - 代码实现：5个
 - 最后更新：2025年05月
