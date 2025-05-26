@@ -48,6 +48,7 @@
 |2025-05-22|[UAV See, UGV Do] UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat|[[pdf]](http://arxiv.org/abs/2505.16912v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Neural Quantum Digital Twins for Optimizing Quantum Annealing|[[pdf]](http://arxiv.org/abs/2505.15662v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Coloring Between the Lines: Personalization in the Null Space of Planning Constraints|[[pdf]](http://arxiv.org/abs/2505.15503v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-21|Bidirectional Variational Autoencoders|[[pdf]](http://arxiv.org/abs/2505.16074v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[When Bias Backfires] When Bias Backfires: The Modulatory Role of Counterfactual Explanations on the Adoption of Algorithmic Bias in XAI-Supported Human Decision-Making|[[pdf]](http://arxiv.org/abs/2505.14377v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] RoboCulture: A Robotics Platform for Automated Biological Experimentation|[[pdf]](http://arxiv.org/abs/2505.14941v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[en] The Traitors: Deception and Trust in Multi-Agent Language Model Simulations|[[pdf]](http://arxiv.org/abs/2505.12923v1)|⚠️|⭐️⭐️⭐️|
@@ -134,6 +135,6 @@
 
 ## 📊 统计
 
-- 论文总数：109篇
+- 论文总数：110篇
 - 代码实现：21个
 - 最后更新：2025年05月
