@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|[Trajectory] DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2505.17490v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[VideoGameBench] VideoGameBench: Can Vision-Language Models complete popular video games?|[[pdf]](http://arxiv.org/abs/2505.18134v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Circle-RoPE] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16416v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[DriveMoE] DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.16278v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[ClickSight] ClickSight: Interpreting Student Clickstreams to Reveal Insights on Learning Strategies via LLMs|[[pdf]](http://arxiv.org/abs/2505.15410v1)|⚠️|⭐️⭐️⭐️|
@@ -106,6 +108,6 @@
 
 ## 📊 统计
 
-- 论文总数：81篇
+- 论文总数：83篇
 - 代码实现：6个
 - 最后更新：2025年05月

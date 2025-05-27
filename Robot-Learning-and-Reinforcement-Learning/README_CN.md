@@ -47,6 +47,24 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|[DialogXpert] DialogXpert: Driving Intelligent and Emotion-Aware Conversations through Online Value-Based Reinforcement Learning with LLM Priors|[[pdf]](http://arxiv.org/abs/2505.17795v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression|[[pdf]](http://arxiv.org/abs/2505.17478v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Runaway is Ashamed, But Helpful: On the Early-Exit Behavior of Large Language Model-based Agents in Embodied Environments|[[pdf]](http://arxiv.org/abs/2505.17616v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Bootstrapping Imitation Learning for Long-horizon Manipulation via Hierarchical Data Collection Space|[[pdf]](http://arxiv.org/abs/2505.17389v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[CU-Multi] CU-Multi: A Dataset for Multi-Robot Data Association|[[pdf]](http://arxiv.org/abs/2505.17576v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] PPO-BR: Dual-Signal Entropy-Reward Adaptation for Trust Region Policy Optimization|[[pdf]](http://arxiv.org/abs/2505.17714v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] Imagine Beyond! Distributionally Robust Auto-Encoding for State Space Coverage in Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.17830v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] Automating Safety Enhancement for LLM-based Agents with Synthetic Risk Scenarios|[[pdf]](http://arxiv.org/abs/2505.17735v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] SynRES: Towards Referring Expression Segmentation in the Wild via Synthetic Data|[[pdf]](http://arxiv.org/abs/2505.17695v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments|[[pdf]](http://arxiv.org/abs/2505.17629v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[Twin-2K-500] Twin-2K-500: A dataset for building digital twins of over 2,000 people based on their answers to over 500 questions|[[pdf]](http://arxiv.org/abs/2505.17479v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand|[[pdf]](http://arxiv.org/abs/2505.17738v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Classification of assembly tasks combining multiple primitive actions using Transformers and xLSTMs|[[pdf]](http://arxiv.org/abs/2505.18012v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[Plan-R1] Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling|[[pdf]](http://arxiv.org/abs/2505.17659v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Rotational Multi-material 3D Printing of Soft Robotic Matter with Asymmetrical Embedded Pneumatics|[[pdf]](http://arxiv.org/abs/2505.18095v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[ExoGait-MS] ExoGait-MS: Learning Periodic Dynamics with Multi-Scale Graph Network for Exoskeleton Gait Recognition|[[pdf]](http://arxiv.org/abs/2505.18018v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|A Bio-mimetic Neuromorphic Model for Heat-evoked Nociceptive Withdrawal Reflex in Upper Limb|[[pdf]](http://arxiv.org/abs/2505.17724v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Linear Mixture Distributionally Robust Markov Decision Processes|[[pdf]](http://arxiv.org/abs/2505.18044v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Find the Fruit] Find the Fruit: Designing a Zero-Shot Sim2Real Deep RL Planner for Occlusion Aware Plant Manipulation|[[pdf]](http://arxiv.org/abs/2505.16547v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control|[[pdf]](http://arxiv.org/abs/2505.16249v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Gaze Into the Abyss -- Planning to Seek Entropy When Reward is Scarce|[[pdf]](http://arxiv.org/abs/2505.16787v1)|⚠️|⭐️⭐️⭐️|
@@ -71,6 +89,10 @@
 |2025-05-22|Monitoring Electrostatic Adhesion Forces via Acoustic Pressure|[[pdf]](http://arxiv.org/abs/2505.16609v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Behavioral Safety Assessment towards Large-scale Deployment of Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2505.16214v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[RE-TRIP] RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition|[[pdf]](http://arxiv.org/abs/2505.16165v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Where You Go is Who You Are: Behavioral Theory-Guided LLMs for Inverse Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.17249v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[ScanBot] ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems|[[pdf]](http://arxiv.org/abs/2505.17295v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Control of Renewable Energy Communities using AI and Real-World Data|[[pdf]](http://arxiv.org/abs/2505.17321v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|Construction of an Impedance Control Test Bench|[[pdf]](http://arxiv.org/abs/2505.17278v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Trajectory] Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets|[[pdf]](http://arxiv.org/abs/2505.15517v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Hyper-Dexterous] Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.15098v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Learning-based Autonomous Oversteer Control and Collision Avoidance|[[pdf]](http://arxiv.org/abs/2505.15275v1)|⚠️|⭐️⭐️⭐️|
@@ -369,6 +391,6 @@
 
 ## 📊 统计
 
-- 论文总数：343篇
+- 论文总数：365篇
 - 代码实现：20个
 - 最后更新：2025年05月

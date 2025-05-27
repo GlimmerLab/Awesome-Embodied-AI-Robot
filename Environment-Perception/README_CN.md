@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|[RQR3D] RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection|[[pdf]](http://arxiv.org/abs/2505.17732v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification|[[pdf]](http://arxiv.org/abs/2505.17511v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[en] D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping|[[pdf]](http://arxiv.org/abs/2505.16726v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[en] RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation|[[pdf]](http://arxiv.org/abs/2505.15373v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[WaveTouch] WaveTouch: Active Tactile Sensing Using Vibro-Feedback for Classification of Variable Stiffness and Infill Density Objects|[[pdf]](http://arxiv.org/abs/2505.16062v1)|⚠️|⭐️⭐️⭐️|
@@ -100,6 +102,6 @@
 
 ## 📊 统计
 
-- 论文总数：76篇
+- 论文总数：78篇
 - 代码实现：8个
 - 最后更新：2025年05月

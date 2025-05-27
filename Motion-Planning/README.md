@@ -32,13 +32,19 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|Automata Learning of Preferences over Temporal Logic Formulas from Pairwise Comparisons|[[pdf]](http://arxiv.org/abs/2505.18030v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|The Discovery Engine: A Framework for AI-Driven Synthesis and Navigation of Scientific Knowledge Landscapes|[[pdf]](http://arxiv.org/abs/2505.17500v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[H2-COMPACT] H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies|[[pdf]](http://arxiv.org/abs/2505.17627v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Superplatforms Have to Attack AI Agents|[[pdf]](http://arxiv.org/abs/2505.17861v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Biped] Unified Multi-Rate Model Predictive Control for a Jet-Powered Humanoid Robot|[[pdf]](http://arxiv.org/abs/2505.16478v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models|[[pdf]](http://arxiv.org/abs/2505.16498v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-22|[LiloDriver] LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios|[[pdf]](http://arxiv.org/abs/2505.17209v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[EndoVLA] EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy|[[pdf]](http://arxiv.org/abs/2505.15206v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[Intentional Gesture] Intentional Gesture: Deliver Your Intentions with Gestures for Speech|[[pdf]](http://arxiv.org/abs/2505.15197v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Shape-Adaptive Planning and Control for a Deformable Quadrotor|[[pdf]](http://arxiv.org/abs/2505.15010v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|Integrating Robotic Navigation with Blockchain: A Novel PoS-Based Approach for Heterogeneous Robotic Teams|[[pdf]](http://arxiv.org/abs/2505.15954v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-20|[en] On the Day They Experience: Awakening Self-Sovereign Experiential AI Agents|[[pdf]](http://arxiv.org/abs/2505.14893v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-20|[en] Coordinated motion control of a wire arc additive manufacturing robotic system for multi-directional building parts|[[pdf]](http://arxiv.org/abs/2505.14858v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Degradation-Aware Feature Perturbation for All-in-One Image Restoration|[[pdf]](http://arxiv.org/abs/2505.12630v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies|[[pdf]](http://arxiv.org/abs/2505.12963v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-19|[UniHM] UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes|[[pdf]](http://arxiv.org/abs/2505.12774v1)|⚠️|⭐️⭐️⭐️|
@@ -135,6 +141,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 110
+- Total Papers: 116
 - Code Implementations: 8
 - Last Updated: May 2025

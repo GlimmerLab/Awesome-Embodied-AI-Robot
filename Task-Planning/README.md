@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|[ComfyMind] ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback|[[pdf]](http://arxiv.org/abs/2505.17908v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[USTBench] USTBench: Benchmarking and Dissecting Spatiotemporal Reasoning of LLMs as Urban Agents|[[pdf]](http://arxiv.org/abs/2505.17572v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning|[[pdf]](http://arxiv.org/abs/2505.16928v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[HCRMP] HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.15793v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[UAV-Flow Colosseo] UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.15725v1)|⚠️|⭐️⭐️⭐️|
@@ -104,6 +106,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 80
+- Total Papers: 82
 - Code Implementations: 6
 - Last Updated: May 2025

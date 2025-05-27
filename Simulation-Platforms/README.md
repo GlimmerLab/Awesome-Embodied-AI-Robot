@@ -39,6 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|[en] Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy|[[pdf]](http://arxiv.org/abs/2505.17434v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour|[[pdf]](http://arxiv.org/abs/2505.17801v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Is Single-View Mesh Reconstruction Ready for Robotics?|[[pdf]](http://arxiv.org/abs/2505.17966v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces|[[pdf]](http://arxiv.org/abs/2505.16087v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[MASLab] MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2505.16988v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Artificial Intelligence for Direct Prediction of Molecular Dynamics Across Chemical Space|[[pdf]](http://arxiv.org/abs/2505.16301v1)|⚠️|⭐️⭐️⭐️|
@@ -135,6 +138,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 110
+- Total Papers: 113
 - Code Implementations: 21
 - Last Updated: May 2025

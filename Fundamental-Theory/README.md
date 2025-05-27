@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-23|[CXReasonBench] CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays|[[pdf]](http://arxiv.org/abs/2505.18087v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Controlled Agentic Planning & Reasoning for Mechanism Synthesis|[[pdf]](http://arxiv.org/abs/2505.17607v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning|[[pdf]](http://arxiv.org/abs/2505.17645v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] Knot So Simple: A Minimalistic Environment for Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2505.18028v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Date Fragments] Date Fragments: A Hidden Bottleneck of Tokenization for Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2505.16088v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Bridging the Dynamic Perception Gap: Training-Free Draft Chain-of-Thought for Dynamic Multimodal Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2505.16579v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[SpatialScore] SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding|[[pdf]](http://arxiv.org/abs/2505.17012v1)|⚠️|⭐️⭐️⭐️|
@@ -111,6 +115,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 90
+- Total Papers: 94
 - Code Implementations: 5
 - Last Updated: May 2025
