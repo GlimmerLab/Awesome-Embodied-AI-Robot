@@ -47,6 +47,38 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-26|[EMAC+] EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM|[[pdf]](http://arxiv.org/abs/2505.19905v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Situationally-Aware Dynamics Learning|[[pdf]](http://arxiv.org/abs/2505.19574v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[MineAnyBuild] MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents|[[pdf]](http://arxiv.org/abs/2505.20148v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Navigating loss manifolds via rigid body dynamics: A promising avenue for robustness and generalisation|[[pdf]](http://arxiv.org/abs/2505.19527v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Force Prompting] Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals|[[pdf]](http://arxiv.org/abs/2505.19386v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion|[[pdf]](http://arxiv.org/abs/2505.20053v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[MedDreamer] MedDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support|[[pdf]](http://arxiv.org/abs/2505.19785v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.19717v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[ViTaPEs] ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers|[[pdf]](http://arxiv.org/abs/2505.20032v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[TeViR] TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.19769v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[GeoPF] GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments|[[pdf]](http://arxiv.org/abs/2505.19688v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[en] ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows|[[pdf]](http://arxiv.org/abs/2505.19897v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Fusion Intelligence for Digital Twinning AI Data Centers: A Synergistic GenAI-PhyAI Approach|[[pdf]](http://arxiv.org/abs/2505.19409v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Biped] SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control|[[pdf]](http://arxiv.org/abs/2505.19463v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Biped] Whole-body Multi-contact Motion Control for Humanoid Robots Based on Distributed Tactile Sensors|[[pdf]](http://arxiv.org/abs/2505.19580v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures|[[pdf]](http://arxiv.org/abs/2505.19521v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[en] Software Engineering for Self-Adaptive Robotics: A Research Agenda|[[pdf]](http://arxiv.org/abs/2505.19629v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|Sensorimotor features of self-awareness in multimodal large language models|[[pdf]](http://arxiv.org/abs/2505.19237v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[Multi-robot] Where Paths Collide: A Comprehensive Survey of Classic and Learning-Based Multi-Agent Pathfinding|[[pdf]](http://arxiv.org/abs/2505.19219v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|Prompting Decision Transformers for Zero-Shot Reach-Avoid Policies|[[pdf]](http://arxiv.org/abs/2505.19337v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[SETransformer] SETransformer: A Hybrid Attention-Based Architecture for Robust Human Activity Recognition|[[pdf]](http://arxiv.org/abs/2505.19369v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[SPADE] SPADE: Towards Scalable Path Planning Architecture on Actionable Multi-Domain 3D Scene Graphs|[[pdf]](http://arxiv.org/abs/2505.19098v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[ReFineVLA] ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning|[[pdf]](http://arxiv.org/abs/2505.19080v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|[DiffusionRL] DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets|[[pdf]](http://arxiv.org/abs/2505.18876v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|[VLA-RL] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.18719v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|Mobile Manipulation Planning for Tabletop Rearrangement|[[pdf]](http://arxiv.org/abs/2505.18732v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|On the Dual-Use Dilemma in Physical Reasoning and Force|[[pdf]](http://arxiv.org/abs/2505.18792v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|[Genie Centurion] Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance|[[pdf]](http://arxiv.org/abs/2505.18793v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2505.18780v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|Guided by Guardrails: Control Barrier Functions as Safety Instructors for Robotic Learning|[[pdf]](http://arxiv.org/abs/2505.18858v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|[en] ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning|[[pdf]](http://arxiv.org/abs/2505.18472v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-24|[en] Canonical Policy: Learning Canonical 3D Representation for Equivariant Policy|[[pdf]](http://arxiv.org/abs/2505.18474v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[DialogXpert] DialogXpert: Driving Intelligent and Emotion-Aware Conversations through Online Value-Based Reinforcement Learning with LLM Priors|[[pdf]](http://arxiv.org/abs/2505.17795v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression|[[pdf]](http://arxiv.org/abs/2505.17478v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|Runaway is Ashamed, But Helpful: On the Early-Exit Behavior of Large Language Model-based Agents in Embodied Environments|[[pdf]](http://arxiv.org/abs/2505.17616v1)|⚠️|⭐️⭐️⭐️|
@@ -65,6 +97,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-23|[ExoGait-MS] ExoGait-MS: Learning Periodic Dynamics with Multi-Scale Graph Network for Exoskeleton Gait Recognition|[[pdf]](http://arxiv.org/abs/2505.18018v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|A Bio-mimetic Neuromorphic Model for Heat-evoked Nociceptive Withdrawal Reflex in Upper Limb|[[pdf]](http://arxiv.org/abs/2505.17724v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|Linear Mixture Distributionally Robust Markov Decision Processes|[[pdf]](http://arxiv.org/abs/2505.18044v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|Reinforcement Learning for Ballbot Navigation in Uneven Terrain|[[pdf]](http://arxiv.org/abs/2505.18417v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning|[[pdf]](http://arxiv.org/abs/2505.18291v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] HACL: History-Aware Curriculum Learning for Fast Locomotion|[[pdf]](http://arxiv.org/abs/2505.18429v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Find the Fruit] Find the Fruit: Designing a Zero-Shot Sim2Real Deep RL Planner for Occlusion Aware Plant Manipulation|[[pdf]](http://arxiv.org/abs/2505.16547v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control|[[pdf]](http://arxiv.org/abs/2505.16249v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Gaze Into the Abyss -- Planning to Seek Entropy When Reward is Scarce|[[pdf]](http://arxiv.org/abs/2505.16787v1)|⚠️|⭐️⭐️⭐️|
@@ -391,6 +426,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 365
+- Total Papers: 400
 - Code Implementations: 20
 - Last Updated: May 2025

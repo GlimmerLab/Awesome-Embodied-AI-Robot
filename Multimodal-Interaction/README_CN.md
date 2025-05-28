@@ -25,6 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-26|[DiffVLA] DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.19381v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI|[[pdf]](http://arxiv.org/abs/2505.19443v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|The Many Challenges of Human-Like Agents in Virtual Game Environments|[[pdf]](http://arxiv.org/abs/2505.20011v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[Trajectory] DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2505.17490v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[VideoGameBench] VideoGameBench: Can Vision-Language Models complete popular video games?|[[pdf]](http://arxiv.org/abs/2505.18134v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Circle-RoPE] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16416v1)|⚠️|⭐️⭐️⭐️|
@@ -108,6 +111,6 @@
 
 ## 📊 统计
 
-- 论文总数：83篇
+- 论文总数：86篇
 - 代码实现：6个
 - 最后更新：2025年05月

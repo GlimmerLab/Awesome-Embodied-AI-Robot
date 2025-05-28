@@ -32,6 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-26|Heavy lifting tasks via haptic teleoperation of a wheeled humanoid|[[pdf]](http://arxiv.org/abs/2505.19530v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Biped] Real-time Whole-body Model Predictive Control for Bipedal Locomotion with a Novel Kino-dynamic Model and Warm-start Method|[[pdf]](http://arxiv.org/abs/2505.19540v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Multi-Agent] Integrating emotional intelligence, memory architecture, and gestures to achieve empathetic humanoid robot interaction in an educational setting|[[pdf]](http://arxiv.org/abs/2505.19803v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[Hyper-Dexterous] MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2505.19086v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[Humanoid] Towards Humanoid Robot Autonomy: A Dynamic Architecture Integrating Continuous thought Machines (CTM) and Model Context Protocol (MCP)|[[pdf]](http://arxiv.org/abs/2505.19339v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[Omni-Perception] Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2505.19214v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|Automata Learning of Preferences over Temporal Logic Formulas from Pairwise Comparisons|[[pdf]](http://arxiv.org/abs/2505.18030v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|The Discovery Engine: A Framework for AI-Driven Synthesis and Navigation of Scientific Knowledge Landscapes|[[pdf]](http://arxiv.org/abs/2505.17500v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[H2-COMPACT] H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies|[[pdf]](http://arxiv.org/abs/2505.17627v1)|⚠️|⭐️⭐️⭐️|
@@ -141,6 +147,6 @@
 
 ## 📊 统计
 
-- 论文总数：116篇
+- 论文总数：122篇
 - 代码实现：8个
 - 最后更新：2025年05月

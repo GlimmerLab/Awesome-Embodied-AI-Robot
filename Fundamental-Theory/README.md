@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-26|[ReasonPlan] ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.20024v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making|[[pdf]](http://arxiv.org/abs/2505.19933v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[RFTF] RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback|[[pdf]](http://arxiv.org/abs/2505.19767v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[SaSi] SaSi: A Self-augmented and Self-interpreted Deep Learning Approach for Few-shot Cryo-ET Particle Detection|[[pdf]](http://arxiv.org/abs/2505.19948v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[DFIR-Metric] DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response|[[pdf]](http://arxiv.org/abs/2505.19973v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|[LIMOPro] LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling|[[pdf]](http://arxiv.org/abs/2505.19187v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[CXReasonBench] CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays|[[pdf]](http://arxiv.org/abs/2505.18087v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|Controlled Agentic Planning & Reasoning for Mechanism Synthesis|[[pdf]](http://arxiv.org/abs/2505.17607v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[en] HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning|[[pdf]](http://arxiv.org/abs/2505.17645v1)|⚠️|⭐️⭐️⭐️|
@@ -115,6 +121,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 94
+- Total Papers: 100
 - Code Implementations: 5
 - Last Updated: May 2025

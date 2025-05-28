@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-26|[Error Optimization] Error Optimization: Overcoming Exponential Signal Decay in Deep Predictive Coding Networks|[[pdf]](http://arxiv.org/abs/2505.20137v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs|[[pdf]](http://arxiv.org/abs/2505.19481v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[en] It's Not Just Labeling -- A Research on LLM Generated Feedback Interpretability and Image Labeling Sketch Features|[[pdf]](http://arxiv.org/abs/2505.19419v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-25|Investigating Pedagogical Teacher and Student LLM Agents: Genetic Adaptation Meets Retrieval Augmented Generation Across Learning Style|[[pdf]](http://arxiv.org/abs/2505.19173v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[en] Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy|[[pdf]](http://arxiv.org/abs/2505.17434v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[en] Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour|[[pdf]](http://arxiv.org/abs/2505.17801v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|Is Single-View Mesh Reconstruction Ready for Robotics?|[[pdf]](http://arxiv.org/abs/2505.17966v1)|⚠️|⭐️⭐️⭐️|
@@ -138,6 +142,6 @@
 
 ## 📊 统计
 
-- 论文总数：113篇
+- 论文总数：117篇
 - 代码实现：21个
 - 最后更新：2025年05月

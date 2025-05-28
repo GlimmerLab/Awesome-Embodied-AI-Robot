@@ -22,8 +22,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-26|Deep Active Inference Agents for Delayed and Long-Horizon Environments|[[pdf]](http://arxiv.org/abs/2505.19867v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Task Memory Engine] Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents|[[pdf]](http://arxiv.org/abs/2505.19436v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[ComfyMind] ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback|[[pdf]](http://arxiv.org/abs/2505.17908v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[USTBench] USTBench: Benchmarking and Dissecting Spatiotemporal Reasoning of LLMs as Urban Agents|[[pdf]](http://arxiv.org/abs/2505.17572v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration|[[pdf]](http://arxiv.org/abs/2505.18382v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-23|[en] BEDI: A Comprehensive Benchmark for Evaluating Embodied Agents on UAVs|[[pdf]](http://arxiv.org/abs/2505.18229v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning|[[pdf]](http://arxiv.org/abs/2505.16928v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[HCRMP] HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.15793v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-21|[UAV-Flow Colosseo] UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.15725v1)|⚠️|⭐️⭐️⭐️|
@@ -106,6 +110,6 @@
 
 ## 📊 统计
 
-- 论文总数：82篇
+- 论文总数：86篇
 - 代码实现：6个
 - 最后更新：2025年05月
