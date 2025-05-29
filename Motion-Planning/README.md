@@ -32,6 +32,7 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-27|COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle|[[pdf]](http://arxiv.org/abs/2505.20926v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Heavy lifting tasks via haptic teleoperation of a wheeled humanoid|[[pdf]](http://arxiv.org/abs/2505.19530v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Biped] Real-time Whole-body Model Predictive Control for Bipedal Locomotion with a Novel Kino-dynamic Model and Warm-start Method|[[pdf]](http://arxiv.org/abs/2505.19540v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Multi-Agent] Integrating emotional intelligence, memory architecture, and gestures to achieve empathetic humanoid robot interaction in an educational setting|[[pdf]](http://arxiv.org/abs/2505.19803v1)|⚠️|⭐️⭐️⭐️|
@@ -147,6 +148,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 122
+- Total Papers: 123
 - Code Implementations: 8
 - Last Updated: May 2025

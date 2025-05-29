@@ -47,6 +47,27 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-27|[Active-O3] Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO|[[pdf]](http://arxiv.org/abs/2505.21457v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[FM-Planner] FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation|[[pdf]](http://arxiv.org/abs/2505.20783v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[XBOUND] XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration|[[pdf]](http://arxiv.org/abs/2505.21279v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Agent-Environment Alignment via Automated Interface Generation|[[pdf]](http://arxiv.org/abs/2505.21055v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Learning Unified Force and Position Control for Legged Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2505.20829v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[Spatial RoboGrasp] Spatial RoboGrasp: Generalized Robotic Grasping Control Policy|[[pdf]](http://arxiv.org/abs/2505.20814v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt|[[pdf]](http://arxiv.org/abs/2505.20795v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[Interactive OT Gym] Interactive OT Gym: A Reinforcement Learning-Based Interactive Optical tweezer (OT)-Driven Microrobotics Simulation Platform|[[pdf]](http://arxiv.org/abs/2505.20751v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[ManiTaskGen] ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making|[[pdf]](http://arxiv.org/abs/2505.20726v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[CLAMP] CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception|[[pdf]](http://arxiv.org/abs/2505.21495v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[Hume] Hume: Introducing System-2 Thinking in Visual-Language-Action Model|[[pdf]](http://arxiv.org/abs/2505.21432v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[en] A domain adaptation neural network for digital twin-supported fault diagnosis|[[pdf]](http://arxiv.org/abs/2505.21046v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[en] VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models|[[pdf]](http://arxiv.org/abs/2505.20718v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective|[[pdf]](http://arxiv.org/abs/2505.20922v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies|[[pdf]](http://arxiv.org/abs/2505.21236v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[en] E2E Process Automation Leveraging Generative AI and IDP-Based Automation Agent: A Case Study on Corporate Expense Processing|[[pdf]](http://arxiv.org/abs/2505.20733v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.21026v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|A Framework for Adversarial Analysis of Decision Support Systems Prior to Deployment|[[pdf]](http://arxiv.org/abs/2505.21414v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[Biped] Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2505.20619v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning|[[pdf]](http://arxiv.org/abs/2505.20962v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[EgoWalk] EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild|[[pdf]](http://arxiv.org/abs/2505.21282v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[EMAC+] EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM|[[pdf]](http://arxiv.org/abs/2505.19905v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Situationally-Aware Dynamics Learning|[[pdf]](http://arxiv.org/abs/2505.19574v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[MineAnyBuild] MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents|[[pdf]](http://arxiv.org/abs/2505.20148v1)|⚠️|⭐️⭐️⭐️|
@@ -64,6 +85,18 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-26|[Biped] Whole-body Multi-contact Motion Control for Humanoid Robots Based on Distributed Tactile Sensors|[[pdf]](http://arxiv.org/abs/2505.19580v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures|[[pdf]](http://arxiv.org/abs/2505.19521v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[en] Software Engineering for Self-Adaptive Robotics: A Research Agenda|[[pdf]](http://arxiv.org/abs/2505.19629v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Multi-robot] Collision- and Reachability-Aware Multi-Robot Control with Grounded LLM Planners|[[pdf]](http://arxiv.org/abs/2505.20573v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[GLEAM] GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes|[[pdf]](http://arxiv.org/abs/2505.20294v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Temporal Sampling for Forgotten Reasoning in LLMs|[[pdf]](http://arxiv.org/abs/2505.20196v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review|[[pdf]](http://arxiv.org/abs/2505.20503v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[URPlanner] URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.20175v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[CoRI] CoRI: Synthesizing Communication of Robot Intent for Physical Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2505.20537v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[EgoZero] EgoZero: Robot Learning from Smart Glasses|[[pdf]](http://arxiv.org/abs/2505.20290v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Robot Operation of Home Appliances by Reading User Manuals|[[pdf]](http://arxiv.org/abs/2505.20424v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|Algorithmic Control Improves Residential Building Energy and EV Management when PV Capacity is High but Battery Capacity is Low|[[pdf]](http://arxiv.org/abs/2505.20377v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|The challenge of hidden gifts in multi-agent reinforcement learning|[[pdf]](http://arxiv.org/abs/2505.20579v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[Adaptation] HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval|[[pdf]](http://arxiv.org/abs/2505.20455v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[en] ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image|[[pdf]](http://arxiv.org/abs/2505.20498v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-25|Sensorimotor features of self-awareness in multimodal large language models|[[pdf]](http://arxiv.org/abs/2505.19237v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-25|[Multi-robot] Where Paths Collide: A Comprehensive Survey of Classic and Learning-Based Multi-Agent Pathfinding|[[pdf]](http://arxiv.org/abs/2505.19219v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-25|Prompting Decision Transformers for Zero-Shot Reach-Avoid Policies|[[pdf]](http://arxiv.org/abs/2505.19337v2)|⚠️|⭐️⭐️⭐️|
@@ -426,6 +459,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 400
+- Total Papers: 433
 - Code Implementations: 20
 - Last Updated: May 2025

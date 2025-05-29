@@ -39,9 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-27|[en] GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation|[[pdf]](http://arxiv.org/abs/2505.21154v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Error Optimization] Error Optimization: Overcoming Exponential Signal Decay in Deep Predictive Coding Networks|[[pdf]](http://arxiv.org/abs/2505.20137v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs|[[pdf]](http://arxiv.org/abs/2505.19481v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[en] It's Not Just Labeling -- A Research on LLM Generated Feedback Interpretability and Image Labeling Sketch Features|[[pdf]](http://arxiv.org/abs/2505.19419v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[en] Co-Design of Soft Gripper with Neural Physics|[[pdf]](http://arxiv.org/abs/2505.20404v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-25|Investigating Pedagogical Teacher and Student LLM Agents: Genetic Adaptation Meets Retrieval Augmented Generation Across Learning Style|[[pdf]](http://arxiv.org/abs/2505.19173v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[en] Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy|[[pdf]](http://arxiv.org/abs/2505.17434v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[en] Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour|[[pdf]](http://arxiv.org/abs/2505.17801v1)|⚠️|⭐️⭐️⭐️|
@@ -142,6 +144,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 117
+- Total Papers: 119
 - Code Implementations: 21
 - Last Updated: May 2025

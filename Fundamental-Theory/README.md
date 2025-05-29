@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-27|Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2505.20897v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[RRO] RRO: LLM Agent Optimization Through Rising Reward Trajectories|[[pdf]](http://arxiv.org/abs/2505.20737v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[CoDA] CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects|[[pdf]](http://arxiv.org/abs/2505.21437v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Prostate Cancer Screening with Artificial Intelligence-Enhanced Micro-Ultrasound: A Comparative Study with Traditional Methods|[[pdf]](http://arxiv.org/abs/2505.21355v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[ReasonPlan] ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.20024v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making|[[pdf]](http://arxiv.org/abs/2505.19933v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[RFTF] RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback|[[pdf]](http://arxiv.org/abs/2505.19767v1)|⚠️|⭐️⭐️⭐️|
@@ -121,6 +125,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 100
+- Total Papers: 104
 - Code Implementations: 5
 - Last Updated: May 2025

@@ -28,6 +28,7 @@ This directory collects papers and code implementations related to multimodal in
 |2025-05-26|[DiffVLA] DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.19381v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI|[[pdf]](http://arxiv.org/abs/2505.19443v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|The Many Challenges of Human-Like Agents in Virtual Game Environments|[[pdf]](http://arxiv.org/abs/2505.20011v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-26|[en] CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2505.20469v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[Trajectory] DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2505.17490v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[VideoGameBench] VideoGameBench: Can Vision-Language Models complete popular video games?|[[pdf]](http://arxiv.org/abs/2505.18134v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-22|[Circle-RoPE] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.16416v1)|⚠️|⭐️⭐️⭐️|
@@ -111,6 +112,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 86
+- Total Papers: 87
 - Code Implementations: 6
 - Last Updated: May 2025
