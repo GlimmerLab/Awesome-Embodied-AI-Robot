@@ -47,6 +47,23 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-28|Learning Compositional Behaviors from Demonstration and Language|[[pdf]](http://arxiv.org/abs/2505.21981v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[SCIZOR] SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.22626v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[HDDLGym] HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym|[[pdf]](http://arxiv.org/abs/2505.22597v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Streaming Flow Policy: Simplifying diffusion$/$flow-matching policies by treating action trajectories as flow trajectories|[[pdf]](http://arxiv.org/abs/2505.21851v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[CSI-Bench] CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing|[[pdf]](http://arxiv.org/abs/2505.21866v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[FastTD3] FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control|[[pdf]](http://arxiv.org/abs/2505.22642v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge|[[pdf]](http://arxiv.org/abs/2505.21906v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[DexUMI] DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.21864v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[en] Universal Visuo-Tactile Video Understanding for Embodied Interaction|[[pdf]](http://arxiv.org/abs/2505.22566v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[en] FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing|[[pdf]](http://arxiv.org/abs/2505.22141v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Reward-Independent Messaging for Decentralized Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.21985v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[en] An Optimistic Algorithm for online CMDPS with Anytime Adversarial Constraints|[[pdf]](http://arxiv.org/abs/2505.21841v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[SOReL and TOReL] SOReL and TOReL: Two Methods for Fully Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22442v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Neural Restoration of Greening Defects in Historical Autochrome Photographs Based on Purely Synthetic Data|[[pdf]](http://arxiv.org/abs/2505.22291v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[Multi-Agent] Spot-On: A Mixed Reality Interface for Multi-Robot Cooperation|[[pdf]](http://arxiv.org/abs/2505.22539v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Zero-Shot 3D Visual Grounding from Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.22429v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning|[[pdf]](http://arxiv.org/abs/2505.22404v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[Active-O3] Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO|[[pdf]](http://arxiv.org/abs/2505.21457v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[FM-Planner] FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation|[[pdf]](http://arxiv.org/abs/2505.20783v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[XBOUND] XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration|[[pdf]](http://arxiv.org/abs/2505.21279v1)|⚠️|⭐️⭐️⭐️|
@@ -68,6 +85,13 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-27|[Biped] Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2505.20619v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning|[[pdf]](http://arxiv.org/abs/2505.20962v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[EgoWalk] EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild|[[pdf]](http://arxiv.org/abs/2505.21282v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[R1-Code-Interpreter] R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.21668v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Deep Reinforcement Learning Agents are not even close to Human Intelligence|[[pdf]](http://arxiv.org/abs/2505.21731v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[en] Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing|[[pdf]](http://arxiv.org/abs/2505.21671v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[Quadruped] Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits|[[pdf]](http://arxiv.org/abs/2505.21594v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[MRSD] MRSD: Multi-Resolution Skill Discovery for HRL Agents|[[pdf]](http://arxiv.org/abs/2505.21410v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[Policy] EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.21351v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[en] GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments|[[pdf]](http://arxiv.org/abs/2505.20828v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[EMAC+] EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM|[[pdf]](http://arxiv.org/abs/2505.19905v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Situationally-Aware Dynamics Learning|[[pdf]](http://arxiv.org/abs/2505.19574v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[MineAnyBuild] MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents|[[pdf]](http://arxiv.org/abs/2505.20148v1)|⚠️|⭐️⭐️⭐️|
@@ -459,6 +483,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 433
+- Total Papers: 457
 - Code Implementations: 20
 - Last Updated: May 2025

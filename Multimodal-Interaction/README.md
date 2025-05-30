@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-28|[ForceVLA] ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation|[[pdf]](http://arxiv.org/abs/2505.22159v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[DiffVLA] DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.19381v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI|[[pdf]](http://arxiv.org/abs/2505.19443v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|The Many Challenges of Human-Like Agents in Virtual Game Environments|[[pdf]](http://arxiv.org/abs/2505.20011v1)|⚠️|⭐️⭐️⭐️|
@@ -112,6 +113,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 87
+- Total Papers: 88
 - Code Implementations: 6
 - Last Updated: May 2025

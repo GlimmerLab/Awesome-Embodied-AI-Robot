@@ -22,6 +22,10 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-28|[DORAEMON] DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation|[[pdf]](http://arxiv.org/abs/2505.21969v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Reinforced Reasoning for Embodied Planning|[[pdf]](http://arxiv.org/abs/2505.22050v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[LabUtopia] LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.22634v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[PartInstruct] PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation|[[pdf]](http://arxiv.org/abs/2505.21652v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Deep Active Inference Agents for Delayed and Long-Horizon Environments|[[pdf]](http://arxiv.org/abs/2505.19867v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Task Memory Engine] Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents|[[pdf]](http://arxiv.org/abs/2505.19436v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[ComfyMind] ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback|[[pdf]](http://arxiv.org/abs/2505.17908v1)|⚠️|⭐️⭐️⭐️|
@@ -110,6 +114,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 86
+- Total Papers: 90
 - Code Implementations: 6
 - Last Updated: May 2025

@@ -39,7 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-28|[en] From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation|[[pdf]](http://arxiv.org/abs/2505.22503v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[en] GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation|[[pdf]](http://arxiv.org/abs/2505.21154v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Responsible Data Stewardship: Generative AI and the Digital Waste Problem|[[pdf]](http://arxiv.org/abs/2505.21720v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Convergent Functions, Divergent Forms|[[pdf]](http://arxiv.org/abs/2505.21665v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Error Optimization] Error Optimization: Overcoming Exponential Signal Decay in Deep Predictive Coding Networks|[[pdf]](http://arxiv.org/abs/2505.20137v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs|[[pdf]](http://arxiv.org/abs/2505.19481v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[en] It's Not Just Labeling -- A Research on LLM Generated Feedback Interpretability and Image Labeling Sketch Features|[[pdf]](http://arxiv.org/abs/2505.19419v2)|⚠️|⭐️⭐️⭐️|
@@ -144,6 +147,6 @@
 
 ## 📊 统计
 
-- 论文总数：119篇
+- 论文总数：122篇
 - 代码实现：21个
 - 最后更新：2025年05月

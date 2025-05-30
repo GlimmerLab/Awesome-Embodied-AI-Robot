@@ -32,7 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-28|Efficient Dynamic Shielding for Parametric Safety Specifications|[[pdf]](http://arxiv.org/abs/2505.22104v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[PRISM] PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion|[[pdf]](http://arxiv.org/abs/2505.22564v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[ReinFlow] ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22094v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Mastering Agile Tasks with Limited Trials|[[pdf]](http://arxiv.org/abs/2505.21916v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle|[[pdf]](http://arxiv.org/abs/2505.20926v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|Public Discourse Sandbox: Facilitating Human and AI Digital Communication Research|[[pdf]](http://arxiv.org/abs/2505.21604v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Heavy lifting tasks via haptic teleoperation of a wheeled humanoid|[[pdf]](http://arxiv.org/abs/2505.19530v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Biped] Real-time Whole-body Model Predictive Control for Bipedal Locomotion with a Novel Kino-dynamic Model and Warm-start Method|[[pdf]](http://arxiv.org/abs/2505.19540v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[Multi-Agent] Integrating emotional intelligence, memory architecture, and gestures to achieve empathetic humanoid robot interaction in an educational setting|[[pdf]](http://arxiv.org/abs/2505.19803v1)|⚠️|⭐️⭐️⭐️|
@@ -148,6 +153,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 123
+- Total Papers: 128
 - Code Implementations: 8
 - Last Updated: May 2025
