@@ -47,6 +47,18 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-29|[Stairway to Success] Stairway to Success: Zero-Shot Floor-Aware Object-Goal Navigation via LLM-Driven Coarse-to-Fine Exploration|[[pdf]](http://arxiv.org/abs/2505.23019v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[AMOR] AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.23708v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[LocoTouch] LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing|[[pdf]](http://arxiv.org/abs/2505.23175v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[Mobi-$π$] Mobi-$π$: Mobilizing Your Robot Learning Policy|[[pdf]](http://arxiv.org/abs/2505.23692v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Hybrid Cross-domain Robust Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.23003v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Patient Domain Supervised Contrastive Learning for Lung Sound Classification Using Mobile Phone|[[pdf]](http://arxiv.org/abs/2505.23132v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data|[[pdf]](http://arxiv.org/abs/2505.23062v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[en] TRAP: Targeted Redirecting of Agentic Preferences|[[pdf]](http://arxiv.org/abs/2505.23518v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[en] From Connectivity to Autonomy: The Dawn of Self-Evolving Communication Systems|[[pdf]](http://arxiv.org/abs/2505.23710v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need|[[pdf]](http://arxiv.org/abs/2505.23744v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[TrackVLA] TrackVLA: Embodied Visual Tracking in the Wild|[[pdf]](http://arxiv.org/abs/2505.23189v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation|[[pdf]](http://arxiv.org/abs/2505.23090v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Learning Compositional Behaviors from Demonstration and Language|[[pdf]](http://arxiv.org/abs/2505.21981v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[SCIZOR] SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.22626v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[HDDLGym] HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym|[[pdf]](http://arxiv.org/abs/2505.22597v1)|⚠️|⭐️⭐️⭐️|
@@ -64,6 +76,11 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-28|[Multi-Agent] Spot-On: A Mixed Reality Interface for Multi-Robot Cooperation|[[pdf]](http://arxiv.org/abs/2505.22539v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Zero-Shot 3D Visual Grounding from Vision-Language Models|[[pdf]](http://arxiv.org/abs/2505.22429v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning|[[pdf]](http://arxiv.org/abs/2505.22404v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Decomposing Elements of Problem Solving: What "Math" Does RL Teach?|[[pdf]](http://arxiv.org/abs/2505.22756v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[AI Mathematician] AI Mathematician: Towards Fully Automated Frontier Mathematical Research|[[pdf]](http://arxiv.org/abs/2505.22451v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Tell me Habibi, is it Real or Fake?|[[pdf]](http://arxiv.org/abs/2505.22581v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Spring-Brake! Handed Shearing Auxetics Improve Efficiency of Hopping and Standing|[[pdf]](http://arxiv.org/abs/2505.22898v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Dynamic Task Adaptation for Multi-Robot Manufacturing Systems with Large Language Models|[[pdf]](http://arxiv.org/abs/2505.22804v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[Active-O3] Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO|[[pdf]](http://arxiv.org/abs/2505.21457v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[FM-Planner] FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation|[[pdf]](http://arxiv.org/abs/2505.20783v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[XBOUND] XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration|[[pdf]](http://arxiv.org/abs/2505.21279v1)|⚠️|⭐️⭐️⭐️|
@@ -92,6 +109,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-27|[MRSD] MRSD: Multi-Resolution Skill Discovery for HRL Agents|[[pdf]](http://arxiv.org/abs/2505.21410v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[Policy] EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.21351v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[en] GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments|[[pdf]](http://arxiv.org/abs/2505.20828v2)|⚠️|⭐️⭐️⭐️|
+|2025-05-27|[en] Visual Cues Enhance Predictive Turn-Taking for Two-Party Human Interaction|[[pdf]](http://arxiv.org/abs/2505.21043v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[EMAC+] EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM|[[pdf]](http://arxiv.org/abs/2505.19905v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Situationally-Aware Dynamics Learning|[[pdf]](http://arxiv.org/abs/2505.19574v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[MineAnyBuild] MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents|[[pdf]](http://arxiv.org/abs/2505.20148v1)|⚠️|⭐️⭐️⭐️|
@@ -483,6 +501,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 457
+- Total Papers: 475
 - Code Implementations: 20
 - Last Updated: May 2025

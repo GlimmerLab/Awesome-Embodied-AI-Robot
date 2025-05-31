@@ -18,8 +18,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-29|Conceptual Framework Toward Embodied Collective Adaptive Intelligence|[[pdf]](http://arxiv.org/abs/2505.23153v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[GAM-Agent] GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning|[[pdf]](http://arxiv.org/abs/2505.23399v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[MAPLE] MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning|[[pdf]](http://arxiv.org/abs/2505.23596v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval|[[pdf]](http://arxiv.org/abs/2505.23059v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Eye-tracking-Driven Shared Control for Robotic Arms:Wizard of Oz Studies to Assess Design Choices|[[pdf]](http://arxiv.org/abs/2505.23147v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[3DLLM-Mem] 3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model|[[pdf]](http://arxiv.org/abs/2505.22657v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[EPiC] EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance|[[pdf]](http://arxiv.org/abs/2505.21876v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[WorkForceAgent-R1] WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22942v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|New Tools are Needed for Tracking Adherence to AI Model Behavioral Use Clauses|[[pdf]](http://arxiv.org/abs/2505.22287v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2505.20897v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[RRO] RRO: LLM Agent Optimization Through Rising Reward Trajectories|[[pdf]](http://arxiv.org/abs/2505.20737v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[CoDA] CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects|[[pdf]](http://arxiv.org/abs/2505.21437v1)|⚠️|⭐️⭐️⭐️|
@@ -128,6 +135,6 @@
 
 ## 📊 统计
 
-- 论文总数：107篇
+- 论文总数：114篇
 - 代码实现：5个
 - 最后更新：2025年05月

@@ -32,10 +32,20 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-29|[VLM-RRT] VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation|[[pdf]](http://arxiv.org/abs/2505.23267v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[FlowAlign] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing|[[pdf]](http://arxiv.org/abs/2505.23145v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[Zero-to-Hero] Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing|[[pdf]](http://arxiv.org/abs/2505.23134v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Learning coordinated badminton skills for legged manipulators|[[pdf]](http://arxiv.org/abs/2505.22974v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps|[[pdf]](http://arxiv.org/abs/2505.23505v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Redundancy Parameterization of the ABB YuMi Robot Arm|[[pdf]](http://arxiv.org/abs/2505.23111v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[Biped] Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion|[[pdf]](http://arxiv.org/abs/2505.23499v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm|[[pdf]](http://arxiv.org/abs/2505.23138v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Efficient Dynamic Shielding for Parametric Safety Specifications|[[pdf]](http://arxiv.org/abs/2505.22104v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[PRISM] PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion|[[pdf]](http://arxiv.org/abs/2505.22564v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[ReinFlow] ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22094v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Mastering Agile Tasks with Limited Trials|[[pdf]](http://arxiv.org/abs/2505.21916v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[ATI] ATI: Any Trajectory Instruction for Controllable Video Generation|[[pdf]](http://arxiv.org/abs/2505.22944v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields|[[pdf]](http://arxiv.org/abs/2505.22753v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle|[[pdf]](http://arxiv.org/abs/2505.20926v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|Public Discourse Sandbox: Facilitating Human and AI Digital Communication Research|[[pdf]](http://arxiv.org/abs/2505.21604v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Heavy lifting tasks via haptic teleoperation of a wheeled humanoid|[[pdf]](http://arxiv.org/abs/2505.19530v1)|⚠️|⭐️⭐️⭐️|
@@ -153,6 +163,6 @@
 
 ## 📊 统计
 
-- 论文总数：128篇
+- 论文总数：138篇
 - 代码实现：8个
 - 最后更新：2025年05月

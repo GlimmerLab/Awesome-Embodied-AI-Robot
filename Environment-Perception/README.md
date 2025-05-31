@@ -29,6 +29,7 @@ This directory collects papers and code implementations related to environment p
 |2025-05-28|Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired|[[pdf]](http://arxiv.org/abs/2505.22087v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications|[[pdf]](http://arxiv.org/abs/2505.22311v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[UP-SLAM] UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2505.22335v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[iDSE] iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs|[[pdf]](http://arxiv.org/abs/2505.22086v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-25|[en] Staircase Recognition and Location Based on Polarization Vision|[[pdf]](http://arxiv.org/abs/2505.19026v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-24|Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos|[[pdf]](http://arxiv.org/abs/2505.18899v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[RQR3D] RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection|[[pdf]](http://arxiv.org/abs/2505.17732v1)|⚠️|⭐️⭐️⭐️|
@@ -108,6 +109,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 84
+- Total Papers: 85
 - Code Implementations: 8
 - Last Updated: May 2025

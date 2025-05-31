@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-29|Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion|[[pdf]](http://arxiv.org/abs/2505.23266v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better|[[pdf]](http://arxiv.org/abs/2505.23705v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[ForceVLA] ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation|[[pdf]](http://arxiv.org/abs/2505.22159v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|[DiffVLA] DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2505.19381v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-26|Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI|[[pdf]](http://arxiv.org/abs/2505.19443v1)|⚠️|⭐️⭐️⭐️|
@@ -113,6 +115,6 @@
 
 ## 📊 统计
 
-- 论文总数：88篇
+- 论文总数：90篇
 - 代码实现：6个
 - 最后更新：2025年05月

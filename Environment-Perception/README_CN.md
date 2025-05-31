@@ -29,6 +29,7 @@
 |2025-05-28|Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired|[[pdf]](http://arxiv.org/abs/2505.22087v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications|[[pdf]](http://arxiv.org/abs/2505.22311v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[UP-SLAM] UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2505.22335v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[iDSE] iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs|[[pdf]](http://arxiv.org/abs/2505.22086v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-25|[en] Staircase Recognition and Location Based on Polarization Vision|[[pdf]](http://arxiv.org/abs/2505.19026v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-24|Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos|[[pdf]](http://arxiv.org/abs/2505.18899v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-23|[RQR3D] RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection|[[pdf]](http://arxiv.org/abs/2505.17732v1)|⚠️|⭐️⭐️⭐️|
@@ -108,6 +109,6 @@
 
 ## 📊 统计
 
-- 论文总数：84篇
+- 论文总数：85篇
 - 代码实现：8个
 - 最后更新：2025年05月
