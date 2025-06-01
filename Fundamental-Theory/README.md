@@ -23,6 +23,8 @@ This directory collects papers and code implementations related to fundamental t
 |2025-05-29|[MAPLE] MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning|[[pdf]](http://arxiv.org/abs/2505.23596v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval|[[pdf]](http://arxiv.org/abs/2505.23059v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Eye-tracking-Driven Shared Control for Robotic Arms:Wizard of Oz Studies to Assess Design Choices|[[pdf]](http://arxiv.org/abs/2505.23147v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents|[[pdf]](http://arxiv.org/abs/2505.22954v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[Data-to-Dashboard] Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics|[[pdf]](http://arxiv.org/abs/2505.23695v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[3DLLM-Mem] 3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model|[[pdf]](http://arxiv.org/abs/2505.22657v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[EPiC] EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance|[[pdf]](http://arxiv.org/abs/2505.21876v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[WorkForceAgent-R1] WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22942v1)|⚠️|⭐️⭐️⭐️|
@@ -135,6 +137,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 114
+- Total Papers: 116
 - Code Implementations: 5
-- Last Updated: May 2025
+- Last Updated: June 2025

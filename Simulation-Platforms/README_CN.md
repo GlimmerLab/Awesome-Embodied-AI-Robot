@@ -39,7 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-29|One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory|[[pdf]](http://arxiv.org/abs/2505.23617v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[en] From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation|[[pdf]](http://arxiv.org/abs/2505.22503v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|A simulation framework for autonomous lunar construction work|[[pdf]](http://arxiv.org/abs/2505.22091v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[en] GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation|[[pdf]](http://arxiv.org/abs/2505.21154v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|Responsible Data Stewardship: Generative AI and the Digital Waste Problem|[[pdf]](http://arxiv.org/abs/2505.21720v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|Convergent Functions, Divergent Forms|[[pdf]](http://arxiv.org/abs/2505.21665v1)|⚠️|⭐️⭐️⭐️|
@@ -147,6 +149,6 @@
 
 ## 📊 统计
 
-- 论文总数：122篇
+- 论文总数：124篇
 - 代码实现：21个
-- 最后更新：2025年05月
+- 最后更新：2025年06月

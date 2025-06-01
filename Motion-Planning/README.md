@@ -40,6 +40,10 @@ This directory collects papers and code implementations related to motion planni
 |2025-05-29|Redundancy Parameterization of the ABB YuMi Robot Arm|[[pdf]](http://arxiv.org/abs/2505.23111v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[Biped] Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion|[[pdf]](http://arxiv.org/abs/2505.23499v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm|[[pdf]](http://arxiv.org/abs/2505.23138v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education|[[pdf]](http://arxiv.org/abs/2505.23631v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[UPP] UPP: Unified Path Planner with Adaptive Safety and Optimality|[[pdf]](http://arxiv.org/abs/2505.23197v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System|[[pdf]](http://arxiv.org/abs/2505.23457v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Autoregressive Meta-Actions for Unified Controllable Trajectory Generation|[[pdf]](http://arxiv.org/abs/2505.23612v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Efficient Dynamic Shielding for Parametric Safety Specifications|[[pdf]](http://arxiv.org/abs/2505.22104v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[PRISM] PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion|[[pdf]](http://arxiv.org/abs/2505.22564v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[ReinFlow] ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22094v2)|⚠️|⭐️⭐️⭐️|
@@ -163,6 +167,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 138
+- Total Papers: 142
 - Code Implementations: 8
-- Last Updated: May 2025
+- Last Updated: June 2025

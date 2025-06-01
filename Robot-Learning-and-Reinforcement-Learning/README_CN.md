@@ -59,6 +59,8 @@
 |2025-05-29|Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need|[[pdf]](http://arxiv.org/abs/2505.23744v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[TrackVLA] TrackVLA: Embodied Visual Tracking in the Wild|[[pdf]](http://arxiv.org/abs/2505.23189v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation|[[pdf]](http://arxiv.org/abs/2505.23090v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|A Robot-Assisted Approach to Small Talk Training for Adults with ASD|[[pdf]](http://arxiv.org/abs/2505.23508v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[MEF-Explore] MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration|[[pdf]](http://arxiv.org/abs/2505.23376v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Learning Compositional Behaviors from Demonstration and Language|[[pdf]](http://arxiv.org/abs/2505.21981v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[SCIZOR] SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.22626v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[HDDLGym] HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym|[[pdf]](http://arxiv.org/abs/2505.22597v1)|⚠️|⭐️⭐️⭐️|
@@ -501,6 +503,6 @@
 
 ## 📊 统计
 
-- 论文总数：475篇
+- 论文总数：477篇
 - 代码实现：20个
-- 最后更新：2025年05月
+- 最后更新：2025年06月
