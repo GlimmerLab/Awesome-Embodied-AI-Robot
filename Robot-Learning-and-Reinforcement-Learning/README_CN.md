@@ -61,6 +61,8 @@
 |2025-05-29|A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation|[[pdf]](http://arxiv.org/abs/2505.23090v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|A Robot-Assisted Approach to Small Talk Training for Adults with ASD|[[pdf]](http://arxiv.org/abs/2505.23508v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[MEF-Explore] MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration|[[pdf]](http://arxiv.org/abs/2505.23376v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents|[[pdf]](http://arxiv.org/abs/2505.23422v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|Structural Abstraction and Selective Refinement for Formal Verification|[[pdf]](http://arxiv.org/abs/2505.22982v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Learning Compositional Behaviors from Demonstration and Language|[[pdf]](http://arxiv.org/abs/2505.21981v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[SCIZOR] SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.22626v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[HDDLGym] HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym|[[pdf]](http://arxiv.org/abs/2505.22597v1)|⚠️|⭐️⭐️⭐️|
@@ -83,6 +85,7 @@
 |2025-05-28|Tell me Habibi, is it Real or Fake?|[[pdf]](http://arxiv.org/abs/2505.22581v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Spring-Brake! Handed Shearing Auxetics Improve Efficiency of Hopping and Standing|[[pdf]](http://arxiv.org/abs/2505.22898v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Dynamic Task Adaptation for Multi-Robot Manufacturing Systems with Large Language Models|[[pdf]](http://arxiv.org/abs/2505.22804v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[ChatVLA-2] ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge|[[pdf]](http://arxiv.org/abs/2505.21906v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[Active-O3] Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO|[[pdf]](http://arxiv.org/abs/2505.21457v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[FM-Planner] FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation|[[pdf]](http://arxiv.org/abs/2505.20783v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[XBOUND] XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration|[[pdf]](http://arxiv.org/abs/2505.21279v1)|⚠️|⭐️⭐️⭐️|
@@ -503,6 +506,6 @@
 
 ## 📊 统计
 
-- 论文总数：477篇
+- 论文总数：480篇
 - 代码实现：20个
 - 最后更新：2025年06月

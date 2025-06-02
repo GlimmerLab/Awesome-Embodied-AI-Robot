@@ -29,6 +29,7 @@
 |2025-05-28|[EPiC] EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance|[[pdf]](http://arxiv.org/abs/2505.21876v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[WorkForceAgent-R1] WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22942v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|New Tools are Needed for Tracking Adherence to AI Model Behavioral Use Clauses|[[pdf]](http://arxiv.org/abs/2505.22287v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-28|[en] Spring-Brake! Handed Shearing Auxetics Improve Efficiency of Hopping and Standing|[[pdf]](http://arxiv.org/abs/2505.22898v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2505.20897v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[RRO] RRO: LLM Agent Optimization Through Rising Reward Trajectories|[[pdf]](http://arxiv.org/abs/2505.20737v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[CoDA] CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects|[[pdf]](http://arxiv.org/abs/2505.21437v1)|⚠️|⭐️⭐️⭐️|
@@ -137,6 +138,6 @@
 
 ## 📊 统计
 
-- 论文总数：116篇
+- 论文总数：117篇
 - 代码实现：5个
 - 最后更新：2025年06月
