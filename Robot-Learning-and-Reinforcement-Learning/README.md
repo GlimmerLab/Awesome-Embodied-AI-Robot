@@ -47,6 +47,21 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-30|[Hyper-Dexterous] DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.24853v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[RealDrive] RealDrive: Retrieval-Augmented Driving with Diffusion Models|[[pdf]](http://arxiv.org/abs/2505.24808v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models|[[pdf]](http://arxiv.org/abs/2505.24260v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Interactive Video Generation via Domain Adaptation|[[pdf]](http://arxiv.org/abs/2505.24253v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction|[[pdf]](http://arxiv.org/abs/2505.24597v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Towards Unified Modeling in Federated Multi-Task Learning via Subspace Decoupling|[[pdf]](http://arxiv.org/abs/2505.24185v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[MagicGripper] MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2505.24382v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Imitation Learning-Based Path Generation for the Complex Assembly of Deformable Objects|[[pdf]](http://arxiv.org/abs/2505.24339v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[en] DiG-Net: Enhancing Quality of Life through Hyper-Range Dynamic Gesture Recognition in Assistive Robotics|[[pdf]](http://arxiv.org/abs/2505.24786v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting|[[pdf]](http://arxiv.org/abs/2505.24710v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[REASONING GYM] REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards|[[pdf]](http://arxiv.org/abs/2505.24760v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[Multi-Agent] SignBot: Learning Human-to-Humanoid Sign Language Interaction|[[pdf]](http://arxiv.org/abs/2505.24266v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction|[[pdf]](http://arxiv.org/abs/2505.24156v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[SR3D] SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping|[[pdf]](http://arxiv.org/abs/2505.24305v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Reactive Aerobatic Flight via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.24396v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[Stairway to Success] Stairway to Success: Zero-Shot Floor-Aware Object-Goal Navigation via LLM-Driven Coarse-to-Fine Exploration|[[pdf]](http://arxiv.org/abs/2505.23019v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[AMOR] AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.23708v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[LocoTouch] LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing|[[pdf]](http://arxiv.org/abs/2505.23175v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +78,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-29|[MEF-Explore] MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration|[[pdf]](http://arxiv.org/abs/2505.23376v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents|[[pdf]](http://arxiv.org/abs/2505.23422v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Structural Abstraction and Selective Refinement for Formal Verification|[[pdf]](http://arxiv.org/abs/2505.22982v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[en] Combining Deep Architectures for Information Gain estimation and Reinforcement Learning for multiagent field exploration|[[pdf]](http://arxiv.org/abs/2505.23865v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[DATD3] DATD3: Depthwise Attention Twin Delayed Deep Deterministic Policy Gradient For Model Free Reinforcement Learning Under Output Feedback Control|[[pdf]](http://arxiv.org/abs/2505.23857v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Learning Compositional Behaviors from Demonstration and Language|[[pdf]](http://arxiv.org/abs/2505.21981v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[SCIZOR] SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning|[[pdf]](http://arxiv.org/abs/2505.22626v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[HDDLGym] HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym|[[pdf]](http://arxiv.org/abs/2505.22597v1)|⚠️|⭐️⭐️⭐️|
@@ -506,6 +523,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 480
+- Total Papers: 497
 - Code Implementations: 20
 - Last Updated: June 2025

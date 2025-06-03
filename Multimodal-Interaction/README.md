@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-30|Learning API Functionality from Demonstrations for Tool-based Agents|[[pdf]](http://arxiv.org/abs/2505.24197v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion|[[pdf]](http://arxiv.org/abs/2505.23266v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better|[[pdf]](http://arxiv.org/abs/2505.23705v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[ForceVLA] ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation|[[pdf]](http://arxiv.org/abs/2505.22159v1)|⚠️|⭐️⭐️⭐️|
@@ -115,6 +116,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 90
+- Total Papers: 91
 - Code Implementations: 6
 - Last Updated: June 2025

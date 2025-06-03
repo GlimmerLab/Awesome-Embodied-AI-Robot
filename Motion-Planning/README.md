@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-30|[S4-Driver] S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation|[[pdf]](http://arxiv.org/abs/2505.24139v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Humanoid Loco-Manipulations Pattern Generation and Stabilization Control|[[pdf]](http://arxiv.org/abs/2505.24116v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2505.24209v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control|[[pdf]](http://arxiv.org/abs/2505.24198v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[VLM-RRT] VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation|[[pdf]](http://arxiv.org/abs/2505.23267v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[FlowAlign] FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing|[[pdf]](http://arxiv.org/abs/2505.23145v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[Zero-to-Hero] Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing|[[pdf]](http://arxiv.org/abs/2505.23134v1)|⚠️|⭐️⭐️⭐️|
@@ -44,6 +48,7 @@ This directory collects papers and code implementations related to motion planni
 |2025-05-29|[UPP] UPP: Unified Path Planner with Adaptive Safety and Optimality|[[pdf]](http://arxiv.org/abs/2505.23197v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System|[[pdf]](http://arxiv.org/abs/2505.23457v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Autoregressive Meta-Actions for Unified Controllable Trajectory Generation|[[pdf]](http://arxiv.org/abs/2505.23612v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[en] Exploring Societal Concerns and Perceptions of AI: A Thematic Analysis through the Lens of Problem-Seeking|[[pdf]](http://arxiv.org/abs/2505.23930v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Efficient Dynamic Shielding for Parametric Safety Specifications|[[pdf]](http://arxiv.org/abs/2505.22104v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[PRISM] PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion|[[pdf]](http://arxiv.org/abs/2505.22564v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[ReinFlow] ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.22094v2)|⚠️|⭐️⭐️⭐️|
@@ -167,6 +172,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 142
+- Total Papers: 147
 - Code Implementations: 8
 - Last Updated: June 2025

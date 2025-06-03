@@ -24,6 +24,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-29|[Agentic Robot] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.23450v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Toward Memory-Aided World Models: Benchmarking via Spatial Consistency|[[pdf]](http://arxiv.org/abs/2505.22976v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[OWL] OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation|[[pdf]](http://arxiv.org/abs/2505.23885v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[DORAEMON] DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation|[[pdf]](http://arxiv.org/abs/2505.21969v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Reinforced Reasoning for Embodied Planning|[[pdf]](http://arxiv.org/abs/2505.22050v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[LabUtopia] LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.22634v1)|⚠️|⭐️⭐️⭐️|
@@ -118,6 +119,6 @@
 
 ## 📊 统计
 
-- 论文总数：94篇
+- 论文总数：95篇
 - 代码实现：6个
 - 最后更新：2025年06月

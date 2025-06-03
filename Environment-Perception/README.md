@@ -26,6 +26,8 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-05-30|[SentinelAgent] SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2505.24201v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|System-integrated intrinsic static-dynamic pressure sensing enabled by charge excitation and 3D gradient engineering for autonomous robotic interaction|[[pdf]](http://arxiv.org/abs/2505.24645v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired|[[pdf]](http://arxiv.org/abs/2505.22087v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications|[[pdf]](http://arxiv.org/abs/2505.22311v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[UP-SLAM] UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2505.22335v1)|⚠️|⭐️⭐️⭐️|
@@ -109,6 +111,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 85
+- Total Papers: 87
 - Code Implementations: 8
 - Last Updated: June 2025
