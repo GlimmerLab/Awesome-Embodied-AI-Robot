@@ -40,7 +40,10 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-05-30|[en] SEAR: A Multimodal Dataset for Analyzing AR-LLM-Driven Social Engineering Behaviors|[[pdf]](http://arxiv.org/abs/2505.24458v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System|[[pdf]](http://arxiv.org/abs/2505.24429v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[PB&J] PB&J: Peanut Butter and Joints for Damped Articulation|[[pdf]](http://arxiv.org/abs/2505.24860v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory|[[pdf]](http://arxiv.org/abs/2505.23617v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-29|[DiffCoTune] DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control|[[pdf]](http://arxiv.org/abs/2505.24068v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|[en] From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation|[[pdf]](http://arxiv.org/abs/2505.22503v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-28|A simulation framework for autonomous lunar construction work|[[pdf]](http://arxiv.org/abs/2505.22091v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-27|[en] GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation|[[pdf]](http://arxiv.org/abs/2505.21154v1)|⚠️|⭐️⭐️⭐️|
@@ -150,6 +153,6 @@
 
 ## 📊 统计
 
-- 论文总数：125篇
+- 论文总数：128篇
 - 代码实现：21个
 - 最后更新：2025年06月

@@ -62,6 +62,7 @@
 |2025-05-30|Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction|[[pdf]](http://arxiv.org/abs/2505.24156v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[SR3D] SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping|[[pdf]](http://arxiv.org/abs/2505.24305v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Reactive Aerobatic Flight via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.24396v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[AXIOM] AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models|[[pdf]](http://arxiv.org/abs/2505.24784v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[Stairway to Success] Stairway to Success: Zero-Shot Floor-Aware Object-Goal Navigation via LLM-Driven Coarse-to-Fine Exploration|[[pdf]](http://arxiv.org/abs/2505.23019v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[AMOR] AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.23708v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[LocoTouch] LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing|[[pdf]](http://arxiv.org/abs/2505.23175v1)|⚠️|⭐️⭐️⭐️|
@@ -523,6 +524,6 @@
 
 ## 📊 统计
 
-- 论文总数：497篇
+- 论文总数：498篇
 - 代码实现：20个
 - 最后更新：2025年06月
