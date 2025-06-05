@@ -39,6 +39,16 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-03|[LinkTo-Anime] LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering|[[pdf]](http://arxiv.org/abs/2506.02733v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[PhysGaia] PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis|[[pdf]](http://arxiv.org/abs/2506.02794v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[DeepShop] DeepShop: A Benchmark for Deep Research Shopping Agents|[[pdf]](http://arxiv.org/abs/2506.02839v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[en] Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges|[[pdf]](http://arxiv.org/abs/2506.02489v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[WebChoreArena] WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks|[[pdf]](http://arxiv.org/abs/2506.01952v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[en] COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents|[[pdf]](http://arxiv.org/abs/2506.01900v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[en] The Ultimate Test of Superintelligent AI Agents: Can an AI Balance Care and Control in Asymmetric Relationships?|[[pdf]](http://arxiv.org/abs/2506.01813v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[MedEBench] MedEBench: Revisiting Text-instructed Image Editing on Medical Domain|[[pdf]](http://arxiv.org/abs/2506.01921v3)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[en] A Study on the MCP x A2A Framework for Enhancing Interoperability of LLM-based Autonomous Agents|[[pdf]](http://arxiv.org/abs/2506.01804v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-01|[STATE-NAV] STATE-NAV: Stability-Aware Traversability Estimation for Bipedal Navigation on Rough Terrain|[[pdf]](http://arxiv.org/abs/2506.01046v2)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[en] SEAR: A Multimodal Dataset for Analyzing AR-LLM-Driven Social Engineering Behaviors|[[pdf]](http://arxiv.org/abs/2505.24458v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System|[[pdf]](http://arxiv.org/abs/2505.24429v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[PB&J] PB&J: Peanut Butter and Joints for Damped Articulation|[[pdf]](http://arxiv.org/abs/2505.24860v1)|⚠️|⭐️⭐️⭐️|
@@ -153,6 +163,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 128
+- Total Papers: 138
 - Code Implementations: 21
 - Last Updated: June 2025

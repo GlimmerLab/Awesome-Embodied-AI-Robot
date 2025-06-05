@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-03|[EDEN] EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment|[[pdf]](http://arxiv.org/abs/2506.03046v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|High-speed control and navigation for quadrupedal robots on complex and discrete terrain|[[pdf]](http://arxiv.org/abs/2506.02835v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Reflection-Based Memory For Web navigation Agents|[[pdf]](http://arxiv.org/abs/2506.02158v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[Learning with pyCub] Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics|[[pdf]](http://arxiv.org/abs/2506.01756v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.01563v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-01|[en] RoboTwin: A Robotic Teleoperation Framework Using Digital Twins|[[pdf]](http://arxiv.org/abs/2506.01027v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[S4-Driver] S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation|[[pdf]](http://arxiv.org/abs/2505.24139v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Humanoid Loco-Manipulations Pattern Generation and Stabilization Control|[[pdf]](http://arxiv.org/abs/2505.24116v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2505.24209v1)|⚠️|⭐️⭐️⭐️|
@@ -172,6 +178,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 147
+- Total Papers: 153
 - Code Implementations: 8
 - Last Updated: June 2025

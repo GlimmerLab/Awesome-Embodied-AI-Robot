@@ -47,6 +47,45 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-03|[Trajectory] UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models|[[pdf]](http://arxiv.org/abs/2506.02955v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[Tru-POMDP] Tru-POMDP: Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs|[[pdf]](http://arxiv.org/abs/2506.02860v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV|[[pdf]](http://arxiv.org/abs/2506.02649v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|Multi Layered Autonomy and AI Ecologies in Robotic Art Installations|[[pdf]](http://arxiv.org/abs/2506.02606v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|DPO Learning with LLMs-Judge Signal for Computer Use Agents|[[pdf]](http://arxiv.org/abs/2506.03095v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[GUI-Actor] GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents|[[pdf]](http://arxiv.org/abs/2506.03143v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[AURA] AURA: Agentic Upskilling via Reinforced Abstractions|[[pdf]](http://arxiv.org/abs/2506.02507v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|Efficient Tactile Perception with Soft Electrical Impedance Tomography and Pre-trained Transformer|[[pdf]](http://arxiv.org/abs/2506.02824v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning|[[pdf]](http://arxiv.org/abs/2506.02593v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning|[[pdf]](http://arxiv.org/abs/2506.02485v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[HIEGNet] HIEGNet: A Heterogenous Graph Neural Network Including the Immune Environment in Glomeruli Classification|[[pdf]](http://arxiv.org/abs/2506.02542v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent|[[pdf]](http://arxiv.org/abs/2506.02373v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|Learned Controllers for Agile Quadrotors in Pursuit-Evasion Games|[[pdf]](http://arxiv.org/abs/2506.02849v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|Accelerating Model-Based Reinforcement Learning using Non-Linear Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2506.02767v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[EvolveNav] EvolveNav: Self-Improving Embodied Reasoning for LLM-Based Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2506.01551v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[FreqPolicy] FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens|[[pdf]](http://arxiv.org/abs/2506.01583v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Bregman Centroid Guided Cross-Entropy Method|[[pdf]](http://arxiv.org/abs/2506.02205v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Fodor and Pylyshyn's Legacy -- Still No Human-like Systematic Compositionality in Neural Networks|[[pdf]](http://arxiv.org/abs/2506.01820v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Reinforcement Learning with Data Bootstrapping for Dynamic Subgoal Pursuit in Humanoid Robot Navigation|[[pdf]](http://arxiv.org/abs/2506.02206v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[Feel the Force] Feel the Force: Contact-Driven Learning from Humans|[[pdf]](http://arxiv.org/abs/2506.01944v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[WoMAP] WoMAP: World Models For Embodied Open-Vocabulary Object Localization|[[pdf]](http://arxiv.org/abs/2506.01600v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[Fast-in-Slow] Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning|[[pdf]](http://arxiv.org/abs/2506.01953v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[FreeTacMan] FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation|[[pdf]](http://arxiv.org/abs/2506.01941v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[ADEPT] ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real|[[pdf]](http://arxiv.org/abs/2506.01759v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Human Heterogeneity Invariant Stress Sensing|[[pdf]](http://arxiv.org/abs/2506.02256v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Agnostic Reinforcement Learning: Foundations and Algorithms|[[pdf]](http://arxiv.org/abs/2506.01884v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[SmolVLA] SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics|[[pdf]](http://arxiv.org/abs/2506.01844v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Provably Safe Reinforcement Learning from Analytic Gradients|[[pdf]](http://arxiv.org/abs/2506.01665v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Efficient Manipulation-Enhanced Semantic Mapping With Uncertainty-Informed Action Selection|[[pdf]](http://arxiv.org/abs/2506.02286v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[en] SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation|[[pdf]](http://arxiv.org/abs/2506.01418v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[en] Generating Diverse Challenging Terrains for Legged Robots Using Quality-Diversity Algorithm|[[pdf]](http://arxiv.org/abs/2506.01362v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-01|[HoMeR] HoMeR: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control|[[pdf]](http://arxiv.org/abs/2506.01185v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-01|[en] OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation|[[pdf]](http://arxiv.org/abs/2506.01196v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-01|[en] Robust and Safe Multi-Agent Reinforcement Learning Framework with Communication for Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2506.00982v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-31|[en] Position: Olfaction Standardization is Essential for the Advancement of Embodied Artificial Intelligence|[[pdf]](http://arxiv.org/abs/2506.00398v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-31|[en] Evaluating Robot Policies in a World Model|[[pdf]](http://arxiv.org/abs/2506.00613v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-31|[en] AWML: An Open-Source ML-based Robotics Perception Framework to Deploy for ROS-based Autonomous Driving Software|[[pdf]](http://arxiv.org/abs/2506.00645v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-31|[en] Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots|[[pdf]](http://arxiv.org/abs/2506.00472v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-31|[en] Haptic Rapidly-Exploring Random Trees: A Sampling-based Planner for Quasi-static Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2506.00351v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[Hyper-Dexterous] DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2505.24853v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[RealDrive] RealDrive: Retrieval-Augmented Driving with Diffusion Models|[[pdf]](http://arxiv.org/abs/2505.24808v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models|[[pdf]](http://arxiv.org/abs/2505.24260v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +102,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-05-30|[SR3D] SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping|[[pdf]](http://arxiv.org/abs/2505.24305v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Reactive Aerobatic Flight via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.24396v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[AXIOM] AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models|[[pdf]](http://arxiv.org/abs/2505.24784v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[en] Curate, Connect, Inquire: A System for Findable Accessible Interoperable and Reusable (FAIR) Human-Robot Centered Datasets|[[pdf]](http://arxiv.org/abs/2506.00220v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[en] Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces|[[pdf]](http://arxiv.org/abs/2506.00123v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-30|[en] Learning Aerodynamics for the Control of Flying Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.00305v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[Stairway to Success] Stairway to Success: Zero-Shot Floor-Aware Object-Goal Navigation via LLM-Driven Coarse-to-Fine Exploration|[[pdf]](http://arxiv.org/abs/2505.23019v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[AMOR] AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2505.23708v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[LocoTouch] LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing|[[pdf]](http://arxiv.org/abs/2505.23175v1)|⚠️|⭐️⭐️⭐️|
@@ -524,6 +566,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 498
+- Total Papers: 540
 - Code Implementations: 20
 - Last Updated: June 2025

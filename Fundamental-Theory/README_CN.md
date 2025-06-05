@@ -18,6 +18,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-03|Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models|[[pdf]](http://arxiv.org/abs/2506.03056v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[iQUEST] iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering|[[pdf]](http://arxiv.org/abs/2506.01784v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|[Fire360] Fire360: A Benchmark for Robust Perception and Episodic Memory in Degraded 360-Degree Firefighting Videos|[[pdf]](http://arxiv.org/abs/2506.02167v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[GridRoute] GridRoute: A Benchmark for LLM-Based Route Planning with Cardinal Movement in Grid Environments|[[pdf]](http://arxiv.org/abs/2505.24306v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT|[[pdf]](http://arxiv.org/abs/2505.24182v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[en] P: A Universal Measure of Predictive Intelligence|[[pdf]](http://arxiv.org/abs/2505.24426v1)|⚠️|⭐️⭐️⭐️|
@@ -145,6 +148,6 @@
 
 ## 📊 统计
 
-- 论文总数：124篇
+- 论文总数：127篇
 - 代码实现：5个
 - 最后更新：2025年06月

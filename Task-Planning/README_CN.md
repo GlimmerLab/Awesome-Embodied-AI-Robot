@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-03|Geometric Visual Servo Via Optimal Transport|[[pdf]](http://arxiv.org/abs/2506.02768v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-02|Agentic Episodic Control|[[pdf]](http://arxiv.org/abs/2506.01442v1)|⚠️|⭐️⭐️⭐️|
+|2025-05-31|[en] LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks|[[pdf]](http://arxiv.org/abs/2506.00411v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[Agentic Robot] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents|[[pdf]](http://arxiv.org/abs/2505.23450v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Toward Memory-Aided World Models: Benchmarking via Spatial Consistency|[[pdf]](http://arxiv.org/abs/2505.22976v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|[OWL] OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation|[[pdf]](http://arxiv.org/abs/2505.23885v1)|⚠️|⭐️⭐️⭐️|
@@ -119,6 +122,6 @@
 
 ## 📊 统计
 
-- 论文总数：95篇
+- 论文总数：98篇
 - 代码实现：6个
 - 最后更新：2025年06月

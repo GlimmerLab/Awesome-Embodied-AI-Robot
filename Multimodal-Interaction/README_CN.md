@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-02|EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models|[[pdf]](http://arxiv.org/abs/2506.01608v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Learning API Functionality from Demonstrations for Tool-based Agents|[[pdf]](http://arxiv.org/abs/2505.24197v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Towards Tangible Immersion for Cobot Programming-by-Demonstration: Visual, Tactile and Haptic Interfaces for Mixed-Reality Cobot Automation in Semiconductor Manufacturing|[[pdf]](http://arxiv.org/abs/2505.24096v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-29|Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion|[[pdf]](http://arxiv.org/abs/2505.23266v1)|⚠️|⭐️⭐️⭐️|
@@ -117,6 +118,6 @@
 
 ## 📊 统计
 
-- 论文总数：92篇
+- 论文总数：93篇
 - 代码实现：6个
 - 最后更新：2025年06月
