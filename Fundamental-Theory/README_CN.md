@@ -18,6 +18,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-04|[SemNav] SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models|[[pdf]](http://arxiv.org/abs/2506.03516v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|[AssetOpsBench] AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance|[[pdf]](http://arxiv.org/abs/2506.03828v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|Enhancing Safety of Foundation Models for Visual Navigation through Collision Avoidance via Repulsive Estimation|[[pdf]](http://arxiv.org/abs/2506.03834v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models|[[pdf]](http://arxiv.org/abs/2506.03056v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|[iQUEST] iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering|[[pdf]](http://arxiv.org/abs/2506.01784v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|[Fire360] Fire360: A Benchmark for Robust Perception and Episodic Memory in Degraded 360-Degree Firefighting Videos|[[pdf]](http://arxiv.org/abs/2506.02167v1)|⚠️|⭐️⭐️⭐️|
@@ -148,6 +151,6 @@
 
 ## 📊 统计
 
-- 论文总数：127篇
+- 论文总数：130篇
 - 代码实现：5个
 - 最后更新：2025年06月

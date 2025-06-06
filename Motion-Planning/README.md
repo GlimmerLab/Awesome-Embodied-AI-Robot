@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-04|[CogniPair] CogniPair: From LLM Chatbots to Conscious AI Agents -- GNWT-Based Multi-Agent Digital Twins for Social Pairing -- Dating & Hiring Applications|[[pdf]](http://arxiv.org/abs/2506.03543v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|Accelerating SfM-based Pose Estimation with Dominating Set|[[pdf]](http://arxiv.org/abs/2506.03667v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[EDEN] EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment|[[pdf]](http://arxiv.org/abs/2506.03046v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|High-speed control and navigation for quadrupedal robots on complex and discrete terrain|[[pdf]](http://arxiv.org/abs/2506.02835v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|Reflection-Based Memory For Web navigation Agents|[[pdf]](http://arxiv.org/abs/2506.02158v1)|⚠️|⭐️⭐️⭐️|
@@ -178,6 +180,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 153
+- Total Papers: 155
 - Code Implementations: 8
 - Last Updated: June 2025

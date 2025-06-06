@@ -39,6 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-04|Spatial Understanding from Videos: Structured Prompts Meet Simulation Data|[[pdf]](http://arxiv.org/abs/2506.03642v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs|[[pdf]](http://arxiv.org/abs/2506.04215v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|[en] SUMO-MCP: Leveraging the Model Context Protocol for Autonomous Traffic Simulation and Optimization|[[pdf]](http://arxiv.org/abs/2506.03548v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[LinkTo-Anime] LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering|[[pdf]](http://arxiv.org/abs/2506.02733v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[PhysGaia] PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis|[[pdf]](http://arxiv.org/abs/2506.02794v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[DeepShop] DeepShop: A Benchmark for Deep Research Shopping Agents|[[pdf]](http://arxiv.org/abs/2506.02839v1)|⚠️|⭐️⭐️⭐️|
@@ -163,6 +166,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 138
+- Total Papers: 141
 - Code Implementations: 21
 - Last Updated: June 2025
