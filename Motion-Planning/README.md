@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-05|Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2506.05341v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Whole-Body Constrained Learning for Legged Locomotion via Hierarchical Optimization|[[pdf]](http://arxiv.org/abs/2506.05115v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Tire Wear Aware Trajectory Tracking Control for Multi-axle Swerve-drive Autonomous Mobile Robots|[[pdf]](http://arxiv.org/abs/2506.04752v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Enhancing Efficiency and Propulsion in Bio-mimetic Robotic Fish through End-to-End Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.04627v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[CogniPair] CogniPair: From LLM Chatbots to Conscious AI Agents -- GNWT-Based Multi-Agent Digital Twins for Social Pairing -- Dating & Hiring Applications|[[pdf]](http://arxiv.org/abs/2506.03543v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Accelerating SfM-based Pose Estimation with Dominating Set|[[pdf]](http://arxiv.org/abs/2506.03667v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[EDEN] EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment|[[pdf]](http://arxiv.org/abs/2506.03046v1)|⚠️|⭐️⭐️⭐️|
@@ -180,6 +184,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 155
+- Total Papers: 159
 - Code Implementations: 8
 - Last Updated: June 2025

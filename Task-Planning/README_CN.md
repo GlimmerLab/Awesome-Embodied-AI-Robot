@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-05|[Multi-robot] Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System|[[pdf]](http://arxiv.org/abs/2506.05020v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Zero-Shot Temporal Interaction Localization for Egocentric Videos|[[pdf]](http://arxiv.org/abs/2506.03662v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Understanding Physical Properties of Unseen Deformable Objects by Leveraging Large Language Models and Robot Actions|[[pdf]](http://arxiv.org/abs/2506.03760v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|Geometric Visual Servo Via Optimal Transport|[[pdf]](http://arxiv.org/abs/2506.02768v1)|⚠️|⭐️⭐️⭐️|
@@ -125,6 +126,6 @@
 
 ## 📊 统计
 
-- 论文总数：101篇
+- 论文总数：102篇
 - 代码实现：6个
 - 最后更新：2025年06月

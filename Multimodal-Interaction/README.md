@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-05|[GEX] GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove|[[pdf]](http://arxiv.org/abs/2506.04982v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[en] Multimodal Limbless Crawling Soft Robot with a Kirigami Skin|[[pdf]](http://arxiv.org/abs/2506.04547v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models|[[pdf]](http://arxiv.org/abs/2506.01608v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Learning API Functionality from Demonstrations for Tool-based Agents|[[pdf]](http://arxiv.org/abs/2505.24197v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|Towards Tangible Immersion for Cobot Programming-by-Demonstration: Visual, Tactile and Haptic Interfaces for Mixed-Reality Cobot Automation in Semiconductor Manufacturing|[[pdf]](http://arxiv.org/abs/2505.24096v1)|⚠️|⭐️⭐️⭐️|
@@ -118,6 +120,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 93
+- Total Papers: 95
 - Code Implementations: 6
 - Last Updated: June 2025

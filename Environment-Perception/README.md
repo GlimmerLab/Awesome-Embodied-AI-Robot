@@ -26,9 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-05|[en] LLMs for sensory-motor control: Combining in-context and iterative learning|[[pdf]](http://arxiv.org/abs/2506.04867v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Ontology-based knowledge representation for bone disease diagnosis: a foundation for safe and sustainable medical artificial intelligence systems|[[pdf]](http://arxiv.org/abs/2506.04756v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[V2X-UniPool] V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.02580v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[Sign Language] Sign Language: Towards Sign Understanding for Robot Autonomy|[[pdf]](http://arxiv.org/abs/2506.02556v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[SAVOR] SAVOR: Skill Affordance Learning from Visuo-Haptic Perception for Robot-Assisted Bite Acquisition|[[pdf]](http://arxiv.org/abs/2506.02353v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-03|[en] Geometric Visual Servo Via Optimal Transport|[[pdf]](http://arxiv.org/abs/2506.02768v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-31|[en] Multi-Objective Neural Network Assisted Design Optimization of Soft Fin-Ray Grippers for Enhanced Grasping Performance|[[pdf]](http://arxiv.org/abs/2506.00494v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-31|[en] Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification|[[pdf]](http://arxiv.org/abs/2506.00589v1)|⚠️|⭐️⭐️⭐️|
 |2025-05-30|[SentinelAgent] SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2505.24201v1)|⚠️|⭐️⭐️⭐️|
@@ -116,6 +119,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 92
+- Total Papers: 95
 - Code Implementations: 8
 - Last Updated: June 2025

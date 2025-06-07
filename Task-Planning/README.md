@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-05|[Multi-robot] Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System|[[pdf]](http://arxiv.org/abs/2506.05020v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Zero-Shot Temporal Interaction Localization for Egocentric Videos|[[pdf]](http://arxiv.org/abs/2506.03662v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Understanding Physical Properties of Unseen Deformable Objects by Leveraging Large Language Models and Robot Actions|[[pdf]](http://arxiv.org/abs/2506.03760v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|Geometric Visual Servo Via Optimal Transport|[[pdf]](http://arxiv.org/abs/2506.02768v1)|⚠️|⭐️⭐️⭐️|
@@ -125,6 +126,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 101
+- Total Papers: 102
 - Code Implementations: 6
 - Last Updated: June 2025
