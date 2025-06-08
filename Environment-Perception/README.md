@@ -28,6 +28,8 @@ This directory collects papers and code implementations related to environment p
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-05|[en] LLMs for sensory-motor control: Combining in-context and iterative learning|[[pdf]](http://arxiv.org/abs/2506.04867v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Ontology-based knowledge representation for bone disease diagnosis: a foundation for safe and sustainable medical artificial intelligence systems|[[pdf]](http://arxiv.org/abs/2506.04756v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[MineInsight] MineInsight: A Multi-sensor Dataset for Humanitarian Demining Robotics in Off-Road Environments|[[pdf]](http://arxiv.org/abs/2506.04842v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|[cuVSLAM] cuVSLAM: CUDA accelerated visual odometry|[[pdf]](http://arxiv.org/abs/2506.04359v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[V2X-UniPool] V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.02580v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[Sign Language] Sign Language: Towards Sign Understanding for Robot Autonomy|[[pdf]](http://arxiv.org/abs/2506.02556v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[SAVOR] SAVOR: Skill Affordance Learning from Visuo-Haptic Perception for Robot-Assisted Bite Acquisition|[[pdf]](http://arxiv.org/abs/2506.02353v1)|⚠️|⭐️⭐️⭐️|
@@ -119,6 +121,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 95
+- Total Papers: 97
 - Code Implementations: 8
 - Last Updated: June 2025

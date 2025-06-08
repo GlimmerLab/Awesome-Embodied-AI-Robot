@@ -62,6 +62,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-05|Spatiotemporal Contrastive Learning for Cross-View Video Localization in Unstructured Off-road Terrains|[[pdf]](http://arxiv.org/abs/2506.05250v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|A Unified Framework for Simulating Strongly-Coupled Fluid-Robot Multiphysics|[[pdf]](http://arxiv.org/abs/2506.05012v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[ActivePusher] ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation|[[pdf]](http://arxiv.org/abs/2506.04646v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[Reason-to-Recommend] Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation|[[pdf]](http://arxiv.org/abs/2506.05069v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[Biped] Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing|[[pdf]](http://arxiv.org/abs/2506.04680v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training|[[pdf]](http://arxiv.org/abs/2506.05092v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Rectified Point Flow: Generic Point Cloud Pose Estimation|[[pdf]](http://arxiv.org/abs/2506.05282v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[OWMM-Agent] OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis|[[pdf]](http://arxiv.org/abs/2506.04217v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[Learning] Object-centric 3D Motion Field for Robot Learning from Human Videos|[[pdf]](http://arxiv.org/abs/2506.04227v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[AmbiK] AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment|[[pdf]](http://arxiv.org/abs/2506.04089v1)|⚠️|⭐️⭐️⭐️|
@@ -82,6 +86,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-04|[RoboRefer] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics|[[pdf]](http://arxiv.org/abs/2506.04308v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[SGN-CIRL] SGN-CIRL: Scene Graph-based Navigation with Curriculum, Imitation, and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.04505v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Unsupervised Meta-Testing with Conditional Neural Processes for Hybrid Meta-Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.04399v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|How PARTs assemble into wholes: Learning the relative composition of images|[[pdf]](http://arxiv.org/abs/2506.03682v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration|[[pdf]](http://arxiv.org/abs/2506.04040v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[Trajectory] UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models|[[pdf]](http://arxiv.org/abs/2506.02955v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[Tru-POMDP] Tru-POMDP: Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs|[[pdf]](http://arxiv.org/abs/2506.02860v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV|[[pdf]](http://arxiv.org/abs/2506.02649v1)|⚠️|⭐️⭐️⭐️|
@@ -612,6 +618,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 586
+- Total Papers: 592
 - Code Implementations: 20
 - Last Updated: June 2025
