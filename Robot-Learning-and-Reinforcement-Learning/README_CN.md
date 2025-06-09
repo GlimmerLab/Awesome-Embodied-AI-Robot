@@ -66,6 +66,7 @@
 |2025-06-05|[Biped] Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing|[[pdf]](http://arxiv.org/abs/2506.04680v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training|[[pdf]](http://arxiv.org/abs/2506.05092v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Rectified Point Flow: Generic Point Cloud Pose Estimation|[[pdf]](http://arxiv.org/abs/2506.05282v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|A Pillbug-Inspired Morphing Mechanism Covered with Sliding Shells|[[pdf]](http://arxiv.org/abs/2506.04942v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[OWMM-Agent] OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis|[[pdf]](http://arxiv.org/abs/2506.04217v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[Learning] Object-centric 3D Motion Field for Robot Learning from Human Videos|[[pdf]](http://arxiv.org/abs/2506.04227v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[AmbiK] AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment|[[pdf]](http://arxiv.org/abs/2506.04089v1)|⚠️|⭐️⭐️⭐️|
@@ -88,6 +89,7 @@
 |2025-06-04|Unsupervised Meta-Testing with Conditional Neural Processes for Hybrid Meta-Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.04399v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|How PARTs assemble into wholes: Learning the relative composition of images|[[pdf]](http://arxiv.org/abs/2506.03682v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration|[[pdf]](http://arxiv.org/abs/2506.04040v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|A Bi-Level Optimization Method for Redundant Dual-Arm Minimum Time Problems|[[pdf]](http://arxiv.org/abs/2506.03982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[Trajectory] UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models|[[pdf]](http://arxiv.org/abs/2506.02955v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[Tru-POMDP] Tru-POMDP: Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs|[[pdf]](http://arxiv.org/abs/2506.02860v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV|[[pdf]](http://arxiv.org/abs/2506.02649v1)|⚠️|⭐️⭐️⭐️|
@@ -618,6 +620,6 @@
 
 ## 📊 统计
 
-- 论文总数：592篇
+- 论文总数：594篇
 - 代码实现：20个
 - 最后更新：2025年06月

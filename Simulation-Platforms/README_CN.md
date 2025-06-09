@@ -48,6 +48,7 @@
 |2025-06-04|[en] Accelerating SfM-based Pose Estimation with Dominating Set|[[pdf]](http://arxiv.org/abs/2506.03667v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments|[[pdf]](http://arxiv.org/abs/2506.04484v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Learning Smooth State-Dependent Traversability from Dense Point Clouds|[[pdf]](http://arxiv.org/abs/2506.04362v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|Pseudo-Simulation for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.04218v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[LinkTo-Anime] LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering|[[pdf]](http://arxiv.org/abs/2506.02733v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[PhysGaia] PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis|[[pdf]](http://arxiv.org/abs/2506.02794v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[DeepShop] DeepShop: A Benchmark for Deep Research Shopping Agents|[[pdf]](http://arxiv.org/abs/2506.02839v1)|⚠️|⭐️⭐️⭐️|
@@ -172,6 +173,6 @@
 
 ## 📊 统计
 
-- 论文总数：147篇
+- 论文总数：148篇
 - 代码实现：21个
 - 最后更新：2025年06月

@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to fundamental t
 |2025-06-04|[AssetOpsBench] AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance|[[pdf]](http://arxiv.org/abs/2506.03828v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Enhancing Safety of Foundation Models for Visual Navigation through Collision Avoidance via Repulsive Estimation|[[pdf]](http://arxiv.org/abs/2506.03834v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|["Don't Do That!"] "Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation|[[pdf]](http://arxiv.org/abs/2506.04500v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-04|A Framework Leveraging Large Language Models for Autonomous UAV Control in Flying Networks|[[pdf]](http://arxiv.org/abs/2506.04404v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models|[[pdf]](http://arxiv.org/abs/2506.03056v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-03|[en] Geometric Visual Servo Via Optimal Transport|[[pdf]](http://arxiv.org/abs/2506.02768v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|[iQUEST] iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering|[[pdf]](http://arxiv.org/abs/2506.01784v1)|⚠️|⭐️⭐️⭐️|
@@ -156,6 +157,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 135
+- Total Papers: 136
 - Code Implementations: 5
 - Last Updated: June 2025
