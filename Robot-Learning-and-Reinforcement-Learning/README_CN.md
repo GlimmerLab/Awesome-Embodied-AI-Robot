@@ -47,6 +47,26 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-06|End-to-End Framework for Robot Lawnmower Coverage Path Planning using Cellular Decomposition|[[pdf]](http://arxiv.org/abs/2506.06028v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[Trajectory Entropy] Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2506.05810v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Learning Design-Score Manifold to Guide Diffusion Models for Offline Optimization|[[pdf]](http://arxiv.org/abs/2506.05680v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[FADE] FADE: Frequency-Aware Diffusion Model Factorization for Video Editing|[[pdf]](http://arxiv.org/abs/2506.05934v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[3DFlowAction] 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model|[[pdf]](http://arxiv.org/abs/2506.06199v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization|[[pdf]](http://arxiv.org/abs/2506.06196v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|On-board Mission Replanning for Adaptive Cooperative Multi-Robot Systems|[[pdf]](http://arxiv.org/abs/2506.06094v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning|[[pdf]](http://arxiv.org/abs/2506.05985v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[BiAssemble] BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly|[[pdf]](http://arxiv.org/abs/2506.06221v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Improving Long-Range Navigation with Spatially-Enhanced Recurrent Memory via End-to-End Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.05997v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping|[[pdf]](http://arxiv.org/abs/2506.05719v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[en] Gradual Transition from Bellman Optimality Operator to Bellman Operator in Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.05968v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[CrimeMind] CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents|[[pdf]](http://arxiv.org/abs/2506.05981v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[RKEFino1] RKEFino1: A Regulation Knowledge-Enhanced Large Language Model|[[pdf]](http://arxiv.org/abs/2506.05700v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[AMPED] AMPED: Adaptive Multi-objective Projection for balancing Exploration and skill Diversification|[[pdf]](http://arxiv.org/abs/2506.05980v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Ensemble Elastic DQN: A novel multi-step ensemble approach to address overestimation in deep value-based reinforcement learning|[[pdf]](http://arxiv.org/abs/2506.05716v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Phonetically-Augmented Discriminative Rescoring for Voice Search Error Correction|[[pdf]](http://arxiv.org/abs/2506.06117v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Self driving algorithm for an active four wheel drive racecar|[[pdf]](http://arxiv.org/abs/2506.06077v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[BEAST] BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.06072v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[Imitation] Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.05808v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[LLM-First Search] LLM-First Search: Self-Guided Exploration of the Solution Space|[[pdf]](http://arxiv.org/abs/2506.05213v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[TIMING] TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation|[[pdf]](http://arxiv.org/abs/2506.05035v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Safe Planning and Policy Optimization via World Model Learning|[[pdf]](http://arxiv.org/abs/2506.04828v1)|⚠️|⭐️⭐️⭐️|
@@ -67,6 +87,9 @@
 |2025-06-05|Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training|[[pdf]](http://arxiv.org/abs/2506.05092v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Rectified Point Flow: Generic Point Cloud Pose Estimation|[[pdf]](http://arxiv.org/abs/2506.05282v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|A Pillbug-Inspired Morphing Mechanism Covered with Sliding Shells|[[pdf]](http://arxiv.org/abs/2506.04942v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic|[[pdf]](http://arxiv.org/abs/2506.05445v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|Zero-shot protein stability prediction by inverse folding models: a free energy interpretation|[[pdf]](http://arxiv.org/abs/2506.05596v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[TD-TOG Dataset] TD-TOG Dataset: Benchmarking Zero-Shot and One-Shot Task-Oriented Grasping for Object Generalization|[[pdf]](http://arxiv.org/abs/2506.05576v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[OWMM-Agent] OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis|[[pdf]](http://arxiv.org/abs/2506.04217v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[Learning] Object-centric 3D Motion Field for Robot Learning from Human Videos|[[pdf]](http://arxiv.org/abs/2506.04227v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[AmbiK] AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment|[[pdf]](http://arxiv.org/abs/2506.04089v1)|⚠️|⭐️⭐️⭐️|
@@ -620,6 +643,6 @@
 
 ## 📊 统计
 
-- 论文总数：594篇
+- 论文总数：617篇
 - 代码实现：20个
 - 最后更新：2025年06月

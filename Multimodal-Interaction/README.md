@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-06|[HMVLM] HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios|[[pdf]](http://arxiv.org/abs/2506.05883v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[GEX] GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove|[[pdf]](http://arxiv.org/abs/2506.04982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[en] Multimodal Limbless Crawling Soft Robot with a Kirigami Skin|[[pdf]](http://arxiv.org/abs/2506.04547v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models|[[pdf]](http://arxiv.org/abs/2506.01608v1)|⚠️|⭐️⭐️⭐️|
@@ -120,6 +121,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 95
+- Total Papers: 96
 - Code Implementations: 6
 - Last Updated: June 2025

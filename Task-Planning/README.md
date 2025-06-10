@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-06|[Astra] Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning|[[pdf]](http://arxiv.org/abs/2506.06205v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[SPRINT] SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models|[[pdf]](http://arxiv.org/abs/2506.05745v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[Multi-robot] Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System|[[pdf]](http://arxiv.org/abs/2506.05020v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Zero-Shot Temporal Interaction Localization for Egocentric Videos|[[pdf]](http://arxiv.org/abs/2506.03662v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Understanding Physical Properties of Unseen Deformable Objects by Leveraging Large Language Models and Robot Actions|[[pdf]](http://arxiv.org/abs/2506.03760v1)|⚠️|⭐️⭐️⭐️|
@@ -126,6 +128,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 102
+- Total Papers: 104
 - Code Implementations: 6
 - Last Updated: June 2025

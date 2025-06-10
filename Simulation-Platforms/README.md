@@ -42,6 +42,7 @@ This directory collects papers and code implementations related to simulation pl
 |2025-06-05|Towards Network Data Analytics in 5G Systems and Beyond|[[pdf]](http://arxiv.org/abs/2506.04860v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams|[[pdf]](http://arxiv.org/abs/2506.05265v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data|[[pdf]](http://arxiv.org/abs/2506.04577v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[Learning to Recover] Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots|[[pdf]](http://arxiv.org/abs/2506.05516v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Spatial Understanding from Videos: Structured Prompts Meet Simulation Data|[[pdf]](http://arxiv.org/abs/2506.03642v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs|[[pdf]](http://arxiv.org/abs/2506.04215v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[en] SUMO-MCP: Leveraging the Model Context Protocol for Autonomous Traffic Simulation and Optimization|[[pdf]](http://arxiv.org/abs/2506.03548v1)|⚠️|⭐️⭐️⭐️|
@@ -173,6 +174,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 148
+- Total Papers: 149
 - Code Implementations: 21
 - Last Updated: June 2025

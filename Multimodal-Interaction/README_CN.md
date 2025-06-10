@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-06|[HMVLM] HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios|[[pdf]](http://arxiv.org/abs/2506.05883v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[GEX] GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove|[[pdf]](http://arxiv.org/abs/2506.04982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[en] Multimodal Limbless Crawling Soft Robot with a Kirigami Skin|[[pdf]](http://arxiv.org/abs/2506.04547v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-02|EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models|[[pdf]](http://arxiv.org/abs/2506.01608v1)|⚠️|⭐️⭐️⭐️|
@@ -120,6 +121,6 @@
 
 ## 📊 统计
 
-- 论文总数：95篇
+- 论文总数：96篇
 - 代码实现：6个
 - 最后更新：2025年06月

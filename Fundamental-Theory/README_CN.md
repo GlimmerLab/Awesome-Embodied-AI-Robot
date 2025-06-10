@@ -18,9 +18,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-06|[MOGO] MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation|[[pdf]](http://arxiv.org/abs/2506.05952v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM|[[pdf]](http://arxiv.org/abs/2506.05896v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[en] Multi-Modal Multi-Task Federated Foundation Models for Next-Generation Extended Reality Systems: Towards Privacy-Preserving Distributed Intelligence in AR/VR/MR|[[pdf]](http://arxiv.org/abs/2506.05683v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Mathematical Reasoning for Unmanned Aerial Vehicles: A RAG-Based Approach for Complex Arithmetic Reasoning|[[pdf]](http://arxiv.org/abs/2506.04998v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[CzechLynx] CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx|[[pdf]](http://arxiv.org/abs/2506.04931v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation|[[pdf]](http://arxiv.org/abs/2506.04614v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[MORSE-500] MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2506.05523v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-05|[en] Towards provable probabilistic safety for scalable embodied AI systems|[[pdf]](http://arxiv.org/abs/2506.05171v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[SemNav] SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models|[[pdf]](http://arxiv.org/abs/2506.03516v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|[AssetOpsBench] AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance|[[pdf]](http://arxiv.org/abs/2506.03828v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-04|Enhancing Safety of Foundation Models for Visual Navigation through Collision Avoidance via Repulsive Estimation|[[pdf]](http://arxiv.org/abs/2506.03834v1)|⚠️|⭐️⭐️⭐️|
@@ -157,6 +162,6 @@
 
 ## 📊 统计
 
-- 论文总数：136篇
+- 论文总数：141篇
 - 代码实现：5个
 - 最后更新：2025年06月
