@@ -47,6 +47,38 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[BridgeVLA] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.07961v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.07744v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization|[[pdf]](http://arxiv.org/abs/2506.07570v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Audio-Sync Video Generation with Multi-Stream Temporal Control|[[pdf]](http://arxiv.org/abs/2506.08003v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Accelerating Diffusion Models in Offline RL via Reward-Aware Consistency Trajectory Distillation|[[pdf]](http://arxiv.org/abs/2506.07822v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions|[[pdf]](http://arxiv.org/abs/2506.07527v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[ChemAgent] ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning|[[pdf]](http://arxiv.org/abs/2506.07551v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Dynamic View Synthesis as an Inverse Problem|[[pdf]](http://arxiv.org/abs/2506.08004v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[Thinking vs. Doing] Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction|[[pdf]](http://arxiv.org/abs/2506.07976v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Versatile Loco-Manipulation through Flexible Interlimb Coordination|[[pdf]](http://arxiv.org/abs/2506.07876v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[Fast ECoT] Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse|[[pdf]](http://arxiv.org/abs/2506.07639v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[GTR-CoT] GTR-CoT: Graph Traversal as Visual Chain of Thought for Molecular Structure Recognition|[[pdf]](http://arxiv.org/abs/2506.07553v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[en] Decentralizing Multi-Agent Reinforcement Learning with Temporal Causal Information|[[pdf]](http://arxiv.org/abs/2506.07829v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Reinforcement Learning via Implicit Imitation Guidance|[[pdf]](http://arxiv.org/abs/2506.07505v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[FMaMIL] FMaMIL: Frequency-Driven Mamba Multi-Instance Learning for Weakly Supervised Lesion Segmentation in Medical Images|[[pdf]](http://arxiv.org/abs/2506.07652v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|An Intelligent Fault Self-Healing Mechanism for Cloud AI Systems via Integration of Large Language Models and Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.07411v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[RAPID Hand] RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy|[[pdf]](http://arxiv.org/abs/2506.07490v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Deep Equivariant Multi-Agent Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2506.07755v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.07548v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[en] R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation|[[pdf]](http://arxiv.org/abs/2506.07826v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Robotic Policy Learning via Human-assisted Action Preference Optimization|[[pdf]](http://arxiv.org/abs/2506.07127v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments|[[pdf]](http://arxiv.org/abs/2506.06981v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Towards Physics-informed Diffusion for Anomaly Detection in Trajectories|[[pdf]](http://arxiv.org/abs/2506.06999v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|[CARoL] CARoL: Context-aware Adaptation for Robot Learning|[[pdf]](http://arxiv.org/abs/2506.07006v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Model Analysis And Design Of Ellipse Based Segmented Varying Curved Foot For Biped Robot Walking|[[pdf]](http://arxiv.org/abs/2506.07283v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Safety-Aware Reinforcement Learning for Control via Risk-Sensitive Action-Value Iteration and Quantile Regression|[[pdf]](http://arxiv.org/abs/2506.06954v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|Multimodal Spatial Language Maps for Robot Navigation and Manipulation|[[pdf]](http://arxiv.org/abs/2506.06862v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|Is Optimal Transport Necessary for Inverse Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2506.06793v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|Underwater Multi-Robot Simulation and Motion Planning in Angler|[[pdf]](http://arxiv.org/abs/2506.06612v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|[IRS] IRS: Instance-Level 3D Scene Graphs via Room Prior Guided LiDAR-Camera Fusion|[[pdf]](http://arxiv.org/abs/2506.06804v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|[SpikePingpong] SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game|[[pdf]](http://arxiv.org/abs/2506.06690v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|[RoboPARA] RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks|[[pdf]](http://arxiv.org/abs/2506.06683v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|End-to-End Framework for Robot Lawnmower Coverage Path Planning using Cellular Decomposition|[[pdf]](http://arxiv.org/abs/2506.06028v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[Trajectory Entropy] Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2506.05810v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|Learning Design-Score Manifold to Guide Diffusion Models for Offline Optimization|[[pdf]](http://arxiv.org/abs/2506.05680v1)|⚠️|⭐️⭐️⭐️|
@@ -67,6 +99,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-06|Self driving algorithm for an active four wheel drive racecar|[[pdf]](http://arxiv.org/abs/2506.06077v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[BEAST] BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.06072v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[Imitation] Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.05808v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[MapleGrasp] MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping|[[pdf]](http://arxiv.org/abs/2506.06535v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|Enhancing Robot Safety via MLLM-Based Semantic Interpretation of Failure Data|[[pdf]](http://arxiv.org/abs/2506.06570v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[LLM-First Search] LLM-First Search: Self-Guided Exploration of the Solution Space|[[pdf]](http://arxiv.org/abs/2506.05213v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[TIMING] TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation|[[pdf]](http://arxiv.org/abs/2506.05035v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Safe Planning and Policy Optimization via World Model Learning|[[pdf]](http://arxiv.org/abs/2506.04828v1)|⚠️|⭐️⭐️⭐️|
@@ -643,6 +677,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 617
+- Total Papers: 651
 - Code Implementations: 20
 - Last Updated: June 2025

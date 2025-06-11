@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[Multi-robot] Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs|[[pdf]](http://arxiv.org/abs/2506.07454v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|[Prime the search] Prime the search: Using large language models for guiding geometric task and motion planning by warm-starting tree search|[[pdf]](http://arxiv.org/abs/2506.07062v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|[RoboCerebra] RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation|[[pdf]](http://arxiv.org/abs/2506.06677v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[Astra] Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning|[[pdf]](http://arxiv.org/abs/2506.06205v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[SPRINT] SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models|[[pdf]](http://arxiv.org/abs/2506.05745v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[Multi-robot] Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System|[[pdf]](http://arxiv.org/abs/2506.05020v1)|⚠️|⭐️⭐️⭐️|
@@ -128,6 +131,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 104
+- Total Papers: 107
 - Code Implementations: 6
 - Last Updated: June 2025

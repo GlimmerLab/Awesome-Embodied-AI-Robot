@@ -32,10 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots|[[pdf]](http://arxiv.org/abs/2506.07823v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|Integrating Spatiotemporal Features in LSTM for Spatially Informed COVID-19 Hospitalization Forecasting|[[pdf]](http://arxiv.org/abs/2506.05752v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|Trajectory Optimization for UAV-Based Medical Delivery with Temporal Logic Constraints and Convex Feasible Set Collision Avoidance|[[pdf]](http://arxiv.org/abs/2506.06038v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|UAV-UGV Cooperative Trajectory Optimization and Task Allocation for Medical Rescue Tasks in Post-Disaster Environments|[[pdf]](http://arxiv.org/abs/2506.06136v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[From NLVO to NAO] From NLVO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles|[[pdf]](http://arxiv.org/abs/2506.06255v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[en] Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception|[[pdf]](http://arxiv.org/abs/2506.06474v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2506.05341v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Whole-Body Constrained Learning for Legged Locomotion via Hierarchical Optimization|[[pdf]](http://arxiv.org/abs/2506.05115v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Tire Wear Aware Trajectory Tracking Control for Multi-axle Swerve-drive Autonomous Mobile Robots|[[pdf]](http://arxiv.org/abs/2506.04752v1)|⚠️|⭐️⭐️⭐️|
@@ -189,6 +191,6 @@
 
 ## 📊 统计
 
-- 论文总数：164篇
+- 论文总数：166篇
 - 代码实现：8个
 - 最后更新：2025年06月

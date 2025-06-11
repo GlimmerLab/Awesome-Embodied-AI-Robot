@@ -26,7 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[en] Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study|[[pdf]](http://arxiv.org/abs/2506.07539v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations|[[pdf]](http://arxiv.org/abs/2506.07943v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward|[[pdf]](http://arxiv.org/abs/2506.07218v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[en] Robust sensor fusion against on-vehicle sensor staleness|[[pdf]](http://arxiv.org/abs/2506.05780v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-06|[en] Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception|[[pdf]](http://arxiv.org/abs/2506.06476v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[en] LLMs for sensory-motor control: Combining in-context and iterative learning|[[pdf]](http://arxiv.org/abs/2506.04867v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Ontology-based knowledge representation for bone disease diagnosis: a foundation for safe and sustainable medical artificial intelligence systems|[[pdf]](http://arxiv.org/abs/2506.04756v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[MineInsight] MineInsight: A Multi-sensor Dataset for Humanitarian Demining Robotics in Off-Road Environments|[[pdf]](http://arxiv.org/abs/2506.04842v1)|⚠️|⭐️⭐️⭐️|
@@ -122,6 +126,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 98
+- Total Papers: 102
 - Code Implementations: 8
 - Last Updated: June 2025

@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[$τ^2$-Bench] $τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment|[[pdf]](http://arxiv.org/abs/2506.07982v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[en] Real-Time Execution of Action Chunking Flow Policies|[[pdf]](http://arxiv.org/abs/2506.07339v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent|[[pdf]](http://arxiv.org/abs/2506.07509v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Towards Network Data Analytics in 5G Systems and Beyond|[[pdf]](http://arxiv.org/abs/2506.04860v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams|[[pdf]](http://arxiv.org/abs/2506.05265v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data|[[pdf]](http://arxiv.org/abs/2506.04577v1)|⚠️|⭐️⭐️⭐️|
@@ -174,6 +177,6 @@
 
 ## 📊 统计
 
-- 论文总数：149篇
+- 论文总数：152篇
 - 代码实现：21个
 - 最后更新：2025年06月

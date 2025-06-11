@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[en] LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments|[[pdf]](http://arxiv.org/abs/2506.07416v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[en] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation|[[pdf]](http://arxiv.org/abs/2506.07530v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|Active Test-time Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2506.06630v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|[en] Attention-Based Convolutional Neural Network Model for Human Lower Limb Activity Recognition using sEMG|[[pdf]](http://arxiv.org/abs/2506.06624v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[HMVLM] HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios|[[pdf]](http://arxiv.org/abs/2506.05883v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[GEX] GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove|[[pdf]](http://arxiv.org/abs/2506.04982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[en] Multimodal Limbless Crawling Soft Robot with a Kirigami Skin|[[pdf]](http://arxiv.org/abs/2506.04547v1)|⚠️|⭐️⭐️⭐️|
@@ -121,6 +125,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 96
+- Total Papers: 100
 - Code Implementations: 6
 - Last Updated: June 2025

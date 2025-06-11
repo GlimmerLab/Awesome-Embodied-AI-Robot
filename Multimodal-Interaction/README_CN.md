@@ -25,6 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[en] LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments|[[pdf]](http://arxiv.org/abs/2506.07416v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[en] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation|[[pdf]](http://arxiv.org/abs/2506.07530v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|Active Test-time Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2506.06630v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-07|[en] Attention-Based Convolutional Neural Network Model for Human Lower Limb Activity Recognition using sEMG|[[pdf]](http://arxiv.org/abs/2506.06624v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[HMVLM] HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios|[[pdf]](http://arxiv.org/abs/2506.05883v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[GEX] GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove|[[pdf]](http://arxiv.org/abs/2506.04982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-05|[en] Multimodal Limbless Crawling Soft Robot with a Kirigami Skin|[[pdf]](http://arxiv.org/abs/2506.04547v1)|⚠️|⭐️⭐️⭐️|
@@ -121,6 +125,6 @@
 
 ## 📊 统计
 
-- 论文总数：96篇
+- 论文总数：100篇
 - 代码实现：6个
 - 最后更新：2025年06月

@@ -18,6 +18,14 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-09|[en] SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems|[[pdf]](http://arxiv.org/abs/2506.07564v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Reproducibility in the Control of Autonomous Mobility-on-Demand Systems|[[pdf]](http://arxiv.org/abs/2506.07345v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Learn as Individuals, Evolve as a Team: Multi-agent LLMs Adaptation in Embodied Environments|[[pdf]](http://arxiv.org/abs/2506.07232v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|Overclocking LLM Reasoning: Monitoring and Controlling Thinking Path Lengths in LLMs|[[pdf]](http://arxiv.org/abs/2506.07240v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|[Mind the Web] Mind the Web: The Security of Web Use Agents|[[pdf]](http://arxiv.org/abs/2506.07153v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|[en] Less is More: some Computational Principles based on Parcimony, and Limitations of Natural Intelligence|[[pdf]](http://arxiv.org/abs/2506.07060v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|[en] LLM-Enhanced Rapid-Reflex Async-Reflect Embodied Agent for Real-Time Decision-Making in Dynamically Changing Environments|[[pdf]](http://arxiv.org/abs/2506.07223v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-08|[Theorem-of-Thought] Theorem-of-Thought: A Multi-Agent Framework for Abductive, Deductive, and Inductive Reasoning in Language Models|[[pdf]](http://arxiv.org/abs/2506.07106v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[MOGO] MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation|[[pdf]](http://arxiv.org/abs/2506.05952v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM|[[pdf]](http://arxiv.org/abs/2506.05896v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|[en] Multi-Modal Multi-Task Federated Foundation Models for Next-Generation Extended Reality Systems: Towards Privacy-Preserving Distributed Intelligence in AR/VR/MR|[[pdf]](http://arxiv.org/abs/2506.05683v1)|⚠️|⭐️⭐️⭐️|
@@ -162,6 +170,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 141
+- Total Papers: 149
 - Code Implementations: 5
 - Last Updated: June 2025
