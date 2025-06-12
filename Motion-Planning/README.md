@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-10|Your Agent Can Defend Itself against Backdoor Attacks|[[pdf]](http://arxiv.org/abs/2506.08336v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[CLONE] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2506.08931v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots|[[pdf]](http://arxiv.org/abs/2506.07823v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|Integrating Spatiotemporal Features in LSTM for Spatially Informed COVID-19 Hospitalization Forecasting|[[pdf]](http://arxiv.org/abs/2506.05752v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-06|Trajectory Optimization for UAV-Based Medical Delivery with Temporal Logic Constraints and Convex Feasible Set Collision Avoidance|[[pdf]](http://arxiv.org/abs/2506.06038v1)|⚠️|⭐️⭐️⭐️|
@@ -191,6 +193,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 166
+- Total Papers: 168
 - Code Implementations: 8
 - Last Updated: June 2025

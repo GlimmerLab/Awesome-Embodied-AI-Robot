@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-10|Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing|[[pdf]](http://arxiv.org/abs/2506.08462v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel|[[pdf]](http://arxiv.org/abs/2506.08706v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems|[[pdf]](http://arxiv.org/abs/2506.07564v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Reproducibility in the Control of Autonomous Mobility-on-Demand Systems|[[pdf]](http://arxiv.org/abs/2506.07345v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-08|Learn as Individuals, Evolve as a Team: Multi-agent LLMs Adaptation in Embodied Environments|[[pdf]](http://arxiv.org/abs/2506.07232v1)|⚠️|⭐️⭐️⭐️|
@@ -170,6 +172,6 @@
 
 ## 📊 统计
 
-- 论文总数：149篇
+- 论文总数：151篇
 - 代码实现：5个
 - 最后更新：2025年06月

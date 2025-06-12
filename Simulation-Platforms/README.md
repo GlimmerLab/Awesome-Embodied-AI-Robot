@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-10|[HSG-12M] HSG-12M: A Large-Scale Spatial Multigraph Dataset|[[pdf]](http://arxiv.org/abs/2506.08618v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics|[[pdf]](http://arxiv.org/abs/2506.08963v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[$τ^2$-Bench] $τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment|[[pdf]](http://arxiv.org/abs/2506.07982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] Real-Time Execution of Action Chunking Flow Policies|[[pdf]](http://arxiv.org/abs/2506.07339v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent|[[pdf]](http://arxiv.org/abs/2506.07509v1)|⚠️|⭐️⭐️⭐️|
@@ -177,6 +179,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 152
+- Total Papers: 154
 - Code Implementations: 21
 - Last Updated: June 2025

@@ -47,6 +47,27 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-10|[VIKI-R] VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.09049v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[Re4MPC] Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.08344v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[FreqPolicy] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency|[[pdf]](http://arxiv.org/abs/2506.08822v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Safe and Economical UAV Trajectory Planning in Low-Altitude Airspace: A Hybrid DRL-LLM Approach with Compliance Awareness|[[pdf]](http://arxiv.org/abs/2506.08532v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[RHealthTwin] RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being|[[pdf]](http://arxiv.org/abs/2506.08486v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[MOSAIC-F] MOSAIC-F: A Framework for Enhancing Students' Oral Presentation Skills through Personalized Feedback|[[pdf]](http://arxiv.org/abs/2506.08634v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[TrajFlow] TrajFlow: Multi-modal Motion Prediction via Flow Matching|[[pdf]](http://arxiv.org/abs/2506.08541v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning|[[pdf]](http://arxiv.org/abs/2506.08745v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[Socratic-MCTS] Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions|[[pdf]](http://arxiv.org/abs/2506.08927v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Periodic Bipedal Gait Learning Using Reward Composition Based on a Novel Gait Planner for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.08416v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization|[[pdf]](http://arxiv.org/abs/2506.08851v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Deep Reinforcement Learning-Based Motion Planning and PDE Control for Flexible Manipulators|[[pdf]](http://arxiv.org/abs/2506.08639v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[TGRPO] TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization|[[pdf]](http://arxiv.org/abs/2506.08440v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[PhyBlock] PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly|[[pdf]](http://arxiv.org/abs/2506.08708v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Attention-based Learning for 3D Informative Path Planning|[[pdf]](http://arxiv.org/abs/2506.08434v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[en] Modular Recurrence in Contextual MDPs for Universal Morphology Control|[[pdf]](http://arxiv.org/abs/2506.08630v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[en] Bayesian Inverse Physics for Neuro-Symbolic Robot Learning|[[pdf]](http://arxiv.org/abs/2506.08756v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|Do Generative AI Tools Ensure Green Code? An Investigative Study|[[pdf]](http://arxiv.org/abs/2506.08790v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[Biped] MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains|[[pdf]](http://arxiv.org/abs/2506.08840v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[Multi-Agent] Communicating Through Avatars in Industry 5.0: A Focus Group Study on Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2506.08805v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[MOBODY] MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.08460v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[BridgeVLA] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.07961v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.07744v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization|[[pdf]](http://arxiv.org/abs/2506.07570v1)|⚠️|⭐️⭐️⭐️|
@@ -67,6 +88,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-09|Deep Equivariant Multi-Agent Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2506.07755v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.07548v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation|[[pdf]](http://arxiv.org/abs/2506.07826v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Scaling Laws of Motion Forecasting and Planning -- A Technical Report|[[pdf]](http://arxiv.org/abs/2506.08228v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Ego-centric Learning of Communicative World Models for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.08149v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|[TensorTouch] TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2506.08291v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-09|Multilingual Hate Speech Detection in Social Media Using Translation-Based Approaches with Large Language Models|[[pdf]](http://arxiv.org/abs/2506.08147v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-08|Robotic Policy Learning via Human-assisted Action Preference Optimization|[[pdf]](http://arxiv.org/abs/2506.07127v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-08|Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments|[[pdf]](http://arxiv.org/abs/2506.06981v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-08|Towards Physics-informed Diffusion for Anomaly Detection in Trajectories|[[pdf]](http://arxiv.org/abs/2506.06999v1)|⚠️|⭐️⭐️⭐️|
@@ -677,6 +702,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 651
+- Total Papers: 676
 - Code Implementations: 20
 - Last Updated: June 2025
