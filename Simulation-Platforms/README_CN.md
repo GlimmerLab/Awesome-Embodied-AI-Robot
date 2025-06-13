@@ -39,6 +39,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-11|[CheckManual] CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation|[[pdf]](http://arxiv.org/abs/2506.09343v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[HSG-12M] HSG-12M: A Large-Scale Spatial Multigraph Dataset|[[pdf]](http://arxiv.org/abs/2506.08618v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics|[[pdf]](http://arxiv.org/abs/2506.08963v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[$τ^2$-Bench] $τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment|[[pdf]](http://arxiv.org/abs/2506.07982v1)|⚠️|⭐️⭐️⭐️|
@@ -179,6 +180,6 @@
 
 ## 📊 统计
 
-- 论文总数：154篇
+- 论文总数：155篇
 - 代码实现：21个
 - 最后更新：2025年06月

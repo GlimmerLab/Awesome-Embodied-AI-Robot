@@ -47,6 +47,24 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-11|[V-JEPA 2] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning|[[pdf]](http://arxiv.org/abs/2506.09985v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[DGS-LRM] DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos|[[pdf]](http://arxiv.org/abs/2506.09997v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Attention-Based Map Encoding for Learning Generalized Legged Locomotion|[[pdf]](http://arxiv.org/abs/2506.09588v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[SkillBlender] SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending|[[pdf]](http://arxiv.org/abs/2506.09366v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints|[[pdf]](http://arxiv.org/abs/2506.09859v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.09930v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models|[[pdf]](http://arxiv.org/abs/2506.09623v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[Scoop-and-Toss] Scoop-and-Toss: Dynamic Object Collection for Quadrupedal Systems|[[pdf]](http://arxiv.org/abs/2506.09406v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2506.09384v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[eFlesh] eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures|[[pdf]](http://arxiv.org/abs/2506.09994v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[en] When Is Diversity Rewarded in Cooperative Multi-Agent Learning?|[[pdf]](http://arxiv.org/abs/2506.09434v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[en] SAFE: Multitask Failure Detection for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.09937v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[en] Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation|[[pdf]](http://arxiv.org/abs/2506.09331v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|"I Said Things I Needed to Hear Myself": Peer Support as an Emotional, Organisational, and Sociotechnical Practice in Singapore|[[pdf]](http://arxiv.org/abs/2506.09362v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[en] LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization|[[pdf]](http://arxiv.org/abs/2506.09373v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[R-CARLA] R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing|[[pdf]](http://arxiv.org/abs/2506.09629v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[Imitation] Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.09422v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[Multi-Agent] Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments|[[pdf]](http://arxiv.org/abs/2506.09552v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[VIKI-R] VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.09049v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Re4MPC] Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.08344v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[FreqPolicy] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency|[[pdf]](http://arxiv.org/abs/2506.08822v1)|⚠️|⭐️⭐️⭐️|
@@ -68,6 +86,8 @@
 |2025-06-10|[Biped] MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains|[[pdf]](http://arxiv.org/abs/2506.08840v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Multi-Agent] Communicating Through Avatars in Industry 5.0: A Focus Group Study on Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2506.08805v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[MOBODY] MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.08460v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[UAD] UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.09284v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-10|[en] Robot-Gated Interactive Imitation Learning with Adaptive Intervention Mechanism|[[pdf]](http://arxiv.org/abs/2506.09176v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[BridgeVLA] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.07961v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.07744v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization|[[pdf]](http://arxiv.org/abs/2506.07570v1)|⚠️|⭐️⭐️⭐️|
@@ -702,6 +722,6 @@
 
 ## 📊 统计
 
-- 论文总数：676篇
+- 论文总数：696篇
 - 代码实现：20个
 - 最后更新：2025年06月

@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-11|A Unified Theory of Compositionality, Modularity, and Interpretability in Markov Decision Processes|[[pdf]](http://arxiv.org/abs/2506.09499v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[Multi-robot] Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs|[[pdf]](http://arxiv.org/abs/2506.07454v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[HiBerNAC] HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation|[[pdf]](http://arxiv.org/abs/2506.08296v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-08|[Prime the search] Prime the search: Using large language models for guiding geometric task and motion planning by warm-starting tree search|[[pdf]](http://arxiv.org/abs/2506.07062v1)|⚠️|⭐️⭐️⭐️|
@@ -132,6 +133,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 108
+- Total Papers: 109
 - Code Implementations: 6
 - Last Updated: June 2025

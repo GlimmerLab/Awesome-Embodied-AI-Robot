@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-11|[DCIRNet] DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects|[[pdf]](http://arxiv.org/abs/2506.09491v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[en] VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots|[[pdf]](http://arxiv.org/abs/2506.09583v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study|[[pdf]](http://arxiv.org/abs/2506.07539v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations|[[pdf]](http://arxiv.org/abs/2506.07943v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-08|Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward|[[pdf]](http://arxiv.org/abs/2506.07218v1)|⚠️|⭐️⭐️⭐️|
@@ -126,6 +128,6 @@
 
 ## 📊 统计
 
-- 论文总数：102篇
+- 论文总数：104篇
 - 代码实现：8个
 - 最后更新：2025年06月

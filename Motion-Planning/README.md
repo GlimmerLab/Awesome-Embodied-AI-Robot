@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-11|How attention simplifies mental representations for planning|[[pdf]](http://arxiv.org/abs/2506.09520v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information|[[pdf]](http://arxiv.org/abs/2506.09548v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[TRIDENT] TRIDENT: Temporally Restricted Inference via DFA-Enhanced Neural Traversal|[[pdf]](http://arxiv.org/abs/2506.09701v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations|[[pdf]](http://arxiv.org/abs/2506.09383v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[Biped] Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.09979v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Adaptive event-triggered robust tracking control of soft robots|[[pdf]](http://arxiv.org/abs/2506.09523v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|Your Agent Can Defend Itself against Backdoor Attacks|[[pdf]](http://arxiv.org/abs/2506.08336v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[CLONE] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2506.08931v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots|[[pdf]](http://arxiv.org/abs/2506.07823v1)|⚠️|⭐️⭐️⭐️|
@@ -193,6 +199,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 168
+- Total Papers: 174
 - Code Implementations: 8
 - Last Updated: June 2025

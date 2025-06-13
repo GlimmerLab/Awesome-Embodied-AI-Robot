@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-11|Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities|[[pdf]](http://arxiv.org/abs/2506.09581v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Help or Hindrance] Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams|[[pdf]](http://arxiv.org/abs/2506.08892v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[en] Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.08795v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments|[[pdf]](http://arxiv.org/abs/2506.07416v1)|⚠️|⭐️⭐️⭐️|
@@ -128,6 +129,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 103
+- Total Papers: 104
 - Code Implementations: 6
 - Last Updated: June 2025
