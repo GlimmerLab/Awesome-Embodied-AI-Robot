@@ -47,6 +47,18 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-12|Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding|[[pdf]](http://arxiv.org/abs/2506.10756v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Optimus-3] Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts|[[pdf]](http://arxiv.org/abs/2506.10357v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|GenPlanX. Generation of Plans and Execution|[[pdf]](http://arxiv.org/abs/2506.10897v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Eye, Robot] Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop|[[pdf]](http://arxiv.org/abs/2506.10968v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[GENMANIP] GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation|[[pdf]](http://arxiv.org/abs/2506.10966v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[EmbodiedGen] EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence|[[pdf]](http://arxiv.org/abs/2506.10600v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[en] Continual Hyperbolic Learning of Instances and Classes|[[pdf]](http://arxiv.org/abs/2506.10710v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Primender Sequence] Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning|[[pdf]](http://arxiv.org/abs/2506.10585v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Deep Learning-Based Digitization of Overlapping ECG Images with Open-Source Python Code|[[pdf]](http://arxiv.org/abs/2506.10617v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[RationalVLA] RationalVLA: A Rational Vision-Language-Action Model with Dual System|[[pdf]](http://arxiv.org/abs/2506.10826v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|In-Hand Object Pose Estimation via Visual-Tactile Fusion|[[pdf]](http://arxiv.org/abs/2506.10787v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Multi-Agent] Are We Generalizing from the Exception? An In-the-Wild Study on Group-Sensitive Conversation Design in Human-Agent Interactions|[[pdf]](http://arxiv.org/abs/2506.10462v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[V-JEPA 2] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning|[[pdf]](http://arxiv.org/abs/2506.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DGS-LRM] DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos|[[pdf]](http://arxiv.org/abs/2506.09997v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Attention-Based Map Encoding for Learning Generalized Legged Locomotion|[[pdf]](http://arxiv.org/abs/2506.09588v1)|⚠️|⭐️⭐️⭐️|
@@ -65,6 +77,13 @@
 |2025-06-11|[R-CARLA] R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing|[[pdf]](http://arxiv.org/abs/2506.09629v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[Imitation] Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.09422v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[Multi-Agent] Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments|[[pdf]](http://arxiv.org/abs/2506.09552v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[One For All] One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture|[[pdf]](http://arxiv.org/abs/2506.10106v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Leveraging LLMs for Mission Planning in Precision Agriculture|[[pdf]](http://arxiv.org/abs/2506.10093v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[Aucamp] Aucamp: An Underwater Camera-Based Multi-Robot Platform with Low-Cost, Distributed, and Robust Localization|[[pdf]](http://arxiv.org/abs/2506.09876v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|From Theory to Practice: Advancing Multi-Robot Path Planning Algorithms and Applications|[[pdf]](http://arxiv.org/abs/2506.09914v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[Chain-of-Action] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.09990v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.09800v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling|[[pdf]](http://arxiv.org/abs/2506.09697v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[VIKI-R] VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.09049v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Re4MPC] Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.08344v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[FreqPolicy] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency|[[pdf]](http://arxiv.org/abs/2506.08822v1)|⚠️|⭐️⭐️⭐️|
@@ -722,6 +741,6 @@
 
 ## 📊 统计
 
-- 论文总数：696篇
+- 论文总数：715篇
 - 代码实现：20个
 - 最后更新：2025年06月

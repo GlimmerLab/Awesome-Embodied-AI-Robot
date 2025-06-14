@@ -18,9 +18,14 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-12|Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2506.10508v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[LogiPlan] LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs|[[pdf]](http://arxiv.org/abs/2506.10527v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[SlotPi] SlotPi: Physics-informed Object-centric Reasoning Models|[[pdf]](http://arxiv.org/abs/2506.10778v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[RICE] RICE: Reactive Interaction Controller for Cluttered Canopy Environment|[[pdf]](http://arxiv.org/abs/2506.10383v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing|[[pdf]](http://arxiv.org/abs/2506.09965v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[OctoNav] OctoNav: Towards Generalist Embodied Navigation|[[pdf]](http://arxiv.org/abs/2506.09839v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[CausalVQA] CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models|[[pdf]](http://arxiv.org/abs/2506.09943v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era|[[pdf]](http://arxiv.org/abs/2506.09755v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing|[[pdf]](http://arxiv.org/abs/2506.08462v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel|[[pdf]](http://arxiv.org/abs/2506.08706v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems|[[pdf]](http://arxiv.org/abs/2506.07564v2)|⚠️|⭐️⭐️⭐️|
@@ -175,6 +180,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 154
+- Total Papers: 159
 - Code Implementations: 5
 - Last Updated: June 2025

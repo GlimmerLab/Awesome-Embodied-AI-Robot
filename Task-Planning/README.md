@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-12|[Mirage-1] Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills|[[pdf]](http://arxiv.org/abs/2506.10387v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|A Unified Theory of Compositionality, Modularity, and Interpretability in Markov Decision Processes|[[pdf]](http://arxiv.org/abs/2506.09499v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[Multi-robot] Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs|[[pdf]](http://arxiv.org/abs/2506.07454v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[HiBerNAC] HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation|[[pdf]](http://arxiv.org/abs/2506.08296v2)|⚠️|⭐️⭐️⭐️|
@@ -133,6 +135,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 109
+- Total Papers: 111
 - Code Implementations: 6
 - Last Updated: June 2025

@@ -25,7 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-12|[RT-VC] RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding|[[pdf]](http://arxiv.org/abs/2506.10289v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions|[[pdf]](http://arxiv.org/abs/2506.10334v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities|[[pdf]](http://arxiv.org/abs/2506.09581v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|A Navigation Framework Utilizing Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.10172v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Help or Hindrance] Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams|[[pdf]](http://arxiv.org/abs/2506.08892v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[en] Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.08795v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments|[[pdf]](http://arxiv.org/abs/2506.07416v1)|⚠️|⭐️⭐️⭐️|
@@ -129,6 +132,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 104
+- Total Papers: 107
 - Code Implementations: 6
 - Last Updated: June 2025
