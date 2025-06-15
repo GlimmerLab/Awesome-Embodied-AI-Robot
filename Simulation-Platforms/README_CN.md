@@ -43,8 +43,11 @@
 |2025-06-12|A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models|[[pdf]](http://arxiv.org/abs/2506.10853v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Think before You Simulate: Symbolic Reasoning to Orchestrate Neural Computation for Counterfactual Question Answering|[[pdf]](http://arxiv.org/abs/2506.10753v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|A Novel Feedforward Youla Parameterization Method for Avoiding Local Minima in Stereo Image Based Visual Servoing Control|[[pdf]](http://arxiv.org/abs/2506.10252v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[SDialog] SDialog: A Python Toolkit for Synthetic Dialogue Generation and Analysis|[[pdf]](http://arxiv.org/abs/2506.10622v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[CheckManual] CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation|[[pdf]](http://arxiv.org/abs/2506.09343v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Innovative Adaptive Imaged Based Visual Servoing Control of 6 DoFs Industrial Robot Manipulators|[[pdf]](http://arxiv.org/abs/2506.10240v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Provable Sim-to-Real Transfer via Offline Domain Randomization|[[pdf]](http://arxiv.org/abs/2506.10133v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[ReSim] ReSim: Reliable World Simulation for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.09981v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[HSG-12M] HSG-12M: A Large-Scale Spatial Multigraph Dataset|[[pdf]](http://arxiv.org/abs/2506.08618v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics|[[pdf]](http://arxiv.org/abs/2506.08963v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[$τ^2$-Bench] $τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment|[[pdf]](http://arxiv.org/abs/2506.07982v1)|⚠️|⭐️⭐️⭐️|
@@ -185,6 +188,6 @@
 
 ## 📊 统计
 
-- 论文总数：160篇
+- 论文总数：163篇
 - 代码实现：21个
 - 最后更新：2025年06月

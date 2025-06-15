@@ -59,6 +59,12 @@
 |2025-06-12|[RationalVLA] RationalVLA: A Rational Vision-Language-Action Model with Dual System|[[pdf]](http://arxiv.org/abs/2506.10826v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|In-Hand Object Pose Estimation via Visual-Tactile Fusion|[[pdf]](http://arxiv.org/abs/2506.10787v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Multi-Agent] Are We Generalizing from the Exception? An In-the-Wild Study on Group-Sensitive Conversation Design in Human-Agent Interactions|[[pdf]](http://arxiv.org/abs/2506.10462v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Data Driven Diagnosis for Large Cyber-Physical-Systems with Minimal Prior Information|[[pdf]](http://arxiv.org/abs/2506.10613v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Multi-Timescale Dynamics Model Bayesian Optimization for Plasma Stabilization in Tokamaks|[[pdf]](http://arxiv.org/abs/2506.10287v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Vib2Move] Vib2Move: In-Hand Object Reconfiguration via Fingertip Micro-Vibrations|[[pdf]](http://arxiv.org/abs/2506.10923v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success|[[pdf]](http://arxiv.org/abs/2506.10359v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Modeling Trust Dynamics in Robot-Assisted Delivery: Impact of Trust Repair Strategies|[[pdf]](http://arxiv.org/abs/2506.10884v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[V-JEPA 2] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning|[[pdf]](http://arxiv.org/abs/2506.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DGS-LRM] DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos|[[pdf]](http://arxiv.org/abs/2506.09997v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Attention-Based Map Encoding for Learning Generalized Legged Locomotion|[[pdf]](http://arxiv.org/abs/2506.09588v1)|⚠️|⭐️⭐️⭐️|
@@ -84,6 +90,8 @@
 |2025-06-11|[Chain-of-Action] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.09990v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.09800v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Human-robot collaborative transport personalization via Dynamic Movement Primitives and velocity scaling|[[pdf]](http://arxiv.org/abs/2506.09697v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Efficient Preference-Based Reinforcement Learning: Randomized Exploration Meets Experimental Design|[[pdf]](http://arxiv.org/abs/2506.09508v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Learning to Optimize Package Picking for Large-Scale, Real-World Robot Induction|[[pdf]](http://arxiv.org/abs/2506.09765v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[VIKI-R] VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.09049v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Re4MPC] Re4MPC: Reactive Nonlinear MPC for Multi-model Motion Planning via Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.08344v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[FreqPolicy] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency|[[pdf]](http://arxiv.org/abs/2506.08822v1)|⚠️|⭐️⭐️⭐️|
@@ -741,6 +749,6 @@
 
 ## 📊 统计
 
-- 论文总数：715篇
+- 论文总数：723篇
 - 代码实现：20个
 - 最后更新：2025年06月

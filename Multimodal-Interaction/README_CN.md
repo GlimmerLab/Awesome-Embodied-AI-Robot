@@ -29,6 +29,9 @@
 |2025-06-12|Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions|[[pdf]](http://arxiv.org/abs/2506.10334v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities|[[pdf]](http://arxiv.org/abs/2506.09581v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|A Navigation Framework Utilizing Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.10172v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Test-Time Adaptation for Generalizable Task Progress Estimation|[[pdf]](http://arxiv.org/abs/2506.10085v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|A Unified Framework for Probabilistic Dynamic-, Trajectory- and Vision-based Virtual Fixtures|[[pdf]](http://arxiv.org/abs/2506.10239v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Cybernetic Marionette: Channeling Collective Agency Through a Wearable Robot in a Live Dancer-Robot Duet|[[pdf]](http://arxiv.org/abs/2506.10079v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[Help or Hindrance] Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams|[[pdf]](http://arxiv.org/abs/2506.08892v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|[en] Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.08795v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments|[[pdf]](http://arxiv.org/abs/2506.07416v1)|⚠️|⭐️⭐️⭐️|
@@ -132,6 +135,6 @@
 
 ## 📊 统计
 
-- 论文总数：107篇
+- 论文总数：110篇
 - 代码实现：6个
 - 最后更新：2025年06月
