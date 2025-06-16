@@ -34,6 +34,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-12|Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence|[[pdf]](http://arxiv.org/abs/2506.10925v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[DreamActor-H1] DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2506.10568v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Learning Safe Control via On-the-Fly Bandit Exploration|[[pdf]](http://arxiv.org/abs/2506.10279v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|How attention simplifies mental representations for planning|[[pdf]](http://arxiv.org/abs/2506.09520v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information|[[pdf]](http://arxiv.org/abs/2506.09548v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[TRIDENT] TRIDENT: Temporally Restricted Inference via DFA-Enhanced Neural Traversal|[[pdf]](http://arxiv.org/abs/2506.09701v1)|⚠️|⭐️⭐️⭐️|
@@ -201,6 +202,6 @@
 
 ## 📊 统计
 
-- 论文总数：176篇
+- 论文总数：177篇
 - 代码实现：8个
 - 最后更新：2025年06月

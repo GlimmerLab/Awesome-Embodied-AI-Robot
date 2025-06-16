@@ -65,6 +65,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-12|[Vib2Move] Vib2Move: In-Hand Object Reconfiguration via Fingertip Micro-Vibrations|[[pdf]](http://arxiv.org/abs/2506.10923v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success|[[pdf]](http://arxiv.org/abs/2506.10359v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Modeling Trust Dynamics in Robot-Assisted Delivery: Impact of Trust Repair Strategies|[[pdf]](http://arxiv.org/abs/2506.10884v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[CogStream] CogStream: Context-guided Streaming Video Question Answering|[[pdf]](http://arxiv.org/abs/2506.10516v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Invariant Extended Kalman Filter for Autonomous Surface Vessels with Partial Orientation Measurements|[[pdf]](http://arxiv.org/abs/2506.10850v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Towards more efficient quantitative safety validation of residual risk for assisted and automated driving|[[pdf]](http://arxiv.org/abs/2506.10363v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Using Language and Road Manuals to Inform Map Reconstruction for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.10317v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[V-JEPA 2] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning|[[pdf]](http://arxiv.org/abs/2506.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DGS-LRM] DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos|[[pdf]](http://arxiv.org/abs/2506.09997v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Attention-Based Map Encoding for Learning Generalized Legged Locomotion|[[pdf]](http://arxiv.org/abs/2506.09588v1)|⚠️|⭐️⭐️⭐️|
@@ -749,6 +753,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 723
+- Total Papers: 727
 - Code Implementations: 20
 - Last Updated: June 2025

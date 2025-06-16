@@ -22,11 +22,14 @@
 |2025-06-12|[LogiPlan] LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs|[[pdf]](http://arxiv.org/abs/2506.10527v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[SlotPi] SlotPi: Physics-informed Object-centric Reasoning Models|[[pdf]](http://arxiv.org/abs/2506.10778v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[RICE] RICE: Reactive Interaction Controller for Cluttered Canopy Environment|[[pdf]](http://arxiv.org/abs/2506.10383v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[en] An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing|[[pdf]](http://arxiv.org/abs/2506.09965v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[OctoNav] OctoNav: Towards Generalist Embodied Navigation|[[pdf]](http://arxiv.org/abs/2506.09839v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[CausalVQA] CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models|[[pdf]](http://arxiv.org/abs/2506.09943v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era|[[pdf]](http://arxiv.org/abs/2506.09755v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Know What You Don't Know: Uncertainty Calibration of Process Reward Models|[[pdf]](http://arxiv.org/abs/2506.09338v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints|[[pdf]](http://arxiv.org/abs/2506.09748v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-11|[HopaDIFF] HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios|[[pdf]](http://arxiv.org/abs/2506.09650v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing|[[pdf]](http://arxiv.org/abs/2506.08462v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-10|ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel|[[pdf]](http://arxiv.org/abs/2506.08706v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[en] SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems|[[pdf]](http://arxiv.org/abs/2506.07564v2)|⚠️|⭐️⭐️⭐️|
@@ -181,6 +184,6 @@
 
 ## 📊 统计
 
-- 论文总数：160篇
+- 论文总数：163篇
 - 代码实现：5个
 - 最后更新：2025年06月
