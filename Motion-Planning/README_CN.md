@@ -32,6 +32,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|Real-Time Feedback and Benchmark Dataset for Isometric Pose Evaluation|[[pdf]](http://arxiv.org/abs/2506.11774v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence|[[pdf]](http://arxiv.org/abs/2506.10925v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[DreamActor-H1] DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2506.10568v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Learning Safe Control via On-the-Fly Bandit Exploration|[[pdf]](http://arxiv.org/abs/2506.10279v1)|⚠️|⭐️⭐️⭐️|
@@ -202,6 +203,6 @@
 
 ## 📊 统计
 
-- 论文总数：177篇
+- 论文总数：178篇
 - 代码实现：8个
 - 最后更新：2025年06月

@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|[en] Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control|[[pdf]](http://arxiv.org/abs/2506.11650v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|Robotic System for Chemical Experiment Automation with Dual Demonstration of End-effector and Jig Operations|[[pdf]](http://arxiv.org/abs/2506.11384v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[RT-VC] RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding|[[pdf]](http://arxiv.org/abs/2506.10289v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions|[[pdf]](http://arxiv.org/abs/2506.10334v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities|[[pdf]](http://arxiv.org/abs/2506.09581v1)|⚠️|⭐️⭐️⭐️|
@@ -135,6 +137,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 110
+- Total Papers: 112
 - Code Implementations: 6
 - Last Updated: June 2025

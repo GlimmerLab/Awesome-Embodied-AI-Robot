@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|Auditory-Tactile Congruence for Synthesis of Adaptive Pain Expressions in RoboPatients|[[pdf]](http://arxiv.org/abs/2506.11827v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DCIRNet] DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects|[[pdf]](http://arxiv.org/abs/2506.09491v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[en] VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots|[[pdf]](http://arxiv.org/abs/2506.09583v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers|[[pdf]](http://arxiv.org/abs/2506.09934v1)|⚠️|⭐️⭐️⭐️|
@@ -129,6 +130,6 @@
 
 ## 📊 统计
 
-- 论文总数：105篇
+- 论文总数：106篇
 - 代码实现：8个
 - 最后更新：2025年06月

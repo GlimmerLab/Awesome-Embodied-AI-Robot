@@ -32,6 +32,7 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|Real-Time Feedback and Benchmark Dataset for Isometric Pose Evaluation|[[pdf]](http://arxiv.org/abs/2506.11774v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence|[[pdf]](http://arxiv.org/abs/2506.10925v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[DreamActor-H1] DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2506.10568v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Learning Safe Control via On-the-Fly Bandit Exploration|[[pdf]](http://arxiv.org/abs/2506.10279v1)|⚠️|⭐️⭐️⭐️|
@@ -202,6 +203,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 177
+- Total Papers: 178
 - Code Implementations: 8
 - Last Updated: June 2025

@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|[en] Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control|[[pdf]](http://arxiv.org/abs/2506.11650v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|Robotic System for Chemical Experiment Automation with Dual Demonstration of End-effector and Jig Operations|[[pdf]](http://arxiv.org/abs/2506.11384v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[RT-VC] RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding|[[pdf]](http://arxiv.org/abs/2506.10289v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions|[[pdf]](http://arxiv.org/abs/2506.10334v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities|[[pdf]](http://arxiv.org/abs/2506.09581v1)|⚠️|⭐️⭐️⭐️|
@@ -135,6 +137,6 @@
 
 ## 📊 统计
 
-- 论文总数：110篇
+- 论文总数：112篇
 - 代码实现：6个
 - 最后更新：2025年06月

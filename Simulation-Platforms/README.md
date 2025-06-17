@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|[Enter] Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training|[[pdf]](http://arxiv.org/abs/2506.11890v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table|[[pdf]](http://arxiv.org/abs/2506.11908v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Trajectory] Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material|[[pdf]](http://arxiv.org/abs/2506.10875v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models|[[pdf]](http://arxiv.org/abs/2506.10853v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Think before You Simulate: Symbolic Reasoning to Orchestrate Neural Computation for Counterfactual Question Answering|[[pdf]](http://arxiv.org/abs/2506.10753v1)|⚠️|⭐️⭐️⭐️|
@@ -188,6 +190,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 163
+- Total Papers: 165
 - Code Implementations: 21
 - Last Updated: June 2025

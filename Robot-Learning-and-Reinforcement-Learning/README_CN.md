@@ -47,6 +47,19 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|[Dynamic] SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies|[[pdf]](http://arxiv.org/abs/2506.11948v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[mimic-one] mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity|[[pdf]](http://arxiv.org/abs/2506.11916v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[ExoStart] ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations|[[pdf]](http://arxiv.org/abs/2506.11775v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[Multi-Loco] Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via Reinforcement Learning Augmented Diffusion|[[pdf]](http://arxiv.org/abs/2506.11470v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|Dynamic Collaborative Material Distribution System for Intelligent Robots In Smart Manufacturing|[[pdf]](http://arxiv.org/abs/2506.11723v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[en] Resolve Highway Conflict in Multi-Autonomous Vehicle Controls with Local State Attention|[[pdf]](http://arxiv.org/abs/2506.11445v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[en] OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots|[[pdf]](http://arxiv.org/abs/2506.11585v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[MTabVQA] MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space|[[pdf]](http://arxiv.org/abs/2506.11684v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|Palpation Alters Auditory Pain Expressions with Gender-Specific Variations in Robopatients|[[pdf]](http://arxiv.org/abs/2506.11906v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[CIRO7.2] CIRO7.2: A Material Network with Circularity of -7.2 and Reinforcement-Learning-Controlled Robotic Disassembler|[[pdf]](http://arxiv.org/abs/2506.11748v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|A Step-by-Step Guide to Creating a Robust Autonomous Drone Testing Pipeline|[[pdf]](http://arxiv.org/abs/2506.11400v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions|[[pdf]](http://arxiv.org/abs/2506.11829v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|Linearly Solving Robust Rotation Estimation|[[pdf]](http://arxiv.org/abs/2506.11547v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding|[[pdf]](http://arxiv.org/abs/2506.10756v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Optimus-3] Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts|[[pdf]](http://arxiv.org/abs/2506.10357v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|GenPlanX. Generation of Plans and Execution|[[pdf]](http://arxiv.org/abs/2506.10897v1)|⚠️|⭐️⭐️⭐️|
@@ -69,6 +82,9 @@
 |2025-06-12|Invariant Extended Kalman Filter for Autonomous Surface Vessels with Partial Orientation Measurements|[[pdf]](http://arxiv.org/abs/2506.10850v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Towards more efficient quantitative safety validation of residual risk for assisted and automated driving|[[pdf]](http://arxiv.org/abs/2506.10363v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Using Language and Road Manuals to Inform Map Reconstruction for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.10317v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Can Time-Series Foundation Models Perform Building Energy Management Tasks?|[[pdf]](http://arxiv.org/abs/2506.11250v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|Demonstration Sidetracks: Categorizing Systematic Non-Optimality in Human Demonstrations|[[pdf]](http://arxiv.org/abs/2506.11262v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Poutine] Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.11234v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[V-JEPA 2] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning|[[pdf]](http://arxiv.org/abs/2506.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DGS-LRM] DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos|[[pdf]](http://arxiv.org/abs/2506.09997v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Attention-Based Map Encoding for Learning Generalized Legged Locomotion|[[pdf]](http://arxiv.org/abs/2506.09588v1)|⚠️|⭐️⭐️⭐️|
@@ -753,6 +769,6 @@
 
 ## 📊 统计
 
-- 论文总数：727篇
+- 论文总数：743篇
 - 代码实现：20个
 - 最后更新：2025年06月

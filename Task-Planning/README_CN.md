@@ -24,6 +24,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-12|[Mirage-1] Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills|[[pdf]](http://arxiv.org/abs/2506.10387v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[Gondola] Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.11261v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|A Unified Theory of Compositionality, Modularity, and Interpretability in Markov Decision Processes|[[pdf]](http://arxiv.org/abs/2506.09499v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[Multi-robot] Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs|[[pdf]](http://arxiv.org/abs/2506.07454v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-09|[HiBerNAC] HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation|[[pdf]](http://arxiv.org/abs/2506.08296v2)|⚠️|⭐️⭐️⭐️|
@@ -135,6 +136,6 @@
 
 ## 📊 统计
 
-- 论文总数：111篇
+- 论文总数：112篇
 - 代码实现：6个
 - 最后更新：2025年06月

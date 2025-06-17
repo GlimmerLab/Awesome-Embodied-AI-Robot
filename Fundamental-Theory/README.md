@@ -18,11 +18,13 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-13|Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis|[[pdf]](http://arxiv.org/abs/2506.11526v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2506.10508v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[LogiPlan] LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs|[[pdf]](http://arxiv.org/abs/2506.10527v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[SlotPi] SlotPi: Physics-informed Object-centric Reasoning Models|[[pdf]](http://arxiv.org/abs/2506.10778v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[RICE] RICE: Reactive Interaction Controller for Cluttered Canopy Environment|[[pdf]](http://arxiv.org/abs/2506.10383v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[en] An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[en] TARDIS STRIDE: A Spatio-Temporal Road Image Dataset for Exploration and Autonomy|[[pdf]](http://arxiv.org/abs/2506.11302v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing|[[pdf]](http://arxiv.org/abs/2506.09965v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[OctoNav] OctoNav: Towards Generalist Embodied Navigation|[[pdf]](http://arxiv.org/abs/2506.09839v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[CausalVQA] CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models|[[pdf]](http://arxiv.org/abs/2506.09943v1)|⚠️|⭐️⭐️⭐️|
@@ -184,6 +186,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 163
+- Total Papers: 165
 - Code Implementations: 5
 - Last Updated: June 2025
