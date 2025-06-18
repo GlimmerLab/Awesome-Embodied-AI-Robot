@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-16|[en] Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2506.13367v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[en] Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots|[[pdf]](http://arxiv.org/abs/2506.13149v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method|[[pdf]](http://arxiv.org/abs/2506.13100v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Auditory-Tactile Congruence for Synthesis of Adaptive Pain Expressions in RoboPatients|[[pdf]](http://arxiv.org/abs/2506.11827v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DCIRNet] DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects|[[pdf]](http://arxiv.org/abs/2506.09491v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[en] VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots|[[pdf]](http://arxiv.org/abs/2506.09583v1)|⚠️|⭐️⭐️⭐️|
@@ -130,6 +133,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 106
+- Total Papers: 109
 - Code Implementations: 8
 - Last Updated: June 2025

@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-16|Multimodal "Puppeteer": An Exploration of Robot Teleoperation Via Virtual Counterpart with LLM-Driven Voice and Gesture Interaction in Augmented Reality|[[pdf]](http://arxiv.org/abs/2506.13189v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|[en] Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control|[[pdf]](http://arxiv.org/abs/2506.11650v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Robotic System for Chemical Experiment Automation with Dual Demonstration of End-effector and Jig Operations|[[pdf]](http://arxiv.org/abs/2506.11384v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[RT-VC] RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding|[[pdf]](http://arxiv.org/abs/2506.10289v1)|⚠️|⭐️⭐️⭐️|
@@ -137,6 +138,6 @@
 
 ## 📊 统计
 
-- 论文总数：112篇
+- 论文总数：113篇
 - 代码实现：6个
 - 最后更新：2025年06月

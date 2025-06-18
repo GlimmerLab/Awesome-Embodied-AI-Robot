@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-16|Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning|[[pdf]](http://arxiv.org/abs/2506.13026v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Towards a Formal Specification for Self-organized Shape Formation in Swarm Robotics|[[pdf]](http://arxiv.org/abs/2506.13453v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study|[[pdf]](http://arxiv.org/abs/2506.13464v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[en] IKDiffuser: Fast and Diverse Inverse Kinematics Solution Generation for Multi-arm Robotic Systems|[[pdf]](http://arxiv.org/abs/2506.13087v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[en] Building Trustworthy AI by Addressing its 16+2 Desiderata with Goal-Directed Commonsense Reasoning|[[pdf]](http://arxiv.org/abs/2506.12667v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|[AgentOrchestra] AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving|[[pdf]](http://arxiv.org/abs/2506.12508v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications|[[pdf]](http://arxiv.org/abs/2506.12594v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis|[[pdf]](http://arxiv.org/abs/2506.11526v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2506.10508v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[LogiPlan] LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs|[[pdf]](http://arxiv.org/abs/2506.10527v1)|⚠️|⭐️⭐️⭐️|
@@ -186,6 +193,6 @@
 
 ## 📊 统计
 
-- 论文总数：165篇
+- 论文总数：172篇
 - 代码实现：5个
 - 最后更新：2025年06月

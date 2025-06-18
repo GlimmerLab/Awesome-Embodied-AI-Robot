@@ -32,7 +32,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-16|[LeVERB] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction|[[pdf]](http://arxiv.org/abs/2506.13751v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons|[[pdf]](http://arxiv.org/abs/2506.13268v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[Humanoid] KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills|[[pdf]](http://arxiv.org/abs/2506.12851v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|Sectoral Coupling in Linguistic State Space|[[pdf]](http://arxiv.org/abs/2506.12927v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|On-board Sonar Data Classification for Path Following in Underwater Vehicles using Fast Interval Type-2 Fuzzy Extreme Learning Machine|[[pdf]](http://arxiv.org/abs/2506.12762v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|Decentralized Decision Making in Two Sided Manufacturing-as-a-Service Marketplaces|[[pdf]](http://arxiv.org/abs/2506.12730v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|[en] Explosive Output to Enhance Jumping Ability: A Variable Reduction Ratio Design Paradigm for Humanoid Robots Knee Joint|[[pdf]](http://arxiv.org/abs/2506.12314v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Real-Time Feedback and Benchmark Dataset for Isometric Pose Evaluation|[[pdf]](http://arxiv.org/abs/2506.11774v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[en] Role of Uncertainty in Model Development and Control Design for a Manufacturing Process|[[pdf]](http://arxiv.org/abs/2506.12273v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence|[[pdf]](http://arxiv.org/abs/2506.10925v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[DreamActor-H1] DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2506.10568v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Learning Safe Control via On-the-Fly Bandit Exploration|[[pdf]](http://arxiv.org/abs/2506.10279v1)|⚠️|⭐️⭐️⭐️|
@@ -203,6 +211,6 @@
 
 ## 📊 统计
 
-- 论文总数：178篇
+- 论文总数：186篇
 - 代码实现：8个
 - 最后更新：2025年06月

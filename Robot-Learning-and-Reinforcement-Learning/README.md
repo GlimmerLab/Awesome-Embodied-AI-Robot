@@ -47,6 +47,42 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-16|Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes|[[pdf]](http://arxiv.org/abs/2506.13583v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[Metis-RISE] Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning|[[pdf]](http://arxiv.org/abs/2506.13056v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[Screen Hijack] Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments|[[pdf]](http://arxiv.org/abs/2506.13205v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[TimeMaster] TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.13705v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Value-Free Policy Optimization via Reward Partitioning|[[pdf]](http://arxiv.org/abs/2506.13702v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|A Two-stage Optimization Method for Wide-range Single-electron Quantum Magnetic Sensing|[[pdf]](http://arxiv.org/abs/2506.13469v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[VLM-SFD] VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation|[[pdf]](http://arxiv.org/abs/2506.13428v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins|[[pdf]](http://arxiv.org/abs/2506.13761v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[CEED-VLA] CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding|[[pdf]](http://arxiv.org/abs/2506.13725v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[HARMONI] HARMONI: Haptic-Guided Assistance for Unified Robotic Tele-Manipulation and Tele-Navigation|[[pdf]](http://arxiv.org/abs/2506.13704v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|What Matters in Learning from Large-Scale Datasets for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.13536v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Adaptive Model-Base Control of Quadrupeds via Online System Identification using Kalman Filter|[[pdf]](http://arxiv.org/abs/2506.13432v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Observability-Aware Active Calibration of Multi-Sensor Extrinsics for Ground Robots via Online Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2506.13420v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|A Survey on Imitation Learning for Contact-Rich Tasks in Robotics|[[pdf]](http://arxiv.org/abs/2506.13498v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[en] ROSA: Harnessing Robot States for Vision-Language and Action Alignment|[[pdf]](http://arxiv.org/abs/2506.13679v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Agent Capability Negotiation and Binding Protocol (ACNBP)|[[pdf]](http://arxiv.org/abs/2506.13590v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Meta-learning how to Share Credit among Macro-Actions|[[pdf]](http://arxiv.org/abs/2506.13690v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs|[[pdf]](http://arxiv.org/abs/2506.13245v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints|[[pdf]](http://arxiv.org/abs/2506.13566v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data|[[pdf]](http://arxiv.org/abs/2506.13505v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[en] Dynamic Reinsurance Treaty Bidding via Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.13113v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Touch begins where vision ends: Generalizable policies for contact-rich manipulation|[[pdf]](http://arxiv.org/abs/2506.13762v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[SP-VLA] SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration|[[pdf]](http://arxiv.org/abs/2506.12723v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2506.12676v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[en] Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling|[[pdf]](http://arxiv.org/abs/2506.12735v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[en] Homeostatic Coupling for Prosocial Behavior|[[pdf]](http://arxiv.org/abs/2506.12894v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[Biped] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.12779v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[Biped] RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control|[[pdf]](http://arxiv.org/abs/2506.12769v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-15|[Adapting by Analogy] Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence|[[pdf]](http://arxiv.org/abs/2506.12678v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|[AntiGrounding] AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making|[[pdf]](http://arxiv.org/abs/2506.12374v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|[Feeling Machines] Feeling Machines: Ethics, Culture, and the Rise of Emotional AI|[[pdf]](http://arxiv.org/abs/2506.12437v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture|[[pdf]](http://arxiv.org/abs/2506.12474v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|Similarity as Reward Alignment: Robust and Versatile Preference-based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.12529v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|A Spatial Relationship Aware Dataset for Robotics|[[pdf]](http://arxiv.org/abs/2506.12525v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|[en] Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry|[[pdf]](http://arxiv.org/abs/2506.12536v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-14|[en] Topology-Assisted Spatio-Temporal Pattern Disentangling for Scalable MARL in Large-scale Autonomous Traffic Control|[[pdf]](http://arxiv.org/abs/2506.12453v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|[Dynamic] SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies|[[pdf]](http://arxiv.org/abs/2506.11948v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|[mimic-one] mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity|[[pdf]](http://arxiv.org/abs/2506.11916v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|[ExoStart] ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations|[[pdf]](http://arxiv.org/abs/2506.11775v1)|⚠️|⭐️⭐️⭐️|
@@ -60,6 +96,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-13|A Step-by-Step Guide to Creating a Robust Autonomous Drone Testing Pipeline|[[pdf]](http://arxiv.org/abs/2506.11400v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions|[[pdf]](http://arxiv.org/abs/2506.11829v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Linearly Solving Robust Rotation Estimation|[[pdf]](http://arxiv.org/abs/2506.11547v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|[ProVox] ProVox: Personalization and Proactive Planning for Situated Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2506.12248v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-13|From Emergence to Control: Probing and Modulating Self-Reflection in Language Models|[[pdf]](http://arxiv.org/abs/2506.12217v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding|[[pdf]](http://arxiv.org/abs/2506.10756v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Optimus-3] Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts|[[pdf]](http://arxiv.org/abs/2506.10357v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|GenPlanX. Generation of Plans and Execution|[[pdf]](http://arxiv.org/abs/2506.10897v1)|⚠️|⭐️⭐️⭐️|
@@ -85,6 +123,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-12|Can Time-Series Foundation Models Perform Building Energy Management Tasks?|[[pdf]](http://arxiv.org/abs/2506.11250v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|Demonstration Sidetracks: Categorizing Systematic Non-Optimality in Human Demonstrations|[[pdf]](http://arxiv.org/abs/2506.11262v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Poutine] Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.11234v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-12|[en] DoublyAware: Dual Planning and Policy Awareness for Temporal Difference Learning in Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2506.12095v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[V-JEPA 2] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning|[[pdf]](http://arxiv.org/abs/2506.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|[DGS-LRM] DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos|[[pdf]](http://arxiv.org/abs/2506.09997v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-11|Attention-Based Map Encoding for Learning Generalized Legged Locomotion|[[pdf]](http://arxiv.org/abs/2506.09588v1)|⚠️|⭐️⭐️⭐️|
@@ -769,6 +808,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 743
+- Total Papers: 782
 - Code Implementations: 20
 - Last Updated: June 2025
