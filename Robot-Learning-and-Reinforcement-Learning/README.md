@@ -47,6 +47,49 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-18|[Embodied Web Agents] Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence|[[pdf]](http://arxiv.org/abs/2506.15677v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement|[[pdf]](http://arxiv.org/abs/2506.15647v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Multi-Agent Reinforcement Learning for Autonomous Multi-Satellite Earth Observation: A Realistic Case Study|[[pdf]](http://arxiv.org/abs/2506.15207v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Aerial Grasping via Maximizing Delta-Arm Workspace Utilization|[[pdf]](http://arxiv.org/abs/2506.15539v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos|[[pdf]](http://arxiv.org/abs/2506.15680v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[Booster Gym] Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion|[[pdf]](http://arxiv.org/abs/2506.15132v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[en] MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System|[[pdf]](http://arxiv.org/abs/2506.15402v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Zero-Shot Reinforcement Learning Under Partial Observability|[[pdf]](http://arxiv.org/abs/2506.15446v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Robust Instant Policy: Leveraging Student's t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.15157v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Context-Aware Deep Lagrangian Networks for Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.15249v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[en] DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory|[[pdf]](http://arxiv.org/abs/2506.15096v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[GAMORA] GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments|[[pdf]](http://arxiv.org/abs/2506.14513v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[Feedback-MPPI] Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios low-level controllers|[[pdf]](http://arxiv.org/abs/2506.14855v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[SceneAware] SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability|[[pdf]](http://arxiv.org/abs/2506.14144v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[SENIOR] SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.14648v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[PeRL] PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning|[[pdf]](http://arxiv.org/abs/2506.14907v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs|[[pdf]](http://arxiv.org/abs/2506.14245v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[HiLight] HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control|[[pdf]](http://arxiv.org/abs/2506.14391v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Steering Robots with Inference-Time Interactions|[[pdf]](http://arxiv.org/abs/2506.14287v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[CLGNN] CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs|[[pdf]](http://arxiv.org/abs/2506.14122v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[PoseGRAF] PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation|[[pdf]](http://arxiv.org/abs/2506.14596v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Stable CDE Autoencoders with Acuity Regularization for Offline Reinforcement Learning in Sepsis Treatment|[[pdf]](http://arxiv.org/abs/2506.15019v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach|[[pdf]](http://arxiv.org/abs/2506.14278v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.14754v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[AGENTSAFE] AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions|[[pdf]](http://arxiv.org/abs/2506.14697v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[Casper] Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models|[[pdf]](http://arxiv.org/abs/2506.14727v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization|[[pdf]](http://arxiv.org/abs/2506.14865v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[RobotSmith] RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills|[[pdf]](http://arxiv.org/abs/2506.14763v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[Narrate2Nav] Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments|[[pdf]](http://arxiv.org/abs/2506.14233v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Six-DoF Hand-Based Teleoperation for Omnidirectional Aerial Robots|[[pdf]](http://arxiv.org/abs/2506.15009v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective|[[pdf]](http://arxiv.org/abs/2506.14965v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Preparing for the Intelligence Explosion|[[pdf]](http://arxiv.org/abs/2506.14863v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2506.14464v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Causally Steered Diffusion for Automated Video Counterfactual Generation|[[pdf]](http://arxiv.org/abs/2506.14404v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] Adaptive Reinforcement Learning for Unobservable Random Delays|[[pdf]](http://arxiv.org/abs/2506.14411v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[Biped] GMT: General Motion Tracking for Humanoid Whole-Body Control|[[pdf]](http://arxiv.org/abs/2506.14770v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Latent Action Diffusion for Cross-Embodiment Manipulation|[[pdf]](http://arxiv.org/abs/2506.14608v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] Public Acceptance of Cybernetic Avatars in the service sector: Evidence from a Large-Scale Survey in Dubai|[[pdf]](http://arxiv.org/abs/2506.14268v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] AMPLIFY: Actionless Motion Priors for Robot Learning from Videos|[[pdf]](http://arxiv.org/abs/2506.14198v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] Haptic-Based User Authentication for Tele-robotic System|[[pdf]](http://arxiv.org/abs/2506.14116v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] Pose State Perception of Interventional Robot for Cardio-cerebrovascular Procedures|[[pdf]](http://arxiv.org/abs/2506.14201v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] Barrier Method for Inequality Constrained Factor Graph Optimization with Application to Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.14341v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation|[[pdf]](http://arxiv.org/abs/2506.14305v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes|[[pdf]](http://arxiv.org/abs/2506.13583v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[Metis-RISE] Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning|[[pdf]](http://arxiv.org/abs/2506.13056v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[Screen Hijack] Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments|[[pdf]](http://arxiv.org/abs/2506.13205v1)|⚠️|⭐️⭐️⭐️|
@@ -69,6 +112,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-16|UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data|[[pdf]](http://arxiv.org/abs/2506.13505v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[en] Dynamic Reinsurance Treaty Bidding via Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.13113v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Touch begins where vision ends: Generalizable policies for contact-rich manipulation|[[pdf]](http://arxiv.org/abs/2506.13762v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[en] ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection|[[pdf]](http://arxiv.org/abs/2506.13956v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Scaling Algorithm Distillation for Continuous Control with Mamba|[[pdf]](http://arxiv.org/abs/2506.13892v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|[SP-VLA] SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration|[[pdf]](http://arxiv.org/abs/2506.12723v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2506.12676v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|[en] Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling|[[pdf]](http://arxiv.org/abs/2506.12735v1)|⚠️|⭐️⭐️⭐️|
@@ -808,6 +853,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 782
+- Total Papers: 827
 - Code Implementations: 20
 - Last Updated: June 2025

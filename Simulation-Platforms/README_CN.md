@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-18|A Real-time Endoscopic Image Denoising System|[[pdf]](http://arxiv.org/abs/2506.15395v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[J3DAI] J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor|[[pdf]](http://arxiv.org/abs/2506.15316v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Accurate and scalable exchange-correlation with deep learning|[[pdf]](http://arxiv.org/abs/2506.14665v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|[Enter] Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training|[[pdf]](http://arxiv.org/abs/2506.11890v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table|[[pdf]](http://arxiv.org/abs/2506.11908v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Trajectory] Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material|[[pdf]](http://arxiv.org/abs/2506.10875v1)|⚠️|⭐️⭐️⭐️|
@@ -190,6 +193,6 @@
 
 ## 📊 统计
 
-- 论文总数：165篇
+- 论文总数：168篇
 - 代码实现：21个
 - 最后更新：2025年06月

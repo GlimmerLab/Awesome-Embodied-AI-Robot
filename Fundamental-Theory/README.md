@@ -18,6 +18,8 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-17|[EVA02-AT] EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization|[[pdf]](http://arxiv.org/abs/2506.14356v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places|[[pdf]](http://arxiv.org/abs/2506.14570v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning|[[pdf]](http://arxiv.org/abs/2506.13026v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Towards a Formal Specification for Self-organized Shape Formation in Swarm Robotics|[[pdf]](http://arxiv.org/abs/2506.13453v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study|[[pdf]](http://arxiv.org/abs/2506.13464v1)|⚠️|⭐️⭐️⭐️|
@@ -193,6 +195,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 172
+- Total Papers: 174
 - Code Implementations: 5
 - Last Updated: June 2025

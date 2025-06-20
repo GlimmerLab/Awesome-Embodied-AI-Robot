@@ -22,6 +22,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-18|[FindingDory] FindingDory: A Benchmark to Evaluate Memory in Embodied Agents|[[pdf]](http://arxiv.org/abs/2506.15635v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?|[[pdf]](http://arxiv.org/abs/2506.14507v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[CDP] CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion|[[pdf]](http://arxiv.org/abs/2506.14769v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping|[[pdf]](http://arxiv.org/abs/2506.14178v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Mirage-1] Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills|[[pdf]](http://arxiv.org/abs/2506.10387v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Gondola] Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.11261v1)|⚠️|⭐️⭐️⭐️|
@@ -136,6 +140,6 @@
 
 ## 📊 统计
 
-- 论文总数：112篇
+- 论文总数：116篇
 - 代码实现：6个
 - 最后更新：2025年06月

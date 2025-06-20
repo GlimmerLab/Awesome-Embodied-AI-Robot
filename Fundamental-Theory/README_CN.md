@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-17|[EVA02-AT] EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization|[[pdf]](http://arxiv.org/abs/2506.14356v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places|[[pdf]](http://arxiv.org/abs/2506.14570v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning|[[pdf]](http://arxiv.org/abs/2506.13026v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Towards a Formal Specification for Self-organized Shape Formation in Swarm Robotics|[[pdf]](http://arxiv.org/abs/2506.13453v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study|[[pdf]](http://arxiv.org/abs/2506.13464v1)|⚠️|⭐️⭐️⭐️|
@@ -193,6 +195,6 @@
 
 ## 📊 统计
 
-- 论文总数：172篇
+- 论文总数：174篇
 - 代码实现：5个
 - 最后更新：2025年06月

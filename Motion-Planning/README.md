@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-18|Efficient Navigation Among Movable Obstacles using a Mobile Manipulator via Hierarchical Policy Learning|[[pdf]](http://arxiv.org/abs/2506.15380v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[Biped] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality|[[pdf]](http://arxiv.org/abs/2506.15146v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[KDMOS] KDMOS:Knowledge Distillation for Motion Segmentation|[[pdf]](http://arxiv.org/abs/2506.14130v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[en] ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2|[[pdf]](http://arxiv.org/abs/2506.14487v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[LeVERB] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction|[[pdf]](http://arxiv.org/abs/2506.13751v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons|[[pdf]](http://arxiv.org/abs/2506.13268v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|[Humanoid] KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills|[[pdf]](http://arxiv.org/abs/2506.12851v1)|⚠️|⭐️⭐️⭐️|
@@ -211,6 +215,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 186
+- Total Papers: 190
 - Code Implementations: 8
 - Last Updated: June 2025
