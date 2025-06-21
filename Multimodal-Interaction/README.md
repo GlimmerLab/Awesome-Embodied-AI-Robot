@@ -27,8 +27,10 @@ This directory collects papers and code implementations related to multimodal in
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-18|[Designing Intent] Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces|[[pdf]](http://arxiv.org/abs/2506.15293v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[en] Vision in Action: Learning Active Perception from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2506.15666v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|I Know You're Listening: Adaptive Voice for HRI|[[pdf]](http://arxiv.org/abs/2506.15107v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Design an Editable Speech-to-Sign-Language Transformer System: A Human-Centered AI Approach|[[pdf]](http://arxiv.org/abs/2506.14677v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Multimodal "Puppeteer": An Exploration of Robot Teleoperation Via Virtual Counterpart with LLM-Driven Voice and Gesture Interaction in Augmented Reality|[[pdf]](http://arxiv.org/abs/2506.13189v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|[en] A Cooperative Contactless Object Transport with Acoustic Robots|[[pdf]](http://arxiv.org/abs/2506.13957v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|[en] Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control|[[pdf]](http://arxiv.org/abs/2506.11650v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-13|Robotic System for Chemical Experiment Automation with Dual Demonstration of End-effector and Jig Operations|[[pdf]](http://arxiv.org/abs/2506.11384v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[RT-VC] RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding|[[pdf]](http://arxiv.org/abs/2506.10289v1)|⚠️|⭐️⭐️⭐️|
@@ -141,6 +143,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 116
+- Total Papers: 118
 - Code Implementations: 6
 - Last Updated: June 2025

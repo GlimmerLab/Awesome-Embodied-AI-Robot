@@ -58,6 +58,14 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-18|Robust Instant Policy: Leveraging Student's t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.15157v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Context-Aware Deep Lagrangian Networks for Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.15249v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[en] DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory|[[pdf]](http://arxiv.org/abs/2506.15096v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Evaluation Pipeline for systematically searching for Anomaly Detection Systems|[[pdf]](http://arxiv.org/abs/2506.15388v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Comparison of Innovative Strategies for the Coverage Problem: Path Planning, Search Optimization, and Applications in Underwater Robotics|[[pdf]](http://arxiv.org/abs/2506.15376v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Human Locomotion Implicit Modeling Based Real-Time Gait Phase Estimation|[[pdf]](http://arxiv.org/abs/2506.15150v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[SHeRLoc] SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization|[[pdf]](http://arxiv.org/abs/2506.15175v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Offensive Robot Cybersecurity|[[pdf]](http://arxiv.org/abs/2506.15343v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Real-Time Initialization of Unknown Anchors for UWB-aided Navigation|[[pdf]](http://arxiv.org/abs/2506.15518v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Model Predictive Path-Following Control for a Quadrotor|[[pdf]](http://arxiv.org/abs/2506.15447v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[GRIM] GRIM: Task-Oriented Grasping with Conditioning on Generative Examples|[[pdf]](http://arxiv.org/abs/2506.15607v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[GAMORA] GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments|[[pdf]](http://arxiv.org/abs/2506.14513v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[Feedback-MPPI] Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios low-level controllers|[[pdf]](http://arxiv.org/abs/2506.14855v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[SceneAware] SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability|[[pdf]](http://arxiv.org/abs/2506.14144v1)|⚠️|⭐️⭐️⭐️|
@@ -90,6 +98,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-17|[en] Pose State Perception of Interventional Robot for Cardio-cerebrovascular Procedures|[[pdf]](http://arxiv.org/abs/2506.14201v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[en] Barrier Method for Inequality Constrained Factor Graph Optimization with Application to Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.14341v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[en] Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation|[[pdf]](http://arxiv.org/abs/2506.14305v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[MEAL] MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.14990v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[Context Matters] Context Matters: Learning Generalizable Rewards via Calibrated Features|[[pdf]](http://arxiv.org/abs/2506.15012v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[DiFuse-Net] DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning|[[pdf]](http://arxiv.org/abs/2506.14709v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes|[[pdf]](http://arxiv.org/abs/2506.13583v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[Metis-RISE] Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning|[[pdf]](http://arxiv.org/abs/2506.13056v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[Screen Hijack] Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments|[[pdf]](http://arxiv.org/abs/2506.13205v1)|⚠️|⭐️⭐️⭐️|
@@ -853,6 +864,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 827
+- Total Papers: 838
 - Code Implementations: 20
 - Last Updated: June 2025

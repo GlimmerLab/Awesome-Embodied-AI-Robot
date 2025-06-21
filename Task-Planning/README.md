@@ -23,6 +23,7 @@ This directory collects papers and code implementations related to task planning
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-18|[FindingDory] FindingDory: A Benchmark to Evaluate Memory in Embodied Agents|[[pdf]](http://arxiv.org/abs/2506.15635v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[HEAL] HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models|[[pdf]](http://arxiv.org/abs/2506.15065v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?|[[pdf]](http://arxiv.org/abs/2506.14507v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[CDP] CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion|[[pdf]](http://arxiv.org/abs/2506.14769v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[en] TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping|[[pdf]](http://arxiv.org/abs/2506.14178v1)|⚠️|⭐️⭐️⭐️|
@@ -140,6 +141,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 116
+- Total Papers: 117
 - Code Implementations: 6
 - Last Updated: June 2025
