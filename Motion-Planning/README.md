@@ -34,6 +34,7 @@ This directory collects papers and code implementations related to motion planni
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-18|Efficient Navigation Among Movable Obstacles using a Mobile Manipulator via Hierarchical Policy Learning|[[pdf]](http://arxiv.org/abs/2506.15380v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[Biped] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality|[[pdf]](http://arxiv.org/abs/2506.15146v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[SurfAAV] SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle|[[pdf]](http://arxiv.org/abs/2506.15450v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[KDMOS] KDMOS:Knowledge Distillation for Motion Segmentation|[[pdf]](http://arxiv.org/abs/2506.14130v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[en] ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2|[[pdf]](http://arxiv.org/abs/2506.14487v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation|[[pdf]](http://arxiv.org/abs/2506.14294v1)|⚠️|⭐️⭐️⭐️|
@@ -216,6 +217,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 191
+- Total Papers: 192
 - Code Implementations: 8
 - Last Updated: June 2025

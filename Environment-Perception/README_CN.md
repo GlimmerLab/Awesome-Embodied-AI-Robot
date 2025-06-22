@@ -29,8 +29,11 @@
 |2025-06-18|Efficient and Generalizable Environmental Understanding for Visual Navigation|[[pdf]](http://arxiv.org/abs/2506.15377v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[CLAIM] CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation|[[pdf]](http://arxiv.org/abs/2506.15549v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception|[[pdf]](http://arxiv.org/abs/2506.15087v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[VIMS] VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments|[[pdf]](http://arxiv.org/abs/2506.15126v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Probabilistic Trajectory GOSPA: A Metric for Uncertainty-Aware Multi-Object Tracking Performance Evaluation|[[pdf]](http://arxiv.org/abs/2506.15148v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Determinação Automática de Limiar de Detecção de Ataques em Redes de Computadores Utilizando Autoencoders|[[pdf]](http://arxiv.org/abs/2506.14937v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[VisLanding] VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy|[[pdf]](http://arxiv.org/abs/2506.14525v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion|[[pdf]](http://arxiv.org/abs/2506.14975v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[en] Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2506.13367v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[en] Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots|[[pdf]](http://arxiv.org/abs/2506.13149v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method|[[pdf]](http://arxiv.org/abs/2506.13100v1)|⚠️|⭐️⭐️⭐️|
@@ -138,6 +141,6 @@
 
 ## 📊 统计
 
-- 论文总数：114篇
+- 论文总数：117篇
 - 代码实现：8个
 - 最后更新：2025年06月

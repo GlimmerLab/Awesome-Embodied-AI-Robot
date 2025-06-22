@@ -27,6 +27,7 @@ This directory collects papers and code implementations related to task planning
 |2025-06-17|Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?|[[pdf]](http://arxiv.org/abs/2506.14507v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[CDP] CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion|[[pdf]](http://arxiv.org/abs/2506.14769v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[en] TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping|[[pdf]](http://arxiv.org/abs/2506.14178v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[NetRoller] NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.14589v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Mirage-1] Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills|[[pdf]](http://arxiv.org/abs/2506.10387v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists|[[pdf]](http://arxiv.org/abs/2506.10686v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-12|[Gondola] Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.11261v1)|⚠️|⭐️⭐️⭐️|
@@ -141,6 +142,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 117
+- Total Papers: 118
 - Code Implementations: 6
 - Last Updated: June 2025

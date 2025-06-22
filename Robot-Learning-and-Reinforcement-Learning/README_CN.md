@@ -101,6 +101,7 @@
 |2025-06-17|[MEAL] MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.14990v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[Context Matters] Context Matters: Learning Generalizable Rewards via Calibrated Features|[[pdf]](http://arxiv.org/abs/2506.15012v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[DiFuse-Net] DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning|[[pdf]](http://arxiv.org/abs/2506.14709v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-17|[FEAST] FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization|[[pdf]](http://arxiv.org/abs/2506.14968v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes|[[pdf]](http://arxiv.org/abs/2506.13583v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[Metis-RISE] Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning|[[pdf]](http://arxiv.org/abs/2506.13056v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[Screen Hijack] Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments|[[pdf]](http://arxiv.org/abs/2506.13205v1)|⚠️|⭐️⭐️⭐️|
@@ -125,6 +126,7 @@
 |2025-06-16|Touch begins where vision ends: Generalizable policies for contact-rich manipulation|[[pdf]](http://arxiv.org/abs/2506.13762v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|[en] ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection|[[pdf]](http://arxiv.org/abs/2506.13956v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Scaling Algorithm Distillation for Continuous Control with Mamba|[[pdf]](http://arxiv.org/abs/2506.13892v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-16|Discovering Temporal Structure: An Overview of Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.14045v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|[SP-VLA] SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration|[[pdf]](http://arxiv.org/abs/2506.12723v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2506.12676v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-15|[en] Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling|[[pdf]](http://arxiv.org/abs/2506.12735v1)|⚠️|⭐️⭐️⭐️|
@@ -864,6 +866,6 @@
 
 ## 📊 统计
 
-- 论文总数：838篇
+- 论文总数：840篇
 - 代码实现：20个
 - 最后更新：2025年06月
