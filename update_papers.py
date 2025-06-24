@@ -2013,7 +2013,7 @@ class PaperUpdater:
 if __name__ == "__main__":
     # 创建命令行参数解析器
     parser = argparse.ArgumentParser(description='更新具身AI与机器人相关论文列表')
-    parser.add_argument('--days', type=int, default=30, help='筛选最近多少天内发表的论文，默认30天')
+    parser.add_argument('--days', type=int, default=7, help='筛选最近多少天内发表的论文，默认30天')
 
     # 解析命令行参数
     args = parser.parse_args()
