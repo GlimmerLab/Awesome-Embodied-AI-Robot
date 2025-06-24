@@ -32,9 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-19|Grounding Language Models with Semantic Digital Twins for Robotic Planning|[[pdf]](http://arxiv.org/abs/2506.16493v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|Comparison between External and Internal Single Stage Planetary gearbox actuators for legged robots|[[pdf]](http://arxiv.org/abs/2506.16356v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Efficient Navigation Among Movable Obstacles using a Mobile Manipulator via Hierarchical Policy Learning|[[pdf]](http://arxiv.org/abs/2506.15380v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[Biped] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality|[[pdf]](http://arxiv.org/abs/2506.15146v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[SurfAAV] SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle|[[pdf]](http://arxiv.org/abs/2506.15450v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[en] Robust control for multi-legged elongate robots in noisy environments|[[pdf]](http://arxiv.org/abs/2506.15788v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[KDMOS] KDMOS:Knowledge Distillation for Motion Segmentation|[[pdf]](http://arxiv.org/abs/2506.14130v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[en] ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2|[[pdf]](http://arxiv.org/abs/2506.14487v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation|[[pdf]](http://arxiv.org/abs/2506.14294v1)|⚠️|⭐️⭐️⭐️|
@@ -217,6 +220,6 @@
 
 ## 📊 统计
 
-- 论文总数：192篇
+- 论文总数：195篇
 - 代码实现：8个
 - 最后更新：2025年06月

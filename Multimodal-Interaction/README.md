@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-19|History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation|[[pdf]](http://arxiv.org/abs/2506.16623v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|On using AI for EEG-based BCI applications: problems, current challenges and future trends|[[pdf]](http://arxiv.org/abs/2506.16168v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[Designing Intent] Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces|[[pdf]](http://arxiv.org/abs/2506.15293v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[en] Vision in Action: Learning Active Perception from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2506.15666v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|I Know You're Listening: Adaptive Voice for HRI|[[pdf]](http://arxiv.org/abs/2506.15107v1)|⚠️|⭐️⭐️⭐️|
@@ -143,6 +145,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 118
+- Total Papers: 120
 - Code Implementations: 6
 - Last Updated: June 2025

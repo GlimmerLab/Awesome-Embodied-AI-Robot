@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-20|Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model|[[pdf]](http://arxiv.org/abs/2506.17128v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.16555v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[FindingDory] FindingDory: A Benchmark to Evaluate Memory in Embodied Agents|[[pdf]](http://arxiv.org/abs/2506.15635v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[HEAL] HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models|[[pdf]](http://arxiv.org/abs/2506.15065v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?|[[pdf]](http://arxiv.org/abs/2506.14507v1)|⚠️|⭐️⭐️⭐️|
@@ -142,6 +144,6 @@
 
 ## 📊 统计
 
-- 论文总数：118篇
+- 论文总数：120篇
 - 代码实现：6个
 - 最后更新：2025年06月

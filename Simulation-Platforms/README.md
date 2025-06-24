@@ -39,9 +39,17 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-20|[ParkFormer] ParkFormer: A Transformer-Based Parking Policy with Goal Embedding and Pedestrian-Aware Control|[[pdf]](http://arxiv.org/abs/2506.16856v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms|[[pdf]](http://arxiv.org/abs/2506.16710v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[Judo] Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.17184v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[IS-Bench] IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks|[[pdf]](http://arxiv.org/abs/2506.16402v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[DIGMAPPER] DIGMAPPER: A Modular System for Automated Geologic Map Digitization|[[pdf]](http://arxiv.org/abs/2506.16006v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|Category-based Galaxy Image Generation via Diffusion Models|[[pdf]](http://arxiv.org/abs/2506.16255v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|A Real-time Endoscopic Image Denoising System|[[pdf]](http://arxiv.org/abs/2506.15395v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[J3DAI] J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor|[[pdf]](http://arxiv.org/abs/2506.15316v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Assigning Multi-Robot Tasks to Multitasking Robots|[[pdf]](http://arxiv.org/abs/2506.15032v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[SafeMimic] SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2506.15847v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Unsupervised deep learning model for fast energy layer pre-selection of delivery-efficient proton arc therapy plan optimization of nasopharyngeal carcinoma|[[pdf]](http://arxiv.org/abs/2506.15803v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Accurate and scalable exchange-correlation with deep learning|[[pdf]](http://arxiv.org/abs/2506.14665v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior|[[pdf]](http://arxiv.org/abs/2506.14762v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Factor-Graph-Based Passive Acoustic Navigation for Decentralized Cooperative Localization Using Bearing Elevation Depth Difference|[[pdf]](http://arxiv.org/abs/2506.14690v1)|⚠️|⭐️⭐️⭐️|
@@ -196,6 +204,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 171
+- Total Papers: 179
 - Code Implementations: 21
 - Last Updated: June 2025

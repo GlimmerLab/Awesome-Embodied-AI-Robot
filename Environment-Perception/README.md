@@ -31,6 +31,7 @@ This directory collects papers and code implementations related to environment p
 |2025-06-18|3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception|[[pdf]](http://arxiv.org/abs/2506.15087v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[VIMS] VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments|[[pdf]](http://arxiv.org/abs/2506.15126v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Probabilistic Trajectory GOSPA: A Metric for Uncertainty-Aware Multi-Object Tracking Performance Evaluation|[[pdf]](http://arxiv.org/abs/2506.15148v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning|[[pdf]](http://arxiv.org/abs/2506.15828v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Determinação Automática de Limiar de Detecção de Ataques em Redes de Computadores Utilizando Autoencoders|[[pdf]](http://arxiv.org/abs/2506.14937v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[VisLanding] VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy|[[pdf]](http://arxiv.org/abs/2506.14525v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion|[[pdf]](http://arxiv.org/abs/2506.14975v1)|⚠️|⭐️⭐️⭐️|
@@ -141,6 +142,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 117
+- Total Papers: 118
 - Code Implementations: 8
 - Last Updated: June 2025

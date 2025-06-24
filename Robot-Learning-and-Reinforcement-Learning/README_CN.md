@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-20|Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning|[[pdf]](http://arxiv.org/abs/2506.16931v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[AnyTraverse] AnyTraverse: An off-road traversability framework with VLM and human operator in the loop|[[pdf]](http://arxiv.org/abs/2506.16826v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[Part$^{2}$GS] Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2506.17212v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Reinforcement learning for hybrid charging stations planning and operation considering fixed and mobile chargers|[[pdf]](http://arxiv.org/abs/2506.16764v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Generalizable Agent Modeling for Agent Collaboration-Competition Adaptation with Multi-Retrieval and Dynamic Generation|[[pdf]](http://arxiv.org/abs/2506.16718v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[Dex1B] Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2506.17198v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping|[[pdf]](http://arxiv.org/abs/2506.17110v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|The Importance of Being Lazy: Scaling Limits of Continual Learning|[[pdf]](http://arxiv.org/abs/2506.16884v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration|[[pdf]](http://arxiv.org/abs/2506.16986v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Learning Dexterous Object Handover|[[pdf]](http://arxiv.org/abs/2506.16822v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|Off-Policy Actor-Critic for Adversarial Observation Robustness: Virtual Alternative Training via Symmetric Policy Evaluation|[[pdf]](http://arxiv.org/abs/2506.16753v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[Policy] Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections|[[pdf]](http://arxiv.org/abs/2506.16685v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[DRARL] DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy|[[pdf]](http://arxiv.org/abs/2506.16720v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[Learning] Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.16565v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal|[[pdf]](http://arxiv.org/abs/2506.16000v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[GRPO-CARE] GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2506.16141v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|A Community-driven vision for a new Knowledge Resource for AI|[[pdf]](http://arxiv.org/abs/2506.16596v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|Human-Centered Shared Autonomy for Motor Planning, Learning, and Control Applications|[[pdf]](http://arxiv.org/abs/2506.16044v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[CapsDT] CapsDT: Diffusion-Transformer for Capsule Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.16263v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[DualTHOR] DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning|[[pdf]](http://arxiv.org/abs/2506.16012v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[Human2LocoMan] Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining|[[pdf]](http://arxiv.org/abs/2506.16475v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[CodeDiffuser] CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity|[[pdf]](http://arxiv.org/abs/2506.16652v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[ViTacFormer] ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2506.15953v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[ControlVLA] ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.16211v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|Investigating Lagrangian Neural Networks for Infinite Horizon Planning in Quadrupedal Locomotion|[[pdf]](http://arxiv.org/abs/2506.16079v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|Distribution Parameter Actor-Critic: Shifting the Agent-Environment Boundary for Diverse Action Spaces|[[pdf]](http://arxiv.org/abs/2506.16608v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[FlowRAM] FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.16201v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[en] KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping|[[pdf]](http://arxiv.org/abs/2506.15945v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|[en] Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation|[[pdf]](http://arxiv.org/abs/2506.15988v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[Embodied Web Agents] Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence|[[pdf]](http://arxiv.org/abs/2506.15677v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement|[[pdf]](http://arxiv.org/abs/2506.15647v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Multi-Agent Reinforcement Learning for Autonomous Multi-Satellite Earth Observation: A Realistic Case Study|[[pdf]](http://arxiv.org/abs/2506.15207v1)|⚠️|⭐️⭐️⭐️|
@@ -66,6 +95,8 @@
 |2025-06-18|Real-Time Initialization of Unknown Anchors for UWB-aided Navigation|[[pdf]](http://arxiv.org/abs/2506.15518v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Model Predictive Path-Following Control for a Quadrotor|[[pdf]](http://arxiv.org/abs/2506.15447v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[GRIM] GRIM: Task-Oriented Grasping with Conditioning on Generative Examples|[[pdf]](http://arxiv.org/abs/2506.15607v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Improving Robotic Manipulation: Techniques for Object Pose Estimation, Accommodating Positional Uncertainty, and Disassembly Tasks from Examples|[[pdf]](http://arxiv.org/abs/2506.15865v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|Learning from Planned Data to Improve Robotic Pick-and-Place Planning Efficiency|[[pdf]](http://arxiv.org/abs/2506.15920v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[GAMORA] GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments|[[pdf]](http://arxiv.org/abs/2506.14513v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[Feedback-MPPI] Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios low-level controllers|[[pdf]](http://arxiv.org/abs/2506.14855v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[SceneAware] SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability|[[pdf]](http://arxiv.org/abs/2506.14144v1)|⚠️|⭐️⭐️⭐️|
@@ -866,6 +897,6 @@
 
 ## 📊 统计
 
-- 论文总数：840篇
+- 论文总数：871篇
 - 代码实现：20个
 - 最后更新：2025年06月

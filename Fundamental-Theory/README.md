@@ -18,7 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-20|With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You|[[pdf]](http://arxiv.org/abs/2506.16895v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[EmojiVoice] EmojiVoice: Towards long-term controllable expressivity in robot speech|[[pdf]](http://arxiv.org/abs/2506.15085v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[MEM1] MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents|[[pdf]](http://arxiv.org/abs/2506.15841v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-18|[KG-FGNN] KG-FGNN: Knowledge-guided GNN Foundation Model for Fertilisation-oriented Soil GHG Flux Prediction|[[pdf]](http://arxiv.org/abs/2506.15896v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|[EVA02-AT] EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization|[[pdf]](http://arxiv.org/abs/2506.14356v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-17|From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places|[[pdf]](http://arxiv.org/abs/2506.14570v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-16|Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning|[[pdf]](http://arxiv.org/abs/2506.13026v1)|⚠️|⭐️⭐️⭐️|
@@ -196,6 +199,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 175
+- Total Papers: 178
 - Code Implementations: 5
 - Last Updated: June 2025

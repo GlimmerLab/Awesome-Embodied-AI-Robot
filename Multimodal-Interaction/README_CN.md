@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-19|History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation|[[pdf]](http://arxiv.org/abs/2506.16623v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-19|On using AI for EEG-based BCI applications: problems, current challenges and future trends|[[pdf]](http://arxiv.org/abs/2506.16168v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[Designing Intent] Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces|[[pdf]](http://arxiv.org/abs/2506.15293v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[en] Vision in Action: Learning Active Perception from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2506.15666v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|I Know You're Listening: Adaptive Voice for HRI|[[pdf]](http://arxiv.org/abs/2506.15107v1)|⚠️|⭐️⭐️⭐️|
@@ -143,6 +145,6 @@
 
 ## 📊 统计
 
-- 论文总数：118篇
+- 论文总数：120篇
 - 代码实现：6个
 - 最后更新：2025年06月
