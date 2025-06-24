@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-21|[en] Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems|[[pdf]](http://arxiv.org/abs/2506.17775v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting|[[pdf]](http://arxiv.org/abs/2506.17462v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[Trajectory] Distilling On-device Language Models for Robot Planning with Minimal Human Intervention|[[pdf]](http://arxiv.org/abs/2506.17486v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Efficient and Generalizable Environmental Understanding for Visual Navigation|[[pdf]](http://arxiv.org/abs/2506.15377v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[CLAIM] CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation|[[pdf]](http://arxiv.org/abs/2506.15549v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception|[[pdf]](http://arxiv.org/abs/2506.15087v1)|⚠️|⭐️⭐️⭐️|
@@ -142,6 +145,6 @@
 
 ## 📊 统计
 
-- 论文总数：118篇
+- 论文总数：121篇
 - 代码实现：8个
 - 最后更新：2025年06月

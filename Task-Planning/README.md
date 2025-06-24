@@ -22,6 +22,10 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-23|[SViP] SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives|[[pdf]](http://arxiv.org/abs/2506.18825v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Adapting Vision-Language Models for Evaluating World Models|[[pdf]](http://arxiv.org/abs/2506.17967v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|[VLA-OS] VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.17561v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|[CLiViS] CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning|[[pdf]](http://arxiv.org/abs/2506.17629v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model|[[pdf]](http://arxiv.org/abs/2506.17128v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.16555v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[FindingDory] FindingDory: A Benchmark to Evaluate Memory in Embodied Agents|[[pdf]](http://arxiv.org/abs/2506.15635v1)|⚠️|⭐️⭐️⭐️|
@@ -144,6 +148,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 120
+- Total Papers: 124
 - Code Implementations: 6
 - Last Updated: June 2025

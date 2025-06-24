@@ -39,6 +39,7 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-23|Simulation-Free Differential Dynamics through Neural Conservation Laws|[[pdf]](http://arxiv.org/abs/2506.18604v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[ParkFormer] ParkFormer: A Transformer-Based Parking Policy with Goal Embedding and Pedestrian-Aware Control|[[pdf]](http://arxiv.org/abs/2506.16856v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms|[[pdf]](http://arxiv.org/abs/2506.16710v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Judo] Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.17184v1)|⚠️|⭐️⭐️⭐️|
@@ -204,6 +205,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 179
+- Total Papers: 180
 - Code Implementations: 21
 - Last Updated: June 2025

@@ -47,6 +47,37 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-23|[LongWriter-Zero] LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.18841v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Federated Loss Exploration for Improved Convergence on Non-IID Data|[[pdf]](http://arxiv.org/abs/2506.18640v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances|[[pdf]](http://arxiv.org/abs/2506.18410v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Safety-Aware Optimal Scheduling for Autonomous Masonry Construction using Collaborative Heterogeneous Aerial Robots|[[pdf]](http://arxiv.org/abs/2506.18697v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[MinD] MinD: Unified Visual Imagination and Control via Hierarchical World Models|[[pdf]](http://arxiv.org/abs/2506.18897v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[DefFusionNet] DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model|[[pdf]](http://arxiv.org/abs/2506.18779v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Haptic-ACT -- Pseudo Oocyte Manipulation by a Robot Using Multimodal Information and Action Chunking with Transformers|[[pdf]](http://arxiv.org/abs/2506.18212v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Robots and Children that Learn Together : Improving Knowledge Retention by Teaching Peer-Like Interactive Robots|[[pdf]](http://arxiv.org/abs/2506.18365v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[GraspMAS] GraspMAS: Zero-Shot Language-driven Grasp Detection with Multi-Agent System|[[pdf]](http://arxiv.org/abs/2506.18448v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[GeNeRT] GeNeRT: A Physics-Informed Approach to Intelligent Wireless Channel Modeling via Generalizable Neural Ray Tracing|[[pdf]](http://arxiv.org/abs/2506.18295v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[SIM-Net] SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification|[[pdf]](http://arxiv.org/abs/2506.18683v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[Airalogy] Airalogy: AI-empowered universal data digitization for research automation|[[pdf]](http://arxiv.org/abs/2506.18586v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Dual-level Behavioral Consistency for Inter-group and Intra-group Coordination in Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2506.18651v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[Multi-Agent] Robot Tactile Gesture Recognition Based on Full-body Modular E-skin|[[pdf]](http://arxiv.org/abs/2506.18256v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[Multi-Agent] Mirror Eyes: Explainable Human-Robot Interaction at a Glance|[[pdf]](http://arxiv.org/abs/2506.18466v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[RoboTwin 2.0] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.18088v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[GeNIE] GeNIE: A Generalizable Navigation System for In-the-Wild Environments|[[pdf]](http://arxiv.org/abs/2506.17960v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents|[[pdf]](http://arxiv.org/abs/2506.17913v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Decentralized Consensus Inference-based Hierarchical Reinforcement Learning for Multi-Constrained UAV Pursuit-Evasion Game|[[pdf]](http://arxiv.org/abs/2506.18126v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[ADA-DPM] ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM|[[pdf]](http://arxiv.org/abs/2506.18016v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Non-equilibrium Annealed Adjoint Sampler|[[pdf]](http://arxiv.org/abs/2506.18165v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Integrating LLMs and Digital Twins for Adaptive Multi-Robot Task Allocation in Construction|[[pdf]](http://arxiv.org/abs/2506.18178v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[en] EgoWorld: Translating Exocentric View to Egocentric View using Rich Exocentric Observations|[[pdf]](http://arxiv.org/abs/2506.17896v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[en] Multimodal Fusion SLAM with Fourier Attention|[[pdf]](http://arxiv.org/abs/2506.18204v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Deep Learning-based Alignment Measurement in Knee Radiographs|[[pdf]](http://arxiv.org/abs/2506.18209v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Geometric Contact Flows: Contactomorphisms for Dynamics and Control|[[pdf]](http://arxiv.org/abs/2506.17868v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[en] Embedded Flexible Circumferential Sensing for Real-Time Intraoperative Environmental Perception in Continuum Robots|[[pdf]](http://arxiv.org/abs/2506.17902v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|[RLRC] RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.17639v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|[en] Learning to Dock: A Simulation-based Study on Closing the Sim2Real Gap in Autonomous Underwater Docking|[[pdf]](http://arxiv.org/abs/2506.17823v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|[en] RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.17811v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|[en] Imitation Learning for Active Neck Motion Enabling Robot Manipulation beyond the Field of View|[[pdf]](http://arxiv.org/abs/2506.17624v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning|[[pdf]](http://arxiv.org/abs/2506.16931v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[AnyTraverse] AnyTraverse: An off-road traversability framework with VLM and human operator in the loop|[[pdf]](http://arxiv.org/abs/2506.16826v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Part$^{2}$GS] Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2506.17212v1)|⚠️|⭐️⭐️⭐️|
@@ -60,6 +91,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-20|Off-Policy Actor-Critic for Adversarial Observation Robustness: Virtual Alternative Training via Symmetric Policy Evaluation|[[pdf]](http://arxiv.org/abs/2506.16753v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Policy] Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections|[[pdf]](http://arxiv.org/abs/2506.16685v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[DRARL] DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy|[[pdf]](http://arxiv.org/abs/2506.16720v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[EASE] EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization|[[pdf]](http://arxiv.org/abs/2506.17516v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[en] A workflow for generating synthetic LiDAR datasets in simulation environments|[[pdf]](http://arxiv.org/abs/2506.17378v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|[Learning] Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control|[[pdf]](http://arxiv.org/abs/2506.16565v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal|[[pdf]](http://arxiv.org/abs/2506.16000v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|[GRPO-CARE] GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2506.16141v1)|⚠️|⭐️⭐️⭐️|
@@ -897,6 +930,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 871
+- Total Papers: 904
 - Code Implementations: 20
 - Last Updated: June 2025

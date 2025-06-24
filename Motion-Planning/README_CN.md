@@ -32,6 +32,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-23|[NOVA] NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments|[[pdf]](http://arxiv.org/abs/2506.18689v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Design, fabrication and control of a cable-driven parallel robot|[[pdf]](http://arxiv.org/abs/2506.18526v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[Quadruped] Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures|[[pdf]](http://arxiv.org/abs/2506.18812v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Multimodal Medical Image Binding via Shared Text Embeddings|[[pdf]](http://arxiv.org/abs/2506.18072v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[CFTel] CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation|[[pdf]](http://arxiv.org/abs/2506.17991v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|Grounding Language Models with Semantic Digital Twins for Robotic Planning|[[pdf]](http://arxiv.org/abs/2506.16493v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|Comparison between External and Internal Single Stage Planetary gearbox actuators for legged robots|[[pdf]](http://arxiv.org/abs/2506.16356v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|Efficient Navigation Among Movable Obstacles using a Mobile Manipulator via Hierarchical Policy Learning|[[pdf]](http://arxiv.org/abs/2506.15380v1)|⚠️|⭐️⭐️⭐️|
@@ -220,6 +225,6 @@
 
 ## 📊 统计
 
-- 论文总数：195篇
+- 论文总数：200篇
 - 代码实现：8个
 - 最后更新：2025年06月
