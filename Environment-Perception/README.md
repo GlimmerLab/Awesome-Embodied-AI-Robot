@@ -26,6 +26,7 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-23|Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle|[[pdf]](http://arxiv.org/abs/2506.18264v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[en] Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems|[[pdf]](http://arxiv.org/abs/2506.17775v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting|[[pdf]](http://arxiv.org/abs/2506.17462v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Trajectory] Distilling On-device Language Models for Robot Planning with Minimal Human Intervention|[[pdf]](http://arxiv.org/abs/2506.17486v1)|⚠️|⭐️⭐️⭐️|
@@ -145,6 +146,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 121
+- Total Papers: 122
 - Code Implementations: 8
 - Last Updated: June 2025

@@ -23,6 +23,7 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-23|[SViP] SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives|[[pdf]](http://arxiv.org/abs/2506.18825v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Robotic Manipulation of a Rotating Chain with Bottom End Fixed|[[pdf]](http://arxiv.org/abs/2506.18355v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|Adapting Vision-Language Models for Evaluating World Models|[[pdf]](http://arxiv.org/abs/2506.17967v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[VLA-OS] VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.17561v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[CLiViS] CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning|[[pdf]](http://arxiv.org/abs/2506.17629v1)|⚠️|⭐️⭐️⭐️|
@@ -148,6 +149,6 @@
 
 ## 📊 统计
 
-- 论文总数：124篇
+- 论文总数：125篇
 - 代码实现：6个
 - 最后更新：2025年06月

@@ -62,6 +62,12 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-23|Dual-level Behavioral Consistency for Inter-group and Intra-group Coordination in Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2506.18651v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Multi-Agent] Robot Tactile Gesture Recognition Based on Full-body Modular E-skin|[[pdf]](http://arxiv.org/abs/2506.18256v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Multi-Agent] Mirror Eyes: Explainable Human-Robot Interaction at a Glance|[[pdf]](http://arxiv.org/abs/2506.18466v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|A Multi-Scale Spatial Attention-Based Zero-Shot Learning Framework for Low-Light Image Enhancement|[[pdf]](http://arxiv.org/abs/2506.18323v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry|[[pdf]](http://arxiv.org/abs/2506.18580v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[TritonZ] TritonZ: A Remotely Operated Underwater Rover with Manipulator Arm for Exploration and Rescue Operations|[[pdf]](http://arxiv.org/abs/2506.18343v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|A Motivational Architecture for Open-Ended Learning Challenges in Robots|[[pdf]](http://arxiv.org/abs/2506.18454v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Crowdsourcing Ubiquitous Indoor Localization with Non-Cooperative Wi-Fi Ranging|[[pdf]](http://arxiv.org/abs/2506.18317v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[PG-LIO] PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry|[[pdf]](http://arxiv.org/abs/2506.18583v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|[RoboTwin 2.0] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.18088v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|[GeNIE] GeNIE: A Generalizable Navigation System for In-the-Wild Environments|[[pdf]](http://arxiv.org/abs/2506.17960v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents|[[pdf]](http://arxiv.org/abs/2506.17913v1)|⚠️|⭐️⭐️⭐️|
@@ -74,10 +80,16 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-22|Deep Learning-based Alignment Measurement in Knee Radiographs|[[pdf]](http://arxiv.org/abs/2506.18209v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|Geometric Contact Flows: Contactomorphisms for Dynamics and Control|[[pdf]](http://arxiv.org/abs/2506.17868v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|[en] Embedded Flexible Circumferential Sensing for Real-Time Intraoperative Environmental Perception in Continuum Robots|[[pdf]](http://arxiv.org/abs/2506.17902v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities|[[pdf]](http://arxiv.org/abs/2506.18019v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|Newtonian and Lagrangian Neural Networks: A Comparison Towards Efficient Inverse Dynamics Identification|[[pdf]](http://arxiv.org/abs/2506.17994v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-22|[RoboArena] RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies|[[pdf]](http://arxiv.org/abs/2506.18123v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[RLRC] RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.17639v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[en] Learning to Dock: A Simulation-based Study on Closing the Sim2Real Gap in Autonomous Underwater Docking|[[pdf]](http://arxiv.org/abs/2506.17823v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[en] RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2506.17811v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[en] Imitation Learning for Active Neck Motion Enabling Robot Manipulation beyond the Field of View|[[pdf]](http://arxiv.org/abs/2506.17624v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|Leveling the Playing Field: Carefully Comparing Classical and Learned Controllers for Quadrotor Trajectory Tracking|[[pdf]](http://arxiv.org/abs/2506.17832v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|Engagement and Disclosures in LLM-Powered Cognitive Behavioral Therapy Exercises: A Factorial Design Comparing the Influence of a Robot vs. Chatbot Over Time|[[pdf]](http://arxiv.org/abs/2506.17831v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-21|Generative Grasp Detection and Estimation with Concept Learning-based Safety Criteria|[[pdf]](http://arxiv.org/abs/2506.17842v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning|[[pdf]](http://arxiv.org/abs/2506.16931v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[AnyTraverse] AnyTraverse: An off-road traversability framework with VLM and human operator in the loop|[[pdf]](http://arxiv.org/abs/2506.16826v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Part$^{2}$GS] Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2506.17212v1)|⚠️|⭐️⭐️⭐️|
@@ -930,6 +942,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 904
+- Total Papers: 916
 - Code Implementations: 20
 - Last Updated: June 2025

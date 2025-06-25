@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to fundamental t
 |2025-06-23|[TAMMs] TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting|[[pdf]](http://arxiv.org/abs/2506.18862v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Matrix-Game] Matrix-Game: Interactive World Foundation Model|[[pdf]](http://arxiv.org/abs/2506.18701v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[en] Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team|[[pdf]](http://arxiv.org/abs/2506.18348v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[Drive-R1] Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.18234v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition|[[pdf]](http://arxiv.org/abs/2506.18721v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[DRAMA-X] DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving|[[pdf]](http://arxiv.org/abs/2506.17590v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You|[[pdf]](http://arxiv.org/abs/2506.16895v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[EmojiVoice] EmojiVoice: Towards long-term controllable expressivity in robot speech|[[pdf]](http://arxiv.org/abs/2506.15085v1)|⚠️|⭐️⭐️⭐️|
@@ -204,6 +206,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 183
+- Total Papers: 185
 - Code Implementations: 5
 - Last Updated: June 2025
