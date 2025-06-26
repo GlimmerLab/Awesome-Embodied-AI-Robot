@@ -18,6 +18,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-24|Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference|[[pdf]](http://arxiv.org/abs/2506.19303v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Is an object-centric representation beneficial for robotic manipulation ?|[[pdf]](http://arxiv.org/abs/2506.19408v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[UniTac-NV] UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors|[[pdf]](http://arxiv.org/abs/2506.19699v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Optimization-Induced Dynamics of Lipschitz Continuity in Neural Networks|[[pdf]](http://arxiv.org/abs/2506.18588v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[TAMMs] TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting|[[pdf]](http://arxiv.org/abs/2506.18862v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Matrix-Game] Matrix-Game: Interactive World Foundation Model|[[pdf]](http://arxiv.org/abs/2506.18701v1)|⚠️|⭐️⭐️⭐️|
@@ -26,6 +29,7 @@
 |2025-06-23|Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition|[[pdf]](http://arxiv.org/abs/2506.18721v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[DRAMA-X] DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving|[[pdf]](http://arxiv.org/abs/2506.17590v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You|[[pdf]](http://arxiv.org/abs/2506.16895v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-20|[en] Kinematic Model Optimization via Differentiable Contact Manifold for In-Space Manipulation|[[pdf]](http://arxiv.org/abs/2506.17458v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[EmojiVoice] EmojiVoice: Towards long-term controllable expressivity in robot speech|[[pdf]](http://arxiv.org/abs/2506.15085v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[MEM1] MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents|[[pdf]](http://arxiv.org/abs/2506.15841v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-18|[KG-FGNN] KG-FGNN: Knowledge-guided GNN Foundation Model for Fertilisation-oriented Soil GHG Flux Prediction|[[pdf]](http://arxiv.org/abs/2506.15896v1)|⚠️|⭐️⭐️⭐️|
@@ -206,6 +210,6 @@
 
 ## 📊 统计
 
-- 论文总数：185篇
+- 论文总数：189篇
 - 代码实现：5个
 - 最后更新：2025年06月

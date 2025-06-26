@@ -32,6 +32,7 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-24|Estimating Spatially-Dependent GPS Errors Using a Swarm of Robots|[[pdf]](http://arxiv.org/abs/2506.19712v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[NOVA] NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments|[[pdf]](http://arxiv.org/abs/2506.18689v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Design, fabrication and control of a cable-driven parallel robot|[[pdf]](http://arxiv.org/abs/2506.18526v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Quadruped] Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures|[[pdf]](http://arxiv.org/abs/2506.18812v1)|⚠️|⭐️⭐️⭐️|
@@ -225,6 +226,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 200
+- Total Papers: 201
 - Code Implementations: 8
 - Last Updated: June 2025

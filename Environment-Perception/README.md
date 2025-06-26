@@ -26,7 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-24|Robotics Under Construction: Challenges on Job Sites|[[pdf]](http://arxiv.org/abs/2506.19597v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[AirV2X] AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration|[[pdf]](http://arxiv.org/abs/2506.19283v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Ontology Neural Network and ORTSF: A Framework for Topological Reasoning and Delay-Robust Control|[[pdf]](http://arxiv.org/abs/2506.19277v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle|[[pdf]](http://arxiv.org/abs/2506.18264v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Multimodal Anomaly Detection with a Mixture-of-Experts|[[pdf]](http://arxiv.org/abs/2506.19077v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[en] Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems|[[pdf]](http://arxiv.org/abs/2506.17775v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting|[[pdf]](http://arxiv.org/abs/2506.17462v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Trajectory] Distilling On-device Language Models for Robot Planning with Minimal Human Intervention|[[pdf]](http://arxiv.org/abs/2506.17486v1)|⚠️|⭐️⭐️⭐️|
@@ -146,6 +150,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 122
+- Total Papers: 126
 - Code Implementations: 8
 - Last Updated: June 2025

@@ -47,6 +47,21 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-24|[AnchorDP3] AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.19269v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning|[[pdf]](http://arxiv.org/abs/2506.19592v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications|[[pdf]](http://arxiv.org/abs/2506.19491v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[JoyAgents-R1] JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.19846v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[NaviAgent] NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling|[[pdf]](http://arxiv.org/abs/2506.19500v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Scaffolding Dexterous Manipulation with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.19212v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects|[[pdf]](http://arxiv.org/abs/2506.19397v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Unified Vision-Language-Action Model|[[pdf]](http://arxiv.org/abs/2506.19850v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[T-Rex] T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.19498v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI|[[pdf]](http://arxiv.org/abs/2506.19613v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects|[[pdf]](http://arxiv.org/abs/2506.19579v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Learning Task Belief Similarity with Latent Dynamics for Meta-Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.19785v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Towards an Introspective Dynamic Model of Globally Distributed Computing Infrastructures|[[pdf]](http://arxiv.org/abs/2506.19578v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[CronusVLA] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation|[[pdf]](http://arxiv.org/abs/2506.19816v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[Multi-Agent] Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images|[[pdf]](http://arxiv.org/abs/2506.19747v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[LongWriter-Zero] LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.18841v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Federated Loss Exploration for Improved Convergence on Non-IID Data|[[pdf]](http://arxiv.org/abs/2506.18640v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances|[[pdf]](http://arxiv.org/abs/2506.18410v1)|⚠️|⭐️⭐️⭐️|
@@ -68,6 +83,9 @@
 |2025-06-23|A Motivational Architecture for Open-Ended Learning Challenges in Robots|[[pdf]](http://arxiv.org/abs/2506.18454v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Crowdsourcing Ubiquitous Indoor Localization with Non-Cooperative Wi-Fi Ranging|[[pdf]](http://arxiv.org/abs/2506.18317v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[PG-LIO] PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry|[[pdf]](http://arxiv.org/abs/2506.18583v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|Survey of HPC in US Research Institutions|[[pdf]](http://arxiv.org/abs/2506.19019v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[CUPID] CUPID: Curating Data your Robot Loves with Influence Functions|[[pdf]](http://arxiv.org/abs/2506.19121v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[FORTE] FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation|[[pdf]](http://arxiv.org/abs/2506.18960v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|[RoboTwin 2.0] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.18088v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|[GeNIE] GeNIE: A Generalizable Navigation System for In-the-Wild Environments|[[pdf]](http://arxiv.org/abs/2506.17960v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents|[[pdf]](http://arxiv.org/abs/2506.17913v1)|⚠️|⭐️⭐️⭐️|
@@ -942,6 +960,6 @@
 
 ## 📊 统计
 
-- 论文总数：916篇
+- 论文总数：934篇
 - 代码实现：20个
 - 最后更新：2025年06月

@@ -39,6 +39,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-24|[MATE] MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications|[[pdf]](http://arxiv.org/abs/2506.19502v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Simulation-Free Differential Dynamics through Neural Conservation Laws|[[pdf]](http://arxiv.org/abs/2506.18604v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[ParkFormer] ParkFormer: A Transformer-Based Parking Policy with Goal Embedding and Pedestrian-Aware Control|[[pdf]](http://arxiv.org/abs/2506.16856v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms|[[pdf]](http://arxiv.org/abs/2506.16710v1)|⚠️|⭐️⭐️⭐️|
@@ -205,6 +206,6 @@
 
 ## 📊 统计
 
-- 论文总数：180篇
+- 论文总数：181篇
 - 代码实现：21个
 - 最后更新：2025年06月

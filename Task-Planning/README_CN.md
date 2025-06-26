@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-24|[Mem4Nav] Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System|[[pdf]](http://arxiv.org/abs/2506.19433v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[The MOTIF Hand] The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors|[[pdf]](http://arxiv.org/abs/2506.19201v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[SViP] SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives|[[pdf]](http://arxiv.org/abs/2506.18825v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Robotic Manipulation of a Rotating Chain with Bottom End Fixed|[[pdf]](http://arxiv.org/abs/2506.18355v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-22|Adapting Vision-Language Models for Evaluating World Models|[[pdf]](http://arxiv.org/abs/2506.17967v1)|⚠️|⭐️⭐️⭐️|
@@ -149,6 +151,6 @@
 
 ## 📊 统计
 
-- 论文总数：125篇
+- 论文总数：127篇
 - 代码实现：6个
 - 最后更新：2025年06月
