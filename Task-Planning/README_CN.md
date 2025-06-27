@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-25|[SPARK] SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning|[[pdf]](http://arxiv.org/abs/2506.20394v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[PSALM-V] PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models|[[pdf]](http://arxiv.org/abs/2506.20097v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[Mem4Nav] Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System|[[pdf]](http://arxiv.org/abs/2506.19433v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[The MOTIF Hand] The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors|[[pdf]](http://arxiv.org/abs/2506.19201v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[SViP] SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives|[[pdf]](http://arxiv.org/abs/2506.18825v1)|⚠️|⭐️⭐️⭐️|
@@ -151,6 +153,6 @@
 
 ## 📊 统计
 
-- 论文总数：127篇
+- 论文总数：129篇
 - 代码实现：6个
 - 最后更新：2025年06月

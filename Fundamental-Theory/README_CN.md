@@ -18,9 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-25|The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind|[[pdf]](http://arxiv.org/abs/2506.20664v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference|[[pdf]](http://arxiv.org/abs/2506.19303v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[en] Is an object-centric representation beneficial for robotic manipulation ?|[[pdf]](http://arxiv.org/abs/2506.19408v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[UniTac-NV] UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors|[[pdf]](http://arxiv.org/abs/2506.19699v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Robust Embodied Self-Identification of Morphology in Damaged Multi-Legged Robots|[[pdf]](http://arxiv.org/abs/2506.19984v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Optimization-Induced Dynamics of Lipschitz Continuity in Neural Networks|[[pdf]](http://arxiv.org/abs/2506.18588v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[TAMMs] TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting|[[pdf]](http://arxiv.org/abs/2506.18862v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Matrix-Game] Matrix-Game: Interactive World Foundation Model|[[pdf]](http://arxiv.org/abs/2506.18701v1)|⚠️|⭐️⭐️⭐️|
@@ -210,6 +212,6 @@
 
 ## 📊 统计
 
-- 论文总数：189篇
+- 论文总数：191篇
 - 代码实现：5个
 - 最后更新：2025年06月

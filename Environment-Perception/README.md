@@ -31,6 +31,7 @@ This directory collects papers and code implementations related to environment p
 |2025-06-24|[en] Ontology Neural Network and ORTSF: A Framework for Topological Reasoning and Delay-Robust Control|[[pdf]](http://arxiv.org/abs/2506.19277v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle|[[pdf]](http://arxiv.org/abs/2506.18264v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Multimodal Anomaly Detection with a Mixture-of-Experts|[[pdf]](http://arxiv.org/abs/2506.19077v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-23|[en] FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation|[[pdf]](http://arxiv.org/abs/2506.18960v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-21|[en] Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems|[[pdf]](http://arxiv.org/abs/2506.17775v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting|[[pdf]](http://arxiv.org/abs/2506.17462v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-20|[Trajectory] Distilling On-device Language Models for Robot Planning with Minimal Human Intervention|[[pdf]](http://arxiv.org/abs/2506.17486v1)|⚠️|⭐️⭐️⭐️|
@@ -150,6 +151,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 126
+- Total Papers: 127
 - Code Implementations: 8
 - Last Updated: June 2025

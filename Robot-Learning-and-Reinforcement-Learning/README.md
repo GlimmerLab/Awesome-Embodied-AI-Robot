@@ -47,6 +47,15 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-25|[Irec] Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype|[[pdf]](http://arxiv.org/abs/2506.20156v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.20487v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[HRIBench] HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2506.20566v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[DemoDiffusion] DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy|[[pdf]](http://arxiv.org/abs/2506.20668v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Building Forest Inventories with Autonomous Legged Robots -- System, Lessons, and Challenges Ahead|[[pdf]](http://arxiv.org/abs/2506.20315v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[Quadruped] Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation|[[pdf]](http://arxiv.org/abs/2506.20553v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[CARMA] CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition|[[pdf]](http://arxiv.org/abs/2506.20373v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles|[[pdf]](http://arxiv.org/abs/2506.20311v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[Multi-Agent] Why Robots Are Bad at Detecting Their Mistakes: Limitations of Miscommunication Detection in Human-Robot Dialogue|[[pdf]](http://arxiv.org/abs/2506.20268v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[AnchorDP3] AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.19269v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning|[[pdf]](http://arxiv.org/abs/2506.19592v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications|[[pdf]](http://arxiv.org/abs/2506.19491v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +71,12 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-24|Towards an Introspective Dynamic Model of Globally Distributed Computing Infrastructures|[[pdf]](http://arxiv.org/abs/2506.19578v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[CronusVLA] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation|[[pdf]](http://arxiv.org/abs/2506.19816v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[Multi-Agent] Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images|[[pdf]](http://arxiv.org/abs/2506.19747v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Causal-Aware Intelligent QoE Optimization for VR Interaction with Adaptive Keyframe Extraction|[[pdf]](http://arxiv.org/abs/2506.19890v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[Multi-robot] Automated Generation of Diverse Courses of Actions for Multi-Agent Operations using Binary Optimization and Graph Learning|[[pdf]](http://arxiv.org/abs/2506.20031v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[ManiGaussian++] ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model|[[pdf]](http://arxiv.org/abs/2506.19842v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Robust Robotic Exploration and Mapping Using Generative Occupancy Map Synthesis|[[pdf]](http://arxiv.org/abs/2506.20049v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Hierarchical Reinforcement Learning and Value Optimization for Challenging Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2506.20036v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|Evolutionary Gait Reconfiguration in Damaged Legged Robots|[[pdf]](http://arxiv.org/abs/2506.19968v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[LongWriter-Zero] LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.18841v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Federated Loss Exploration for Improved Convergence on Non-IID Data|[[pdf]](http://arxiv.org/abs/2506.18640v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances|[[pdf]](http://arxiv.org/abs/2506.18410v1)|⚠️|⭐️⭐️⭐️|
@@ -960,6 +975,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 934
+- Total Papers: 949
 - Code Implementations: 20
 - Last Updated: June 2025

@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-25|[Multi-Agent] Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning|[[pdf]](http://arxiv.org/abs/2506.20212v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors|[[pdf]](http://arxiv.org/abs/2506.19201v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[en] TritonZ: A Remotely Operated Underwater Rover with Manipulator Arm for Exploration and Rescue Operations|[[pdf]](http://arxiv.org/abs/2506.18343v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Multi-Agent] Situated Haptic Interaction: Exploring the Role of Context in Affective Perception of Robotic Touch|[[pdf]](http://arxiv.org/abs/2506.19179v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation|[[pdf]](http://arxiv.org/abs/2506.16623v1)|⚠️|⭐️⭐️⭐️|
@@ -147,6 +149,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 122
+- Total Papers: 124
 - Code Implementations: 6
 - Last Updated: June 2025

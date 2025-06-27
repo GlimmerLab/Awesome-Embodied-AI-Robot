@@ -32,7 +32,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-25|Generating and Customizing Robotic Arm Trajectories using Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20259v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Near Time-Optimal Hybrid Motion Planning for Timber Cranes|[[pdf]](http://arxiv.org/abs/2506.20314v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[PIMBS] PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20343v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Enhanced Robotic Navigation in Deformable Environments using Learning from Demonstration and Dynamic Modulation|[[pdf]](http://arxiv.org/abs/2506.20376v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation|[[pdf]](http://arxiv.org/abs/2506.20320v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Estimating Spatially-Dependent GPS Errors Using a Swarm of Robots|[[pdf]](http://arxiv.org/abs/2506.19712v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[FlightKooba] FlightKooba: A Fast Interpretable FTP Model|[[pdf]](http://arxiv.org/abs/2506.19885v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[NOVA] NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments|[[pdf]](http://arxiv.org/abs/2506.18689v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Design, fabrication and control of a cable-driven parallel robot|[[pdf]](http://arxiv.org/abs/2506.18526v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Quadruped] Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures|[[pdf]](http://arxiv.org/abs/2506.18812v1)|⚠️|⭐️⭐️⭐️|
@@ -226,6 +232,6 @@
 
 ## 📊 统计
 
-- 论文总数：201篇
+- 论文总数：207篇
 - 代码实现：8个
 - 最后更新：2025年06月

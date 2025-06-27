@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-25|[Multi-Agent] Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning|[[pdf]](http://arxiv.org/abs/2506.20212v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors|[[pdf]](http://arxiv.org/abs/2506.19201v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[en] TritonZ: A Remotely Operated Underwater Rover with Manipulator Arm for Exploration and Rescue Operations|[[pdf]](http://arxiv.org/abs/2506.18343v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[Multi-Agent] Situated Haptic Interaction: Exploring the Role of Context in Affective Perception of Robotic Touch|[[pdf]](http://arxiv.org/abs/2506.19179v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-19|History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation|[[pdf]](http://arxiv.org/abs/2506.16623v1)|⚠️|⭐️⭐️⭐️|
@@ -147,6 +149,6 @@
 
 ## 📊 统计
 
-- 论文总数：122篇
+- 论文总数：124篇
 - 代码实现：6个
 - 最后更新：2025年06月
