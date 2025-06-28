@@ -32,11 +32,13 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-26|Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou|[[pdf]](http://arxiv.org/abs/2506.21269v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Generating and Customizing Robotic Arm Trajectories using Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20259v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Near Time-Optimal Hybrid Motion Planning for Timber Cranes|[[pdf]](http://arxiv.org/abs/2506.20314v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[PIMBS] PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20343v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Enhanced Robotic Navigation in Deformable Environments using Learning from Demonstration and Dynamic Modulation|[[pdf]](http://arxiv.org/abs/2506.20376v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation|[[pdf]](http://arxiv.org/abs/2506.20320v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Critical Anatomy-Preserving & Terrain-Augmenting Navigation (CAPTAiN): Application to Laminectomy Surgical Education|[[pdf]](http://arxiv.org/abs/2506.20496v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Estimating Spatially-Dependent GPS Errors Using a Swarm of Robots|[[pdf]](http://arxiv.org/abs/2506.19712v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[FlightKooba] FlightKooba: A Fast Interpretable FTP Model|[[pdf]](http://arxiv.org/abs/2506.19885v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[NOVA] NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments|[[pdf]](http://arxiv.org/abs/2506.18689v1)|⚠️|⭐️⭐️⭐️|
@@ -232,6 +234,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 207
+- Total Papers: 209
 - Code Implementations: 8
 - Last Updated: June 2025

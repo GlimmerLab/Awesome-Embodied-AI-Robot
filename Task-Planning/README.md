@@ -22,8 +22,11 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-26|Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.21039v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[STEP Planner] STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner|[[pdf]](http://arxiv.org/abs/2506.21030v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[SPARK] SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning|[[pdf]](http://arxiv.org/abs/2506.20394v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[PSALM-V] PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models|[[pdf]](http://arxiv.org/abs/2506.20097v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Generating and Customizing Robotic Arm Trajectories using Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20259v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[Mem4Nav] Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System|[[pdf]](http://arxiv.org/abs/2506.19433v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[The MOTIF Hand] The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors|[[pdf]](http://arxiv.org/abs/2506.19201v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[SViP] SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives|[[pdf]](http://arxiv.org/abs/2506.18825v1)|⚠️|⭐️⭐️⭐️|
@@ -153,6 +156,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 129
+- Total Papers: 132
 - Code Implementations: 6
 - Last Updated: June 2025

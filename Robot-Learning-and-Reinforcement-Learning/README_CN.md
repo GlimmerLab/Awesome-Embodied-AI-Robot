@@ -47,6 +47,21 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-26|Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments|[[pdf]](http://arxiv.org/abs/2506.21127v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks|[[pdf]](http://arxiv.org/abs/2506.21129v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Whole-Body Conditioned Egocentric Video Prediction|[[pdf]](http://arxiv.org/abs/2506.21552v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions|[[pdf]](http://arxiv.org/abs/2506.21057v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[en] Evidence-based diagnostic reasoning with multi-agent copilot for human pathology|[[pdf]](http://arxiv.org/abs/2506.20964v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|PsyLite Technical Report|[[pdf]](http://arxiv.org/abs/2506.21536v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[rQdia] rQdia: Regularizing Q-Value Distributions With Image Augmentation|[[pdf]](http://arxiv.org/abs/2506.21367v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[FeDa4Fair] FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation|[[pdf]](http://arxiv.org/abs/2506.21095v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Optimising 4th-Order Runge-Kutta Methods: A Dynamic Heuristic Approach for Efficiency and Low Storage|[[pdf]](http://arxiv.org/abs/2506.21465v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations|[[pdf]](http://arxiv.org/abs/2506.21205v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Control of Marine Robots in the Era of Data-Driven Intelligence|[[pdf]](http://arxiv.org/abs/2506.21063v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[GoIRL] GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2506.21121v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning|[[pdf]](http://arxiv.org/abs/2506.21427v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|"Who Should I Believe?": User Interpretation and Decision-Making When a Family Healthcare Robot Contradicts Human Memory|[[pdf]](http://arxiv.org/abs/2506.21322v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[en] ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2506.20969v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[Irec] Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype|[[pdf]](http://arxiv.org/abs/2506.20156v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.20487v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[HRIBench] HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2506.20566v1)|⚠️|⭐️⭐️⭐️|
@@ -56,6 +71,10 @@
 |2025-06-25|[CARMA] CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition|[[pdf]](http://arxiv.org/abs/2506.20373v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles|[[pdf]](http://arxiv.org/abs/2506.20311v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[Multi-Agent] Why Robots Are Bad at Detecting Their Mistakes: Limitations of Miscommunication Detection in Human-Robot Dialogue|[[pdf]](http://arxiv.org/abs/2506.20268v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[ConViTac] ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations|[[pdf]](http://arxiv.org/abs/2506.20757v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration|[[pdf]](http://arxiv.org/abs/2506.20307v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[FINN-GL] FINN-GL: Generalized Mixed-Precision Extensions for FPGA-Accelerated LSTMs|[[pdf]](http://arxiv.org/abs/2506.20810v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Learning-Based Distance Estimation for 360° Single-Sensor Setups|[[pdf]](http://arxiv.org/abs/2506.20586v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[AnchorDP3] AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.19269v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning|[[pdf]](http://arxiv.org/abs/2506.19592v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications|[[pdf]](http://arxiv.org/abs/2506.19491v1)|⚠️|⭐️⭐️⭐️|
@@ -77,6 +96,8 @@
 |2025-06-24|[en] Robust Robotic Exploration and Mapping Using Generative Occupancy Map Synthesis|[[pdf]](http://arxiv.org/abs/2506.20049v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[en] Hierarchical Reinforcement Learning and Value Optimization for Challenging Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2506.20036v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Evolutionary Gait Reconfiguration in Damaged Legged Robots|[[pdf]](http://arxiv.org/abs/2506.19968v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[TRACED] TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design|[[pdf]](http://arxiv.org/abs/2506.19997v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment|[[pdf]](http://arxiv.org/abs/2506.19620v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[LongWriter-Zero] LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.18841v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Federated Loss Exploration for Improved Convergence on Non-IID Data|[[pdf]](http://arxiv.org/abs/2506.18640v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances|[[pdf]](http://arxiv.org/abs/2506.18410v1)|⚠️|⭐️⭐️⭐️|
@@ -975,6 +996,6 @@
 
 ## 📊 统计
 
-- 论文总数：949篇
+- 论文总数：970篇
 - 代码实现：20个
 - 最后更新：2025年06月
