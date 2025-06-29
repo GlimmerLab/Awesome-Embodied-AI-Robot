@@ -62,6 +62,8 @@
 |2025-06-26|Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning|[[pdf]](http://arxiv.org/abs/2506.21427v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|"Who Should I Believe?": User Interpretation and Decision-Making When a Family Healthcare Robot Contradicts Human Memory|[[pdf]](http://arxiv.org/abs/2506.21322v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[en] ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2506.20969v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels|[[pdf]](http://arxiv.org/abs/2506.21151v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Our Coding Adventure: Using LLMs to Personalise the Narrative of a Tangible Programming Robot for Preschoolers|[[pdf]](http://arxiv.org/abs/2506.20982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[Irec] Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype|[[pdf]](http://arxiv.org/abs/2506.20156v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.20487v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[HRIBench] HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2506.20566v1)|⚠️|⭐️⭐️⭐️|
@@ -75,6 +77,8 @@
 |2025-06-25|Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration|[[pdf]](http://arxiv.org/abs/2506.20307v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[FINN-GL] FINN-GL: Generalized Mixed-Precision Extensions for FPGA-Accelerated LSTMs|[[pdf]](http://arxiv.org/abs/2506.20810v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Learning-Based Distance Estimation for 360° Single-Sensor Setups|[[pdf]](http://arxiv.org/abs/2506.20586v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|[Multi-Agent] A Review of Personalisation in Human-Robot Collaboration and Future Perspectives Towards Industry 5.0|[[pdf]](http://arxiv.org/abs/2506.20447v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Learn to Position -- A Novel Meta Method for Robotic Positioning|[[pdf]](http://arxiv.org/abs/2506.20445v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[AnchorDP3] AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.19269v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning|[[pdf]](http://arxiv.org/abs/2506.19592v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications|[[pdf]](http://arxiv.org/abs/2506.19491v1)|⚠️|⭐️⭐️⭐️|
@@ -996,6 +1000,6 @@
 
 ## 📊 统计
 
-- 论文总数：970篇
+- 论文总数：974篇
 - 代码实现：20个
 - 最后更新：2025年06月

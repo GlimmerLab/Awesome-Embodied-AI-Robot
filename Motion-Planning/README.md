@@ -33,6 +33,7 @@ This directory collects papers and code implementations related to motion planni
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-26|Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou|[[pdf]](http://arxiv.org/abs/2506.21269v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[en] Cooperative Circumnavigation for Multi-Quadrotor Systems via Onboard Sensing|[[pdf]](http://arxiv.org/abs/2506.20954v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Generating and Customizing Robotic Arm Trajectories using Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20259v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Near Time-Optimal Hybrid Motion Planning for Timber Cranes|[[pdf]](http://arxiv.org/abs/2506.20314v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[PIMBS] PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20343v1)|⚠️|⭐️⭐️⭐️|
@@ -234,6 +235,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 209
+- Total Papers: 210
 - Code Implementations: 8
 - Last Updated: June 2025

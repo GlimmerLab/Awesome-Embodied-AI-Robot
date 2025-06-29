@@ -29,7 +29,10 @@
 |2025-06-26|Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends|[[pdf]](http://arxiv.org/abs/2506.20966v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[ACTLLM] ACTLLM: Action Consistency Tuned Large Language Model|[[pdf]](http://arxiv.org/abs/2506.21250v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[CURL-SLAM] CURL-SLAM: Continuous and Compact LiDAR Mapping|[[pdf]](http://arxiv.org/abs/2506.21077v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[EndoFlow-SLAM] EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2506.21420v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Multimodal Behaviour Trees for Robotic Laboratory Task Automation|[[pdf]](http://arxiv.org/abs/2506.20399v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Agile Management for Machine Learning: A Systematic Mapping Study|[[pdf]](http://arxiv.org/abs/2506.20759v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-25|Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos|[[pdf]](http://arxiv.org/abs/2506.20550v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|Robotics Under Construction: Challenges on Job Sites|[[pdf]](http://arxiv.org/abs/2506.19597v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[AirV2X] AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration|[[pdf]](http://arxiv.org/abs/2506.19283v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[en] Ontology Neural Network and ORTSF: A Framework for Topological Reasoning and Delay-Robust Control|[[pdf]](http://arxiv.org/abs/2506.19277v1)|⚠️|⭐️⭐️⭐️|
@@ -155,6 +158,6 @@
 
 ## 📊 统计
 
-- 论文总数：131篇
+- 论文总数：134篇
 - 代码实现：8个
 - 最后更新：2025年06月
