@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-27|A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake|[[pdf]](http://arxiv.org/abs/2506.22338v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|Embodied Domain Adaptation for Object Detection|[[pdf]](http://arxiv.org/abs/2506.21860v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass|[[pdf]](http://arxiv.org/abs/2506.22364v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends|[[pdf]](http://arxiv.org/abs/2506.20966v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[ACTLLM] ACTLLM: Action Consistency Tuned Large Language Model|[[pdf]](http://arxiv.org/abs/2506.21250v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[CURL-SLAM] CURL-SLAM: Continuous and Compact LiDAR Mapping|[[pdf]](http://arxiv.org/abs/2506.21077v1)|⚠️|⭐️⭐️⭐️|
@@ -158,6 +161,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 134
+- Total Papers: 137
 - Code Implementations: 8
-- Last Updated: June 2025
+- Last Updated: July 2025

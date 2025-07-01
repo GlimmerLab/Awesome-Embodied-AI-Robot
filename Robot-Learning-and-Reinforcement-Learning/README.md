@@ -47,6 +47,16 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-27|[Embodied AI Agents] Embodied AI Agents: Modeling the World|[[pdf]](http://arxiv.org/abs/2506.22355v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization|[[pdf]](http://arxiv.org/abs/2506.22396v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception|[[pdf]](http://arxiv.org/abs/2506.22034v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|LMPVC and Policy Bank: Adaptive voice control for industrial robots with code generating LLMs and reusable Pythonic policies|[[pdf]](http://arxiv.org/abs/2506.22028v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation|[[pdf]](http://arxiv.org/abs/2506.22365v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|[PARSI] PARSI: Persian Authorship Recognition via Stylometric Integration|[[pdf]](http://arxiv.org/abs/2506.21840v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|A Practical Approach to Power Saving in Hearables Using Sub-Nyquist Sampling with Bandwidth Extension|[[pdf]](http://arxiv.org/abs/2506.22321v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|[ARMOR] ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks|[[pdf]](http://arxiv.org/abs/2506.22423v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|An Introduction to Zero-Order Optimization Techniques for Robotics|[[pdf]](http://arxiv.org/abs/2506.22087v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|[RM-Dijkstra] RM-Dijkstra: A surface optimal path planning algorithm based on Riemannian metric|[[pdf]](http://arxiv.org/abs/2506.22170v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments|[[pdf]](http://arxiv.org/abs/2506.21127v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks|[[pdf]](http://arxiv.org/abs/2506.21129v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Whole-Body Conditioned Egocentric Video Prediction|[[pdf]](http://arxiv.org/abs/2506.21552v1)|⚠️|⭐️⭐️⭐️|
@@ -65,6 +75,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-26|Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels|[[pdf]](http://arxiv.org/abs/2506.21151v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Our Coding Adventure: Using LLMs to Personalise the Narrative of a Tangible Programming Robot for Preschoolers|[[pdf]](http://arxiv.org/abs/2506.20982v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[ToosiCubix] ToosiCubix: Monocular 3D Cuboid Labeling via Vehicle Part Annotations|[[pdf]](http://arxiv.org/abs/2506.21358v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation|[[pdf]](http://arxiv.org/abs/2506.21732v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[APO] APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization|[[pdf]](http://arxiv.org/abs/2506.21655v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-26|[M3PO] M3PO: Massively Multi-Task Model-Based Policy Optimization|[[pdf]](http://arxiv.org/abs/2506.21782v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[Irec] Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype|[[pdf]](http://arxiv.org/abs/2506.20156v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.20487v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[HRIBench] HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2506.20566v1)|⚠️|⭐️⭐️⭐️|
@@ -104,6 +117,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-24|Evolutionary Gait Reconfiguration in Damaged Legged Robots|[[pdf]](http://arxiv.org/abs/2506.19968v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[TRACED] TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design|[[pdf]](http://arxiv.org/abs/2506.19997v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-24|[en] Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment|[[pdf]](http://arxiv.org/abs/2506.19620v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[Learning] Ark: An Open-source Python-based Framework for Robot Learning|[[pdf]](http://arxiv.org/abs/2506.21628v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] TOMD: A Trail-based Off-road Multimodal Dataset for Traversable Pathway Segmentation under Challenging Illumination Conditions|[[pdf]](http://arxiv.org/abs/2506.21630v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-24|[en] FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2506.21627v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|[LongWriter-Zero] LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.18841v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Federated Loss Exploration for Improved Convergence on Non-IID Data|[[pdf]](http://arxiv.org/abs/2506.18640v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-23|Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances|[[pdf]](http://arxiv.org/abs/2506.18410v1)|⚠️|⭐️⭐️⭐️|
@@ -1002,6 +1018,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 976
+- Total Papers: 992
 - Code Implementations: 20
-- Last Updated: June 2025
+- Last Updated: July 2025
