@@ -32,6 +32,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-30|[STCLocker] STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems|[[pdf]](http://arxiv.org/abs/2506.23995v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Motion Tracking with Muscles: Predictive Control of a Parametric Musculoskeletal Canine Model|[[pdf]](http://arxiv.org/abs/2506.23768v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[TOMI] TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure|[[pdf]](http://arxiv.org/abs/2506.23094v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[VolumetricSMPL] VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions|[[pdf]](http://arxiv.org/abs/2506.23236v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems|[[pdf]](http://arxiv.org/abs/2506.23173v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[Skill-Nav] Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface|[[pdf]](http://arxiv.org/abs/2506.21853v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou|[[pdf]](http://arxiv.org/abs/2506.21269v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[en] Cooperative Circumnavigation for Multi-Quadrotor Systems via Onboard Sensing|[[pdf]](http://arxiv.org/abs/2506.20954v1)|⚠️|⭐️⭐️⭐️|
@@ -237,6 +242,6 @@
 
 ## 📊 统计
 
-- 论文总数：212篇
+- 论文总数：217篇
 - 代码实现：8个
 - 最后更新：2025年07月

@@ -26,6 +26,8 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-30|A comprehensive control architecture for semi-autonomous dual-arm robots in agriculture settings|[[pdf]](http://arxiv.org/abs/2506.23723v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|[en] Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching|[[pdf]](http://arxiv.org/abs/2506.22784v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake|[[pdf]](http://arxiv.org/abs/2506.22338v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Embodied Domain Adaptation for Object Detection|[[pdf]](http://arxiv.org/abs/2506.21860v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass|[[pdf]](http://arxiv.org/abs/2506.22364v1)|⚠️|⭐️⭐️⭐️|
@@ -161,6 +163,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 137
+- Total Papers: 139
 - Code Implementations: 8
 - Last Updated: July 2025

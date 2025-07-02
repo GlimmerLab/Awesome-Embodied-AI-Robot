@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-28|[en] SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes|[[pdf]](http://arxiv.org/abs/2506.22956v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.21039v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[STEP Planner] STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner|[[pdf]](http://arxiv.org/abs/2506.21030v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[en] V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling|[[pdf]](http://arxiv.org/abs/2506.21041v1)|⚠️|⭐️⭐️⭐️|
@@ -159,6 +160,6 @@
 
 ## 📊 统计
 
-- 论文总数：135篇
+- 论文总数：136篇
 - 代码实现：6个
 - 最后更新：2025年07月

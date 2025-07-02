@@ -47,6 +47,37 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-30|[Multi-robot] Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning|[[pdf]](http://arxiv.org/abs/2506.23793v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Online Human Action Detection during Escorting|[[pdf]](http://arxiv.org/abs/2506.23573v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.23771v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[PAC Bench] PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?|[[pdf]](http://arxiv.org/abs/2506.23725v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[World4Omni] World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.23919v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems|[[pdf]](http://arxiv.org/abs/2506.24009v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Reinforcement Learning for Synchronised Flow Control in a Dual-Gate Resin Infusion System|[[pdf]](http://arxiv.org/abs/2506.23923v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments|[[pdf]](http://arxiv.org/abs/2506.23514v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[ZonUI-3B] ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding|[[pdf]](http://arxiv.org/abs/2506.23491v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice|[[pdf]](http://arxiv.org/abs/2506.23924v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Data Augmentation for Cognitive Behavioral Therapy: Leveraging ERNIE Language Models using Artificial Intelligence|[[pdf]](http://arxiv.org/abs/2506.23503v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[Adapt Your Body] Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.23944v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.23127v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[SIEDD] SIEDD: Shared-Implicit Encoder with Discrete Decoders|[[pdf]](http://arxiv.org/abs/2506.23382v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models|[[pdf]](http://arxiv.org/abs/2506.23164v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|AI's Euclid's Elements Moment: From Language Models to Computable Thought|[[pdf]](http://arxiv.org/abs/2506.23080v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop|[[pdf]](http://arxiv.org/abs/2506.23351v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[DexH2R] DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover|[[pdf]](http://arxiv.org/abs/2506.23152v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[ParticleFormer] ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2506.23126v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots|[[pdf]](http://arxiv.org/abs/2506.23125v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[RoboScape] RoboScape: Physics-informed Embodied World Model|[[pdf]](http://arxiv.org/abs/2506.23135v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[en] Curious Causality-Seeking Agents Learn Meta Causal World|[[pdf]](http://arxiv.org/abs/2506.23068v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[Quadruped] Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications|[[pdf]](http://arxiv.org/abs/2506.23114v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|Listener-Rewarded Thinking in VLMs for Image Preferences|[[pdf]](http://arxiv.org/abs/2506.22832v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation|[[pdf]](http://arxiv.org/abs/2506.22827v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|[SPI-BoTER] SPI-BoTER: Error Compensation for Industrial Robots via Sparse Attention Masking and Hybrid Loss with Spatial-Physical Information|[[pdf]](http://arxiv.org/abs/2506.22788v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|Robust Peg-in-Hole Assembly under Uncertainties via Compliant and Interactive Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2506.22766v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|Learning Efficient Robotic Garment Manipulation with Standardization|[[pdf]](http://arxiv.org/abs/2506.22769v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|[RoboPearls] RoboPearls: Editable Video Simulation for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.22756v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|Safe Reinforcement Learning with a Predictive Safety Filter for Motion Planning and Control: A Drifting Vehicle Example|[[pdf]](http://arxiv.org/abs/2506.22894v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|[en] Energy-Constrained Resilient Multi-Robot Coverage Control|[[pdf]](http://arxiv.org/abs/2506.22942v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[Embodied AI Agents] Embodied AI Agents: Modeling the World|[[pdf]](http://arxiv.org/abs/2506.22355v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization|[[pdf]](http://arxiv.org/abs/2506.22396v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception|[[pdf]](http://arxiv.org/abs/2506.22034v1)|⚠️|⭐️⭐️⭐️|
@@ -57,6 +88,8 @@
 |2025-06-27|[ARMOR] ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks|[[pdf]](http://arxiv.org/abs/2506.22423v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|An Introduction to Zero-Order Optimization Techniques for Robotics|[[pdf]](http://arxiv.org/abs/2506.22087v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[RM-Dijkstra] RM-Dijkstra: A surface optimal path planning algorithm based on Riemannian metric|[[pdf]](http://arxiv.org/abs/2506.22170v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|[Pixels-to-Graph] Pixels-to-Graph: Real-time Integration of Building Information Models and Scene Graphs for Semantic-Geometric Human-Robot Understanding|[[pdf]](http://arxiv.org/abs/2506.22593v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset|[[pdf]](http://arxiv.org/abs/2506.22554v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments|[[pdf]](http://arxiv.org/abs/2506.21127v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks|[[pdf]](http://arxiv.org/abs/2506.21129v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Whole-Body Conditioned Egocentric Video Prediction|[[pdf]](http://arxiv.org/abs/2506.21552v1)|⚠️|⭐️⭐️⭐️|
@@ -1018,6 +1051,6 @@
 
 ## 📊 统计
 
-- 论文总数：992篇
+- 论文总数：1025篇
 - 代码实现：20个
 - 最后更新：2025年07月

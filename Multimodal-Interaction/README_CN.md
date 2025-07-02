@@ -25,7 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-30|Passage-traversing optimal path planning with sampling-based algorithms|[[pdf]](http://arxiv.org/abs/2506.23614v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2506.22116v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-27|Bootstrapping Human-Like Planning via LLMs|[[pdf]](http://arxiv.org/abs/2506.22604v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[Multi-Agent] Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning|[[pdf]](http://arxiv.org/abs/2506.20212v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?|[[pdf]](http://arxiv.org/abs/2506.20795v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[en] Generating and Customizing Robotic Arm Trajectories using Neural Networks|[[pdf]](http://arxiv.org/abs/2506.20259v1)|⚠️|⭐️⭐️⭐️|
@@ -152,6 +154,6 @@
 
 ## 📊 统计
 
-- 论文总数：127篇
+- 论文总数：129篇
 - 代码实现：6个
 - 最后更新：2025年07月

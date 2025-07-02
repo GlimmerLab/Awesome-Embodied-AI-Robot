@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-30|A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents|[[pdf]](http://arxiv.org/abs/2506.23844v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[PokéAI] PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red|[[pdf]](http://arxiv.org/abs/2506.23689v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] A Survey on Vision-Language-Action Models for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.24044v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Are Large Language Models Capable of Deep Relational Reasoning? Insights from DeepSeek-R1 and Benchmark Comparisons|[[pdf]](http://arxiv.org/abs/2506.23128v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[en] SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions|[[pdf]](http://arxiv.org/abs/2506.23046v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation|[[pdf]](http://arxiv.org/abs/2506.21876v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[SPADE] SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space|[[pdf]](http://arxiv.org/abs/2506.21857v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[Agent-RewardBench] Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents|[[pdf]](http://arxiv.org/abs/2506.21252v1)|⚠️|⭐️⭐️⭐️|
@@ -222,6 +227,6 @@
 
 ## 📊 统计
 
-- 论文总数：201篇
+- 论文总数：206篇
 - 代码实现：5个
 - 最后更新：2025年07月

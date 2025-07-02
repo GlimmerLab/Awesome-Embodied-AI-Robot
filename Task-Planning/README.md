@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-06-28|[en] SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes|[[pdf]](http://arxiv.org/abs/2506.22956v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.21039v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[STEP Planner] STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner|[[pdf]](http://arxiv.org/abs/2506.21030v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[en] V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling|[[pdf]](http://arxiv.org/abs/2506.21041v1)|⚠️|⭐️⭐️⭐️|
@@ -159,6 +160,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 135
+- Total Papers: 136
 - Code Implementations: 6
 - Last Updated: July 2025
