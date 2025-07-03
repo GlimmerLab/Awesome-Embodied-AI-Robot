@@ -37,6 +37,9 @@ This directory collects papers and code implementations related to motion planni
 |2025-06-29|[TOMI] TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure|[[pdf]](http://arxiv.org/abs/2506.23094v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[VolumetricSMPL] VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions|[[pdf]](http://arxiv.org/abs/2506.23236v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems|[[pdf]](http://arxiv.org/abs/2506.23173v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Safe and Performant Deployment of Autonomous Systems via Model Predictive Control and Hamilton-Jacobi Reachability Analysis|[[pdf]](http://arxiv.org/abs/2506.23346v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|A Model Predictive Control Framework to Enhance Safety and Quality in Mobile Additive Manufacturing Systems|[[pdf]](http://arxiv.org/abs/2506.23400v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Flatness-based Finite-Horizon Multi-UAV Formation Trajectory Planning and Directionally Aware Collision Avoidance Tracking|[[pdf]](http://arxiv.org/abs/2506.23129v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[Skill-Nav] Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface|[[pdf]](http://arxiv.org/abs/2506.21853v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|Integrating Vehicle Acoustic Data for Enhanced Urban Traffic Management: A Study on Speed Classification in Suzhou|[[pdf]](http://arxiv.org/abs/2506.21269v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-26|[en] Cooperative Circumnavigation for Multi-Quadrotor Systems via Onboard Sensing|[[pdf]](http://arxiv.org/abs/2506.20954v1)|⚠️|⭐️⭐️⭐️|
@@ -242,6 +245,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 217
+- Total Papers: 220
 - Code Implementations: 8
 - Last Updated: July 2025

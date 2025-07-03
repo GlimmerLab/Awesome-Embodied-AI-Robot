@@ -59,6 +59,9 @@
 |2025-06-30|Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice|[[pdf]](http://arxiv.org/abs/2506.23924v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Data Augmentation for Cognitive Behavioral Therapy: Leveraging ERNIE Language Models using Artificial Intelligence|[[pdf]](http://arxiv.org/abs/2506.23503v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[Adapt Your Body] Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning|[[pdf]](http://arxiv.org/abs/2506.23944v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[SPIRAL] SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.24119v2)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment|[[pdf]](http://arxiv.org/abs/2506.23739v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Exploring Accelerated Skill Acquisition via Tandem Training for Colonoscopy|[[pdf]](http://arxiv.org/abs/2506.24046v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.23127v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[SIEDD] SIEDD: Shared-Implicit Encoder with Discrete Decoders|[[pdf]](http://arxiv.org/abs/2506.23382v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models|[[pdf]](http://arxiv.org/abs/2506.23164v1)|⚠️|⭐️⭐️⭐️|
@@ -70,6 +73,8 @@
 |2025-06-29|[RoboScape] RoboScape: Physics-informed Embodied World Model|[[pdf]](http://arxiv.org/abs/2506.23135v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[en] Curious Causality-Seeking Agents Learn Meta Causal World|[[pdf]](http://arxiv.org/abs/2506.23068v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[Quadruped] Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications|[[pdf]](http://arxiv.org/abs/2506.23114v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[PixelBoost] PixelBoost: Leveraging Brownian Motion for Realistic-Image Super-Resolution|[[pdf]](http://arxiv.org/abs/2506.23254v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Simplifying Data-Driven Modeling of the Volume-Flow-Pressure Relationship in Hydraulic Soft Robotic Actuators|[[pdf]](http://arxiv.org/abs/2506.23326v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-28|Listener-Rewarded Thinking in VLMs for Image Preferences|[[pdf]](http://arxiv.org/abs/2506.22832v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-28|Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation|[[pdf]](http://arxiv.org/abs/2506.22827v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-28|[SPI-BoTER] SPI-BoTER: Error Compensation for Industrial Robots via Sparse Attention Masking and Hybrid Loss with Spatial-Physical Information|[[pdf]](http://arxiv.org/abs/2506.22788v1)|⚠️|⭐️⭐️⭐️|
@@ -78,6 +83,7 @@
 |2025-06-28|[RoboPearls] RoboPearls: Editable Video Simulation for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2506.22756v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-28|Safe Reinforcement Learning with a Predictive Safety Filter for Motion Planning and Control: A Drifting Vehicle Example|[[pdf]](http://arxiv.org/abs/2506.22894v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-28|[en] Energy-Constrained Resilient Multi-Robot Coverage Control|[[pdf]](http://arxiv.org/abs/2506.22942v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-28|Scenario-Based Hierarchical Reinforcement Learning for Automated Driving Decision Making|[[pdf]](http://arxiv.org/abs/2506.23023v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[Embodied AI Agents] Embodied AI Agents: Modeling the World|[[pdf]](http://arxiv.org/abs/2506.22355v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization|[[pdf]](http://arxiv.org/abs/2506.22396v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception|[[pdf]](http://arxiv.org/abs/2506.22034v1)|⚠️|⭐️⭐️⭐️|
@@ -1051,6 +1057,6 @@
 
 ## 📊 统计
 
-- 论文总数：1025篇
+- 论文总数：1031篇
 - 代码实现：20个
 - 最后更新：2025年07月

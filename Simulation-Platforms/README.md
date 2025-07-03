@@ -41,7 +41,10 @@ This directory collects papers and code implementations related to simulation pl
 |:---:|:---:|:---:|:---:|:---:|
 |2025-06-30|Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins|[[pdf]](http://arxiv.org/abs/2506.23826v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|A Nonlinear Low-rank Representation Model with Convolutional Neural Network for Imputing Water Quality Data|[[pdf]](http://arxiv.org/abs/2506.23629v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[QPART] QPART: Adaptive Model Quantization and Dynamic Workload Balancing for Accuracy-aware Edge Inference|[[pdf]](http://arxiv.org/abs/2506.23934v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Federated Timeline Synthesis: Scalable and Private Methodology For Model Training and Deployment|[[pdf]](http://arxiv.org/abs/2506.23358v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|[InfGen] InfGen: Scenario Generation as Next Token Group Prediction|[[pdf]](http://arxiv.org/abs/2506.23316v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-29|Event-based Stereo Visual-Inertial Odometry with Voxel Map|[[pdf]](http://arxiv.org/abs/2506.23078v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[SceneDiffuser++] SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model|[[pdf]](http://arxiv.org/abs/2506.21976v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|[en] UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields|[[pdf]](http://arxiv.org/abs/2506.21884v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems|[[pdf]](http://arxiv.org/abs/2506.22374v1)|⚠️|⭐️⭐️⭐️|
@@ -227,6 +230,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 202
+- Total Papers: 205
 - Code Implementations: 21
 - Last Updated: July 2025
