@@ -25,8 +25,11 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-02|[VLAD] VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process|[[pdf]](http://arxiv.org/abs/2507.01284v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|How Do Vision-Language Models Process Conflicting Information Across Modalities?|[[pdf]](http://arxiv.org/abs/2507.01790v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Passage-traversing optimal path planning with sampling-based algorithms|[[pdf]](http://arxiv.org/abs/2506.23614v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Towards Universal Shared Control in Teleoperation Without Haptic Feedback|[[pdf]](http://arxiv.org/abs/2506.23624v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] User Concerns Regarding Social Robots for Mood Regulation: A Case Study on the "Sunday Blues"|[[pdf]](http://arxiv.org/abs/2507.00271v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2506.22116v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-27|Bootstrapping Human-Like Planning via LLMs|[[pdf]](http://arxiv.org/abs/2506.22604v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-25|[Multi-Agent] Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning|[[pdf]](http://arxiv.org/abs/2506.20212v1)|⚠️|⭐️⭐️⭐️|
@@ -155,6 +158,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 130
+- Total Papers: 133
 - Code Implementations: 6
 - Last Updated: July 2025

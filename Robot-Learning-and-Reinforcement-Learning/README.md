@@ -47,6 +47,38 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-02|[AC-DiT] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2507.01961v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Quantum-Assisted Automatic Path-Planning for Robotic Quality Inspection in Industry 4.0|[[pdf]](http://arxiv.org/abs/2507.01462v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Distributional Soft Actor-Critic with Diffusion Policy|[[pdf]](http://arxiv.org/abs/2507.01381v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[TriVLA] TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control|[[pdf]](http://arxiv.org/abs/2507.01424v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[TypeTele] TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types|[[pdf]](http://arxiv.org/abs/2507.01857v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[MoIRA] MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics|[[pdf]](http://arxiv.org/abs/2507.01843v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Efficient Collision Detection for Long and Slender Robotic Links in Euclidean Distance Fields: Application to a Forestry Crane|[[pdf]](http://arxiv.org/abs/2507.01705v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space|[[pdf]](http://arxiv.org/abs/2507.01723v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Depth Anything at Any Condition|[[pdf]](http://arxiv.org/abs/2507.01634v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Towards culturally-appropriate conversational AI for health in the majority world: An exploratory study with citizens and professionals in Latin America|[[pdf]](http://arxiv.org/abs/2507.01719v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Crafting Hanzi as Narrative Bridges: An AI Co-Creation Workshop for Elderly Migrants|[[pdf]](http://arxiv.org/abs/2507.01548v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[TD-MPC-Opt] TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents|[[pdf]](http://arxiv.org/abs/2507.01823v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[en] Approximation-free Control of Unknown Euler-Lagrangian Systems under Input Constraints|[[pdf]](http://arxiv.org/abs/2507.01426v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[Trajectory] Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives|[[pdf]](http://arxiv.org/abs/2507.01198v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Geometry-aware 4D Video Generation for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2507.01099v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[Hyper-Dexterous] Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations|[[pdf]](http://arxiv.org/abs/2507.00990v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[Box-QAymo] Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.00525v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[A Survey] A Survey: Learning Embodied Intelligence from Physical Simulators and World Models|[[pdf]](http://arxiv.org/abs/2507.00917v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[SonoGym] SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound|[[pdf]](http://arxiv.org/abs/2507.01152v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[RoboEval] RoboEval: Where Robotic Manipulation Meets Structured and Scalable Evaluation|[[pdf]](http://arxiv.org/abs/2507.00435v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Parallel Transmission Aware Co-Design: Enhancing Manipulator Performance Through Actuation-Space Optimization|[[pdf]](http://arxiv.org/abs/2507.00644v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion|[[pdf]](http://arxiv.org/abs/2507.01243v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] Residual Reward Models for Preference-based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.00611v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completion, and View-Invariant Object Representation from Multi-Camera Video|[[pdf]](http://arxiv.org/abs/2507.00339v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Imitation Learning for Satellite Attitude Control under Unknown Perturbations|[[pdf]](http://arxiv.org/abs/2507.01161v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Box Pose and Shape Estimation and Domain Adaptation for Large-Scale Warehouse Automation|[[pdf]](http://arxiv.org/abs/2507.00984v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|A Differentiable Distance Metric for Robotics Through Generalized Alternating Projection|[[pdf]](http://arxiv.org/abs/2507.01181v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] DIJE: Dense Image Jacobian Estimation for Robust Robotic Self-Recognition and Visual Servoing|[[pdf]](http://arxiv.org/abs/2507.00446v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery|[[pdf]](http://arxiv.org/abs/2507.00635v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] Generation of Indoor Open Street Maps for Robot Navigation from CAD Files|[[pdf]](http://arxiv.org/abs/2507.00552v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding|[[pdf]](http://arxiv.org/abs/2507.00416v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] I Move Therefore I Learn: Experience-Based Traversability in Outdoor Robotics|[[pdf]](http://arxiv.org/abs/2507.00882v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[Multi-robot] Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning|[[pdf]](http://arxiv.org/abs/2506.23793v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Online Human Action Detection during Escorting|[[pdf]](http://arxiv.org/abs/2506.23573v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.23771v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +94,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-06-30|[SPIRAL] SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.24119v2)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment|[[pdf]](http://arxiv.org/abs/2506.23739v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Exploring Accelerated Skill Acquisition via Tandem Training for Colonoscopy|[[pdf]](http://arxiv.org/abs/2506.24046v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] Control-Optimized Deep Reinforcement Learning for Artificially Intelligent Autonomous Systems|[[pdf]](http://arxiv.org/abs/2507.00268v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation|[[pdf]](http://arxiv.org/abs/2507.00273v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2506.23127v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[SIEDD] SIEDD: Shared-Implicit Encoder with Discrete Decoders|[[pdf]](http://arxiv.org/abs/2506.23382v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models|[[pdf]](http://arxiv.org/abs/2506.23164v1)|⚠️|⭐️⭐️⭐️|
@@ -1057,6 +1091,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1031
+- Total Papers: 1065
 - Code Implementations: 20
 - Last Updated: July 2025

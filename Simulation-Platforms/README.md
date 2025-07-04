@@ -39,9 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-02|AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions|[[pdf]](http://arxiv.org/abs/2507.01547v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[en] LLM-based Realistic Safety-Critical Driving Video Generation|[[pdf]](http://arxiv.org/abs/2507.01264v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[PI-WAN] PI-WAN: A Physics-Informed Wind-Adaptive Network for Quadrotor Dynamics Prediction in Unknown Environments|[[pdf]](http://arxiv.org/abs/2507.00816v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins|[[pdf]](http://arxiv.org/abs/2506.23826v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|A Nonlinear Low-rank Representation Model with Convolutional Neural Network for Imputing Water Quality Data|[[pdf]](http://arxiv.org/abs/2506.23629v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[QPART] QPART: Adaptive Model Quantization and Dynamic Workload Balancing for Accuracy-aware Edge Inference|[[pdf]](http://arxiv.org/abs/2506.23934v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Self-Supervised Multiview Xray Matching|[[pdf]](http://arxiv.org/abs/2507.00287v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Federated Timeline Synthesis: Scalable and Private Methodology For Model Training and Deployment|[[pdf]](http://arxiv.org/abs/2506.23358v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[InfGen] InfGen: Scenario Generation as Next Token Group Prediction|[[pdf]](http://arxiv.org/abs/2506.23316v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Event-based Stereo Visual-Inertial Odometry with Voxel Map|[[pdf]](http://arxiv.org/abs/2506.23078v1)|⚠️|⭐️⭐️⭐️|
@@ -230,6 +234,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 205
+- Total Papers: 209
 - Code Implementations: 21
 - Last Updated: July 2025

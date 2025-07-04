@@ -18,10 +18,15 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-02|[RALLY] RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms|[[pdf]](http://arxiv.org/abs/2507.01378v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact|[[pdf]](http://arxiv.org/abs/2507.00951v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for Optimizing the Token Economy of Large Language Models|[[pdf]](http://arxiv.org/abs/2507.00653v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications|[[pdf]](http://arxiv.org/abs/2507.00914v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents|[[pdf]](http://arxiv.org/abs/2506.23844v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[PokéAI] PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red|[[pdf]](http://arxiv.org/abs/2506.23689v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[en] A Survey on Vision-Language-Action Models for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2506.24044v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Towards foundational LiDAR world models with efficient latent flow matching|[[pdf]](http://arxiv.org/abs/2506.23434v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|[en] SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures|[[pdf]](http://arxiv.org/abs/2507.00209v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Are Large Language Models Capable of Deep Relational Reasoning? Insights from DeepSeek-R1 and Benchmark Comparisons|[[pdf]](http://arxiv.org/abs/2506.23128v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[en] SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions|[[pdf]](http://arxiv.org/abs/2506.23046v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[UrbanLLaVA] UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding|[[pdf]](http://arxiv.org/abs/2506.23219v1)|⚠️|⭐️⭐️⭐️|
@@ -229,6 +234,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 208
+- Total Papers: 213
 - Code Implementations: 5
 - Last Updated: July 2025

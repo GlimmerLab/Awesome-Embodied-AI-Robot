@@ -32,8 +32,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-01|Visual Anagrams Reveal Hidden Differences in Holistic Shape Processing Across Vision Models|[[pdf]](http://arxiv.org/abs/2507.00493v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[VISTA] VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2507.01125v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma|[[pdf]](http://arxiv.org/abs/2507.01081v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|Learning Steerable Imitation Controllers from Unstructured Animal Motions|[[pdf]](http://arxiv.org/abs/2507.00677v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-01|[en] A Miniature High-Resolution Tension Sensor Based on a Photo-Reflector for Robotic Hands and Grippers|[[pdf]](http://arxiv.org/abs/2507.00464v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[STCLocker] STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems|[[pdf]](http://arxiv.org/abs/2506.23995v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Motion Tracking with Muscles: Predictive Control of a Parametric Musculoskeletal Canine Model|[[pdf]](http://arxiv.org/abs/2506.23768v1)|⚠️|⭐️⭐️⭐️|
+|2025-06-30|Reconfiguring Digital Accountability: AI-Powered Innovations and Transnational Governance in a Postnational Accounting Context|[[pdf]](http://arxiv.org/abs/2507.00288v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[TOMI] TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure|[[pdf]](http://arxiv.org/abs/2506.23094v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|[VolumetricSMPL] VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions|[[pdf]](http://arxiv.org/abs/2506.23236v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-29|Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems|[[pdf]](http://arxiv.org/abs/2506.23173v1)|⚠️|⭐️⭐️⭐️|
@@ -245,6 +251,6 @@
 
 ## 📊 统计
 
-- 论文总数：220篇
+- 论文总数：226篇
 - 代码实现：8个
 - 最后更新：2025年07月
