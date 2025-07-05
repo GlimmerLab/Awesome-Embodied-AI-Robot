@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-03|[CyberRAG] CyberRAG: An agentic RAG cyber attack classification and reporting tool|[[pdf]](http://arxiv.org/abs/2507.02424v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Knowledge Graph-Based Explainable and Generalized Zero-Shot Semantic Communications|[[pdf]](http://arxiv.org/abs/2507.02291v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[RALLY] RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms|[[pdf]](http://arxiv.org/abs/2507.01378v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact|[[pdf]](http://arxiv.org/abs/2507.00951v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for Optimizing the Token Economy of Large Language Models|[[pdf]](http://arxiv.org/abs/2507.00653v1)|⚠️|⭐️⭐️⭐️|
@@ -234,6 +236,6 @@
 
 ## 📊 统计
 
-- 论文总数：213篇
+- 论文总数：215篇
 - 代码实现：5个
 - 最后更新：2025年07月

@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-02|RoboBrain 2.0 Technical Report|[[pdf]](http://arxiv.org/abs/2507.02029v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[Hyper-Dexterous] HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning|[[pdf]](http://arxiv.org/abs/2507.00833v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[VQ-VLA] VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers|[[pdf]](http://arxiv.org/abs/2507.01016v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-28|[en] SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes|[[pdf]](http://arxiv.org/abs/2506.22956v1)|⚠️|⭐️⭐️⭐️|
@@ -162,6 +163,6 @@
 
 ## 📊 统计
 
-- 论文总数：138篇
+- 论文总数：139篇
 - 代码实现：6个
 - 最后更新：2025年07月

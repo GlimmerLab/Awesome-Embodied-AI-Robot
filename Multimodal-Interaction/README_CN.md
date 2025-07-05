@@ -25,8 +25,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-03|Safe and Socially Aware Multi-Robot Coordination in Multi-Human Social Care Settings|[[pdf]](http://arxiv.org/abs/2507.02521v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[en] LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans|[[pdf]](http://arxiv.org/abs/2507.02861v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[VLAD] VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process|[[pdf]](http://arxiv.org/abs/2507.01284v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|How Do Vision-Language Models Process Conflicting Information Across Modalities?|[[pdf]](http://arxiv.org/abs/2507.01790v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[cVLA] cVLA: Towards Efficient Camera-Space VLAs|[[pdf]](http://arxiv.org/abs/2507.02190v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Passage-traversing optimal path planning with sampling-based algorithms|[[pdf]](http://arxiv.org/abs/2506.23614v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Towards Universal Shared Control in Teleoperation Without Haptic Feedback|[[pdf]](http://arxiv.org/abs/2506.23624v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|[en] User Concerns Regarding Social Robots for Mood Regulation: A Case Study on the "Sunday Blues"|[[pdf]](http://arxiv.org/abs/2507.00271v1)|⚠️|⭐️⭐️⭐️|
@@ -158,6 +161,6 @@
 
 ## 📊 统计
 
-- 论文总数：133篇
+- 论文总数：136篇
 - 代码实现：6个
 - 最后更新：2025年07月

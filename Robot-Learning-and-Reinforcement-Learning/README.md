@@ -47,6 +47,19 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-03|Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs|[[pdf]](http://arxiv.org/abs/2507.02778v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[DexVLG] DexVLG: Dexterous Vision-Language-Grasp Model at Scale|[[pdf]](http://arxiv.org/abs/2507.02747v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[HAC-LOCO] HAC-LOCO: Learning Hierarchical Active Compliance Control for Quadruped Locomotion under Continuous External Disturbances|[[pdf]](http://arxiv.org/abs/2507.02447v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[ArtGS] ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects|[[pdf]](http://arxiv.org/abs/2507.02600v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Grounding Intelligence in Movement|[[pdf]](http://arxiv.org/abs/2507.02771v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Path Planning using a One-shot-sampling Skeleton Map|[[pdf]](http://arxiv.org/abs/2507.02328v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[en] Multi-agent Auditory Scene Analysis|[[pdf]](http://arxiv.org/abs/2507.02755v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[en] Understanding Trade offs When Conditioning Synthetic Data|[[pdf]](http://arxiv.org/abs/2507.02217v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Offline Reinforcement Learning with Penalized Action Noise Injection|[[pdf]](http://arxiv.org/abs/2507.02356v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Order Acquisition Under Competitive Pressure: A Rapidly Adaptive Reinforcement Learning Approach for Ride-Hailing Subsidy Strategies|[[pdf]](http://arxiv.org/abs/2507.02244v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[MISCGrasp] MISCGrasp: Leveraging Multiple Integrated Scales and Contrastive Learning for Enhanced Volumetric Grasping|[[pdf]](http://arxiv.org/abs/2507.02672v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[MISC] MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints|[[pdf]](http://arxiv.org/abs/2507.02438v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[MultiGen] MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real|[[pdf]](http://arxiv.org/abs/2507.02864v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[AC-DiT] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2507.01961v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|Quantum-Assisted Automatic Path-Planning for Robotic Quality Inspection in Industry 4.0|[[pdf]](http://arxiv.org/abs/2507.01462v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|Distributional Soft Actor-Critic with Diffusion Policy|[[pdf]](http://arxiv.org/abs/2507.01381v2)|⚠️|⭐️⭐️⭐️|
@@ -60,6 +73,11 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-02|Crafting Hanzi as Narrative Bridges: An AI Co-Creation Workshop for Elderly Migrants|[[pdf]](http://arxiv.org/abs/2507.01548v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[TD-MPC-Opt] TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents|[[pdf]](http://arxiv.org/abs/2507.01823v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[en] Approximation-free Control of Unknown Euler-Lagrangian Systems under Input Constraints|[[pdf]](http://arxiv.org/abs/2507.01426v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[Dynamic] Towards Bio-Inspired Robotic Trajectory Planning via Self-Supervised RNN|[[pdf]](http://arxiv.org/abs/2507.02171v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[en] What Neuroscience Can Teach AI About Learning in Continuously Changing Environments|[[pdf]](http://arxiv.org/abs/2507.02103v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Neural Hamiltonian Operator|[[pdf]](http://arxiv.org/abs/2507.01313v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[Multi-Agent] Effective Explanations for Belief-Desire-Intention Robots: When and What to Explain|[[pdf]](http://arxiv.org/abs/2507.02016v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Augmented Bridge Spinal Fixation: A New Concept for Addressing Pedicle Screw Pullout via a Steerable Drilling Robot and Flexible Pedicle Screws|[[pdf]](http://arxiv.org/abs/2507.01753v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[Trajectory] Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives|[[pdf]](http://arxiv.org/abs/2507.01198v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Geometry-aware 4D Video Generation for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2507.01099v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[Hyper-Dexterous] Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations|[[pdf]](http://arxiv.org/abs/2507.00990v1)|⚠️|⭐️⭐️⭐️|
@@ -1091,6 +1109,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1065
+- Total Papers: 1083
 - Code Implementations: 20
 - Last Updated: July 2025

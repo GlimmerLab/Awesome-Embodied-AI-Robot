@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-03|Trajectory Optimization for Differential Drive Mobile Manipulators via Topological Paths Search and Arc Length-Yaw Parameterization|[[pdf]](http://arxiv.org/abs/2507.02761v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[GeoAda] GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters|[[pdf]](http://arxiv.org/abs/2507.02085v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[S3D] S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures|[[pdf]](http://arxiv.org/abs/2507.01779v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Visual Anagrams Reveal Hidden Differences in Holistic Shape Processing Across Vision Models|[[pdf]](http://arxiv.org/abs/2507.00493v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[VISTA] VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2507.01125v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma|[[pdf]](http://arxiv.org/abs/2507.01081v1)|⚠️|⭐️⭐️⭐️|
@@ -251,6 +254,6 @@
 
 ## 📊 统计
 
-- 论文总数：226篇
+- 论文总数：229篇
 - 代码实现：8个
 - 最后更新：2025年07月
