@@ -41,9 +41,13 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-03|Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development|[[pdf]](http://arxiv.org/abs/2507.02602v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion|[[pdf]](http://arxiv.org/abs/2507.02547v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Integrating path-planning and control for robotic unicycles|[[pdf]](http://arxiv.org/abs/2507.02700v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Uncertainty-aware Reward Design Process|[[pdf]](http://arxiv.org/abs/2507.02256v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions|[[pdf]](http://arxiv.org/abs/2507.01547v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[en] LLM-based Realistic Safety-Critical Driving Video Generation|[[pdf]](http://arxiv.org/abs/2507.01264v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|What does really matter in image goal navigation?|[[pdf]](http://arxiv.org/abs/2507.01667v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Resolving Turbulent Magnetohydrodynamics: A Hybrid Operator-Diffusion Framework|[[pdf]](http://arxiv.org/abs/2507.02106v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations|[[pdf]](http://arxiv.org/abs/2507.01930v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[PI-WAN] PI-WAN: A Physics-Informed Wind-Adaptive Network for Quadrotor Dynamics Prediction in Unknown Environments|[[pdf]](http://arxiv.org/abs/2507.00816v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Discovery of Fatigue Strength Models via Feature Engineering and automated eXplainable Machine Learning applied to the welded Transverse Stiffener|[[pdf]](http://arxiv.org/abs/2507.02005v1)|⚠️|⭐️⭐️⭐️|
 |2025-06-30|Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins|[[pdf]](http://arxiv.org/abs/2506.23826v1)|⚠️|⭐️⭐️⭐️|
@@ -238,6 +242,6 @@
 
 ## 📊 统计
 
-- 论文总数：213篇
+- 论文总数：217篇
 - 代码实现：21个
 - 最后更新：2025年07月

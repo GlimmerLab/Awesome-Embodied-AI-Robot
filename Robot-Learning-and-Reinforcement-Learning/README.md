@@ -60,6 +60,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-03|[MISCGrasp] MISCGrasp: Leveraging Multiple Integrated Scales and Contrastive Learning for Enhanced Volumetric Grasping|[[pdf]](http://arxiv.org/abs/2507.02672v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[MISC] MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints|[[pdf]](http://arxiv.org/abs/2507.02438v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[MultiGen] MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real|[[pdf]](http://arxiv.org/abs/2507.02864v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|Spotlighting Partially Visible Cinematic Language for Video-to-Audio Generation via Self-distillation|[[pdf]](http://arxiv.org/abs/2507.02271v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems|[[pdf]](http://arxiv.org/abs/2507.02400v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[AC-DiT] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2507.01961v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|Quantum-Assisted Automatic Path-Planning for Robotic Quality Inspection in Industry 4.0|[[pdf]](http://arxiv.org/abs/2507.01462v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|Distributional Soft Actor-Critic with Diffusion Policy|[[pdf]](http://arxiv.org/abs/2507.01381v2)|⚠️|⭐️⭐️⭐️|
@@ -1109,6 +1111,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1083
+- Total Papers: 1085
 - Code Implementations: 20
 - Last Updated: July 2025
