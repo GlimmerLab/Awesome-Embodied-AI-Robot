@@ -80,6 +80,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-02|Neural Hamiltonian Operator|[[pdf]](http://arxiv.org/abs/2507.01313v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[Multi-Agent] Effective Explanations for Belief-Desire-Intention Robots: When and What to Explain|[[pdf]](http://arxiv.org/abs/2507.02016v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|Augmented Bridge Spinal Fixation: A New Concept for Addressing Pedicle Screw Pullout via a Steerable Drilling Robot and Flexible Pedicle Screws|[[pdf]](http://arxiv.org/abs/2507.01753v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|[Chargax] Chargax: A JAX Accelerated EV Charging Simulator|[[pdf]](http://arxiv.org/abs/2507.01522v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[Trajectory] Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives|[[pdf]](http://arxiv.org/abs/2507.01198v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Geometry-aware 4D Video Generation for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2507.01099v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|[Hyper-Dexterous] Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations|[[pdf]](http://arxiv.org/abs/2507.00990v1)|⚠️|⭐️⭐️⭐️|
@@ -1111,6 +1112,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1085
+- Total Papers: 1086
 - Code Implementations: 20
 - Last Updated: July 2025

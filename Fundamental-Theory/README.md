@@ -21,6 +21,7 @@ This directory collects papers and code implementations related to fundamental t
 |2025-07-03|[CyberRAG] CyberRAG: An agentic RAG cyber attack classification and reporting tool|[[pdf]](http://arxiv.org/abs/2507.02424v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Knowledge Graph-Based Explainable and Generalized Zero-Shot Semantic Communications|[[pdf]](http://arxiv.org/abs/2507.02291v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[RALLY] RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms|[[pdf]](http://arxiv.org/abs/2507.01378v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-02|A Survey on Vision-Language-Action Models: An Action Tokenization Perspective|[[pdf]](http://arxiv.org/abs/2507.01925v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact|[[pdf]](http://arxiv.org/abs/2507.00951v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for Optimizing the Token Economy of Large Language Models|[[pdf]](http://arxiv.org/abs/2507.00653v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-01|Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications|[[pdf]](http://arxiv.org/abs/2507.00914v1)|⚠️|⭐️⭐️⭐️|
@@ -236,6 +237,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 215
+- Total Papers: 216
 - Code Implementations: 5
 - Last Updated: July 2025
