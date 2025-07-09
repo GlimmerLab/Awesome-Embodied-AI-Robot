@@ -25,8 +25,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-07|[VOTE] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting|[[pdf]](http://arxiv.org/abs/2507.05116v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[en] Human-centered AI with focus on Human-robot interaction (Book chapter)|[[pdf]](http://arxiv.org/abs/2507.04095v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Safe and Socially Aware Multi-Robot Coordination in Multi-Human Social Care Settings|[[pdf]](http://arxiv.org/abs/2507.02521v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[en] LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans|[[pdf]](http://arxiv.org/abs/2507.02861v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-03|[en] Personalised Explanations in Long-term Human-Robot Interactions|[[pdf]](http://arxiv.org/abs/2507.03049v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[VLAD] VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process|[[pdf]](http://arxiv.org/abs/2507.01284v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|How Do Vision-Language Models Process Conflicting Information Across Modalities?|[[pdf]](http://arxiv.org/abs/2507.01790v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[cVLA] cVLA: Towards Efficient Camera-Space VLAs|[[pdf]](http://arxiv.org/abs/2507.02190v1)|⚠️|⭐️⭐️⭐️|
@@ -161,6 +164,6 @@
 
 ## 📊 统计
 
-- 论文总数：136篇
+- 论文总数：139篇
 - 代码实现：6个
 - 最后更新：2025年07月

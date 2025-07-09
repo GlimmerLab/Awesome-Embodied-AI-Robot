@@ -47,6 +47,38 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-07|When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning|[[pdf]](http://arxiv.org/abs/2507.05011v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[VerifyLLM] VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots|[[pdf]](http://arxiv.org/abs/2507.05118v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2507.05244v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving|[[pdf]](http://arxiv.org/abs/2507.05254v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|Training-free Generation of Temporally Consistent Rewards from VLMs|[[pdf]](http://arxiv.org/abs/2507.04789v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[IDAGC] IDAGC: Adaptive Generalized Human-Robot Collaboration via Human Intent Estimation and Multimodal Policy Learning|[[pdf]](http://arxiv.org/abs/2507.04620v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[EmbodieDreamer] EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling|[[pdf]](http://arxiv.org/abs/2507.05198v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[DRAE] DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics|[[pdf]](http://arxiv.org/abs/2507.04661v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[LERa] LERa: Replanning with Visual Feedback in Instruction Following|[[pdf]](http://arxiv.org/abs/2507.05135v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[MOSU] MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding|[[pdf]](http://arxiv.org/abs/2507.04686v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[en] Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.05251v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[PRISM] PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation|[[pdf]](http://arxiv.org/abs/2507.04633v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|Bio-Inspired Hybrid Map: Spatial Implicit Local Frames and Topological Map for Mobile Cobot Navigation|[[pdf]](http://arxiv.org/abs/2507.04649v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[CueLearner] CueLearner: Bootstrapping and local policy adaptation from relative feedback|[[pdf]](http://arxiv.org/abs/2507.04730v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[en] From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems|[[pdf]](http://arxiv.org/abs/2507.04996v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations|[[pdf]](http://arxiv.org/abs/2507.04356v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[MVL-Loc] MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization|[[pdf]](http://arxiv.org/abs/2507.04509v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|Design Optimization of Three-Dimensional Wire Arrangement Considering Wire Crossings for Tendon-driven Robots|[[pdf]](http://arxiv.org/abs/2507.04235v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[WebSynthesis] WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis|[[pdf]](http://arxiv.org/abs/2507.04370v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[SimLauncher] SimLauncher: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training|[[pdf]](http://arxiv.org/abs/2507.04452v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|Efficient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills|[[pdf]](http://arxiv.org/abs/2507.04229v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[VLM-TDP] VLM-TDP: VLM-guided Trajectory-conditioned Diffusion Policy for Robust Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2507.04524v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[AutoLayout] AutoLayout: Closed-Loop Layout Synthesis via Slow-Fast Collaborative Reasoning|[[pdf]](http://arxiv.org/abs/2507.04293v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[en] Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars|[[pdf]](http://arxiv.org/abs/2507.04321v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.04140v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|Optimizing Age of Trust and Throughput in Multi-Hop UAV-Aided IoT Networks|[[pdf]](http://arxiv.org/abs/2507.03950v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|Enhancing Adaptive Behavioral Interventions with LLM Inference from Participant-Described States|[[pdf]](http://arxiv.org/abs/2507.03871v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[en] Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning|[[pdf]](http://arxiv.org/abs/2507.04086v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[en] Generalized Locomotion in Out-of-distribution Conditions with Robust Transformer|[[pdf]](http://arxiv.org/abs/2507.04039v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|[H2HTalk] H2HTalk: Evaluating Large Language Models as Emotional Companion|[[pdf]](http://arxiv.org/abs/2507.03543v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|[DESign] DESign: Dynamic Context-Aware Convolution and Efficient Subnet Regularization for Continuous Sign Language Recognition|[[pdf]](http://arxiv.org/abs/2507.03339v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting|[[pdf]](http://arxiv.org/abs/2507.03227v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs|[[pdf]](http://arxiv.org/abs/2507.02778v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[DexVLG] DexVLG: Dexterous Vision-Language-Grasp Model at Scale|[[pdf]](http://arxiv.org/abs/2507.02747v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[HAC-LOCO] HAC-LOCO: Learning Hierarchical Active Compliance Control for Quadruped Locomotion under Continuous External Disturbances|[[pdf]](http://arxiv.org/abs/2507.02447v1)|⚠️|⭐️⭐️⭐️|
@@ -1112,6 +1144,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1086
+- Total Papers: 1118
 - Code Implementations: 20
 - Last Updated: July 2025

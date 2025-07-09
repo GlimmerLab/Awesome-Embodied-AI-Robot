@@ -18,6 +18,13 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-07|Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift|[[pdf]](http://arxiv.org/abs/2507.05110v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|"Hi AirStar, Guide Me to the Badminton Court."|[[pdf]](http://arxiv.org/abs/2507.04430v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[ZERO] ZERO: Multi-modal Prompt-based Visual Grounding|[[pdf]](http://arxiv.org/abs/2507.04270v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|Accurate and Efficient World Modeling with Masked Latent Transformers|[[pdf]](http://arxiv.org/abs/2507.04075v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|[LTLCrit] LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents|[[pdf]](http://arxiv.org/abs/2507.03293v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|[BMMR] BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset|[[pdf]](http://arxiv.org/abs/2507.03483v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|Effects of structure on reasoning in instance-level Self-Discover|[[pdf]](http://arxiv.org/abs/2507.03347v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[CyberRAG] CyberRAG: An agentic RAG cyber attack classification and reporting tool|[[pdf]](http://arxiv.org/abs/2507.02424v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Knowledge Graph-Based Explainable and Generalized Zero-Shot Semantic Communications|[[pdf]](http://arxiv.org/abs/2507.02291v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[RALLY] RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms|[[pdf]](http://arxiv.org/abs/2507.01378v1)|⚠️|⭐️⭐️⭐️|
@@ -237,6 +244,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 216
+- Total Papers: 223
 - Code Implementations: 5
 - Last Updated: July 2025

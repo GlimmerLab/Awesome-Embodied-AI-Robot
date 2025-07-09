@@ -39,6 +39,14 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-07|[MCFormer] MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry|[[pdf]](http://arxiv.org/abs/2507.04750v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[Beyond Features] Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance|[[pdf]](http://arxiv.org/abs/2507.05098v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[en] Leadership Detection via Time-Lagged Correlation-Based Network Inference|[[pdf]](http://arxiv.org/abs/2507.04917v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[OGF] OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows|[[pdf]](http://arxiv.org/abs/2507.05149v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|Grounded Gesture Generation: Language, Motion, and Space|[[pdf]](http://arxiv.org/abs/2507.04522v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-06|[en] Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties|[[pdf]](http://arxiv.org/abs/2507.04227v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[Driver-Net] Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles|[[pdf]](http://arxiv.org/abs/2507.04139v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[T-SYNTH] T-SYNTH: A Knowledge-Based Dataset of Synthetic Breast Images|[[pdf]](http://arxiv.org/abs/2507.04038v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development|[[pdf]](http://arxiv.org/abs/2507.02602v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion|[[pdf]](http://arxiv.org/abs/2507.02547v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Integrating path-planning and control for robotic unicycles|[[pdf]](http://arxiv.org/abs/2507.02700v1)|⚠️|⭐️⭐️⭐️|
@@ -242,6 +250,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 217
+- Total Papers: 225
 - Code Implementations: 21
 - Last Updated: July 2025

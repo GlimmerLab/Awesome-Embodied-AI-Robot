@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-07|Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning|[[pdf]](http://arxiv.org/abs/2507.04790v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|Infrastructuring Contestability: A Framework for Community-Defined AI Value Pluralism|[[pdf]](http://arxiv.org/abs/2507.05187v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|Robust and Modular Multi-Limb Synchronization in Motion Stack for Space Robots with Trajectory Clamping via Hypersphere|[[pdf]](http://arxiv.org/abs/2507.03934v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[DK-RRT] DK-RRT: Deep Koopman RRT for Collision-Aware Motion Planning of Space Manipulators in Dynamic Debris Environments|[[pdf]](http://arxiv.org/abs/2507.03878v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|Comparative Evaluation of VR-Enabled Robots and Human Operators for Targeted Disease Management in Vineyards|[[pdf]](http://arxiv.org/abs/2507.04167v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-04|[en] Label-Free Long-Horizon 3D UAV Trajectory Prediction via Motion-Aligned RGB and Event Cues|[[pdf]](http://arxiv.org/abs/2507.03365v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|Trajectory Optimization for Differential Drive Mobile Manipulators via Topological Paths Search and Arc Length-Yaw Parameterization|[[pdf]](http://arxiv.org/abs/2507.02761v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[GeoAda] GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters|[[pdf]](http://arxiv.org/abs/2507.02085v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-02|[S3D] S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures|[[pdf]](http://arxiv.org/abs/2507.01779v1)|⚠️|⭐️⭐️⭐️|
@@ -256,6 +262,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 231
+- Total Papers: 237
 - Code Implementations: 8
 - Last Updated: July 2025

@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-07|Safe Bimanual Teleoperation with Language-Guided Collision Avoidance|[[pdf]](http://arxiv.org/abs/2507.04791v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[en] Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums|[[pdf]](http://arxiv.org/abs/2507.04910v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-05|[Gaussian-LIC2] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2507.04004v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[ClustOpt] ClustOpt: A Clustering-based Approach for Representing and Visualizing the Search Dynamics of Numerical Metaheuristic Optimization Algorithms|[[pdf]](http://arxiv.org/abs/2507.02337v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion|[[pdf]](http://arxiv.org/abs/2507.02430v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[CoInfra] CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather|[[pdf]](http://arxiv.org/abs/2507.02245v1)|⚠️|⭐️⭐️⭐️|
@@ -170,6 +173,6 @@
 
 ## 📊 统计
 
-- 论文总数：146篇
+- 论文总数：149篇
 - 代码实现：8个
 - 最后更新：2025年07月
