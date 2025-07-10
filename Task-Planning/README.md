@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube|[[pdf]](http://arxiv.org/abs/2507.05607v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[SCCRUB] SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles|[[pdf]](http://arxiv.org/abs/2507.06053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[CREW-WILDFIRE] CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale|[[pdf]](http://arxiv.org/abs/2507.05178v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Unifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization|[[pdf]](http://arxiv.org/abs/2507.04949v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|[DreamVLA] DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge|[[pdf]](http://arxiv.org/abs/2507.04447v1)|⚠️|⭐️⭐️⭐️|
@@ -167,6 +169,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 143
+- Total Papers: 145
 - Code Implementations: 6
 - Last Updated: July 2025

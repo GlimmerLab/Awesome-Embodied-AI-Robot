@@ -32,8 +32,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data|[[pdf]](http://arxiv.org/abs/2507.05884v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[AURA-CVC] AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization|[[pdf]](http://arxiv.org/abs/2507.05979v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning|[[pdf]](http://arxiv.org/abs/2507.04790v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Infrastructuring Contestability: A Framework for Community-Defined AI Value Pluralism|[[pdf]](http://arxiv.org/abs/2507.05187v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[EXPOTION] EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation|[[pdf]](http://arxiv.org/abs/2507.04955v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-05|Robust and Modular Multi-Limb Synchronization in Motion Stack for Space Robots with Trajectory Clamping via Hypersphere|[[pdf]](http://arxiv.org/abs/2507.03934v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-05|[DK-RRT] DK-RRT: Deep Koopman RRT for Collision-Aware Motion Planning of Space Manipulators in Dynamic Debris Environments|[[pdf]](http://arxiv.org/abs/2507.03878v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-05|Comparative Evaluation of VR-Enabled Robots and Human Operators for Targeted Disease Management in Vineyards|[[pdf]](http://arxiv.org/abs/2507.04167v1)|⚠️|⭐️⭐️⭐️|
@@ -262,6 +265,6 @@
 
 ## 📊 统计
 
-- 论文总数：237篇
+- 论文总数：240篇
 - 代码实现：8个
 - 最后更新：2025年07月

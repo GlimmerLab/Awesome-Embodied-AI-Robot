@@ -26,8 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|[TextPixs] TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision|[[pdf]](http://arxiv.org/abs/2507.06033v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Safe Bimanual Teleoperation with Language-Guided Collision Avoidance|[[pdf]](http://arxiv.org/abs/2507.04791v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums|[[pdf]](http://arxiv.org/abs/2507.04910v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[en] Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations|[[pdf]](http://arxiv.org/abs/2507.05260v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-05|[Gaussian-LIC2] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2507.04004v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|[ClustOpt] ClustOpt: A Clustering-based Approach for Representing and Visualizing the Search Dynamics of Numerical Metaheuristic Optimization Algorithms|[[pdf]](http://arxiv.org/abs/2507.02337v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-03|A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion|[[pdf]](http://arxiv.org/abs/2507.02430v1)|⚠️|⭐️⭐️⭐️|
@@ -173,6 +175,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 149
+- Total Papers: 151
 - Code Implementations: 8
 - Last Updated: July 2025

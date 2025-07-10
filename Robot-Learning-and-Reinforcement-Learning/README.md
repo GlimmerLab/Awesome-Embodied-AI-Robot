@@ -47,6 +47,20 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|[GTA1] GTA1: GUI Test-time Scaling Agent|[[pdf]](http://arxiv.org/abs/2507.05791v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[CogniSQL-R1-Zero] CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation|[[pdf]](http://arxiv.org/abs/2507.06013v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control|[[pdf]](http://arxiv.org/abs/2507.05674v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|PAPRLE (Plug-And-Play Robotic Limb Environment): A Modular Ecosystem for Robotic Limbs|[[pdf]](http://arxiv.org/abs/2507.05555v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[EC-Flow] EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow|[[pdf]](http://arxiv.org/abs/2507.06224v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Is Diversity All You Need for Scalable Robotic Manipulation?|[[pdf]](http://arxiv.org/abs/2507.06219v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Empowering Bridge Digital Twins by Bridging the Data Gap with a Unified Synthesis Framework|[[pdf]](http://arxiv.org/abs/2507.05814v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Learning Agile Tensile Perching for Aerial Robots from Demonstrations|[[pdf]](http://arxiv.org/abs/2507.06172v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Safe Domain Randomization via Uncertainty-Aware Out-of-Distribution Detection and Policy Adaptation|[[pdf]](http://arxiv.org/abs/2507.06111v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning|[[pdf]](http://arxiv.org/abs/2507.05695v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[DreamGrasp] DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2507.05627v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model|[[pdf]](http://arxiv.org/abs/2507.06174v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Stable Tracking-in-the-Loop Control of Cable-Driven Surgical Manipulators under Erroneous Kinematic Chains|[[pdf]](http://arxiv.org/abs/2507.05663v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Feature-Based vs. GAN-Based Learning from Demonstrations: When and Why|[[pdf]](http://arxiv.org/abs/2507.05906v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning|[[pdf]](http://arxiv.org/abs/2507.05011v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[VerifyLLM] VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots|[[pdf]](http://arxiv.org/abs/2507.05118v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2507.05244v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +76,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-07|Bio-Inspired Hybrid Map: Spatial Implicit Local Frames and Topological Map for Mobile Cobot Navigation|[[pdf]](http://arxiv.org/abs/2507.04649v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[CueLearner] CueLearner: Bootstrapping and local policy adaptation from relative feedback|[[pdf]](http://arxiv.org/abs/2507.04730v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems|[[pdf]](http://arxiv.org/abs/2507.04996v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2507.05331v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|Gaussian Process-Based Active Exploration Strategies in Vision and Touch|[[pdf]](http://arxiv.org/abs/2507.05522v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|[ASSURE] ASSURE: Metamorphic Testing for AI-powered Browser Extensions|[[pdf]](http://arxiv.org/abs/2507.05307v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|Driving as a Diagnostic Tool: Scenario-based Cognitive Assessment in Older Drivers From Driving Video|[[pdf]](http://arxiv.org/abs/2507.05463v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations|[[pdf]](http://arxiv.org/abs/2507.04356v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|[MVL-Loc] MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization|[[pdf]](http://arxiv.org/abs/2507.04509v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|Design Optimization of Three-Dimensional Wire Arrangement Considering Wire Crossings for Tendon-driven Robots|[[pdf]](http://arxiv.org/abs/2507.04235v1)|⚠️|⭐️⭐️⭐️|
@@ -1144,6 +1162,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1118
+- Total Papers: 1136
 - Code Implementations: 20
 - Last Updated: July 2025

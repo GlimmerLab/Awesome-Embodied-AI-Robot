@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube|[[pdf]](http://arxiv.org/abs/2507.05607v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[SCCRUB] SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles|[[pdf]](http://arxiv.org/abs/2507.06053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[CREW-WILDFIRE] CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale|[[pdf]](http://arxiv.org/abs/2507.05178v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Unifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization|[[pdf]](http://arxiv.org/abs/2507.04949v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|[DreamVLA] DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge|[[pdf]](http://arxiv.org/abs/2507.04447v1)|⚠️|⭐️⭐️⭐️|
@@ -167,6 +169,6 @@
 
 ## 📊 统计
 
-- 论文总数：143篇
+- 论文总数：145篇
 - 代码实现：6个
 - 最后更新：2025年07月

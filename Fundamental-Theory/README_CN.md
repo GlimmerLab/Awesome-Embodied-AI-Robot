@@ -18,7 +18,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|[NeoBabel] NeoBabel: A Multilingual Open Tower for Visual Generation|[[pdf]](http://arxiv.org/abs/2507.06137v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Graph Learning|[[pdf]](http://arxiv.org/abs/2507.05636v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift|[[pdf]](http://arxiv.org/abs/2507.05110v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-07|On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study|[[pdf]](http://arxiv.org/abs/2507.05362v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|"Hi AirStar, Guide Me to the Badminton Court."|[[pdf]](http://arxiv.org/abs/2507.04430v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-06|[ZERO] ZERO: Multi-modal Prompt-based Visual Grounding|[[pdf]](http://arxiv.org/abs/2507.04270v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-05|Accurate and Efficient World Modeling with Masked Latent Transformers|[[pdf]](http://arxiv.org/abs/2507.04075v1)|⚠️|⭐️⭐️⭐️|
@@ -244,6 +247,6 @@
 
 ## 📊 统计
 
-- 论文总数：223篇
+- 论文总数：226篇
 - 代码实现：5个
 - 最后更新：2025年07月

@@ -39,6 +39,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-08|[LeAD] LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.05754v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[MedGen] MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos|[[pdf]](http://arxiv.org/abs/2507.05675v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|LLMs are Introvert|[[pdf]](http://arxiv.org/abs/2507.05638v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|A Physics-Based Continuum Model for Versatile, Scalable, and Fast Terramechanics Simulation|[[pdf]](http://arxiv.org/abs/2507.05643v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[en] FineGrasp: Towards Robust Grasping for Delicate Objects|[[pdf]](http://arxiv.org/abs/2507.05978v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[MCFormer] MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry|[[pdf]](http://arxiv.org/abs/2507.04750v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[Beyond Features] Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance|[[pdf]](http://arxiv.org/abs/2507.05098v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] Leadership Detection via Time-Lagged Correlation-Based Network Inference|[[pdf]](http://arxiv.org/abs/2507.04917v1)|⚠️|⭐️⭐️⭐️|
@@ -250,6 +255,6 @@
 
 ## 📊 统计
 
-- 论文总数：225篇
+- 论文总数：230篇
 - 代码实现：21个
 - 最后更新：2025年07月
