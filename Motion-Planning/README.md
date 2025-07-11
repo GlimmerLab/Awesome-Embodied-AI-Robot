@@ -32,8 +32,15 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-09|[SkyVLN] SkyVLN: Vision-and-Language Navigation and NMPC Control for UAVs in Urban Environments|[[pdf]](http://arxiv.org/abs/2507.06564v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[ULC] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2507.06905v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data|[[pdf]](http://arxiv.org/abs/2507.05884v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[AURA-CVC] AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization|[[pdf]](http://arxiv.org/abs/2507.05979v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[SImpHAR] SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models|[[pdf]](http://arxiv.org/abs/2507.06405v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Digital Wargames to Enhance Military Medical Evacuation Decision-Making|[[pdf]](http://arxiv.org/abs/2507.06373v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.06404v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[VisioPath] VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic|[[pdf]](http://arxiv.org/abs/2507.06441v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|An AI-Driven Thermal-Fluid Testbed for Advanced Small Modular Reactors: Integration of Digital Twin and Large Language Models|[[pdf]](http://arxiv.org/abs/2507.06399v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning|[[pdf]](http://arxiv.org/abs/2507.04790v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Infrastructuring Contestability: A Framework for Community-Defined AI Value Pluralism|[[pdf]](http://arxiv.org/abs/2507.05187v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[EXPOTION] EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation|[[pdf]](http://arxiv.org/abs/2507.04955v1)|⚠️|⭐️⭐️⭐️|
@@ -265,6 +272,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 240
+- Total Papers: 247
 - Code Implementations: 8
 - Last Updated: July 2025

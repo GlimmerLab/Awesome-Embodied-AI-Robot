@@ -47,6 +47,18 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-09|Efficient Multi-Task Reinforcement Learning with Cross-Task Policy Guidance|[[pdf]](http://arxiv.org/abs/2507.06615v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand|[[pdf]](http://arxiv.org/abs/2507.06822v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[KLEIYN] KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing|[[pdf]](http://arxiv.org/abs/2507.06562v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration|[[pdf]](http://arxiv.org/abs/2507.06605v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments|[[pdf]](http://arxiv.org/abs/2507.07074v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies|[[pdf]](http://arxiv.org/abs/2507.06519v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[en] Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.06628v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[Speckle2Self] Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data|[[pdf]](http://arxiv.org/abs/2507.06828v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Spatial-Temporal Aware Visuomotor Diffusion Policy Learning|[[pdf]](http://arxiv.org/abs/2507.06710v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[AI Space Cortex] AI Space Cortex: An Experimental System for Future Era Space Exploration|[[pdf]](http://arxiv.org/abs/2507.06574v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments|[[pdf]](http://arxiv.org/abs/2507.06750v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Multi-Task Multi-Agent Reinforcement Learning via Skill Graphs|[[pdf]](http://arxiv.org/abs/2507.06690v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[GTA1] GTA1: GUI Test-time Scaling Agent|[[pdf]](http://arxiv.org/abs/2507.05791v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[CogniSQL-R1-Zero] CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation|[[pdf]](http://arxiv.org/abs/2507.06013v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control|[[pdf]](http://arxiv.org/abs/2507.05674v1)|⚠️|⭐️⭐️⭐️|
@@ -61,6 +73,10 @@
 |2025-07-08|Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model|[[pdf]](http://arxiv.org/abs/2507.06174v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Stable Tracking-in-the-Loop Control of Cable-Driven Surgical Manipulators under Erroneous Kinematic Chains|[[pdf]](http://arxiv.org/abs/2507.05663v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Feature-Based vs. GAN-Based Learning from Demonstrations: When and Why|[[pdf]](http://arxiv.org/abs/2507.05906v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[en] A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry|[[pdf]](http://arxiv.org/abs/2507.06269v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|Sample-Efficient Reinforcement Learning Controller for Deep Brain Stimulation in Parkinson's Disease|[[pdf]](http://arxiv.org/abs/2507.06326v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[Biped] Evaluating Robots Like Human Infants: A Case Study of Learned Bipedal Locomotion|[[pdf]](http://arxiv.org/abs/2507.06426v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[SCCRUB] SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles|[[pdf]](http://arxiv.org/abs/2507.06053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning|[[pdf]](http://arxiv.org/abs/2507.05011v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[VerifyLLM] VerifyLLM: LLM-Based Pre-Execution Task Plan Verification for Robots|[[pdf]](http://arxiv.org/abs/2507.05118v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2507.05244v1)|⚠️|⭐️⭐️⭐️|
@@ -1162,6 +1178,6 @@
 
 ## 📊 统计
 
-- 论文总数：1136篇
+- 论文总数：1152篇
 - 代码实现：20个
 - 最后更新：2025年07月

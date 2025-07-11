@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-09|[EA] EA: An Event Autoencoder for High-Speed Vision Sensing|[[pdf]](http://arxiv.org/abs/2507.06459v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[TextPixs] TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision|[[pdf]](http://arxiv.org/abs/2507.06033v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Safe Bimanual Teleoperation with Language-Guided Collision Avoidance|[[pdf]](http://arxiv.org/abs/2507.04791v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums|[[pdf]](http://arxiv.org/abs/2507.04910v1)|⚠️|⭐️⭐️⭐️|
@@ -175,6 +176,6 @@
 
 ## 📊 统计
 
-- 论文总数：151篇
+- 论文总数：152篇
 - 代码实现：8个
 - 最后更新：2025年07月

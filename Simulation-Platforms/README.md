@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-09|Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients|[[pdf]](http://arxiv.org/abs/2507.06994v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[DIFFUMA] DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement|[[pdf]](http://arxiv.org/abs/2507.06738v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[LeAD] LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.05754v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[MedGen] MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos|[[pdf]](http://arxiv.org/abs/2507.05675v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|LLMs are Introvert|[[pdf]](http://arxiv.org/abs/2507.05638v1)|⚠️|⭐️⭐️⭐️|
@@ -255,6 +257,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 230
+- Total Papers: 232
 - Code Implementations: 21
 - Last Updated: July 2025

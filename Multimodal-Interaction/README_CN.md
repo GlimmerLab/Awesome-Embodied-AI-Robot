@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-09|[VisualTrap] VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation|[[pdf]](http://arxiv.org/abs/2507.06899v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Integrating Perceptions: A Human-Centered Physical Safety Model for Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.06700v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[VOTE] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting|[[pdf]](http://arxiv.org/abs/2507.05116v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] Robotic System with AI for Real Time Weed Detection, Canopy Aware Spraying, and Droplet Pattern Evaluation|[[pdf]](http://arxiv.org/abs/2507.05432v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Fine-Grained Vision-Language Modeling for Multimodal Training Assistants in Augmented Reality|[[pdf]](http://arxiv.org/abs/2507.05515v1)|⚠️|⭐️⭐️⭐️|
@@ -166,6 +168,6 @@
 
 ## 📊 统计
 
-- 论文总数：141篇
+- 论文总数：143篇
 - 代码实现：6个
 - 最后更新：2025年07月
