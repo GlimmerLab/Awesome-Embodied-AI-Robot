@@ -32,8 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-10|Atherosclerosis through Hierarchical Explainable Neural Network Analysis|[[pdf]](http://arxiv.org/abs/2507.07373v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Towards Continuous Home Cage Monitoring: An Evaluation of Tracking and Identification Strategies for Laboratory Mice|[[pdf]](http://arxiv.org/abs/2507.07929v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[SkyVLN] SkyVLN: Vision-and-Language Navigation and NMPC Control for UAVs in Urban Environments|[[pdf]](http://arxiv.org/abs/2507.06564v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[ULC] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2507.06905v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[en] 3D Steering and Localization in Pipes and Burrows using an Externally Steered Soft Growing Robot|[[pdf]](http://arxiv.org/abs/2507.07225v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data|[[pdf]](http://arxiv.org/abs/2507.05884v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[AURA-CVC] AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization|[[pdf]](http://arxiv.org/abs/2507.05979v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[SImpHAR] SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models|[[pdf]](http://arxiv.org/abs/2507.06405v1)|⚠️|⭐️⭐️⭐️|
@@ -272,6 +275,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 247
+- Total Papers: 250
 - Code Implementations: 8
 - Last Updated: July 2025

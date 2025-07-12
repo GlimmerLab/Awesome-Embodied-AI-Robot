@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-10|[StarDojo] StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley|[[pdf]](http://arxiv.org/abs/2507.07445v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models|[[pdf]](http://arxiv.org/abs/2507.07406v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients|[[pdf]](http://arxiv.org/abs/2507.06994v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[DIFFUMA] DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement|[[pdf]](http://arxiv.org/abs/2507.06738v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[LeAD] LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.05754v1)|⚠️|⭐️⭐️⭐️|
@@ -257,6 +259,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 232
+- Total Papers: 234
 - Code Implementations: 21
 - Last Updated: July 2025

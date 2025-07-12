@@ -47,6 +47,19 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-10|Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning|[[pdf]](http://arxiv.org/abs/2507.07359v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[PlanQA] PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations|[[pdf]](http://arxiv.org/abs/2507.07644v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset and a Co-Evolving Multi-Agent System|[[pdf]](http://arxiv.org/abs/2507.07509v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[Behave Your Motion] Behave Your Motion: Habit-preserved Cross-category Animal Motion Transfer|[[pdf]](http://arxiv.org/abs/2507.07394v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[SURPRISE3D] SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes|[[pdf]](http://arxiv.org/abs/2507.07781v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[Quadruped] Beyond Robustness: Learning Unknown Dynamic Load Adaptation for Quadruped Locomotion on Rough Terrain|[[pdf]](http://arxiv.org/abs/2507.07825v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[Biped] UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.07356v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Perceptual Distortions and Autonomous Representation Learning in a Minimal Robotic System|[[pdf]](http://arxiv.org/abs/2507.07845v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Reinforcement Learning with Action Chunking|[[pdf]](http://arxiv.org/abs/2507.07969v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Distributed Surface Inspection via Operational Modal Analysis by a Swarm of Miniaturized Vibration-Sensing Robots|[[pdf]](http://arxiv.org/abs/2507.07724v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[PILOC] PILOC: A Pheromone Inverse Guidance Mechanism and Local-Communication Framework for Dynamic Target Search of Multi-Agent in Unknown Environments|[[pdf]](http://arxiv.org/abs/2507.07376v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Data-driven Kinematic Modeling in Soft Robots: System Identification and Uncertainty Quantification|[[pdf]](http://arxiv.org/abs/2507.07370v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[ROS Help Desk] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Efficient Multi-Task Reinforcement Learning with Cross-Task Policy Guidance|[[pdf]](http://arxiv.org/abs/2507.06615v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand|[[pdf]](http://arxiv.org/abs/2507.06822v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[KLEIYN] KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing|[[pdf]](http://arxiv.org/abs/2507.06562v2)|⚠️|⭐️⭐️⭐️|
@@ -59,6 +72,9 @@
 |2025-07-09|[AI Space Cortex] AI Space Cortex: An Experimental System for Future Era Space Exploration|[[pdf]](http://arxiv.org/abs/2507.06574v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments|[[pdf]](http://arxiv.org/abs/2507.06750v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Multi-Task Multi-Agent Reinforcement Learning via Skill Graphs|[[pdf]](http://arxiv.org/abs/2507.06690v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[Trajectory] Application of LLMs to Multi-Robot Path Planning and Task Allocation|[[pdf]](http://arxiv.org/abs/2507.07302v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[EXAONE Path 2.0] EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision|[[pdf]](http://arxiv.org/abs/2507.06639v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Self-Wearing Adaptive Garments via Soft Robotic Unfurling|[[pdf]](http://arxiv.org/abs/2507.07221v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[GTA1] GTA1: GUI Test-time Scaling Agent|[[pdf]](http://arxiv.org/abs/2507.05791v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[CogniSQL-R1-Zero] CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation|[[pdf]](http://arxiv.org/abs/2507.06013v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control|[[pdf]](http://arxiv.org/abs/2507.05674v1)|⚠️|⭐️⭐️⭐️|
@@ -1178,6 +1194,6 @@
 
 ## 📊 统计
 
-- 论文总数：1152篇
+- 论文总数：1168篇
 - 代码实现：20个
 - 最后更新：2025年07月

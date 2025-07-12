@@ -24,6 +24,7 @@ This directory collects papers and code implementations related to fundamental t
 |2025-07-09|A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding|[[pdf]](http://arxiv.org/abs/2507.06719v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[NeoBabel] NeoBabel: A Multilingual Open Tower for Visual Generation|[[pdf]](http://arxiv.org/abs/2507.06137v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Graph Learning|[[pdf]](http://arxiv.org/abs/2507.05636v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-08|[en] SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles|[[pdf]](http://arxiv.org/abs/2507.06053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift|[[pdf]](http://arxiv.org/abs/2507.05110v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study|[[pdf]](http://arxiv.org/abs/2507.05362v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[DeepRetro] DeepRetro: Retrosynthetic Pathway Discovery using Iterative LLM Reasoning|[[pdf]](http://arxiv.org/abs/2507.07060v1)|⚠️|⭐️⭐️⭐️|
@@ -252,6 +253,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 231
+- Total Papers: 232
 - Code Implementations: 5
 - Last Updated: July 2025
