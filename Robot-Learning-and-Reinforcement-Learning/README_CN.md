@@ -60,6 +60,7 @@
 |2025-07-10|[PILOC] PILOC: A Pheromone Inverse Guidance Mechanism and Local-Communication Framework for Dynamic Target Search of Multi-Agent in Unknown Environments|[[pdf]](http://arxiv.org/abs/2507.07376v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Data-driven Kinematic Modeling in Soft Robots: System Identification and Uncertainty Quantification|[[pdf]](http://arxiv.org/abs/2507.07370v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[ROS Help Desk] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[IRAF-SLAM] IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments|[[pdf]](http://arxiv.org/abs/2507.07752v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Efficient Multi-Task Reinforcement Learning with Cross-Task Policy Guidance|[[pdf]](http://arxiv.org/abs/2507.06615v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand|[[pdf]](http://arxiv.org/abs/2507.06822v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[KLEIYN] KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing|[[pdf]](http://arxiv.org/abs/2507.06562v2)|⚠️|⭐️⭐️⭐️|
@@ -75,6 +76,7 @@
 |2025-07-09|[Trajectory] Application of LLMs to Multi-Robot Path Planning and Task Allocation|[[pdf]](http://arxiv.org/abs/2507.07302v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[EXAONE Path 2.0] EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision|[[pdf]](http://arxiv.org/abs/2507.06639v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Self-Wearing Adaptive Garments via Soft Robotic Unfurling|[[pdf]](http://arxiv.org/abs/2507.07221v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[Bounomodes] Bounomodes: the grazing ox algorithm for exploration of clustered anomalies|[[pdf]](http://arxiv.org/abs/2507.06960v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[GTA1] GTA1: GUI Test-time Scaling Agent|[[pdf]](http://arxiv.org/abs/2507.05791v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[CogniSQL-R1-Zero] CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation|[[pdf]](http://arxiv.org/abs/2507.06013v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control|[[pdf]](http://arxiv.org/abs/2507.05674v1)|⚠️|⭐️⭐️⭐️|
@@ -1194,6 +1196,6 @@
 
 ## 📊 统计
 
-- 论文总数：1168篇
+- 论文总数：1170篇
 - 代码实现：20个
 - 最后更新：2025年07月

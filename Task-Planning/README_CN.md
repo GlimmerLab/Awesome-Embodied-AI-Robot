@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-10|Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach|[[pdf]](http://arxiv.org/abs/2507.07794v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[Q-STAC] Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic|[[pdf]](http://arxiv.org/abs/2507.06625v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[LOVON] LOVON: Legged Open-Vocabulary Object Navigator|[[pdf]](http://arxiv.org/abs/2507.06747v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube|[[pdf]](http://arxiv.org/abs/2507.05607v1)|⚠️|⭐️⭐️⭐️|
@@ -171,6 +172,6 @@
 
 ## 📊 统计
 
-- 论文总数：147篇
+- 论文总数：148篇
 - 代码实现：6个
 - 最后更新：2025年07月

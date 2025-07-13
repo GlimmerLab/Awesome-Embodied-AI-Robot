@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-10|Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach|[[pdf]](http://arxiv.org/abs/2507.07794v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[Q-STAC] Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic|[[pdf]](http://arxiv.org/abs/2507.06625v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[LOVON] LOVON: Legged Open-Vocabulary Object Navigator|[[pdf]](http://arxiv.org/abs/2507.06747v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube|[[pdf]](http://arxiv.org/abs/2507.05607v1)|⚠️|⭐️⭐️⭐️|
@@ -171,6 +172,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 147
+- Total Papers: 148
 - Code Implementations: 6
 - Last Updated: July 2025

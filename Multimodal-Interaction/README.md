@@ -30,6 +30,9 @@ This directory collects papers and code implementations related to multimodal in
 |2025-07-10|Pluri-perspectivism in Human-robot Co-creativity with Older Adults|[[pdf]](http://arxiv.org/abs/2507.07550v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[VisualTrap] VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation|[[pdf]](http://arxiv.org/abs/2507.06899v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Integrating Perceptions: A Human-Centered Physical Safety Model for Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.06700v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery|[[pdf]](http://arxiv.org/abs/2507.07257v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Effects of Wrist-Worn Haptic Feedback on Force Accuracy and Task Speed during a Teleoperated Robotic Surgery Task|[[pdf]](http://arxiv.org/abs/2507.07327v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|[LangNavBench] LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation|[[pdf]](http://arxiv.org/abs/2507.07299v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[en] Robust Speech-Workload Estimation for Intelligent Human-Robot Systems|[[pdf]](http://arxiv.org/abs/2507.05985v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[VOTE] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting|[[pdf]](http://arxiv.org/abs/2507.05116v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] Robotic System with AI for Real Time Weed Detection, Canopy Aware Spraying, and Droplet Pattern Evaluation|[[pdf]](http://arxiv.org/abs/2507.05432v1)|⚠️|⭐️⭐️⭐️|
@@ -172,6 +175,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 147
+- Total Papers: 150
 - Code Implementations: 6
 - Last Updated: July 2025

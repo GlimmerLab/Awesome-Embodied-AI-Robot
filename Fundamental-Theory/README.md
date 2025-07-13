@@ -18,6 +18,7 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-10|On the capabilities of LLMs for classifying and segmenting time series of fruit picking motions into primitive actions|[[pdf]](http://arxiv.org/abs/2507.07745v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models|[[pdf]](http://arxiv.org/abs/2507.06466v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[Gradientsys] Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration|[[pdf]](http://arxiv.org/abs/2507.06520v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Temporal Information Retrieval via Time-Specifier Model Merging|[[pdf]](http://arxiv.org/abs/2507.06782v1)|⚠️|⭐️⭐️⭐️|
@@ -253,6 +254,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 232
+- Total Papers: 233
 - Code Implementations: 5
 - Last Updated: July 2025

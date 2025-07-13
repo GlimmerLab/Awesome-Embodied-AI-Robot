@@ -27,7 +27,9 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-10|[en] Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots|[[pdf]](http://arxiv.org/abs/2507.07714v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[en] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[EA] EA: An Event Autoencoder for High-Speed Vision Sensing|[[pdf]](http://arxiv.org/abs/2507.06459v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Classifying Emergence in Robot Swarms: An Observer-Dependent Approach|[[pdf]](http://arxiv.org/abs/2507.07315v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[TextPixs] TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision|[[pdf]](http://arxiv.org/abs/2507.06033v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|Safe Bimanual Teleoperation with Language-Guided Collision Avoidance|[[pdf]](http://arxiv.org/abs/2507.04791v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-07|[en] Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums|[[pdf]](http://arxiv.org/abs/2507.04910v1)|⚠️|⭐️⭐️⭐️|
@@ -177,6 +179,6 @@
 
 ## 📊 统计
 
-- 论文总数：153篇
+- 论文总数：155篇
 - 代码实现：8个
 - 最后更新：2025年07月
