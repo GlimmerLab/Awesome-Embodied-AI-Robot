@@ -44,6 +44,8 @@ This directory collects papers and code implementations related to simulation pl
 |2025-07-10|Implementation and Assessment of an Augmented Training Curriculum for Surgical Robotics|[[pdf]](http://arxiv.org/abs/2507.07718v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients|[[pdf]](http://arxiv.org/abs/2507.06994v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[DIFFUMA] DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement|[[pdf]](http://arxiv.org/abs/2507.06738v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Friction Estimation for In-Hand Planar Motion|[[pdf]](http://arxiv.org/abs/2507.06824v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|When Context Is Not Enough: Modeling Unexplained Variability in Car-Following Behavior|[[pdf]](http://arxiv.org/abs/2507.07012v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[LeAD] LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.05754v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[MedGen] MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos|[[pdf]](http://arxiv.org/abs/2507.05675v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|LLMs are Introvert|[[pdf]](http://arxiv.org/abs/2507.05638v1)|⚠️|⭐️⭐️⭐️|
@@ -260,6 +262,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 235
+- Total Papers: 237
 - Code Implementations: 21
 - Last Updated: July 2025

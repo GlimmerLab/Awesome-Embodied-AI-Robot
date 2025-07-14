@@ -19,10 +19,12 @@ This directory collects papers and code implementations related to fundamental t
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-10|On the capabilities of LLMs for classifying and segmenting time series of fruit picking motions into primitive actions|[[pdf]](http://arxiv.org/abs/2507.07745v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|[en] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models|[[pdf]](http://arxiv.org/abs/2507.06466v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[Gradientsys] Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration|[[pdf]](http://arxiv.org/abs/2507.06520v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Temporal Information Retrieval via Time-Specifier Model Merging|[[pdf]](http://arxiv.org/abs/2507.06782v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding|[[pdf]](http://arxiv.org/abs/2507.06719v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Frontier LLMs Still Struggle with Simple Reasoning Tasks|[[pdf]](http://arxiv.org/abs/2507.07313v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[NeoBabel] NeoBabel: A Multilingual Open Tower for Visual Generation|[[pdf]](http://arxiv.org/abs/2507.06137v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Graph Learning|[[pdf]](http://arxiv.org/abs/2507.05636v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[en] SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles|[[pdf]](http://arxiv.org/abs/2507.06053v1)|⚠️|⭐️⭐️⭐️|
@@ -254,6 +256,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 233
+- Total Papers: 235
 - Code Implementations: 5
 - Last Updated: July 2025
