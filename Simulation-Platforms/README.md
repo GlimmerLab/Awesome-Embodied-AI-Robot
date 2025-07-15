@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-11|Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer|[[pdf]](http://arxiv.org/abs/2507.08572v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Finding Common Ground: Using Large Language Models to Detect Agreement in Multi-Agent Decision Conferences|[[pdf]](http://arxiv.org/abs/2507.08440v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[MIDI-VALLE] MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling|[[pdf]](http://arxiv.org/abs/2507.08530v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification|[[pdf]](http://arxiv.org/abs/2507.08766v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[StarDojo] StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley|[[pdf]](http://arxiv.org/abs/2507.07445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models|[[pdf]](http://arxiv.org/abs/2507.07406v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Implementation and Assessment of an Augmented Training Curriculum for Surgical Robotics|[[pdf]](http://arxiv.org/abs/2507.07718v1)|⚠️|⭐️⭐️⭐️|
@@ -262,6 +266,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 237
+- Total Papers: 241
 - Code Implementations: 21
 - Last Updated: July 2025

@@ -47,6 +47,20 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-11|[Geo-ORBIT] Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection|[[pdf]](http://arxiv.org/abs/2507.08743v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[FreeAudio] FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generation|[[pdf]](http://arxiv.org/abs/2507.08557v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance|[[pdf]](http://arxiv.org/abs/2507.08624v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT|[[pdf]](http://arxiv.org/abs/2507.08448v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[M2-Reasoning] M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2507.08306v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Multi-critic Learning for Whole-body End-effector Twist Tracking|[[pdf]](http://arxiv.org/abs/2507.08656v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.08303v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[CL3R] CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations|[[pdf]](http://arxiv.org/abs/2507.08262v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Safe Deep Reinforcement Learning for Resource Allocation with Peak Age of Information Violation Guarantees|[[pdf]](http://arxiv.org/abs/2507.08653v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[en] Intelligent Control of Spacecraft Reaction Wheel Attitude Using Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.08366v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Optimistic Exploration for Risk-Averse Constrained Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.08793v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[Imitation] Learning human-to-robot handovers through 3D scene reconstruction|[[pdf]](http://arxiv.org/abs/2507.08726v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations|[[pdf]](http://arxiv.org/abs/2507.08707v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps|[[pdf]](http://arxiv.org/abs/2507.08420v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning|[[pdf]](http://arxiv.org/abs/2507.07359v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[PlanQA] PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations|[[pdf]](http://arxiv.org/abs/2507.07644v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset and a Co-Evolving Multi-Agent System|[[pdf]](http://arxiv.org/abs/2507.07509v1)|⚠️|⭐️⭐️⭐️|
@@ -61,6 +75,8 @@
 |2025-07-10|Data-driven Kinematic Modeling in Soft Robots: System Identification and Uncertainty Quantification|[[pdf]](http://arxiv.org/abs/2507.07370v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[ROS Help Desk] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[IRAF-SLAM] IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments|[[pdf]](http://arxiv.org/abs/2507.07752v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Noise-Enabled Goal Attainment in Crowded Collectives|[[pdf]](http://arxiv.org/abs/2507.08100v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-10|Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion|[[pdf]](http://arxiv.org/abs/2507.08112v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Efficient Multi-Task Reinforcement Learning with Cross-Task Policy Guidance|[[pdf]](http://arxiv.org/abs/2507.06615v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand|[[pdf]](http://arxiv.org/abs/2507.06822v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[KLEIYN] KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing|[[pdf]](http://arxiv.org/abs/2507.06562v2)|⚠️|⭐️⭐️⭐️|
@@ -77,6 +93,7 @@
 |2025-07-09|[EXAONE Path 2.0] EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision|[[pdf]](http://arxiv.org/abs/2507.06639v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Self-Wearing Adaptive Garments via Soft Robotic Unfurling|[[pdf]](http://arxiv.org/abs/2507.07221v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[Bounomodes] Bounomodes: the grazing ox algorithm for exploration of clustered anomalies|[[pdf]](http://arxiv.org/abs/2507.06960v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-09|Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.06825v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[GTA1] GTA1: GUI Test-time Scaling Agent|[[pdf]](http://arxiv.org/abs/2507.05791v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|[CogniSQL-R1-Zero] CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation|[[pdf]](http://arxiv.org/abs/2507.06013v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-08|Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control|[[pdf]](http://arxiv.org/abs/2507.05674v1)|⚠️|⭐️⭐️⭐️|
@@ -1196,6 +1213,6 @@
 
 ## 📊 统计
 
-- 论文总数：1170篇
+- 论文总数：1187篇
 - 代码实现：20个
 - 最后更新：2025年07月
