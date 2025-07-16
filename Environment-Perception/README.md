@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-14|Devanagari Handwritten Character Recognition using Convolutional Neural Network|[[pdf]](http://arxiv.org/abs/2507.10398v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[Multi-Agent] Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems|[[pdf]](http://arxiv.org/abs/2507.10055v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[en] Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions|[[pdf]](http://arxiv.org/abs/2507.10376v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|Unified Linear Parametric Map Modeling and Perception-aware Trajectory Planning for Mobile Robotics|[[pdf]](http://arxiv.org/abs/2507.09340v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[en] Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots|[[pdf]](http://arxiv.org/abs/2507.07714v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[en] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[EA] EA: An Event Autoencoder for High-Speed Vision Sensing|[[pdf]](http://arxiv.org/abs/2507.06459v1)|⚠️|⭐️⭐️⭐️|
@@ -179,6 +183,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 155
+- Total Papers: 159
 - Code Implementations: 8
 - Last Updated: July 2025

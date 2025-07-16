@@ -39,10 +39,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-13|[en] TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit|[[pdf]](http://arxiv.org/abs/2507.09788v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|[CADmium] CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design|[[pdf]](http://arxiv.org/abs/2507.09792v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer|[[pdf]](http://arxiv.org/abs/2507.08572v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Finding Common Ground: Using Large Language Models to Detect Agreement in Multi-Agent Decision Conferences|[[pdf]](http://arxiv.org/abs/2507.08440v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[MIDI-VALLE] MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling|[[pdf]](http://arxiv.org/abs/2507.08530v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification|[[pdf]](http://arxiv.org/abs/2507.08766v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|Simulating Three-dimensional Turbulence with Physics-informed Neural Networks|[[pdf]](http://arxiv.org/abs/2507.08972v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[StarDojo] StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley|[[pdf]](http://arxiv.org/abs/2507.07445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models|[[pdf]](http://arxiv.org/abs/2507.07406v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Implementation and Assessment of an Augmented Training Curriculum for Surgical Robotics|[[pdf]](http://arxiv.org/abs/2507.07718v1)|⚠️|⭐️⭐️⭐️|
@@ -266,6 +269,6 @@
 
 ## 📊 统计
 
-- 论文总数：241篇
+- 论文总数：244篇
 - 代码实现：21个
 - 最后更新：2025年07月

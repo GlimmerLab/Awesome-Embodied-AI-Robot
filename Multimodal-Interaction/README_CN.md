@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-14|[en] Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance|[[pdf]](http://arxiv.org/abs/2507.10500v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[UniTac] UniTac: Whole-Robot Touch Sensing Without Tactile Sensors|[[pdf]](http://arxiv.org/abs/2507.07980v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[Multi-Agent] FiDTouch: A 3D Wearable Haptic Display for the Finger Pad|[[pdf]](http://arxiv.org/abs/2507.07661v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Pluri-perspectivism in Human-robot Co-creativity with Older Adults|[[pdf]](http://arxiv.org/abs/2507.07550v1)|⚠️|⭐️⭐️⭐️|
@@ -175,6 +176,6 @@
 
 ## 📊 统计
 
-- 论文总数：150篇
+- 论文总数：151篇
 - 代码实现：6个
 - 最后更新：2025年07月

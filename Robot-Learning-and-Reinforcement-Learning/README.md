@@ -47,6 +47,33 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-14|Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2507.10174v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[FRSICL] FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring|[[pdf]](http://arxiv.org/abs/2507.10134v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[ScaffoldAvatar] ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions|[[pdf]](http://arxiv.org/abs/2507.10542v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Taming Modern Point Tracking for Speckle Tracking Echocardiography via Impartial Motion|[[pdf]](http://arxiv.org/abs/2507.10127v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Large Population Models|[[pdf]](http://arxiv.org/abs/2507.09901v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Foundation Model Driven Robotics: A Comprehensive Review|[[pdf]](http://arxiv.org/abs/2507.10087v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Probabilistic Human Intent Prediction for Mobile Manipulation: An Evaluation with Human-Inspired Constraints|[[pdf]](http://arxiv.org/abs/2507.10131v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Finetuning Deep Reinforcement Learning Policies with Evolutionary Strategies for Control of Underactuated Robots|[[pdf]](http://arxiv.org/abs/2507.10030v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths|[[pdf]](http://arxiv.org/abs/2507.09858v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[MP1] MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2507.10543v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[WildFX] WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling|[[pdf]](http://arxiv.org/abs/2507.10534v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[en] Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems|[[pdf]](http://arxiv.org/abs/2507.09836v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Improving monotonic optimization in heterogeneous multi-agent reinforcement learning with optimal marginal deterministic policy gradient|[[pdf]](http://arxiv.org/abs/2507.09989v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[Biped] Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains|[[pdf]](http://arxiv.org/abs/2507.10164v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[Biped] Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation in Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.10105v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[MTF-Grasp] MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping|[[pdf]](http://arxiv.org/abs/2507.10158v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|Visual Homing in Outdoor Robots Using Mushroom Body Circuits and Learning Walks|[[pdf]](http://arxiv.org/abs/2507.09725v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective|[[pdf]](http://arxiv.org/abs/2507.09495v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|[en] Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2507.09617v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|[en] Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling|[[pdf]](http://arxiv.org/abs/2507.09540v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|[Learning] Towards Human-level Dexterity via Robot Learning|[[pdf]](http://arxiv.org/abs/2507.09117v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|Continual Reinforcement Learning by Planning with Online World Models|[[pdf]](http://arxiv.org/abs/2507.09177v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|[Tactile-VLA] Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization|[[pdf]](http://arxiv.org/abs/2507.09160v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|[en] Hide-and-Shill: A Reinforcement Learning Framework for Market Manipulation Detection in Symphony-a Decentralized Multi-Agent System|[[pdf]](http://arxiv.org/abs/2507.09179v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers|[[pdf]](http://arxiv.org/abs/2507.09406v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|Deep Reinforcement Learning with Gradient Eligibility Traces|[[pdf]](http://arxiv.org/abs/2507.09087v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|Constrained Style Learning from Imperfect Demonstrations under Task Optimality|[[pdf]](http://arxiv.org/abs/2507.09371v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[Geo-ORBIT] Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection|[[pdf]](http://arxiv.org/abs/2507.08743v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[FreeAudio] FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generation|[[pdf]](http://arxiv.org/abs/2507.08557v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance|[[pdf]](http://arxiv.org/abs/2507.08624v1)|⚠️|⭐️⭐️⭐️|
@@ -61,6 +88,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-11|[Imitation] Learning human-to-robot handovers through 3D scene reconstruction|[[pdf]](http://arxiv.org/abs/2507.08726v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations|[[pdf]](http://arxiv.org/abs/2507.08707v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps|[[pdf]](http://arxiv.org/abs/2507.08420v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[en] Behavioral Exploration: Learning to Explore via In-Context Adaptation|[[pdf]](http://arxiv.org/abs/2507.09041v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Goal-Oriented Sequential Bayesian Experimental Design for Causal Learning|[[pdf]](http://arxiv.org/abs/2507.07359v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[PlanQA] PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations|[[pdf]](http://arxiv.org/abs/2507.07644v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset and a Co-Evolving Multi-Agent System|[[pdf]](http://arxiv.org/abs/2507.07509v1)|⚠️|⭐️⭐️⭐️|
@@ -1213,6 +1241,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1187
+- Total Papers: 1215
 - Code Implementations: 20
 - Last Updated: July 2025

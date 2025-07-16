@@ -18,8 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-14|[Hyper-Dexterous] Demonstrating the Octopi-1.5 Visual-Tactile-Language Model|[[pdf]](http://arxiv.org/abs/2507.09985v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2507.10007v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[KG-Attention] KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation|[[pdf]](http://arxiv.org/abs/2507.08704v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning|[[pdf]](http://arxiv.org/abs/2507.08224v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-11|[BioAnalyst] BioAnalyst: A Foundation Model for Biodiversity|[[pdf]](http://arxiv.org/abs/2507.09080v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|On the capabilities of LLMs for classifying and segmenting time series of fruit picking motions into primitive actions|[[pdf]](http://arxiv.org/abs/2507.07745v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[en] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models|[[pdf]](http://arxiv.org/abs/2507.06466v1)|⚠️|⭐️⭐️⭐️|
@@ -258,6 +261,6 @@
 
 ## 📊 统计
 
-- 论文总数：237篇
+- 论文总数：240篇
 - 代码实现：5个
 - 最后更新：2025年07月

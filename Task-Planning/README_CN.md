@@ -22,6 +22,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-14|[EmbRACE-3K] EmbRACE-3K: Embodied Reasoning and Action in Complex Environments|[[pdf]](http://arxiv.org/abs/2507.10548v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Prompt Informed Reinforcement Learning for Visual Coverage Path Planning|[[pdf]](http://arxiv.org/abs/2507.10284v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|Consistency Trajectory Planning: High-Quality and Efficient Trajectory Optimization for Offline Model-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.09534v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|[SegVec3D] SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation|[[pdf]](http://arxiv.org/abs/2507.09459v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach|[[pdf]](http://arxiv.org/abs/2507.07794v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[Q-STAC] Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic|[[pdf]](http://arxiv.org/abs/2507.06625v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-09|[LOVON] LOVON: Legged Open-Vocabulary Object Navigator|[[pdf]](http://arxiv.org/abs/2507.06747v1)|⚠️|⭐️⭐️⭐️|
@@ -172,6 +176,6 @@
 
 ## 📊 统计
 
-- 论文总数：148篇
+- 论文总数：152篇
 - 代码实现：6个
 - 最后更新：2025年07月

@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-14|[en] Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance|[[pdf]](http://arxiv.org/abs/2507.10500v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[UniTac] UniTac: Whole-Robot Touch Sensing Without Tactile Sensors|[[pdf]](http://arxiv.org/abs/2507.07980v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[Multi-Agent] FiDTouch: A 3D Wearable Haptic Display for the Finger Pad|[[pdf]](http://arxiv.org/abs/2507.07661v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Pluri-perspectivism in Human-robot Co-creativity with Older Adults|[[pdf]](http://arxiv.org/abs/2507.07550v1)|⚠️|⭐️⭐️⭐️|
@@ -175,6 +176,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 150
+- Total Papers: 151
 - Code Implementations: 6
 - Last Updated: July 2025
