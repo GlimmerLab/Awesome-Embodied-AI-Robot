@@ -47,6 +47,23 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-15|Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM|[[pdf]](http://arxiv.org/abs/2507.11345v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[GATE] GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices|[[pdf]](http://arxiv.org/abs/2507.11053v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces|[[pdf]](http://arxiv.org/abs/2507.11352v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation|[[pdf]](http://arxiv.org/abs/2507.10911v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[HANS-Net] HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging|[[pdf]](http://arxiv.org/abs/2507.11325v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[Robot Drummer] Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming|[[pdf]](http://arxiv.org/abs/2507.11498v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[EquiContact] EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Policy for Spatially Generalizable Contact-rich Tasks|[[pdf]](http://arxiv.org/abs/2507.10961v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Object-Centric Mobile Manipulation through SAM2-Guided Perception and Imitation Learning|[[pdf]](http://arxiv.org/abs/2507.10899v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Diffusion-Based Imaginative Coordination for Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2507.11296v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|High-Throughput Distributed Reinforcement Learning via Adaptive Policy Synchronization|[[pdf]](http://arxiv.org/abs/2507.10990v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[MMOne] MMOne: Representing Multiple Modalities in One Scene|[[pdf]](http://arxiv.org/abs/2507.11129v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Fast Non-Episodic Adaptive Tuning of Robot Controllers with Online Policy Optimization|[[pdf]](http://arxiv.org/abs/2507.10914v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Learning to Tune Like an Expert: Interpretable and Scene-Aware Navigation via MLLM Reasoning and CVAE-Based Adaptation|[[pdf]](http://arxiv.org/abs/2507.11001v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Multi-IMU Sensor Fusion for Legged Robots|[[pdf]](http://arxiv.org/abs/2507.11447v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Force-Based Viscosity and Elasticity Measurements for Material Biomechanical Characterisation with a Collaborative Robotic Arm|[[pdf]](http://arxiv.org/abs/2507.11133v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[Multi-Agent] Whom to Respond To? A Transformer-Based Model for Multi-Party Social Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.10960v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[en] LLM-based ambiguity detection in natural language instructions for collaborative surgical robots|[[pdf]](http://arxiv.org/abs/2507.11525v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2507.10174v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[FRSICL] FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring|[[pdf]](http://arxiv.org/abs/2507.10134v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[ScaffoldAvatar] ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions|[[pdf]](http://arxiv.org/abs/2507.10542v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +80,13 @@
 |2025-07-14|[Biped] Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains|[[pdf]](http://arxiv.org/abs/2507.10164v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Biped] Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation in Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.10105v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[MTF-Grasp] MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping|[[pdf]](http://arxiv.org/abs/2507.10158v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Vision Language Action Models in Robotic Manipulation: A Systematic Review|[[pdf]](http://arxiv.org/abs/2507.10672v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection|[[pdf]](http://arxiv.org/abs/2507.10814v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[en] Ground-Compose-Reinforce: Tasking Reinforcement Learning Agents through Formal Language|[[pdf]](http://arxiv.org/abs/2507.10741v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[en] "Is it always watching? Is it always listening?" Exploring Contextual Privacy and Security Concerns Toward Domestic Social Robots|[[pdf]](http://arxiv.org/abs/2507.10786v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[en] A New Dataset and Performance Benchmark for Real-time Spacecraft Segmentation in Onboard Flight Computers|[[pdf]](http://arxiv.org/abs/2507.10775v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|AI and the Net-Zero Journey: Energy Demand, Emissions, and the Potential for Transition|[[pdf]](http://arxiv.org/abs/2507.10750v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Offline Reinforcement Learning with Wasserstein Regularization via Optimal Transport Maps|[[pdf]](http://arxiv.org/abs/2507.10843v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|Visual Homing in Outdoor Robots Using Mushroom Body Circuits and Learning Walks|[[pdf]](http://arxiv.org/abs/2507.09725v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective|[[pdf]](http://arxiv.org/abs/2507.09495v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|[en] Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2507.09617v1)|⚠️|⭐️⭐️⭐️|
@@ -74,6 +98,7 @@
 |2025-07-12|Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers|[[pdf]](http://arxiv.org/abs/2507.09406v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-12|Deep Reinforcement Learning with Gradient Eligibility Traces|[[pdf]](http://arxiv.org/abs/2507.09087v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-12|Constrained Style Learning from Imperfect Demonstrations under Task Optimality|[[pdf]](http://arxiv.org/abs/2507.09371v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-12|Learning to Move in Rhythm: Task-Conditioned Motion Policies with Orbital Stability Guarantees|[[pdf]](http://arxiv.org/abs/2507.10602v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[Geo-ORBIT] Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection|[[pdf]](http://arxiv.org/abs/2507.08743v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[FreeAudio] FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generation|[[pdf]](http://arxiv.org/abs/2507.08557v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance|[[pdf]](http://arxiv.org/abs/2507.08624v1)|⚠️|⭐️⭐️⭐️|
@@ -1241,6 +1266,6 @@
 
 ## 📊 统计
 
-- 论文总数：1215篇
+- 论文总数：1240篇
 - 代码实现：20个
 - 最后更新：2025年07月

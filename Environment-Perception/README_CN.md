@@ -26,9 +26,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-15|MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments|[[pdf]](http://arxiv.org/abs/2507.11211v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[en] Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander|[[pdf]](http://arxiv.org/abs/2507.11079v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Devanagari Handwritten Character Recognition using Convolutional Neural Network|[[pdf]](http://arxiv.org/abs/2507.10398v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Multi-Agent] Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems|[[pdf]](http://arxiv.org/abs/2507.10055v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[en] Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions|[[pdf]](http://arxiv.org/abs/2507.10376v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|[Interactive] rt-RISeg: Real-Time Model-Free Robot Interactive Segmentation for Active Instance-Level Object Understanding|[[pdf]](http://arxiv.org/abs/2507.10776v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-12|Unified Linear Parametric Map Modeling and Perception-aware Trajectory Planning for Mobile Robotics|[[pdf]](http://arxiv.org/abs/2507.09340v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[en] Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots|[[pdf]](http://arxiv.org/abs/2507.07714v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[en] ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging|[[pdf]](http://arxiv.org/abs/2507.07846v1)|⚠️|⭐️⭐️⭐️|
@@ -183,6 +186,6 @@
 
 ## 📊 统计
 
-- 论文总数：159篇
+- 论文总数：162篇
 - 代码实现：8个
 - 最后更新：2025年07月

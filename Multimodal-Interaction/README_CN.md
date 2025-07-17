@@ -25,7 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-15|[Multi-Agent] Human-Robot collaboration in surgery: Advances and challenges towards autonomous surgical assistants|[[pdf]](http://arxiv.org/abs/2507.11460v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[en] Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets|[[pdf]](http://arxiv.org/abs/2507.10878v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[en] Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance|[[pdf]](http://arxiv.org/abs/2507.10500v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-13|[en] SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation|[[pdf]](http://arxiv.org/abs/2507.09459v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[UniTac] UniTac: Whole-Robot Touch Sensing Without Tactile Sensors|[[pdf]](http://arxiv.org/abs/2507.07980v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|[Multi-Agent] FiDTouch: A 3D Wearable Haptic Display for the Finger Pad|[[pdf]](http://arxiv.org/abs/2507.07661v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-10|Pluri-perspectivism in Human-robot Co-creativity with Older Adults|[[pdf]](http://arxiv.org/abs/2507.07550v1)|⚠️|⭐️⭐️⭐️|
@@ -176,6 +179,6 @@
 
 ## 📊 统计
 
-- 论文总数：151篇
+- 论文总数：154篇
 - 代码实现：6个
 - 最后更新：2025年07月

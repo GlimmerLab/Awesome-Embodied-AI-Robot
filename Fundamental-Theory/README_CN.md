@@ -18,8 +18,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-15|[CogDDN] CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking|[[pdf]](http://arxiv.org/abs/2507.11334v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Hyper-Dexterous] Demonstrating the Octopi-1.5 Visual-Tactile-Language Model|[[pdf]](http://arxiv.org/abs/2507.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2507.10007v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition|[[pdf]](http://arxiv.org/abs/2507.10827v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[KG-Attention] KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation|[[pdf]](http://arxiv.org/abs/2507.08704v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning|[[pdf]](http://arxiv.org/abs/2507.08224v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|[BioAnalyst] BioAnalyst: A Foundation Model for Biodiversity|[[pdf]](http://arxiv.org/abs/2507.09080v1)|⚠️|⭐️⭐️⭐️|
@@ -261,6 +263,6 @@
 
 ## 📊 统计
 
-- 论文总数：240篇
+- 论文总数：242篇
 - 代码实现：5个
 - 最后更新：2025年07月

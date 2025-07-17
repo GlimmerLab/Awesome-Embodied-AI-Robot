@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-15|[NavComposer] NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization|[[pdf]](http://arxiv.org/abs/2507.10894v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments|[[pdf]](http://arxiv.org/abs/2507.11006v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[LF] LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control|[[pdf]](http://arxiv.org/abs/2507.11464v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League|[[pdf]](http://arxiv.org/abs/2507.11402v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation|[[pdf]](http://arxiv.org/abs/2507.10474v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Can GPT-4o mini and Gemini 2.0 Flash Predict Fine-Grained Fashion Product Attributes? A Zero-Shot Analysis|[[pdf]](http://arxiv.org/abs/2507.09950v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|[Collision] On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2507.09538v1)|⚠️|⭐️⭐️⭐️|
@@ -279,6 +283,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 254
+- Total Papers: 258
 - Code Implementations: 8
 - Last Updated: July 2025
