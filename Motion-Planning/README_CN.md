@@ -32,10 +32,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview|[[pdf]](http://arxiv.org/abs/2507.11935v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Probing for Arithmetic Errors in Language Models|[[pdf]](http://arxiv.org/abs/2507.12379v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties|[[pdf]](http://arxiv.org/abs/2507.12174v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[NavComposer] NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization|[[pdf]](http://arxiv.org/abs/2507.10894v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments|[[pdf]](http://arxiv.org/abs/2507.11006v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[LF] LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control|[[pdf]](http://arxiv.org/abs/2507.11464v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League|[[pdf]](http://arxiv.org/abs/2507.11402v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[SurgeryLSTM] SurgeryLSTM: A Time-Aware Neural Model for Accurate and Explainable Length of Stay Prediction After Spine Surgery|[[pdf]](http://arxiv.org/abs/2507.11570v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation|[[pdf]](http://arxiv.org/abs/2507.10474v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Can GPT-4o mini and Gemini 2.0 Flash Predict Fine-Grained Fashion Product Attributes? A Zero-Shot Analysis|[[pdf]](http://arxiv.org/abs/2507.09950v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|[Collision] On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2507.09538v1)|⚠️|⭐️⭐️⭐️|
@@ -283,6 +287,6 @@
 
 ## 📊 统计
 
-- 论文总数：258篇
+- 论文总数：262篇
 - 代码实现：8个
 - 最后更新：2025年07月

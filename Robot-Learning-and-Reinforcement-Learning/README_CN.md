@@ -47,6 +47,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|Understanding visual attention beehind bee-inspired UAV navigation|[[pdf]](http://arxiv.org/abs/2507.11992v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey|[[pdf]](http://arxiv.org/abs/2507.11840v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming|[[pdf]](http://arxiv.org/abs/2507.11974v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[EgoVLA] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos|[[pdf]](http://arxiv.org/abs/2507.12440v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|A Fast Method for Planning All Optimal Homotopic Configurations for Tethered Robots and Its Extended Applications|[[pdf]](http://arxiv.org/abs/2507.11880v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[MNIST-Gen] MNIST-Gen: A Modular MNIST-Style Dataset Generation Using Hierarchical Semantics, Reinforcement Learning, and Category Theory|[[pdf]](http://arxiv.org/abs/2507.11821v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[en] Multimodal Coordinated Online Behavior: Trade-offs and Strategies|[[pdf]](http://arxiv.org/abs/2507.12108v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot|[[pdf]](http://arxiv.org/abs/2507.12273v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Online Training and Pruning of Deep Reinforcement Learning Networks|[[pdf]](http://arxiv.org/abs/2507.11975v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Robust Route Planning for Sidewalk Delivery Robots|[[pdf]](http://arxiv.org/abs/2507.12067v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM|[[pdf]](http://arxiv.org/abs/2507.11345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[GATE] GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices|[[pdf]](http://arxiv.org/abs/2507.11053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces|[[pdf]](http://arxiv.org/abs/2507.11352v1)|⚠️|⭐️⭐️⭐️|
@@ -64,6 +74,12 @@
 |2025-07-15|Force-Based Viscosity and Elasticity Measurements for Material Biomechanical Characterisation with a Collaborative Robotic Arm|[[pdf]](http://arxiv.org/abs/2507.11133v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[Multi-Agent] Whom to Respond To? A Transformer-Based Model for Multi-Party Social Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.10960v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[en] LLM-based ambiguity detection in natural language instructions for collaborative surgical robots|[[pdf]](http://arxiv.org/abs/2507.11525v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification|[[pdf]](http://arxiv.org/abs/2507.11662v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Distribution-Free Uncertainty-Aware Virtual Sensing via Conformalized Neural Operators|[[pdf]](http://arxiv.org/abs/2507.11574v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Local Pairwise Distance Matching for Backpropagation-Free Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.11367v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing|[[pdf]](http://arxiv.org/abs/2507.11060v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection|[[pdf]](http://arxiv.org/abs/2507.11270v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[All Eyes, no IMU] All Eyes, no IMU: Learning Flight Attitude from Vision Alone|[[pdf]](http://arxiv.org/abs/2507.11302v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2507.10174v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[FRSICL] FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring|[[pdf]](http://arxiv.org/abs/2507.10134v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[ScaffoldAvatar] ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions|[[pdf]](http://arxiv.org/abs/2507.10542v1)|⚠️|⭐️⭐️⭐️|
@@ -87,6 +103,7 @@
 |2025-07-14|[en] A New Dataset and Performance Benchmark for Real-time Spacecraft Segmentation in Onboard Flight Computers|[[pdf]](http://arxiv.org/abs/2507.10775v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|AI and the Net-Zero Journey: Energy Demand, Emissions, and the Potential for Transition|[[pdf]](http://arxiv.org/abs/2507.10750v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Offline Reinforcement Learning with Wasserstein Regularization via Optimal Transport Maps|[[pdf]](http://arxiv.org/abs/2507.10843v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-14|Emergent Heterogeneous Swarm Control Through Hebbian Learning|[[pdf]](http://arxiv.org/abs/2507.11566v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|Visual Homing in Outdoor Robots Using Mushroom Body Circuits and Learning Walks|[[pdf]](http://arxiv.org/abs/2507.09725v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective|[[pdf]](http://arxiv.org/abs/2507.09495v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|[en] Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2507.09617v1)|⚠️|⭐️⭐️⭐️|
@@ -1266,6 +1283,6 @@
 
 ## 📊 统计
 
-- 论文总数：1240篇
+- 论文总数：1257篇
 - 代码实现：20个
 - 最后更新：2025年07月

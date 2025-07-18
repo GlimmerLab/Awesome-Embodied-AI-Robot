@@ -26,8 +26,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning|[[pdf]](http://arxiv.org/abs/2507.11938v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[en] Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards|[[pdf]](http://arxiv.org/abs/2507.12093v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments|[[pdf]](http://arxiv.org/abs/2507.11211v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[en] Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander|[[pdf]](http://arxiv.org/abs/2507.11079v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|A Roadmap for Climate-Relevant Robotics Research|[[pdf]](http://arxiv.org/abs/2507.11623v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies|[[pdf]](http://arxiv.org/abs/2507.11770v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Devanagari Handwritten Character Recognition using Convolutional Neural Network|[[pdf]](http://arxiv.org/abs/2507.10398v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Multi-Agent] Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems|[[pdf]](http://arxiv.org/abs/2507.10055v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[en] Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions|[[pdf]](http://arxiv.org/abs/2507.10376v1)|⚠️|⭐️⭐️⭐️|
@@ -186,6 +190,6 @@
 
 ## 📊 统计
 
-- 论文总数：162篇
+- 论文总数：166篇
 - 代码实现：8个
 - 最后更新：2025年07月

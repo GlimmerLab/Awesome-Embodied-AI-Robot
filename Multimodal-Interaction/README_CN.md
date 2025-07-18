@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|From Coarse to Nuanced: Cross-Modal Alignment of Fine-Grained Linguistic Cues and Visual Salient Regions for Dynamic Emotion Recognition|[[pdf]](http://arxiv.org/abs/2507.11892v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[InstructFLIP] InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing|[[pdf]](http://arxiv.org/abs/2507.12060v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[Multi-Agent] Human-Robot collaboration in surgery: Advances and challenges towards autonomous surgical assistants|[[pdf]](http://arxiv.org/abs/2507.11460v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[en] Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets|[[pdf]](http://arxiv.org/abs/2507.10878v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[en] Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance|[[pdf]](http://arxiv.org/abs/2507.10500v1)|⚠️|⭐️⭐️⭐️|
@@ -179,6 +181,6 @@
 
 ## 📊 统计
 
-- 论文总数：154篇
+- 论文总数：156篇
 - 代码实现：6个
 - 最后更新：2025年07月

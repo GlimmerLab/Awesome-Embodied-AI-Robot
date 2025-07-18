@@ -39,7 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision|[[pdf]](http://arxiv.org/abs/2507.12195v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Fine-grained Timing Analysis of Digital Integrated Circuits in Answer Set Programming|[[pdf]](http://arxiv.org/abs/2507.11150v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|AI Agent Architecture for Decentralized Trading of Alternative Assets|[[pdf]](http://arxiv.org/abs/2507.11117v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Challenges in GenAI and Authentication: a scoping review|[[pdf]](http://arxiv.org/abs/2507.11775v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|[en] TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit|[[pdf]](http://arxiv.org/abs/2507.09788v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-13|[CADmium] CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design|[[pdf]](http://arxiv.org/abs/2507.09792v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-11|Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer|[[pdf]](http://arxiv.org/abs/2507.08572v1)|⚠️|⭐️⭐️⭐️|
@@ -270,6 +273,6 @@
 
 ## 📊 统计
 
-- 论文总数：245篇
+- 论文总数：248篇
 - 代码实现：21个
 - 最后更新：2025年07月

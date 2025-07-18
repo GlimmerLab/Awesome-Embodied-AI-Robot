@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|[Aime] Aime: Towards Fully-Autonomous Multi-Agent Framework|[[pdf]](http://arxiv.org/abs/2507.11988v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning|[[pdf]](http://arxiv.org/abs/2507.12391v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[CogDDN] CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking|[[pdf]](http://arxiv.org/abs/2507.11334v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Hyper-Dexterous] Demonstrating the Octopi-1.5 Visual-Tactile-Language Model|[[pdf]](http://arxiv.org/abs/2507.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2507.10007v1)|⚠️|⭐️⭐️⭐️|
@@ -263,6 +265,6 @@
 
 ## 📊 统计
 
-- 论文总数：242篇
+- 论文总数：244篇
 - 代码实现：5个
 - 最后更新：2025年07月
