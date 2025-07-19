@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-17|[AnyPos] AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2507.12768v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|From Coarse to Nuanced: Cross-Modal Alignment of Fine-Grained Linguistic Cues and Visual Salient Regions for Dynamic Emotion Recognition|[[pdf]](http://arxiv.org/abs/2507.11892v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[InstructFLIP] InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing|[[pdf]](http://arxiv.org/abs/2507.12060v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[Multi-Agent] Human-Robot collaboration in surgery: Advances and challenges towards autonomous surgical assistants|[[pdf]](http://arxiv.org/abs/2507.11460v1)|⚠️|⭐️⭐️⭐️|
@@ -181,6 +182,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 156
+- Total Papers: 157
 - Code Implementations: 6
 - Last Updated: July 2025

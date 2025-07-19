@@ -47,6 +47,20 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-17|Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour|[[pdf]](http://arxiv.org/abs/2507.13277v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering|[[pdf]](http://arxiv.org/abs/2507.12846v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|MVA 2025 Small Multi-Object Tracking for Spotting Birds Challenge: Dataset, Methods, and Results|[[pdf]](http://arxiv.org/abs/2507.12832v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[MC$^2$A] MC$^2$A: Enabling Algorithm-Hardware Co-Design for Efficient Markov Chain Monte Carlo Acceleration|[[pdf]](http://arxiv.org/abs/2507.12935v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Signal Temporal Logic Compliant Co-design of Planning and Control|[[pdf]](http://arxiv.org/abs/2507.13225v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Learning to Predict Mobile Robot Stability in Off-Road Environments|[[pdf]](http://arxiv.org/abs/2507.12731v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback|[[pdf]](http://arxiv.org/abs/2507.13171v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Generalist Bimanual Manipulation via Foundation Video Diffusion Models|[[pdf]](http://arxiv.org/abs/2507.12898v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning|[[pdf]](http://arxiv.org/abs/2507.12977v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing|[[pdf]](http://arxiv.org/abs/2507.13200v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[ZipMPC] ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning|[[pdf]](http://arxiv.org/abs/2507.13088v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[Multi-Agent] What Can Robots Teach Us About Trust and Reliance? An interdisciplinary dialogue between Social Sciences and Social Robotics|[[pdf]](http://arxiv.org/abs/2507.13041v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Latent Policy Steering with Embodiment-Agnostic Pretrained World Models|[[pdf]](http://arxiv.org/abs/2507.13340v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[en] Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication|[[pdf]](http://arxiv.org/abs/2507.13052v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Understanding visual attention beehind bee-inspired UAV navigation|[[pdf]](http://arxiv.org/abs/2507.11992v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey|[[pdf]](http://arxiv.org/abs/2507.11840v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming|[[pdf]](http://arxiv.org/abs/2507.11974v1)|⚠️|⭐️⭐️⭐️|
@@ -57,6 +71,9 @@
 |2025-07-16|Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot|[[pdf]](http://arxiv.org/abs/2507.12273v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Online Training and Pruning of Deep Reinforcement Learning Networks|[[pdf]](http://arxiv.org/abs/2507.11975v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Robust Route Planning for Sidewalk Delivery Robots|[[pdf]](http://arxiv.org/abs/2507.12067v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[VLMgineer] VLMgineer: Vision Language Models as Robotic Toolsmiths|[[pdf]](http://arxiv.org/abs/2507.12644v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[FORTRESS] FORTRESS: Function-composition Optimized Real-Time Resilient Structural Segmentation via Kolmogorov-Arnold Enhanced Spatial Attention Networks|[[pdf]](http://arxiv.org/abs/2507.12675v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[BootSeer] BootSeer: Analyzing and Mitigating Initialization Bottlenecks in Large-Scale LLM Training|[[pdf]](http://arxiv.org/abs/2507.12619v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM|[[pdf]](http://arxiv.org/abs/2507.11345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[GATE] GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices|[[pdf]](http://arxiv.org/abs/2507.11053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces|[[pdf]](http://arxiv.org/abs/2507.11352v1)|⚠️|⭐️⭐️⭐️|
@@ -80,6 +97,7 @@
 |2025-07-15|Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing|[[pdf]](http://arxiv.org/abs/2507.11060v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection|[[pdf]](http://arxiv.org/abs/2507.11270v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[All Eyes, no IMU] All Eyes, no IMU: Learning Flight Attitude from Vision Alone|[[pdf]](http://arxiv.org/abs/2507.11302v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|[en] MR-LDM -- The Merge-Reactive Longitudinal Decision Model: Game Theoretic Human Decision Modeling for Interactive Sim Agents|[[pdf]](http://arxiv.org/abs/2507.12494v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2507.10174v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[FRSICL] FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring|[[pdf]](http://arxiv.org/abs/2507.10134v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[ScaffoldAvatar] ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions|[[pdf]](http://arxiv.org/abs/2507.10542v1)|⚠️|⭐️⭐️⭐️|
@@ -1283,6 +1301,6 @@
 
 ## 📊 统计
 
-- 论文总数：1257篇
+- 论文总数：1275篇
 - 代码实现：20个
 - 最后更新：2025年07月

@@ -39,7 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-17|[DEMONSTRATE] DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning|[[pdf]](http://arxiv.org/abs/2507.12855v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[en] GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training|[[pdf]](http://arxiv.org/abs/2507.13097v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[en] VITA: Vision-to-Action Flow Matching Policy|[[pdf]](http://arxiv.org/abs/2507.13231v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision|[[pdf]](http://arxiv.org/abs/2507.12195v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview|[[pdf]](http://arxiv.org/abs/2507.11935v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Fine-grained Timing Analysis of Digital Integrated Circuits in Answer Set Programming|[[pdf]](http://arxiv.org/abs/2507.11150v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|AI Agent Architecture for Decentralized Trading of Alternative Assets|[[pdf]](http://arxiv.org/abs/2507.11117v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Challenges in GenAI and Authentication: a scoping review|[[pdf]](http://arxiv.org/abs/2507.11775v1)|⚠️|⭐️⭐️⭐️|
@@ -273,6 +277,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 248
+- Total Papers: 252
 - Code Implementations: 21
 - Last Updated: July 2025

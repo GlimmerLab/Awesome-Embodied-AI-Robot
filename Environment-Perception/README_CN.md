@@ -26,8 +26,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-17|[Think-Before-Draw] Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation|[[pdf]](http://arxiv.org/abs/2507.12761v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[DINO-VO] DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model|[[pdf]](http://arxiv.org/abs/2507.13145v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[FFI-VTR] FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning|[[pdf]](http://arxiv.org/abs/2507.12800v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[en] City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning|[[pdf]](http://arxiv.org/abs/2507.12795v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land|[[pdf]](http://arxiv.org/abs/2507.12741v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[en] ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation|[[pdf]](http://arxiv.org/abs/2507.12744v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning|[[pdf]](http://arxiv.org/abs/2507.11938v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[en] Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards|[[pdf]](http://arxiv.org/abs/2507.12093v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[MS-DGCNN++] MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification|[[pdf]](http://arxiv.org/abs/2507.12602v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments|[[pdf]](http://arxiv.org/abs/2507.11211v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[en] Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander|[[pdf]](http://arxiv.org/abs/2507.11079v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|A Roadmap for Climate-Relevant Robotics Research|[[pdf]](http://arxiv.org/abs/2507.11623v2)|⚠️|⭐️⭐️⭐️|
@@ -190,6 +197,6 @@
 
 ## 📊 统计
 
-- 论文总数：166篇
+- 论文总数：173篇
 - 代码实现：8个
 - 最后更新：2025年07月

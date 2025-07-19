@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-17|Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities|[[pdf]](http://arxiv.org/abs/2507.13019v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Refining Motion for Peak Performance: Identifying Optimal Gait Parameters for Energy-Efficient Quadrupedal Bounding|[[pdf]](http://arxiv.org/abs/2507.12751v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview|[[pdf]](http://arxiv.org/abs/2507.11935v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Probing for Arithmetic Errors in Language Models|[[pdf]](http://arxiv.org/abs/2507.12379v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties|[[pdf]](http://arxiv.org/abs/2507.12174v1)|⚠️|⭐️⭐️⭐️|
@@ -287,6 +289,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 262
+- Total Papers: 264
 - Code Implementations: 8
 - Last Updated: July 2025
