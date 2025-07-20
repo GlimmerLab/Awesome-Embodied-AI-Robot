@@ -37,6 +37,7 @@ This directory collects papers and code implementations related to motion planni
 |2025-07-16|Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview|[[pdf]](http://arxiv.org/abs/2507.11935v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Probing for Arithmetic Errors in Language Models|[[pdf]](http://arxiv.org/abs/2507.12379v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties|[[pdf]](http://arxiv.org/abs/2507.12174v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Deep Bilinear Koopman Model for Real-Time Vehicle Control in Frenet Frame|[[pdf]](http://arxiv.org/abs/2507.12578v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[NavComposer] NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization|[[pdf]](http://arxiv.org/abs/2507.10894v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments|[[pdf]](http://arxiv.org/abs/2507.11006v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[LF] LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control|[[pdf]](http://arxiv.org/abs/2507.11464v1)|⚠️|⭐️⭐️⭐️|
@@ -289,6 +290,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 264
+- Total Papers: 265
 - Code Implementations: 8
 - Last Updated: July 2025

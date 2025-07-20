@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-16|Regrasp Maps for Sequential Manipulation Planning|[[pdf]](http://arxiv.org/abs/2507.12407v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[Ocean Diviner] Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks|[[pdf]](http://arxiv.org/abs/2507.11283v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[EmbRACE-3K] EmbRACE-3K: Embodied Reasoning and Action in Complex Environments|[[pdf]](http://arxiv.org/abs/2507.10548v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Prompt Informed Reinforcement Learning for Visual Coverage Path Planning|[[pdf]](http://arxiv.org/abs/2507.10284v1)|⚠️|⭐️⭐️⭐️|
@@ -177,6 +178,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 153
+- Total Papers: 154
 - Code Implementations: 6
 - Last Updated: July 2025

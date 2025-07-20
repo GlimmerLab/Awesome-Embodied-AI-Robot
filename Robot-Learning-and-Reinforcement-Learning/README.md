@@ -61,6 +61,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-17|[Multi-Agent] What Can Robots Teach Us About Trust and Reliance? An interdisciplinary dialogue between Social Sciences and Social Robotics|[[pdf]](http://arxiv.org/abs/2507.13041v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Latent Policy Steering with Embodiment-Agnostic Pretrained World Models|[[pdf]](http://arxiv.org/abs/2507.13340v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[en] Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication|[[pdf]](http://arxiv.org/abs/2507.13052v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[LaViPlan] LaViPlan : Language-Guided Visual Path Planning with RLVR|[[pdf]](http://arxiv.org/abs/2507.12911v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data|[[pdf]](http://arxiv.org/abs/2507.13053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Understanding visual attention beehind bee-inspired UAV navigation|[[pdf]](http://arxiv.org/abs/2507.11992v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey|[[pdf]](http://arxiv.org/abs/2507.11840v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming|[[pdf]](http://arxiv.org/abs/2507.11974v1)|⚠️|⭐️⭐️⭐️|
@@ -74,6 +76,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-16|[VLMgineer] VLMgineer: Vision Language Models as Robotic Toolsmiths|[[pdf]](http://arxiv.org/abs/2507.12644v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[FORTRESS] FORTRESS: Function-composition Optimized Real-Time Resilient Structural Segmentation via Kolmogorov-Arnold Enhanced Spatial Attention Networks|[[pdf]](http://arxiv.org/abs/2507.12675v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[BootSeer] BootSeer: Analyzing and Mitigating Initialization Bottlenecks in Large-Scale LLM Training|[[pdf]](http://arxiv.org/abs/2507.12619v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|[Foresight in Motion] Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics|[[pdf]](http://arxiv.org/abs/2507.12083v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Probabilistic Safety Verification for an Autonomous Ground Vehicle: A Situation Coverage Grid Approach|[[pdf]](http://arxiv.org/abs/2507.12158v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM|[[pdf]](http://arxiv.org/abs/2507.11345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[GATE] GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices|[[pdf]](http://arxiv.org/abs/2507.11053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces|[[pdf]](http://arxiv.org/abs/2507.11352v1)|⚠️|⭐️⭐️⭐️|
@@ -1301,6 +1305,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1275
+- Total Papers: 1279
 - Code Implementations: 20
 - Last Updated: July 2025

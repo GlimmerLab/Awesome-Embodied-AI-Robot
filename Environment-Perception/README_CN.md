@@ -32,6 +32,7 @@
 |2025-07-17|[en] City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning|[[pdf]](http://arxiv.org/abs/2507.12795v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land|[[pdf]](http://arxiv.org/abs/2507.12741v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[en] ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation|[[pdf]](http://arxiv.org/abs/2507.12744v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|Robustness Requirement Coverage using a Situation Coverage Approach for Vision-based AI Systems|[[pdf]](http://arxiv.org/abs/2507.12986v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning|[[pdf]](http://arxiv.org/abs/2507.11938v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[en] Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards|[[pdf]](http://arxiv.org/abs/2507.12093v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[MS-DGCNN++] MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification|[[pdf]](http://arxiv.org/abs/2507.12602v1)|⚠️|⭐️⭐️⭐️|
@@ -39,6 +40,7 @@
 |2025-07-15|[en] Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander|[[pdf]](http://arxiv.org/abs/2507.11079v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|A Roadmap for Climate-Relevant Robotics Research|[[pdf]](http://arxiv.org/abs/2507.11623v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies|[[pdf]](http://arxiv.org/abs/2507.11770v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|General Modular Harness for LLM Agents in Multi-Turn Gaming Environments|[[pdf]](http://arxiv.org/abs/2507.11633v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Devanagari Handwritten Character Recognition using Convolutional Neural Network|[[pdf]](http://arxiv.org/abs/2507.10398v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Multi-Agent] Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems|[[pdf]](http://arxiv.org/abs/2507.10055v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[en] Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions|[[pdf]](http://arxiv.org/abs/2507.10376v1)|⚠️|⭐️⭐️⭐️|
@@ -197,6 +199,6 @@
 
 ## 📊 统计
 
-- 论文总数：173篇
+- 论文总数：175篇
 - 代码实现：8个
 - 最后更新：2025年07月

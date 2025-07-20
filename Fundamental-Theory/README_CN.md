@@ -19,11 +19,13 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-17|[SE-VLN] SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.13152v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[FormulaOne] FormulaOne: Measuring the Depth of Algorithmic Reasoning Beyond Competitive Programming|[[pdf]](http://arxiv.org/abs/2507.13337v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[Aime] Aime: Towards Fully-Autonomous Multi-Agent Framework|[[pdf]](http://arxiv.org/abs/2507.11988v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning|[[pdf]](http://arxiv.org/abs/2507.12391v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[MindJourney] MindJourney: Test-Time Scaling with World Models for Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2507.12508v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[CogDDN] CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking|[[pdf]](http://arxiv.org/abs/2507.11334v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[en] FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making|[[pdf]](http://arxiv.org/abs/2507.12496v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-15|Galaxy image simplification using Generative AI|[[pdf]](http://arxiv.org/abs/2507.11692v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|[Hyper-Dexterous] Demonstrating the Octopi-1.5 Visual-Tactile-Language Model|[[pdf]](http://arxiv.org/abs/2507.09985v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2507.10007v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-14|Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition|[[pdf]](http://arxiv.org/abs/2507.10827v1)|⚠️|⭐️⭐️⭐️|
@@ -268,6 +270,6 @@
 
 ## 📊 统计
 
-- 论文总数：247篇
+- 论文总数：249篇
 - 代码实现：5个
 - 最后更新：2025年07月
