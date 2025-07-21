@@ -78,6 +78,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-16|[BootSeer] BootSeer: Analyzing and Mitigating Initialization Bottlenecks in Large-Scale LLM Training|[[pdf]](http://arxiv.org/abs/2507.12619v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[Foresight in Motion] Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics|[[pdf]](http://arxiv.org/abs/2507.12083v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Probabilistic Safety Verification for an Autonomous Ground Vehicle: A Situation Coverage Grid Approach|[[pdf]](http://arxiv.org/abs/2507.12158v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-16|Leveraging Sidewalk Robots for Walkability-Related Analyses|[[pdf]](http://arxiv.org/abs/2507.12148v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM|[[pdf]](http://arxiv.org/abs/2507.11345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|[GATE] GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices|[[pdf]](http://arxiv.org/abs/2507.11053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-15|Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces|[[pdf]](http://arxiv.org/abs/2507.11352v1)|⚠️|⭐️⭐️⭐️|
@@ -1305,6 +1306,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1279
+- Total Papers: 1280
 - Code Implementations: 20
 - Last Updated: July 2025

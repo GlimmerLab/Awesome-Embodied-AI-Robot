@@ -33,6 +33,7 @@
 |2025-07-17|Public Evaluation on Potential Social Impacts of Fully Autonomous Cybernetic Avatars for Physical Support in Daily-Life Environments: Large-Scale Demonstration and Survey at Avatar Land|[[pdf]](http://arxiv.org/abs/2507.12741v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[en] ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation|[[pdf]](http://arxiv.org/abs/2507.12744v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Robustness Requirement Coverage using a Situation Coverage Approach for Vision-based AI Systems|[[pdf]](http://arxiv.org/abs/2507.12986v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[MoistureMapper] MoistureMapper: An Autonomous Mobile Robot for High-Resolution Soil Moisture Mapping at Scale|[[pdf]](http://arxiv.org/abs/2507.12716v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning|[[pdf]](http://arxiv.org/abs/2507.11938v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[en] Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards|[[pdf]](http://arxiv.org/abs/2507.12093v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[MS-DGCNN++] MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification|[[pdf]](http://arxiv.org/abs/2507.12602v1)|⚠️|⭐️⭐️⭐️|
@@ -199,6 +200,6 @@
 
 ## 📊 统计
 
-- 论文总数：175篇
+- 论文总数：176篇
 - 代码实现：8个
 - 最后更新：2025年07月
