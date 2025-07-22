@@ -47,6 +47,19 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-18|Scalable Submodular Policy Optimization via Pruned Submodularity Graph|[[pdf]](http://arxiv.org/abs/2507.13834v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2507.13846v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Photonic Fabric Platform for AI Accelerators|[[pdf]](http://arxiv.org/abs/2507.14000v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Convergent transformations of visual representation in brains and models|[[pdf]](http://arxiv.org/abs/2507.13941v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Real-Time Fusion of Visual and Chart Data for Enhanced Maritime Vision|[[pdf]](http://arxiv.org/abs/2507.13880v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Improving Low-Cost Teleoperation: Augmenting GELLO with Force|[[pdf]](http://arxiv.org/abs/2507.13602v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Context-Aware Behavior Learning with Heuristic Motion Memory for Underwater Manipulation|[[pdf]](http://arxiv.org/abs/2507.14099v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|[DENSE] DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits|[[pdf]](http://arxiv.org/abs/2507.14079v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Search-Optimized Quantization in Biomedical Ontology Alignment|[[pdf]](http://arxiv.org/abs/2507.13742v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|[Glucose-ML] Glucose-ML: A collection of longitudinal diabetes datasets for development of robust AI solutions|[[pdf]](http://arxiv.org/abs/2507.14077v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|[EdgeVLA] EdgeVLA: Efficient Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2507.14049v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Design of a Modular Mobile Inspection and Maintenance Robot for an Orbital Servicing Hub|[[pdf]](http://arxiv.org/abs/2507.14059v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|[AGENTS-LLM] AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework|[[pdf]](http://arxiv.org/abs/2507.13729v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour|[[pdf]](http://arxiv.org/abs/2507.13277v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering|[[pdf]](http://arxiv.org/abs/2507.12846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|MVA 2025 Small Multi-Object Tracking for Spotting Birds Challenge: Dataset, Methods, and Results|[[pdf]](http://arxiv.org/abs/2507.12832v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +76,7 @@
 |2025-07-17|[en] Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication|[[pdf]](http://arxiv.org/abs/2507.13052v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[LaViPlan] LaViPlan : Language-Guided Visual Path Planning with RLVR|[[pdf]](http://arxiv.org/abs/2507.12911v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data|[[pdf]](http://arxiv.org/abs/2507.13053v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-17|[Acoustic Index] Acoustic Index: A Novel AI-Driven Parameter for Cardiac Disease Risk Stratification Using Echocardiography|[[pdf]](http://arxiv.org/abs/2507.13542v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Understanding visual attention beehind bee-inspired UAV navigation|[[pdf]](http://arxiv.org/abs/2507.11992v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey|[[pdf]](http://arxiv.org/abs/2507.11840v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming|[[pdf]](http://arxiv.org/abs/2507.11974v1)|⚠️|⭐️⭐️⭐️|
@@ -1306,6 +1320,6 @@
 
 ## 📊 统计
 
-- 论文总数：1280篇
+- 论文总数：1294篇
 - 代码实现：20个
 - 最后更新：2025年07月

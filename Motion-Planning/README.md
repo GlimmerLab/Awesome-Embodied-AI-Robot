@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-18|Improved particle swarm optimization algorithm: multi-target trajectory optimization for swarm drones|[[pdf]](http://arxiv.org/abs/2507.13647v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|A multi-strategy improved snake optimizer for three-dimensional UAV path planning and engineering problems|[[pdf]](http://arxiv.org/abs/2507.14043v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Iteratively Learning Muscle Memory for Legged Robots to Master Adaptive and High Precision Locomotion|[[pdf]](http://arxiv.org/abs/2507.13662v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|[NeHMO] NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Agent Motion Planning|[[pdf]](http://arxiv.org/abs/2507.13940v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Safe and Performant Controller Synthesis using Gradient-based Model Predictive Control and Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2507.13872v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities|[[pdf]](http://arxiv.org/abs/2507.13019v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Refining Motion for Peak Performance: Identifying Optimal Gait Parameters for Energy-Efficient Quadrupedal Bounding|[[pdf]](http://arxiv.org/abs/2507.12751v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview|[[pdf]](http://arxiv.org/abs/2507.11935v1)|⚠️|⭐️⭐️⭐️|
@@ -290,6 +295,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 265
+- Total Papers: 270
 - Code Implementations: 8
 - Last Updated: July 2025

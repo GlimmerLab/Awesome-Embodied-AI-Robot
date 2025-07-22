@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-18|A segmented robot grasping perception neural network for edge AI|[[pdf]](http://arxiv.org/abs/2507.13970v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[Think-Before-Draw] Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation|[[pdf]](http://arxiv.org/abs/2507.12761v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[DINO-VO] DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model|[[pdf]](http://arxiv.org/abs/2507.13145v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[FFI-VTR] FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning|[[pdf]](http://arxiv.org/abs/2507.12800v1)|⚠️|⭐️⭐️⭐️|
@@ -200,6 +201,6 @@
 
 ## 📊 统计
 
-- 论文总数：176篇
+- 论文总数：177篇
 - 代码实现：8个
 - 最后更新：2025年07月
