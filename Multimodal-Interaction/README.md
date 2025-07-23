@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-21|Gaze-supported Large Language Model Framework for Bi-directional Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.15729v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|Digital twin and extended reality for teleoperation of the electric vehicle battery disassembly|[[pdf]](http://arxiv.org/abs/2507.14929v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|A Study of Teleoperation Methods in a Simulated Virtual Eye Surgery Environment|[[pdf]](http://arxiv.org/abs/2507.13654v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[AnyPos] AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2507.12768v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[Multi-Agent] ERR@HRI 2.0 Challenge: Multimodal Detection of Errors and Failures in Human-Robot Conversations|[[pdf]](http://arxiv.org/abs/2507.13468v1)|⚠️|⭐️⭐️⭐️|
@@ -185,6 +187,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 160
+- Total Papers: 162
 - Code Implementations: 6
 - Last Updated: July 2025

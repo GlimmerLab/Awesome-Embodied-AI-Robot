@@ -47,6 +47,38 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-21|[Trajectory] GR-3 Technical Report|[[pdf]](http://arxiv.org/abs/2507.15493v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|The Emergence of Deep Reinforcement Learning for Path Planning|[[pdf]](http://arxiv.org/abs/2507.15469v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration|[[pdf]](http://arxiv.org/abs/2507.15455v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|A Study of Anatomical Priors for Deep Learning-Based Segmentation of Pheochromocytoma in Abdominal CT|[[pdf]](http://arxiv.org/abs/2507.15193v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[RAD] RAD: Retrieval High-quality Demonstrations to Enhance Decision-making|[[pdf]](http://arxiv.org/abs/2507.15356v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents|[[pdf]](http://arxiv.org/abs/2507.15478v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[EndoControlMag] EndoControlMag: Robust Endoscopic Vascular Motion Magnification with Periodic Reference Resetting and Hierarchical Tissue-aware Dual-Mask Contro|[[pdf]](http://arxiv.org/abs/2507.15292v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Hierarchical Budget Policy Optimization for Adaptive Reasoning|[[pdf]](http://arxiv.org/abs/2507.15844v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[EMP] EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation|[[pdf]](http://arxiv.org/abs/2507.15649v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[Being-H0] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos|[[pdf]](http://arxiv.org/abs/2507.15597v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[Look, Focus, Act] Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers|[[pdf]](http://arxiv.org/abs/2507.15833v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Romance, Relief, and Regret: Teen Narratives of Chatbot Overreliance|[[pdf]](http://arxiv.org/abs/2507.15783v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Do AI models help produce verified bug fixes?|[[pdf]](http://arxiv.org/abs/2507.15822v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Data-Efficient Safe Policy Improvement Using Parametric Structure|[[pdf]](http://arxiv.org/abs/2507.15532v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[One Step is Enough] One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms|[[pdf]](http://arxiv.org/abs/2507.15351v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic Arms|[[pdf]](http://arxiv.org/abs/2507.15677v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe|[[pdf]](http://arxiv.org/abs/2507.15444v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Strong, Accurate, and Low-Cost Robot Manipulator|[[pdf]](http://arxiv.org/abs/2507.15693v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[en] Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs|[[pdf]](http://arxiv.org/abs/2507.15782v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[NavVI] NavVI: A Telerobotic Simulation with Multimodal Feedback for Visually Impaired Navigation in Warehouse Environments|[[pdf]](http://arxiv.org/abs/2507.15072v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[The Invisible Leash] The Invisible Leash: Why RLVR May Not Escape Its Origin|[[pdf]](http://arxiv.org/abs/2507.14843v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|Feedback-Induced Performance Decline in LLM-Based Decision-Making|[[pdf]](http://arxiv.org/abs/2507.14906v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[Touch in the Wild] Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper|[[pdf]](http://arxiv.org/abs/2507.15062v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|Heterogeneous object manipulation on nonlinear soft surface through linear controller|[[pdf]](http://arxiv.org/abs/2507.14967v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[en] Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies|[[pdf]](http://arxiv.org/abs/2507.14901v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[en] Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems|[[pdf]](http://arxiv.org/abs/2507.14850v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[KGN-Pro] KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning|[[pdf]](http://arxiv.org/abs/2507.14820v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[en] Learning-Based Modeling of a Magnetically Steerable Soft Suction Device for Endoscopic Endonasal Interventions|[[pdf]](http://arxiv.org/abs/2507.15155v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-19|[CXR-TFT] CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories|[[pdf]](http://arxiv.org/abs/2507.14766v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-19|[Amico] Amico: An Event-Driven Modular Framework for Persistent and Embedded Autonomy|[[pdf]](http://arxiv.org/abs/2507.14513v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-19|Leveraging Extrinsic Dexterity for Occluded Grasping on Grasp Constraining Walls|[[pdf]](http://arxiv.org/abs/2507.14721v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-19|[X-Nav] X-Nav: Learning End-to-End Cross-Embodiment Navigation for Mobile Robots|[[pdf]](http://arxiv.org/abs/2507.14731v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|Scalable Submodular Policy Optimization via Pruned Submodularity Graph|[[pdf]](http://arxiv.org/abs/2507.13834v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2507.13846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|Photonic Fabric Platform for AI Accelerators|[[pdf]](http://arxiv.org/abs/2507.14000v1)|⚠️|⭐️⭐️⭐️|
@@ -60,6 +92,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-18|[EdgeVLA] EdgeVLA: Efficient Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2507.14049v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|Design of a Modular Mobile Inspection and Maintenance Robot for an Orbital Servicing Hub|[[pdf]](http://arxiv.org/abs/2507.14059v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|[AGENTS-LLM] AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework|[[pdf]](http://arxiv.org/abs/2507.13729v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|Age of Information Minimization in UAV-Enabled Integrated Sensing and Communication Systems|[[pdf]](http://arxiv.org/abs/2507.14299v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour|[[pdf]](http://arxiv.org/abs/2507.13277v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering|[[pdf]](http://arxiv.org/abs/2507.12846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|MVA 2025 Small Multi-Object Tracking for Spotting Birds Challenge: Dataset, Methods, and Results|[[pdf]](http://arxiv.org/abs/2507.12832v1)|⚠️|⭐️⭐️⭐️|
@@ -1320,6 +1353,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1294
+- Total Papers: 1327
 - Code Implementations: 20
 - Last Updated: July 2025

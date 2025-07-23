@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-21|[en] All-UWB SLAM Using UWB Radar and UWB AOA|[[pdf]](http://arxiv.org/abs/2507.15474v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[en] Robots for Kiwifruit Harvesting and Pollination|[[pdf]](http://arxiv.org/abs/2507.15484v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-19|[en] A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0|[[pdf]](http://arxiv.org/abs/2507.14538v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|A segmented robot grasping perception neural network for edge AI|[[pdf]](http://arxiv.org/abs/2507.13970v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[Think-Before-Draw] Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation|[[pdf]](http://arxiv.org/abs/2507.12761v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[DINO-VO] DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model|[[pdf]](http://arxiv.org/abs/2507.13145v1)|⚠️|⭐️⭐️⭐️|
@@ -201,6 +204,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 177
+- Total Papers: 180
 - Code Implementations: 8
 - Last Updated: July 2025

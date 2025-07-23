@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-21|Selective Densification for Rapid Motion Planning in High Dimensions with Narrow Passages|[[pdf]](http://arxiv.org/abs/2507.15710v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems|[[pdf]](http://arxiv.org/abs/2507.15613v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-19|Corridor-based Adaptive Control Barrier and Lyapunov Functions for Safe Mobile Robot Navigation|[[pdf]](http://arxiv.org/abs/2507.14700v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|Improved particle swarm optimization algorithm: multi-target trajectory optimization for swarm drones|[[pdf]](http://arxiv.org/abs/2507.13647v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|A multi-strategy improved snake optimizer for three-dimensional UAV path planning and engineering problems|[[pdf]](http://arxiv.org/abs/2507.14043v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|Iteratively Learning Muscle Memory for Legged Robots to Master Adaptive and High Precision Locomotion|[[pdf]](http://arxiv.org/abs/2507.13662v1)|⚠️|⭐️⭐️⭐️|
@@ -295,6 +298,6 @@
 
 ## 📊 统计
 
-- 论文总数：270篇
+- 论文总数：273篇
 - 代码实现：8个
 - 最后更新：2025年07月

@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-21|[EgoPrune] EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent|[[pdf]](http://arxiv.org/abs/2507.15428v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining|[[pdf]](http://arxiv.org/abs/2507.15770v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[HAMLET] HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics|[[pdf]](http://arxiv.org/abs/2507.15518v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Scaling Decentralized Learning with FLock|[[pdf]](http://arxiv.org/abs/2507.15349v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|[en] TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP|[[pdf]](http://arxiv.org/abs/2507.14904v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-18|[en] A Recursive Lie-Group Formulation for the Second-Order Time Derivatives of the Inverse Dynamics of parallel Kinematic Manipulators|[[pdf]](http://arxiv.org/abs/2507.14274v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[SE-VLN] SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.13152v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[FormulaOne] FormulaOne: Measuring the Depth of Algorithmic Reasoning Beyond Competitive Programming|[[pdf]](http://arxiv.org/abs/2507.13337v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-16|[Aime] Aime: Towards Fully-Autonomous Multi-Agent Framework|[[pdf]](http://arxiv.org/abs/2507.11988v2)|⚠️|⭐️⭐️⭐️|
@@ -270,6 +276,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 249
+- Total Papers: 255
 - Code Implementations: 5
 - Last Updated: July 2025
