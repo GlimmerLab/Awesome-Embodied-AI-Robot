@@ -41,6 +41,7 @@ This directory collects papers and code implementations related to simulation pl
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-21|[SustainDiffusion] SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models|[[pdf]](http://arxiv.org/abs/2507.15663v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Accelerating HEC-RAS: A Recurrent Neural Operator for Rapid River Forecasting|[[pdf]](http://arxiv.org/abs/2507.15614v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[en] AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery|[[pdf]](http://arxiv.org/abs/2507.16005v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|Design of an Edge-based Portable EHR System for Anemia Screening in Remote Health Applications|[[pdf]](http://arxiv.org/abs/2507.15146v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City|[[pdf]](http://arxiv.org/abs/2507.15143v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|[MorphIt] MorphIt: Flexible Spherical Approximation of Robot Morphology for Representation-driven Adaptation|[[pdf]](http://arxiv.org/abs/2507.14061v1)|⚠️|⭐️⭐️⭐️|
@@ -285,6 +286,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 260
+- Total Papers: 261
 - Code Implementations: 21
 - Last Updated: July 2025

@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-22|[ThinkAct] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning|[[pdf]](http://arxiv.org/abs/2507.16815v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Discovering and using Spelke segments|[[pdf]](http://arxiv.org/abs/2507.16038v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Fast Task Planning with Neuro-Symbolic Relaxation|[[pdf]](http://arxiv.org/abs/2507.15975v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[FCRF] FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models|[[pdf]](http://arxiv.org/abs/2507.14975v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|[TAMP] BT-TL-DMPs: A Novel Robot TAMP Framework Combining Behavior Tree, Temporal Logic and Dynamical Movement Primitives|[[pdf]](http://arxiv.org/abs/2507.14582v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[en] IConMark: Robust Interpretable Concept-Based Watermark For AI Images|[[pdf]](http://arxiv.org/abs/2507.13407v1)|⚠️|⭐️⭐️⭐️|
@@ -181,6 +184,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 157
+- Total Papers: 160
 - Code Implementations: 6
 - Last Updated: July 2025

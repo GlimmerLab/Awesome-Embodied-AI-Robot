@@ -47,6 +47,20 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-22|Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory|[[pdf]](http://arxiv.org/abs/2507.16713v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach|[[pdf]](http://arxiv.org/abs/2507.16556v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane|[[pdf]](http://arxiv.org/abs/2507.16369v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Trajectory Planning of a Curtain Wall Installation Robot Based on Biomimetic Mechanisms|[[pdf]](http://arxiv.org/abs/2507.16305v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Equivariant Goal Conditioned Contrastive Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.16139v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[en] Benchmarking LLM Privacy Recognition for Social Robot Decision Making|[[pdf]](http://arxiv.org/abs/2507.16124v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis|[[pdf]](http://arxiv.org/abs/2507.16808v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Application of LLM Guided Reinforcement Learning in Formation Control with Collision Avoidance|[[pdf]](http://arxiv.org/abs/2507.16382v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Evaluating Social Acceptance of eXtended Reality (XR) Agent Technology: A User Study (Extended Version)|[[pdf]](http://arxiv.org/abs/2507.16562v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Novel Multi-Agent Action Masked Deep Reinforcement Learning for General Industrial Assembly Lines Balancing Problems|[[pdf]](http://arxiv.org/abs/2507.16635v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[Quadruped] Guided Reinforcement Learning for Omnidirectional 3D Jumping in Quadruped Robots|[[pdf]](http://arxiv.org/abs/2507.16481v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[Multi-Agent] Designing for Difference: How Human Characteristics Shape Perceptions of Collaborative Robots|[[pdf]](http://arxiv.org/abs/2507.16480v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[COMPASS] COMPASS: Cooperative Multi-Agent Persistent Monitoring using Spatio-Temporal Attention Network|[[pdf]](http://arxiv.org/abs/2507.16306v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[GFM-Planner] GFM-Planner: Perception-Aware Trajectory Planning with Geometric Feature Metric|[[pdf]](http://arxiv.org/abs/2507.16233v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[Trajectory] GR-3 Technical Report|[[pdf]](http://arxiv.org/abs/2507.15493v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|The Emergence of Deep Reinforcement Learning for Path Planning|[[pdf]](http://arxiv.org/abs/2507.15469v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration|[[pdf]](http://arxiv.org/abs/2507.15455v1)|⚠️|⭐️⭐️⭐️|
@@ -66,6 +80,10 @@
 |2025-07-21|Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe|[[pdf]](http://arxiv.org/abs/2507.15444v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Strong, Accurate, and Low-Cost Robot Manipulator|[[pdf]](http://arxiv.org/abs/2507.15693v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs|[[pdf]](http://arxiv.org/abs/2507.15782v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Compositional Coordination for Multi-Robot Teams with Large Language Models|[[pdf]](http://arxiv.org/abs/2507.16068v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|AI-driven Orchestration at Scale: Estimating Service Metrics on National-Wide Testbeds|[[pdf]](http://arxiv.org/abs/2507.16077v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[Beyond Rate Coding] Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2507.16043v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Estimation of Payload Inertial Parameters from Human Demonstrations by Hand Guiding|[[pdf]](http://arxiv.org/abs/2507.15604v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[NavVI] NavVI: A Telerobotic Simulation with Multimodal Feedback for Visually Impaired Navigation in Warehouse Environments|[[pdf]](http://arxiv.org/abs/2507.15072v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[The Invisible Leash] The Invisible Leash: Why RLVR May Not Escape Its Origin|[[pdf]](http://arxiv.org/abs/2507.14843v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|Feedback-Induced Performance Decline in LLM-Based Decision-Making|[[pdf]](http://arxiv.org/abs/2507.14906v1)|⚠️|⭐️⭐️⭐️|
@@ -75,6 +93,7 @@
 |2025-07-20|[en] Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems|[[pdf]](http://arxiv.org/abs/2507.14850v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[KGN-Pro] KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning|[[pdf]](http://arxiv.org/abs/2507.14820v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[en] Learning-Based Modeling of a Magnetically Steerable Soft Suction Device for Endoscopic Endonasal Interventions|[[pdf]](http://arxiv.org/abs/2507.15155v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-20|Systole-Conditioned Generative Cardiac Motion|[[pdf]](http://arxiv.org/abs/2507.15894v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|[CXR-TFT] CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories|[[pdf]](http://arxiv.org/abs/2507.14766v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|[Amico] Amico: An Event-Driven Modular Framework for Persistent and Embedded Autonomy|[[pdf]](http://arxiv.org/abs/2507.14513v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|Leveraging Extrinsic Dexterity for Occluded Grasping on Grasp Constraining Walls|[[pdf]](http://arxiv.org/abs/2507.14721v1)|⚠️|⭐️⭐️⭐️|
@@ -1353,6 +1372,6 @@
 
 ## 📊 统计
 
-- 论文总数：1327篇
+- 论文总数：1346篇
 - 代码实现：20个
 - 最后更新：2025年07月

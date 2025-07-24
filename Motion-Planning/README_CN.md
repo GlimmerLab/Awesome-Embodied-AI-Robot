@@ -32,6 +32,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-22|Analogy making as amortised model construction|[[pdf]](http://arxiv.org/abs/2507.16511v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis|[[pdf]](http://arxiv.org/abs/2507.16579v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Selective Densification for Rapid Motion Planning in High Dimensions with Narrow Passages|[[pdf]](http://arxiv.org/abs/2507.15710v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems|[[pdf]](http://arxiv.org/abs/2507.15613v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|Corridor-based Adaptive Control Barrier and Lyapunov Functions for Safe Mobile Robot Navigation|[[pdf]](http://arxiv.org/abs/2507.14700v1)|⚠️|⭐️⭐️⭐️|
@@ -298,6 +300,6 @@
 
 ## 📊 统计
 
-- 论文总数：273篇
+- 论文总数：275篇
 - 代码实现：8个
 - 最后更新：2025年07月

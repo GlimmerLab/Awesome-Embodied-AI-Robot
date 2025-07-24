@@ -25,7 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-22|AI or Human? Understanding Perceptions of Embodied Robots with LLMs|[[pdf]](http://arxiv.org/abs/2507.16398v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[en] Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation|[[pdf]](http://arxiv.org/abs/2507.16704v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[Beyond Algorethics] Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems|[[pdf]](http://arxiv.org/abs/2507.16430v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Gaze-supported Large Language Model Framework for Bi-directional Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.15729v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|Therapist-Exoskeleton-Patient Interaction: An Immersive Gait Therapy|[[pdf]](http://arxiv.org/abs/2507.16059v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[en] Strong, Accurate, and Low-Cost Robot Manipulator|[[pdf]](http://arxiv.org/abs/2507.15693v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|Digital twin and extended reality for teleoperation of the electric vehicle battery disassembly|[[pdf]](http://arxiv.org/abs/2507.14929v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|A Study of Teleoperation Methods in a Simulated Virtual Eye Surgery Environment|[[pdf]](http://arxiv.org/abs/2507.13654v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[AnyPos] AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2507.12768v1)|⚠️|⭐️⭐️⭐️|
@@ -187,6 +192,6 @@
 
 ## 📊 统计
 
-- 论文总数：162篇
+- 论文总数：167篇
 - 代码实现：6个
 - 最后更新：2025年07月
