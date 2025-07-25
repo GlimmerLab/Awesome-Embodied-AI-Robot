@@ -26,10 +26,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-23|[en] Perspective-Invariant 3D Object Detection|[[pdf]](http://arxiv.org/abs/2507.17665v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots|[[pdf]](http://arxiv.org/abs/2507.17049v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] All-UWB SLAM Using UWB Radar and UWB AOA|[[pdf]](http://arxiv.org/abs/2507.15474v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] Robots for Kiwifruit Harvesting and Pollination|[[pdf]](http://arxiv.org/abs/2507.15484v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[CLEVER] CLEVER: Stream-based Active Learning for Robust Semantic Perception from Human Instructions|[[pdf]](http://arxiv.org/abs/2507.15499v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] A Comprehensive Evaluation of LiDAR Odometry Techniques|[[pdf]](http://arxiv.org/abs/2507.16000v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[en] Strong, Accurate, and Low-Cost Robot Manipulator|[[pdf]](http://arxiv.org/abs/2507.15693v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|[en] A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0|[[pdf]](http://arxiv.org/abs/2507.14538v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|A segmented robot grasping perception neural network for edge AI|[[pdf]](http://arxiv.org/abs/2507.13970v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|[en] Design of a Modular Mobile Inspection and Maintenance Robot for an Orbital Servicing Hub|[[pdf]](http://arxiv.org/abs/2507.14059v1)|⚠️|⭐️⭐️⭐️|
@@ -207,6 +210,6 @@
 
 ## 📊 统计
 
-- 论文总数：183篇
+- 论文总数：186篇
 - 代码实现：8个
 - 最后更新：2025年07月

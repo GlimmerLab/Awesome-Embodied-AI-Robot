@@ -39,6 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-23|Online Submission and Evaluation System Design for Competition Operations|[[pdf]](http://arxiv.org/abs/2507.17730v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|HuNavSim 2.0|[[pdf]](http://arxiv.org/abs/2507.17317v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Demonstration of Efficient Predictive Surrogates for Large-scale Quantum Processors|[[pdf]](http://arxiv.org/abs/2507.17470v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Simulating multiple human perspectives in socio-ecological systems using large language models|[[pdf]](http://arxiv.org/abs/2507.17680v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[en] Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination|[[pdf]](http://arxiv.org/abs/2507.17134v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Analogy making as amortised model construction|[[pdf]](http://arxiv.org/abs/2507.16511v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[SustainDiffusion] SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models|[[pdf]](http://arxiv.org/abs/2507.15663v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Accelerating HEC-RAS: A Recurrent Neural Operator for Rapid River Forecasting|[[pdf]](http://arxiv.org/abs/2507.15614v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] AutoMAT: A Hierarchical Framework for Autonomous Alloy Discovery|[[pdf]](http://arxiv.org/abs/2507.16005v1)|⚠️|⭐️⭐️⭐️|
@@ -286,6 +292,6 @@
 
 ## 📊 统计
 
-- 论文总数：261篇
+- 论文总数：267篇
 - 代码实现：21个
 - 最后更新：2025年07月

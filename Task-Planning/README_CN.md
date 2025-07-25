@@ -22,7 +22,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-23|[VLA-Touch] VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback|[[pdf]](http://arxiv.org/abs/2507.17294v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[ThinkAct] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning|[[pdf]](http://arxiv.org/abs/2507.16815v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning|[[pdf]](http://arxiv.org/abs/2507.16971v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training|[[pdf]](http://arxiv.org/abs/2507.16274v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Discovering and using Spelke segments|[[pdf]](http://arxiv.org/abs/2507.16038v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Fast Task Planning with Neuro-Symbolic Relaxation|[[pdf]](http://arxiv.org/abs/2507.15975v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[FCRF] FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models|[[pdf]](http://arxiv.org/abs/2507.14975v1)|⚠️|⭐️⭐️⭐️|
@@ -184,6 +187,6 @@
 
 ## 📊 统计
 
-- 论文总数：160篇
+- 论文总数：163篇
 - 代码实现：6个
 - 最后更新：2025年07月

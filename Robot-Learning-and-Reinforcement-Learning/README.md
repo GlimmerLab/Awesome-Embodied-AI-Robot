@@ -47,6 +47,21 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-23|[Learning] Towards Human-level Intelligence via Human-like Whole-Body Manipulation|[[pdf]](http://arxiv.org/abs/2507.17141v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[IndoorBEV] IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception|[[pdf]](http://arxiv.org/abs/2507.17445v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[LLM Meets the Sky] LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks|[[pdf]](http://arxiv.org/abs/2507.17188v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[Reality Proxy] Reality Proxy: Fluid Interactions with Real-World Objects in MR via Abstract Representations|[[pdf]](http://arxiv.org/abs/2507.17248v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[DynaSearcher] DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.17365v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[Yume] Yume: An Interactive World Generation Model|[[pdf]](http://arxiv.org/abs/2507.17744v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.17448v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[InstructVLA] InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation|[[pdf]](http://arxiv.org/abs/2507.17520v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models|[[pdf]](http://arxiv.org/abs/2507.17379v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Enabling Cyber Security Education through Digital Twins and Generative AI|[[pdf]](http://arxiv.org/abs/2507.17518v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[en] Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning|[[pdf]](http://arxiv.org/abs/2507.17418v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Confounded Causal Imitation Learning with Instrumental Variables|[[pdf]](http://arxiv.org/abs/2507.17309v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.17275v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[From Scan to Action] From Scan to Action: Leveraging Realistic Scans for Embodied Scene Understanding|[[pdf]](http://arxiv.org/abs/2507.17585v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[Talk2Event] Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras|[[pdf]](http://arxiv.org/abs/2507.17664v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory|[[pdf]](http://arxiv.org/abs/2507.16713v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach|[[pdf]](http://arxiv.org/abs/2507.16556v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane|[[pdf]](http://arxiv.org/abs/2507.16369v1)|⚠️|⭐️⭐️⭐️|
@@ -61,6 +76,12 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-22|[Multi-Agent] Designing for Difference: How Human Characteristics Shape Perceptions of Collaborative Robots|[[pdf]](http://arxiv.org/abs/2507.16480v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[COMPASS] COMPASS: Cooperative Multi-Agent Persistent Monitoring using Spatio-Temporal Attention Network|[[pdf]](http://arxiv.org/abs/2507.16306v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[GFM-Planner] GFM-Planner: Perception-Aware Trajectory Planning with Geometric Feature Metric|[[pdf]](http://arxiv.org/abs/2507.16233v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Budget Allocation Policies for Real-Time Multi-Agent Path Finding|[[pdf]](http://arxiv.org/abs/2507.16874v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Multi-agent Reinforcement Learning for Robotized Coral Reef Sample Collection|[[pdf]](http://arxiv.org/abs/2507.16941v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|[RAPTAR] RAPTAR: Radar Radiation Pattern Acquisition through Automated Collaborative Robotics|[[pdf]](http://arxiv.org/abs/2507.16988v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Shared Control of Holonomic Wheelchairs through Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.17055v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Deformable Cluster Manipulation via Whole-Arm Policy Learning|[[pdf]](http://arxiv.org/abs/2507.17085v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Hierarchical Reinforcement Learning Framework for Adaptive Walking Control Using General Value Functions of Lower-Limb Sensor Signals|[[pdf]](http://arxiv.org/abs/2507.16983v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[Trajectory] GR-3 Technical Report|[[pdf]](http://arxiv.org/abs/2507.15493v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|The Emergence of Deep Reinforcement Learning for Path Planning|[[pdf]](http://arxiv.org/abs/2507.15469v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration|[[pdf]](http://arxiv.org/abs/2507.15455v1)|⚠️|⭐️⭐️⭐️|
@@ -1372,6 +1393,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1346
+- Total Papers: 1367
 - Code Implementations: 20
 - Last Updated: July 2025

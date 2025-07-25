@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-23|Agent Identity Evals: Measuring Agentic Identity|[[pdf]](http://arxiv.org/abs/2507.17257v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Dynamic Modeling and Dimensional Optimization of Legged Mechanisms for Construction Robot|[[pdf]](http://arxiv.org/abs/2507.17132v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Design and Dimensional Optimization of Legged Structures for Construction Robots|[[pdf]](http://arxiv.org/abs/2507.16328v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[EgoPrune] EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent|[[pdf]](http://arxiv.org/abs/2507.15428v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining|[[pdf]](http://arxiv.org/abs/2507.15770v1)|⚠️|⭐️⭐️⭐️|
@@ -278,6 +280,6 @@
 
 ## 📊 统计
 
-- 论文总数：257篇
+- 论文总数：259篇
 - 代码实现：5个
 - 最后更新：2025年07月

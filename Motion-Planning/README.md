@@ -32,8 +32,13 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-23|[HOTA] HOTA: Hamiltonian framework for Optimal Transport Advection|[[pdf]](http://arxiv.org/abs/2507.17513v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks|[[pdf]](http://arxiv.org/abs/2507.17338v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Multi-Objective Trajectory Planning for a Robotic Arm in Curtain Wall Installation|[[pdf]](http://arxiv.org/abs/2507.17140v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Analogy making as amortised model construction|[[pdf]](http://arxiv.org/abs/2507.16511v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis|[[pdf]](http://arxiv.org/abs/2507.16579v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding|[[pdf]](http://arxiv.org/abs/2507.17054v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|From model-based learning to model-free behaviour with Meta-Interpretive Learning|[[pdf]](http://arxiv.org/abs/2507.16434v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Selective Densification for Rapid Motion Planning in High Dimensions with Narrow Passages|[[pdf]](http://arxiv.org/abs/2507.15710v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems|[[pdf]](http://arxiv.org/abs/2507.15613v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-19|Corridor-based Adaptive Control Barrier and Lyapunov Functions for Safe Mobile Robot Navigation|[[pdf]](http://arxiv.org/abs/2507.14700v1)|⚠️|⭐️⭐️⭐️|
@@ -300,6 +305,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 275
+- Total Papers: 280
 - Code Implementations: 8
 - Last Updated: July 2025
