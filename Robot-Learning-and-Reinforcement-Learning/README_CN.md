@@ -47,6 +47,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-24|[MoRPI-PINN] MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial Navigation|[[pdf]](http://arxiv.org/abs/2507.18206v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding|[[pdf]](http://arxiv.org/abs/2507.18276v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols|[[pdf]](http://arxiv.org/abs/2507.18457v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models|[[pdf]](http://arxiv.org/abs/2507.18229v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Optimising Call Centre Operations using Reinforcement Learning: Value Iteration versus Proximal Policy Optimisation|[[pdf]](http://arxiv.org/abs/2507.18398v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Multi-Agent Guided Policy Optimization|[[pdf]](http://arxiv.org/abs/2507.18059v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Evaluating the Pre-Dressing Step: Unfolding Medical Garments Via Imitation Learning|[[pdf]](http://arxiv.org/abs/2507.18436v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method for the Efficient Path Planning of Remote Sensing Robots|[[pdf]](http://arxiv.org/abs/2507.18462v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[Learning] Towards Human-level Intelligence via Human-like Whole-Body Manipulation|[[pdf]](http://arxiv.org/abs/2507.17141v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[IndoorBEV] IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception|[[pdf]](http://arxiv.org/abs/2507.17445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[LLM Meets the Sky] LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks|[[pdf]](http://arxiv.org/abs/2507.17188v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +70,11 @@
 |2025-07-23|Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.17275v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[From Scan to Action] From Scan to Action: Leveraging Realistic Scans for Embodied Scene Understanding|[[pdf]](http://arxiv.org/abs/2507.17585v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[Talk2Event] Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras|[[pdf]](http://arxiv.org/abs/2507.17664v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[UrbanPulse] UrbanPulse: A Cross-City Deep Learning Framework for Ultra-Fine-Grained Population Transfer Prediction|[[pdf]](http://arxiv.org/abs/2507.17924v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|A Step-by-step Guide on Nonlinear Model Predictive Control for Safe Mobile Robot Navigation|[[pdf]](http://arxiv.org/abs/2507.17856v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[PinchBot] PinchBot: Long-Horizon Deformable Manipulation with Guided Diffusion Policy|[[pdf]](http://arxiv.org/abs/2507.17846v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[CA-Cut] CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation|[[pdf]](http://arxiv.org/abs/2507.17727v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Generalized Advantage Estimation for Distributional Policy Gradients|[[pdf]](http://arxiv.org/abs/2507.17530v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory|[[pdf]](http://arxiv.org/abs/2507.16713v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach|[[pdf]](http://arxiv.org/abs/2507.16556v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane|[[pdf]](http://arxiv.org/abs/2507.16369v1)|⚠️|⭐️⭐️⭐️|
@@ -1393,6 +1406,6 @@
 
 ## 📊 统计
 
-- 论文总数：1367篇
+- 论文总数：1380篇
 - 代码实现：20个
 - 最后更新：2025年07月

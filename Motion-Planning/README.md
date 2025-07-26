@@ -32,9 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-24|Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces|[[pdf]](http://arxiv.org/abs/2507.18502v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[HOTA] HOTA: Hamiltonian framework for Optimal Transport Advection|[[pdf]](http://arxiv.org/abs/2507.17513v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks|[[pdf]](http://arxiv.org/abs/2507.17338v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Multi-Objective Trajectory Planning for a Robotic Arm in Curtain Wall Installation|[[pdf]](http://arxiv.org/abs/2507.17140v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|KernelSOS for Global Sampling-Based Optimal Control and Estimation via Semidefinite Programming|[[pdf]](http://arxiv.org/abs/2507.17572v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Analogy making as amortised model construction|[[pdf]](http://arxiv.org/abs/2507.16511v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis|[[pdf]](http://arxiv.org/abs/2507.16579v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding|[[pdf]](http://arxiv.org/abs/2507.17054v1)|⚠️|⭐️⭐️⭐️|
@@ -305,6 +307,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 280
+- Total Papers: 282
 - Code Implementations: 8
 - Last Updated: July 2025

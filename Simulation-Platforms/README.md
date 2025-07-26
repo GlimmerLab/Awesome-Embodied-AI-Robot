@@ -39,6 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-24|[en] Moving Out: Physically-grounded Human-AI Collaboration|[[pdf]](http://arxiv.org/abs/2507.18623v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|[en] GenAI for Automotive Software Development: From Requirements to Wheels|[[pdf]](http://arxiv.org/abs/2507.18223v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|A Modular Residual Learning Framework to Enhance Model-Based Approach for Robust Locomotion|[[pdf]](http://arxiv.org/abs/2507.18138v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Online Submission and Evaluation System Design for Competition Operations|[[pdf]](http://arxiv.org/abs/2507.17730v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|HuNavSim 2.0|[[pdf]](http://arxiv.org/abs/2507.17317v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Demonstration of Efficient Predictive Surrogates for Large-scale Quantum Processors|[[pdf]](http://arxiv.org/abs/2507.17470v1)|⚠️|⭐️⭐️⭐️|
@@ -292,6 +295,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 267
+- Total Papers: 270
 - Code Implementations: 21
 - Last Updated: July 2025

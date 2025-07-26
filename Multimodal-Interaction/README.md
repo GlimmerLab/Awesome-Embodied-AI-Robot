@@ -25,7 +25,9 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-24|[ViGText] ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2507.18031v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|An Exploratory Study on Human-Robot Interaction using Semantics-based Situational Awareness|[[pdf]](http://arxiv.org/abs/2507.17376v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Robot-mediated physical Human-Human Interaction in Neurorehabilitation: a position paper|[[pdf]](http://arxiv.org/abs/2507.17561v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|AI or Human? Understanding Perceptions of Embodied Robots with LLMs|[[pdf]](http://arxiv.org/abs/2507.16398v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[en] Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation|[[pdf]](http://arxiv.org/abs/2507.16704v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[Beyond Algorethics] Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems|[[pdf]](http://arxiv.org/abs/2507.16430v1)|⚠️|⭐️⭐️⭐️|
@@ -193,6 +195,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 168
+- Total Papers: 170
 - Code Implementations: 6
 - Last Updated: July 2025

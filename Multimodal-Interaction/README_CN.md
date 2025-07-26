@@ -25,7 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-24|[ViGText] ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2507.18031v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|An Exploratory Study on Human-Robot Interaction using Semantics-based Situational Awareness|[[pdf]](http://arxiv.org/abs/2507.17376v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Robot-mediated physical Human-Human Interaction in Neurorehabilitation: a position paper|[[pdf]](http://arxiv.org/abs/2507.17561v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|AI or Human? Understanding Perceptions of Embodied Robots with LLMs|[[pdf]](http://arxiv.org/abs/2507.16398v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[en] Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation|[[pdf]](http://arxiv.org/abs/2507.16704v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|[Beyond Algorethics] Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems|[[pdf]](http://arxiv.org/abs/2507.16430v1)|⚠️|⭐️⭐️⭐️|
@@ -193,6 +195,6 @@
 
 ## 📊 统计
 
-- 论文总数：168篇
+- 论文总数：170篇
 - 代码实现：6个
 - 最后更新：2025年07月

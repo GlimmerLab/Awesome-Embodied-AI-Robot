@@ -18,14 +18,19 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-24|[E.A.R.T.H.] E.A.R.T.H.: Structuring Creative Evolution through Model Error in Generative AI|[[pdf]](http://arxiv.org/abs/2507.18004v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|[en] DepthDark: Robust Monocular Depth Estimation for Low-Light Environments|[[pdf]](http://arxiv.org/abs/2507.18243v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|A Foundation Model for Massive MIMO Precoding with an Adaptive per-User Rate-Power Tradeoff|[[pdf]](http://arxiv.org/abs/2507.18587v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Agent Identity Evals: Measuring Agentic Identity|[[pdf]](http://arxiv.org/abs/2507.17257v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Dynamic Modeling and Dimensional Optimization of Legged Mechanisms for Construction Robot|[[pdf]](http://arxiv.org/abs/2507.17132v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Design and Dimensional Optimization of Legged Structures for Construction Robots|[[pdf]](http://arxiv.org/abs/2507.16328v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-22|Towards Robust Foundation Models for Digital Pathology|[[pdf]](http://arxiv.org/abs/2507.17845v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[EgoPrune] EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent|[[pdf]](http://arxiv.org/abs/2507.15428v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining|[[pdf]](http://arxiv.org/abs/2507.15770v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[HAMLET] HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics|[[pdf]](http://arxiv.org/abs/2507.15518v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|Scaling Decentralized Learning with FLock|[[pdf]](http://arxiv.org/abs/2507.15349v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[Data Mixing Agent] Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training|[[pdf]](http://arxiv.org/abs/2507.15640v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-21|[en] Strong, Accurate, and Low-Cost Robot Manipulator|[[pdf]](http://arxiv.org/abs/2507.15693v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-20|[en] TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP|[[pdf]](http://arxiv.org/abs/2507.14904v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-18|[en] A Recursive Lie-Group Formulation for the Second-Order Time Derivatives of the Inverse Dynamics of parallel Kinematic Manipulators|[[pdf]](http://arxiv.org/abs/2507.14274v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-17|[SE-VLN] SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.13152v1)|⚠️|⭐️⭐️⭐️|
@@ -280,6 +285,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 259
+- Total Papers: 264
 - Code Implementations: 5
 - Last Updated: July 2025
