@@ -37,6 +37,7 @@
 |2025-07-23|Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks|[[pdf]](http://arxiv.org/abs/2507.17338v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Multi-Objective Trajectory Planning for a Robotic Arm in Curtain Wall Installation|[[pdf]](http://arxiv.org/abs/2507.17140v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|KernelSOS for Global Sampling-Based Optimal Control and Estimation via Semidefinite Programming|[[pdf]](http://arxiv.org/abs/2507.17572v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Safety Assurance for Quadrotor Kinodynamic Motion Planning|[[pdf]](http://arxiv.org/abs/2507.17679v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Analogy making as amortised model construction|[[pdf]](http://arxiv.org/abs/2507.16511v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis|[[pdf]](http://arxiv.org/abs/2507.16579v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding|[[pdf]](http://arxiv.org/abs/2507.17054v1)|⚠️|⭐️⭐️⭐️|
@@ -307,6 +308,6 @@
 
 ## 📊 统计
 
-- 论文总数：282篇
+- 论文总数：283篇
 - 代码实现：8个
 - 最后更新：2025年07月

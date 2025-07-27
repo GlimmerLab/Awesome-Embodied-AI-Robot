@@ -55,6 +55,7 @@
 |2025-07-24|Multi-Agent Guided Policy Optimization|[[pdf]](http://arxiv.org/abs/2507.18059v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Evaluating the Pre-Dressing Step: Unfolding Medical Garments Via Imitation Learning|[[pdf]](http://arxiv.org/abs/2507.18436v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method for the Efficient Path Planning of Remote Sensing Robots|[[pdf]](http://arxiv.org/abs/2507.18462v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Evaluation of facial landmark localization performance in a surgical setting|[[pdf]](http://arxiv.org/abs/2507.18248v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[Learning] Towards Human-level Intelligence via Human-like Whole-Body Manipulation|[[pdf]](http://arxiv.org/abs/2507.17141v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[IndoorBEV] IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception|[[pdf]](http://arxiv.org/abs/2507.17445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[LLM Meets the Sky] LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks|[[pdf]](http://arxiv.org/abs/2507.17188v1)|⚠️|⭐️⭐️⭐️|
@@ -75,6 +76,10 @@
 |2025-07-23|[PinchBot] PinchBot: Long-Horizon Deformable Manipulation with Guided Diffusion Policy|[[pdf]](http://arxiv.org/abs/2507.17846v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[CA-Cut] CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation|[[pdf]](http://arxiv.org/abs/2507.17727v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Generalized Advantage Estimation for Distributional Policy Gradients|[[pdf]](http://arxiv.org/abs/2507.17530v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[PIG-Nav] PIG-Nav: Key Insights for Pretrained Image Goal Navigation Models|[[pdf]](http://arxiv.org/abs/2507.17220v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization|[[pdf]](http://arxiv.org/abs/2507.17455v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[FAST-Calib] FAST-Calib: LiDAR-Camera Extrinsic Calibration in One Second|[[pdf]](http://arxiv.org/abs/2507.17210v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Reconfigurable Tendon-Driven Robots: Eliminating Inter-segmental Coupling via Independently Lockable Joints|[[pdf]](http://arxiv.org/abs/2507.17163v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory|[[pdf]](http://arxiv.org/abs/2507.16713v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach|[[pdf]](http://arxiv.org/abs/2507.16556v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane|[[pdf]](http://arxiv.org/abs/2507.16369v1)|⚠️|⭐️⭐️⭐️|
@@ -1406,6 +1411,6 @@
 
 ## 📊 统计
 
-- 论文总数：1380篇
+- 论文总数：1385篇
 - 代码实现：20个
 - 最后更新：2025年07月

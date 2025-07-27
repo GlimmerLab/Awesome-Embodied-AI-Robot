@@ -23,6 +23,7 @@
 |2025-07-24|A Foundation Model for Massive MIMO Precoding with an Adaptive per-User Rate-Power Tradeoff|[[pdf]](http://arxiv.org/abs/2507.18587v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Agent Identity Evals: Measuring Agentic Identity|[[pdf]](http://arxiv.org/abs/2507.17257v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Dynamic Modeling and Dimensional Optimization of Legged Mechanisms for Construction Robot|[[pdf]](http://arxiv.org/abs/2507.17132v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|Confidence Calibration in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2507.17383v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Design and Dimensional Optimization of Legged Structures for Construction Robots|[[pdf]](http://arxiv.org/abs/2507.16328v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Towards Robust Foundation Models for Digital Pathology|[[pdf]](http://arxiv.org/abs/2507.17845v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[EgoPrune] EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent|[[pdf]](http://arxiv.org/abs/2507.15428v1)|⚠️|⭐️⭐️⭐️|
@@ -285,6 +286,6 @@
 
 ## 📊 统计
 
-- 论文总数：264篇
+- 论文总数：265篇
 - 代码实现：5个
 - 最后更新：2025年07月
