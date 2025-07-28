@@ -33,6 +33,8 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-24|Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces|[[pdf]](http://arxiv.org/abs/2507.18502v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics with Small On-Track Data Input|[[pdf]](http://arxiv.org/abs/2507.18396v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Autonomous UAV Navigation for Search and Rescue Missions Using Computer Vision and Convolutional Neural Networks|[[pdf]](http://arxiv.org/abs/2507.18160v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[HOTA] HOTA: Hamiltonian framework for Optimal Transport Advection|[[pdf]](http://arxiv.org/abs/2507.17513v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks|[[pdf]](http://arxiv.org/abs/2507.17338v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Multi-Objective Trajectory Planning for a Robotic Arm in Curtain Wall Installation|[[pdf]](http://arxiv.org/abs/2507.17140v1)|⚠️|⭐️⭐️⭐️|
@@ -308,6 +310,6 @@
 
 ## 📊 统计
 
-- 论文总数：283篇
+- 论文总数：285篇
 - 代码实现：8个
 - 最后更新：2025年07月

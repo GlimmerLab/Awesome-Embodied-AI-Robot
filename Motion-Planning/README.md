@@ -33,6 +33,8 @@ This directory collects papers and code implementations related to motion planni
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-24|Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces|[[pdf]](http://arxiv.org/abs/2507.18502v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics with Small On-Track Data Input|[[pdf]](http://arxiv.org/abs/2507.18396v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Autonomous UAV Navigation for Search and Rescue Missions Using Computer Vision and Convolutional Neural Networks|[[pdf]](http://arxiv.org/abs/2507.18160v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[HOTA] HOTA: Hamiltonian framework for Optimal Transport Advection|[[pdf]](http://arxiv.org/abs/2507.17513v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks|[[pdf]](http://arxiv.org/abs/2507.17338v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Multi-Objective Trajectory Planning for a Robotic Arm in Curtain Wall Installation|[[pdf]](http://arxiv.org/abs/2507.17140v1)|⚠️|⭐️⭐️⭐️|
@@ -308,6 +310,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 283
+- Total Papers: 285
 - Code Implementations: 8
 - Last Updated: July 2025
