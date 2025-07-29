@@ -26,12 +26,15 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-25|[EffiComm] EffiComm: Bandwidth Efficient Multi Agent Communication|[[pdf]](http://arxiv.org/abs/2507.19354v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] Reinforced Embodied Active Defense: Exploiting Adaptive Interaction for Robust Visual Perception in Adversarial 3D Environments|[[pdf]](http://arxiv.org/abs/2507.18484v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[G2S-ICP SLAM] G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM|[[pdf]](http://arxiv.org/abs/2507.18344v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] Evaluation of facial landmark localization performance in a surgical setting|[[pdf]](http://arxiv.org/abs/2507.18248v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[en] Perspective-Invariant 3D Object Detection|[[pdf]](http://arxiv.org/abs/2507.17665v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[FishDet-M] FishDet-M: A Unified Large-Scale Benchmark for Robust Fish Detection and CLIP-Guided Model Selection in Diverse Aquatic Visual Domains|[[pdf]](http://arxiv.org/abs/2507.17859v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|The Wilhelm Tell Dataset of Affordance Demonstrations|[[pdf]](http://arxiv.org/abs/2507.17401v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[Eyes Will Shut] Eyes Will Shut: A Vision-Based Next GPS Location Prediction Model by Reinforcement Learning from Visual Map Feed Back|[[pdf]](http://arxiv.org/abs/2507.18661v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-23|[en] FAST-Calib: LiDAR-Camera Extrinsic Calibration in One Second|[[pdf]](http://arxiv.org/abs/2507.17210v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-22|Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots|[[pdf]](http://arxiv.org/abs/2507.17049v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] All-UWB SLAM Using UWB Radar and UWB AOA|[[pdf]](http://arxiv.org/abs/2507.15474v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-21|[en] Robots for Kiwifruit Harvesting and Pollination|[[pdf]](http://arxiv.org/abs/2507.15484v1)|⚠️|⭐️⭐️⭐️|
@@ -215,6 +218,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 191
+- Total Papers: 194
 - Code Implementations: 8
 - Last Updated: July 2025

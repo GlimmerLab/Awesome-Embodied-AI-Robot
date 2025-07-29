@@ -47,6 +47,18 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-25|[ReCoDe] ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination|[[pdf]](http://arxiv.org/abs/2507.19151v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[PatchTraj] PatchTraj: Dynamic Patch Representation Learning for Time-Frequency Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2507.19119v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Controlling Topological Defects in Polar Fluids via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.19298v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Hierarchical Deep Reinforcement Learning Framework for Multi-Year Asset Management Under Budget Constraints|[[pdf]](http://arxiv.org/abs/2507.19458v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Success in Humanoid Reinforcement Learning under Partial Observation|[[pdf]](http://arxiv.org/abs/2507.18883v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[Virne] Virne: A Comprehensive Benchmark for Deep RL-based Network Resource Allocation in NFV|[[pdf]](http://arxiv.org/abs/2507.19234v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[Knowledge Grafting] Knowledge Grafting: A Mechanism for Optimizing AI Model Deployment in Resource-Constrained Environments|[[pdf]](http://arxiv.org/abs/2507.19261v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[GENIAL] GENIAL: Generative Design Space Exploration via Network Inversion for Low Power Algorithmic Logic Units|[[pdf]](http://arxiv.org/abs/2507.18989v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[Biped] How Age Influences the Interpretation of Emotional Body Language in Humanoid Robots -- long paper version|[[pdf]](http://arxiv.org/abs/2507.19335v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Diverse and Adaptive Behavior Curriculum for Autonomous Driving: A Student-Teacher Framework with Multi-Agent RL|[[pdf]](http://arxiv.org/abs/2507.19146v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Monocular Vision-Based Swarm Robot Localization Using Equilateral Triangular Formations|[[pdf]](http://arxiv.org/abs/2507.19100v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Foundation Model-Driven Grasping of Unknown Objects via Center of Gravity Estimation|[[pdf]](http://arxiv.org/abs/2507.19242v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[MoRPI-PINN] MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial Navigation|[[pdf]](http://arxiv.org/abs/2507.18206v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding|[[pdf]](http://arxiv.org/abs/2507.18276v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols|[[pdf]](http://arxiv.org/abs/2507.18457v1)|⚠️|⭐️⭐️⭐️|
@@ -57,6 +69,9 @@
 |2025-07-24|A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method for the Efficient Path Planning of Remote Sensing Robots|[[pdf]](http://arxiv.org/abs/2507.18462v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Evaluation of facial landmark localization performance in a surgical setting|[[pdf]](http://arxiv.org/abs/2507.18248v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[AF-RLIO] AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments|[[pdf]](http://arxiv.org/abs/2507.18317v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|Simulation-Driven Reinforcement Learning in Queuing Network Routing Optimization|[[pdf]](http://arxiv.org/abs/2507.18795v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|[en] Market Making Strategies with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.18680v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|[Diffusion-FS] Diffusion-FS: Multimodal Free-Space Prediction via Diffusion for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.18763v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[Learning] Towards Human-level Intelligence via Human-like Whole-Body Manipulation|[[pdf]](http://arxiv.org/abs/2507.17141v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[IndoorBEV] IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception|[[pdf]](http://arxiv.org/abs/2507.17445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[LLM Meets the Sky] LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks|[[pdf]](http://arxiv.org/abs/2507.17188v1)|⚠️|⭐️⭐️⭐️|
@@ -1414,6 +1429,6 @@
 
 ## 📊 统计
 
-- 论文总数：1388篇
+- 论文总数：1403篇
 - 代码实现：20个
 - 最后更新：2025年07月

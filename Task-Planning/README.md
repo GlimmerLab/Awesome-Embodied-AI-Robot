@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-25|Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach|[[pdf]](http://arxiv.org/abs/2507.18943v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[OpenNav] OpenNav: Open-World Navigation with Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.18033v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[ReSem3D] ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2507.18262v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|[VLA-Touch] VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback|[[pdf]](http://arxiv.org/abs/2507.17294v1)|⚠️|⭐️⭐️⭐️|
@@ -189,6 +190,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 165
+- Total Papers: 166
 - Code Implementations: 6
 - Last Updated: July 2025

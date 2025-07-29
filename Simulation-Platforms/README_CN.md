@@ -39,6 +39,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-25|GMM-Based Time-Varying Coverage Control|[[pdf]](http://arxiv.org/abs/2507.18938v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] Moving Out: Physically-grounded Human-AI Collaboration|[[pdf]](http://arxiv.org/abs/2507.18623v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] GenAI for Automotive Software Development: From Requirements to Wheels|[[pdf]](http://arxiv.org/abs/2507.18223v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|A Modular Residual Learning Framework to Enhance Model-Based Approach for Robust Locomotion|[[pdf]](http://arxiv.org/abs/2507.18138v1)|⚠️|⭐️⭐️⭐️|
@@ -296,6 +297,6 @@
 
 ## 📊 统计
 
-- 论文总数：271篇
+- 论文总数：272篇
 - 代码实现：21个
 - 最后更新：2025年07月

@@ -18,9 +18,11 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-25|[OS-MAP] OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?|[[pdf]](http://arxiv.org/abs/2507.19132v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[E.A.R.T.H.] E.A.R.T.H.: Structuring Creative Evolution through Model Error in Generative AI|[[pdf]](http://arxiv.org/abs/2507.18004v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] DepthDark: Robust Monocular Depth Estimation for Low-Light Environments|[[pdf]](http://arxiv.org/abs/2507.18243v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|A Foundation Model for Massive MIMO Precoding with an Adaptive per-User Rate-Power Tradeoff|[[pdf]](http://arxiv.org/abs/2507.18587v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-24|[en] Evaluation of facial landmark localization performance in a surgical setting|[[pdf]](http://arxiv.org/abs/2507.18248v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Agent Identity Evals: Measuring Agentic Identity|[[pdf]](http://arxiv.org/abs/2507.17257v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Dynamic Modeling and Dimensional Optimization of Legged Mechanisms for Construction Robot|[[pdf]](http://arxiv.org/abs/2507.17132v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|Confidence Calibration in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2507.17383v1)|⚠️|⭐️⭐️⭐️|
@@ -286,6 +288,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 265
+- Total Papers: 267
 - Code Implementations: 5
 - Last Updated: July 2025
