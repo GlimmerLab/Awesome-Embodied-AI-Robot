@@ -26,7 +26,13 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-28|A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games|[[pdf]](http://arxiv.org/abs/2507.20670v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[MMGraphRAG] MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2507.20804v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|Skin-Machine Interface with Multimodal Contact Motion Classifier|[[pdf]](http://arxiv.org/abs/2507.19760v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[en] SuperMag: Vision-based Tactile Data Guided High-resolution Tactile Shape Reconstruction for Magnetic Tactile Sensors|[[pdf]](http://arxiv.org/abs/2507.20002v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|High-Speed Event Vision-Based Tactile Roller Sensor for Large Surface Measurements|[[pdf]](http://arxiv.org/abs/2507.19914v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|[EffiComm] EffiComm: Bandwidth Efficient Multi Agent Communication|[[pdf]](http://arxiv.org/abs/2507.19354v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[en] Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach|[[pdf]](http://arxiv.org/abs/2507.18943v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] Reinforced Embodied Active Defense: Exploiting Adaptive Interaction for Robust Visual Perception in Adversarial 3D Environments|[[pdf]](http://arxiv.org/abs/2507.18484v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[G2S-ICP SLAM] G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM|[[pdf]](http://arxiv.org/abs/2507.18344v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] Evaluation of facial landmark localization performance in a surgical setting|[[pdf]](http://arxiv.org/abs/2507.18248v1)|⚠️|⭐️⭐️⭐️|
@@ -218,6 +224,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 194
+- Total Papers: 200
 - Code Implementations: 8
 - Last Updated: July 2025

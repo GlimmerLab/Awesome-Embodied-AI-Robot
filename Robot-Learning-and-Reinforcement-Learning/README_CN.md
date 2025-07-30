@@ -47,6 +47,29 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-28|[Humanoid] LLMs-guided adaptive compensator: Bringing Adaptivity to Automatic Control Systems with Large Language Models|[[pdf]](http://arxiv.org/abs/2507.20509v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[SCORPION] SCORPION: Addressing Scanner-Induced Variability in Histopathology|[[pdf]](http://arxiv.org/abs/2507.20907v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[Hanging Around] Hanging Around: Cognitive Inspired Reasoning for Reactive Robotics|[[pdf]](http://arxiv.org/abs/2507.20832v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[FMimic] FMimic: Foundation Models are Fine-grained Action Learners from Human Videos|[[pdf]](http://arxiv.org/abs/2507.20622v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[PixelNav] PixelNav: Towards Model-based Vision-Only Navigation with Topological Graphs|[[pdf]](http://arxiv.org/abs/2507.20892v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Uncertainty-aware Planning with Inaccurate Models for Robotized Liquid Handling|[[pdf]](http://arxiv.org/abs/2507.20861v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Geometry of Neural Reinforcement Learning in Continuous State and Action Spaces|[[pdf]](http://arxiv.org/abs/2507.20853v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[Kimi K2] Kimi K2: Open Agentic Intelligence|[[pdf]](http://arxiv.org/abs/2507.20534v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[DmC] DmC: Nearest Neighbor Guidance Diffusion Model for Offline Cross-domain Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.20499v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Implicit Spatiotemporal Bandwidth Enhancement Filter by Sine-activated Deep Learning Model for Fast 3D Photoacoustic Tomography|[[pdf]](http://arxiv.org/abs/2507.20575v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Learning Physical Interaction Skills from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2507.20445v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Flow Matching Policy Gradients|[[pdf]](http://arxiv.org/abs/2507.21053v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-27|[MazeEval] MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models|[[pdf]](http://arxiv.org/abs/2507.20395v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-27|Bipedalism for Quadrupedal Robots: Versatile Loco-Manipulation through Risk-Adaptive Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.20382v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-27|[en] Advancing Shared and Multi-Agent Autonomy in Underwater Missions: Integrating Knowledge Graphs and Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.20370v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[ChoreoMuse] ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion|[[pdf]](http://arxiv.org/abs/2507.19836v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[Ag2x2] Ag2x2: Robust Agent-Agnostic Visual Representations for Zero-Shot Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2507.19817v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[PlaneHEC] PlaneHEC: Efficient Hand-Eye Calibration for Multi-view Robotic Arm via Any Point Cloud Plane Detection|[[pdf]](http://arxiv.org/abs/2507.19851v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[en] A roadmap for AI in robotics|[[pdf]](http://arxiv.org/abs/2507.19975v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|Reinforcement Learning for Multi-Objective Multi-Echelon Supply Chain Optimisation|[[pdf]](http://arxiv.org/abs/2507.19788v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[Pic2Diagnosis] Pic2Diagnosis: A Method for Diagnosis of Cardiovascular Diseases from the Printed ECG Pictures|[[pdf]](http://arxiv.org/abs/2507.19961v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[DOA] DOA: A Degeneracy Optimization Agent with Adaptive Pose Compensation Capability based on Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.19742v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[en] Digital and Robotic Twinning for Validation of Proximity Operations and Formation Flying|[[pdf]](http://arxiv.org/abs/2507.20034v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|[ReCoDe] ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination|[[pdf]](http://arxiv.org/abs/2507.19151v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|[PatchTraj] PatchTraj: Dynamic Patch Representation Learning for Time-Frequency Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2507.19119v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|Controlling Topological Defects in Polar Fluids via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.19298v1)|⚠️|⭐️⭐️⭐️|
@@ -59,6 +82,11 @@
 |2025-07-25|Diverse and Adaptive Behavior Curriculum for Autonomous Driving: A Student-Teacher Framework with Multi-Agent RL|[[pdf]](http://arxiv.org/abs/2507.19146v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|Monocular Vision-Based Swarm Robot Localization Using Equilateral Triangular Formations|[[pdf]](http://arxiv.org/abs/2507.19100v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|Foundation Model-Driven Grasping of Unknown Objects via Center of Gravity Estimation|[[pdf]](http://arxiv.org/abs/2507.19242v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Extending Group Relative Policy Optimization to Continuous Control: A Theoretical Framework for Robotic Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.19555v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|Programmable Virtual Humans Toward Human Physiologically-Based Drug Discovery|[[pdf]](http://arxiv.org/abs/2507.19568v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[en] Hypergames: Modeling Misaligned Perceptions and Nested Beliefs for Multi-agent Systems|[[pdf]](http://arxiv.org/abs/2507.19593v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[en] "X of Information'' Continuum: A Survey on AI-Driven Multi-dimensional Metrics for Next-Generation Networked Systems|[[pdf]](http://arxiv.org/abs/2507.19657v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[en] Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.19712v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[MoRPI-PINN] MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial Navigation|[[pdf]](http://arxiv.org/abs/2507.18206v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding|[[pdf]](http://arxiv.org/abs/2507.18276v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols|[[pdf]](http://arxiv.org/abs/2507.18457v1)|⚠️|⭐️⭐️⭐️|
@@ -1429,6 +1457,6 @@
 
 ## 📊 统计
 
-- 论文总数：1403篇
+- 论文总数：1431篇
 - 代码实现：20个
 - 最后更新：2025年07月

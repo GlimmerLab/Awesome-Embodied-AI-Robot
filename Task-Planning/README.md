@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-26|[CLASP] CLASP: General-Purpose Clothes Manipulation with Semantic Keypoints|[[pdf]](http://arxiv.org/abs/2507.19983v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[AgentMesh] AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation|[[pdf]](http://arxiv.org/abs/2507.19902v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[Think, Act, Learn] Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models|[[pdf]](http://arxiv.org/abs/2507.19854v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach|[[pdf]](http://arxiv.org/abs/2507.18943v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[OpenNav] OpenNav: Open-World Navigation with Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.18033v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[ReSem3D] ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2507.18262v1)|⚠️|⭐️⭐️⭐️|
@@ -190,6 +193,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 166
+- Total Papers: 169
 - Code Implementations: 6
 - Last Updated: July 2025

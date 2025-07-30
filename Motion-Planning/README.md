@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-28|[LanternNet] LanternNet: A Novel Hub-and-Spoke System to Seek and Suppress Spotted Lanternfly Populations|[[pdf]](http://arxiv.org/abs/2507.20800v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-27|[Humanoid] Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.20217v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control|[[pdf]](http://arxiv.org/abs/2507.19860v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[RAKOMO] RAKOMO: Reachability-Aware K-Order Markov Path Optimization for Quadrupedal Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2507.19652v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces|[[pdf]](http://arxiv.org/abs/2507.18502v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics with Small On-Track Data Input|[[pdf]](http://arxiv.org/abs/2507.18396v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|Autonomous UAV Navigation for Search and Rescue Missions Using Computer Vision and Convolutional Neural Networks|[[pdf]](http://arxiv.org/abs/2507.18160v1)|⚠️|⭐️⭐️⭐️|
@@ -310,6 +314,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 285
+- Total Papers: 289
 - Code Implementations: 8
 - Last Updated: July 2025

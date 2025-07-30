@@ -25,8 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-28|A Human-in-the-loop Approach to Robot Action Replanning through LLM Common-Sense Reasoning|[[pdf]](http://arxiv.org/abs/2507.20870v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[en] Digital Twin Channel-Enabled Online Resource Allocation for 6G: Principle, Architecture and Application|[[pdf]](http://arxiv.org/abs/2507.19974v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-26|[en] Robot Excavation and Manipulation of Geometrically Cohesive Granular Media|[[pdf]](http://arxiv.org/abs/2507.19999v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|[GEAR] GEAR: Gaze-Enabled Human-Robot Collaborative Assembly|[[pdf]](http://arxiv.org/abs/2507.18947v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|Towards Multimodal Social Conversations with Robots: Using Vision-Language Models|[[pdf]](http://arxiv.org/abs/2507.19196v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|[Humanoid] Salsa as a Nonverbal Embodied Language -- The CoMPAS3D Dataset and Benchmarks|[[pdf]](http://arxiv.org/abs/2507.19684v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[ViGText] ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2507.18031v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|MetaMorph -- A Metamodelling Approach For Robot Morphology|[[pdf]](http://arxiv.org/abs/2507.18820v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-23|An Exploratory Study on Human-Robot Interaction using Semantics-based Situational Awareness|[[pdf]](http://arxiv.org/abs/2507.17376v1)|⚠️|⭐️⭐️⭐️|
@@ -198,6 +202,6 @@
 
 ## 📊 统计
 
-- 论文总数：173篇
+- 论文总数：177篇
 - 代码实现：6个
 - 最后更新：2025年07月

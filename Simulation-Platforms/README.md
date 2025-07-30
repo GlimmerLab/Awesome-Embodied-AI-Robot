@@ -39,7 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-26|[en] A 4D Radar Camera Extrinsic Calibration Tool Based on 3D Uncertainty Perspective N Points|[[pdf]](http://arxiv.org/abs/2507.19829v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|GMM-Based Time-Varying Coverage Control|[[pdf]](http://arxiv.org/abs/2507.18938v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-25|On the Limitations of Ray-Tracing for Learning-Based RF Tasks in Urban Environments|[[pdf]](http://arxiv.org/abs/2507.19653v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] Moving Out: Physically-grounded Human-AI Collaboration|[[pdf]](http://arxiv.org/abs/2507.18623v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[en] GenAI for Automotive Software Development: From Requirements to Wheels|[[pdf]](http://arxiv.org/abs/2507.18223v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|A Modular Residual Learning Framework to Enhance Model-Based Approach for Robust Locomotion|[[pdf]](http://arxiv.org/abs/2507.18138v1)|⚠️|⭐️⭐️⭐️|
@@ -297,6 +299,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 272
+- Total Papers: 274
 - Code Implementations: 21
 - Last Updated: July 2025
