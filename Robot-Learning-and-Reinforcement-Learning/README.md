@@ -47,6 +47,21 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-29|Model Predictive Adversarial Imitation Learning for Planning from Observation|[[pdf]](http://arxiv.org/abs/2507.21533v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[SafeDriveRAG] SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.21585v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety-Efficiency Trade-Offs|[[pdf]](http://arxiv.org/abs/2507.21506v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[UI-AGILE] UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding|[[pdf]](http://arxiv.org/abs/2507.22025v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[APT] APT: Improving Diffusion Models for High Resolution Image Generation with Adaptive Path Tracing|[[pdf]](http://arxiv.org/abs/2507.21690v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[MoDeSuite] MoDeSuite: Robot Learning Task Suite for Benchmarking Mobile Manipulation with Deformable Objects|[[pdf]](http://arxiv.org/abs/2507.21796v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[Assistax] Assistax: A Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics|[[pdf]](http://arxiv.org/abs/2507.21638v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|From Seeing to Experiencing: Scaling Navigation Foundation Models with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.22028v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Exploring the Stratified Space Structure of an RL Game with the Volume Growth Transform|[[pdf]](http://arxiv.org/abs/2507.22010v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[en] MultiEditor: Controllable Multimodal Object Editing for Driving Scenarios Using 3D Gaussian Splatting Priors|[[pdf]](http://arxiv.org/abs/2507.21872v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[en] Evaluating Deepfake Detectors in the Wild|[[pdf]](http://arxiv.org/abs/2507.21905v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Hybrid Causal Identification and Causal Mechanism Clustering|[[pdf]](http://arxiv.org/abs/2507.21792v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[DISCOVERSE] DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments|[[pdf]](http://arxiv.org/abs/2507.21981v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[Quadruped] LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments|[[pdf]](http://arxiv.org/abs/2507.21517v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Interactive Adversarial Testing of Autonomous Vehicles with Adjustable Confrontation Intensity|[[pdf]](http://arxiv.org/abs/2507.21814v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[Humanoid] LLMs-guided adaptive compensator: Bringing Adaptivity to Automatic Control Systems with Large Language Models|[[pdf]](http://arxiv.org/abs/2507.20509v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[SCORPION] SCORPION: Addressing Scanner-Induced Variability in Histopathology|[[pdf]](http://arxiv.org/abs/2507.20907v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[Hanging Around] Hanging Around: Cognitive Inspired Reasoning for Reactive Robotics|[[pdf]](http://arxiv.org/abs/2507.20832v1)|⚠️|⭐️⭐️⭐️|
@@ -59,6 +74,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-28|Implicit Spatiotemporal Bandwidth Enhancement Filter by Sine-activated Deep Learning Model for Fast 3D Photoacoustic Tomography|[[pdf]](http://arxiv.org/abs/2507.20575v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|Learning Physical Interaction Skills from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2507.20445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|Flow Matching Policy Gradients|[[pdf]](http://arxiv.org/abs/2507.21053v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[Agentic Web] Agentic Web: Weaving the Next Web with AI Agents|[[pdf]](http://arxiv.org/abs/2507.21206v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[Multi-Agent] Fluidically Innervated Lattices Make Versatile and Durable Tactile Sensors|[[pdf]](http://arxiv.org/abs/2507.21225v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[NMPCM] NMPCM: Nonlinear Model Predictive Control on Resource-Constrained Microcontrollers|[[pdf]](http://arxiv.org/abs/2507.21259v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[MazeEval] MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models|[[pdf]](http://arxiv.org/abs/2507.20395v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|Bipedalism for Quadrupedal Robots: Versatile Loco-Manipulation through Risk-Adaptive Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.20382v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[en] Advancing Shared and Multi-Agent Autonomy in Underwater Missions: Integrating Knowledge Graphs and Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.20370v1)|⚠️|⭐️⭐️⭐️|
@@ -1457,6 +1475,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1431
+- Total Papers: 1449
 - Code Implementations: 20
 - Last Updated: July 2025

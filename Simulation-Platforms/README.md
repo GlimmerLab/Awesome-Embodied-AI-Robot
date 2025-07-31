@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-29|Towards Locally Deployable Fine-Tuned Causal Large Language Models for Mode Choice Behaviour|[[pdf]](http://arxiv.org/abs/2507.21432v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Decentralized Modeling of Vehicular Maneuvers and Interactions at Urban Junctions|[[pdf]](http://arxiv.org/abs/2507.21547v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Multifunctional physical reservoir computing in soft tensegrity robots|[[pdf]](http://arxiv.org/abs/2507.21496v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|[en] Bubbleformer: Forecasting Boiling with Transformers|[[pdf]](http://arxiv.org/abs/2507.21244v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|[en] A 4D Radar Camera Extrinsic Calibration Tool Based on 3D Uncertainty Perspective N Points|[[pdf]](http://arxiv.org/abs/2507.19829v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|GMM-Based Time-Varying Coverage Control|[[pdf]](http://arxiv.org/abs/2507.18938v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|On the Limitations of Ray-Tracing for Learning-Based RF Tasks in Urban Environments|[[pdf]](http://arxiv.org/abs/2507.19653v1)|⚠️|⭐️⭐️⭐️|
@@ -299,6 +303,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 274
+- Total Papers: 278
 - Code Implementations: 21
 - Last Updated: July 2025

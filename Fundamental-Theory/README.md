@@ -18,9 +18,15 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-29|Large Language Models for Wireless Communications: From Adaptation to Autonomy|[[pdf]](http://arxiv.org/abs/2507.21524v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[en] Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems|[[pdf]](http://arxiv.org/abs/2507.21589v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Hebbian Memory-Augmented Recurrent Networks: Engram Neurons in Deep Learning|[[pdf]](http://arxiv.org/abs/2507.21474v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Foundation Models for Demand Forecasting via Dual-Strategy Ensembling|[[pdf]](http://arxiv.org/abs/2507.22053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|Free Energy-Inspired Cognitive Risk Integration for AV Navigation in Pedestrian-Rich Environments|[[pdf]](http://arxiv.org/abs/2507.20850v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence|[[pdf]](http://arxiv.org/abs/2507.21046v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|Enhancing QoS in Edge Computing through Federated Layering Techniques: A Pathway to Resilient AI Lifelong Learning Systems|[[pdf]](http://arxiv.org/abs/2507.20444v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Advancing Compositional LLM Reasoning with Structured Task Relations in Interactive Multimodal Communications|[[pdf]](http://arxiv.org/abs/2507.21199v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Projecting the New Body: How Body Image Evolves During Learning to Walk with a Wearable Robot|[[pdf]](http://arxiv.org/abs/2507.21384v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[VLMPlanner] VLMPlanner: Integrating Visual Language Models with Motion Planning|[[pdf]](http://arxiv.org/abs/2507.20342v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|[OS-MAP] OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?|[[pdf]](http://arxiv.org/abs/2507.19132v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-24|[E.A.R.T.H.] E.A.R.T.H.: Structuring Creative Evolution through Model Error in Generative AI|[[pdf]](http://arxiv.org/abs/2507.18004v1)|⚠️|⭐️⭐️⭐️|
@@ -292,6 +298,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 271
+- Total Papers: 277
 - Code Implementations: 5
 - Last Updated: July 2025
