@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-30|[RLVMR] RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents|[[pdf]](http://arxiv.org/abs/2507.22844v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[MapAgent] MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation|[[pdf]](http://arxiv.org/abs/2507.21953v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Neuro-Symbolic Approach for Probabilistic Reasoning on Graph Data|[[pdf]](http://arxiv.org/abs/2507.21873v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning|[[pdf]](http://arxiv.org/abs/2507.21545v1)|⚠️|⭐️⭐️⭐️|
@@ -197,6 +198,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 173
+- Total Papers: 174
 - Code Implementations: 6
-- Last Updated: July 2025
+- Last Updated: August 2025

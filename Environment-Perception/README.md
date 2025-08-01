@@ -26,7 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-30|A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2507.22473v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|AI Literacy as a Key Driver of User Experience in AI-Powered Assessment: Insights from Socratic Mind|[[pdf]](http://arxiv.org/abs/2507.21654v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Temporally Consistent Unsupervised Segmentation for Mobile Robot Perception|[[pdf]](http://arxiv.org/abs/2507.22194v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games|[[pdf]](http://arxiv.org/abs/2507.20670v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[MMGraphRAG] MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2507.20804v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|Skin-Machine Interface with Multimodal Contact Motion Classifier|[[pdf]](http://arxiv.org/abs/2507.19760v1)|⚠️|⭐️⭐️⭐️|
@@ -225,6 +227,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 201
+- Total Papers: 203
 - Code Implementations: 8
-- Last Updated: July 2025
+- Last Updated: August 2025

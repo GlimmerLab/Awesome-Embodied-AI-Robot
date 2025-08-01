@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-30|[Magentic-UI] Magentic-UI: Towards Human-in-the-loop Agentic Systems|[[pdf]](http://arxiv.org/abs/2507.22358v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Automatic Classification of User Requirements from Online Feedback -- A Replication Study|[[pdf]](http://arxiv.org/abs/2507.21532v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Emergent interactions lead to collective frustration in robotic matter|[[pdf]](http://arxiv.org/abs/2507.22148v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[Multi-Agent] Sound Source Localization for Human-Robot Interaction in Outdoor Environments|[[pdf]](http://arxiv.org/abs/2507.21431v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|A Human-in-the-loop Approach to Robot Action Replanning through LLM Common-Sense Reasoning|[[pdf]](http://arxiv.org/abs/2507.20870v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|[en] Digital Twin Channel-Enabled Online Resource Allocation for 6G: Principle, Architecture and Application|[[pdf]](http://arxiv.org/abs/2507.19974v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|[en] Robot Excavation and Manipulation of Geometrically Cohesive Granular Media|[[pdf]](http://arxiv.org/abs/2507.19999v1)|⚠️|⭐️⭐️⭐️|
@@ -202,6 +206,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 177
+- Total Papers: 181
 - Code Implementations: 6
-- Last Updated: July 2025
+- Last Updated: August 2025

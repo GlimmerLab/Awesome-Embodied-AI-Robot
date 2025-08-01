@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-30|[RLVMR] RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents|[[pdf]](http://arxiv.org/abs/2507.22844v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[MapAgent] MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation|[[pdf]](http://arxiv.org/abs/2507.21953v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Neuro-Symbolic Approach for Probabilistic Reasoning on Graph Data|[[pdf]](http://arxiv.org/abs/2507.21873v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning|[[pdf]](http://arxiv.org/abs/2507.21545v1)|⚠️|⭐️⭐️⭐️|
@@ -197,6 +198,6 @@
 
 ## 📊 统计
 
-- 论文总数：173篇
+- 论文总数：174篇
 - 代码实现：6个
-- 最后更新：2025年07月
+- 最后更新：2025年08月

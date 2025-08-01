@@ -32,10 +32,13 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-30|[Quadruped] UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation|[[pdf]](http://arxiv.org/abs/2507.22653v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|[FLORES] FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability|[[pdf]](http://arxiv.org/abs/2507.22345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects|[[pdf]](http://arxiv.org/abs/2507.21407v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics|[[pdf]](http://arxiv.org/abs/2507.22042v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Systematic Robot Design Optimization Methodology with Application to Redundant Dual-Arm Manipulators|[[pdf]](http://arxiv.org/abs/2507.21896v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Deep Learning-Driven Autonomous System for Retinal Vein Cannulation: Validation Using a Chicken Embryo Model|[[pdf]](http://arxiv.org/abs/2507.21965v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Deployment of Objects with a Soft Everting Robot|[[pdf]](http://arxiv.org/abs/2507.22188v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[LanternNet] LanternNet: A Novel Hub-and-Spoke System to Seek and Suppress Spotted Lanternfly Populations|[[pdf]](http://arxiv.org/abs/2507.20800v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[Humanoid] Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.20217v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control|[[pdf]](http://arxiv.org/abs/2507.19860v1)|⚠️|⭐️⭐️⭐️|
@@ -318,6 +321,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 293
+- Total Papers: 296
 - Code Implementations: 8
-- Last Updated: July 2025
+- Last Updated: August 2025

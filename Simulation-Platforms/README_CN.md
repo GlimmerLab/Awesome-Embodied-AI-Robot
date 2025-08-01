@@ -42,7 +42,9 @@
 |2025-07-29|Towards Locally Deployable Fine-Tuned Causal Large Language Models for Mode Choice Behaviour|[[pdf]](http://arxiv.org/abs/2507.21432v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decentralized Modeling of Vehicular Maneuvers and Interactions at Urban Junctions|[[pdf]](http://arxiv.org/abs/2507.21547v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Multifunctional physical reservoir computing in soft tensegrity robots|[[pdf]](http://arxiv.org/abs/2507.21496v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|[en] Runtime Failure Hunting for Physics Engine Based Software Systems: How Far Can We Go?|[[pdf]](http://arxiv.org/abs/2507.22099v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[en] Bubbleformer: Forecasting Boiling with Transformers|[[pdf]](http://arxiv.org/abs/2507.21244v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-27|Decentralized Uncertainty-Aware Multi-Agent Collision Avoidance with Model Predictive Path Integral|[[pdf]](http://arxiv.org/abs/2507.20293v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|[en] A 4D Radar Camera Extrinsic Calibration Tool Based on 3D Uncertainty Perspective N Points|[[pdf]](http://arxiv.org/abs/2507.19829v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|GMM-Based Time-Varying Coverage Control|[[pdf]](http://arxiv.org/abs/2507.18938v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-25|On the Limitations of Ray-Tracing for Learning-Based RF Tasks in Urban Environments|[[pdf]](http://arxiv.org/abs/2507.19653v1)|⚠️|⭐️⭐️⭐️|
@@ -303,6 +305,6 @@
 
 ## 📊 统计
 
-- 论文总数：278篇
+- 论文总数：280篇
 - 代码实现：21个
-- 最后更新：2025年07月
+- 最后更新：2025年08月

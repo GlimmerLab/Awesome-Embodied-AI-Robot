@@ -47,6 +47,13 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-30|Recognizing Actions from Robotic View for Natural Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.22522v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|[VL-Cogito] VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2507.22607v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Teaching the Teacher: Improving Neural Network Distillability for Symbolic Regression via Jacobian Regularization|[[pdf]](http://arxiv.org/abs/2507.22767v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Improving Generalization Ability of Robotic Imitation Learning by Resolving Causal Confusion in Observations|[[pdf]](http://arxiv.org/abs/2507.22380v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Safe Deployment of Offline Reinforcement Learning via Input Convex Action Correction|[[pdf]](http://arxiv.org/abs/2507.22640v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies|[[pdf]](http://arxiv.org/abs/2507.22782v2)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|An Explainable Emotion Alignment Framework for LLM-Empowered Agent in Metaverse Service Ecosystem|[[pdf]](http://arxiv.org/abs/2507.22326v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Model Predictive Adversarial Imitation Learning for Planning from Observation|[[pdf]](http://arxiv.org/abs/2507.21533v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[SafeDriveRAG] SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.21585v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety-Efficiency Trade-Offs|[[pdf]](http://arxiv.org/abs/2507.21506v2)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +69,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-29|[DISCOVERSE] DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments|[[pdf]](http://arxiv.org/abs/2507.21981v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[Quadruped] LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments|[[pdf]](http://arxiv.org/abs/2507.21517v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Interactive Adversarial Testing of Autonomous Vehicles with Adjustable Confrontation Intensity|[[pdf]](http://arxiv.org/abs/2507.21814v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Large Language Model-Based Framework for Explainable Cyberattack Detection in Automatic Generation Control Systems|[[pdf]](http://arxiv.org/abs/2507.22239v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Toward Trusted Onboard AI: Advancing Small Satellite Operations using Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.22198v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|ODE Methods for Computing One-Dimensional Self-Motion Manifolds|[[pdf]](http://arxiv.org/abs/2507.21957v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training|[[pdf]](http://arxiv.org/abs/2507.21452v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[Humanoid] LLMs-guided adaptive compensator: Bringing Adaptivity to Automatic Control Systems with Large Language Models|[[pdf]](http://arxiv.org/abs/2507.20509v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[SCORPION] SCORPION: Addressing Scanner-Induced Variability in Histopathology|[[pdf]](http://arxiv.org/abs/2507.20907v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[Hanging Around] Hanging Around: Cognitive Inspired Reasoning for Reactive Robotics|[[pdf]](http://arxiv.org/abs/2507.20832v1)|⚠️|⭐️⭐️⭐️|
@@ -77,6 +88,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-28|[Agentic Web] Agentic Web: Weaving the Next Web with AI Agents|[[pdf]](http://arxiv.org/abs/2507.21206v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[Multi-Agent] Fluidically Innervated Lattices Make Versatile and Durable Tactile Sensors|[[pdf]](http://arxiv.org/abs/2507.21225v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[NMPCM] NMPCM: Nonlinear Model Predictive Control on Resource-Constrained Microcontrollers|[[pdf]](http://arxiv.org/abs/2507.21259v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-28|Autonomous Exploration with Terrestrial-Aerial Bimodal Vehicles|[[pdf]](http://arxiv.org/abs/2507.21338v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[MazeEval] MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models|[[pdf]](http://arxiv.org/abs/2507.20395v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|Bipedalism for Quadrupedal Robots: Versatile Loco-Manipulation through Risk-Adaptive Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2507.20382v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[en] Advancing Shared and Multi-Agent Autonomy in Underwater Missions: Integrating Knowledge Graphs and Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.20370v1)|⚠️|⭐️⭐️⭐️|
@@ -1475,6 +1487,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1449
+- Total Papers: 1461
 - Code Implementations: 20
-- Last Updated: July 2025
+- Last Updated: August 2025
