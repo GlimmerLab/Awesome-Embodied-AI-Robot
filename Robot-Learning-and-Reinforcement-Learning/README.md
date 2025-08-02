@@ -47,6 +47,17 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-31|Multi-Waypoint Path Planning and Motion Control for Non-holonomic Mobile Robots in Agricultural Applications|[[pdf]](http://arxiv.org/abs/2507.23350v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Distributed AI Agents for Cognitive Underwater Robot Autonomy|[[pdf]](http://arxiv.org/abs/2507.23735v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Can LLM-Reasoning Models Replace Classical Planning? A Benchmark Study|[[pdf]](http://arxiv.org/abs/2507.23589v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Benchmarking Massively Parallelized Multi-Task Reinforcement Learning for Robotics Tasks|[[pdf]](http://arxiv.org/abs/2507.23172v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[H-RDT] H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2507.23523v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[RAGNet] RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping|[[pdf]](http://arxiv.org/abs/2507.23734v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Policy Learning from Large Vision-Language Model Feedback without Reward Modeling|[[pdf]](http://arxiv.org/abs/2507.23391v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[en] villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2507.23682v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents|[[pdf]](http://arxiv.org/abs/2507.23698v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Whisker-based Active Tactile Perception for Contour Reconstruction|[[pdf]](http://arxiv.org/abs/2507.23305v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Quantifying and Visualizing Sim-to-Real Gaps: Physics-Guided Regularization for Reproducibility|[[pdf]](http://arxiv.org/abs/2507.23445v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Recognizing Actions from Robotic View for Natural Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.22522v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[VL-Cogito] VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2507.22607v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Teaching the Teacher: Improving Neural Network Distillability for Symbolic Regression via Jacobian Regularization|[[pdf]](http://arxiv.org/abs/2507.22767v1)|⚠️|⭐️⭐️⭐️|
@@ -54,6 +65,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-30|Safe Deployment of Offline Reinforcement Learning via Input Convex Action Correction|[[pdf]](http://arxiv.org/abs/2507.22640v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies|[[pdf]](http://arxiv.org/abs/2507.22782v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|An Explainable Emotion Alignment Framework for LLM-Empowered Agent in Metaverse Service Ecosystem|[[pdf]](http://arxiv.org/abs/2507.22326v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|[Quadruped] In-between Motion Generation Based Multi-Style Quadruped Robot Locomotion|[[pdf]](http://arxiv.org/abs/2507.23053v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Learning to Prune Branches in Modern Tree-Fruit Orchards|[[pdf]](http://arxiv.org/abs/2507.23015v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Model Predictive Adversarial Imitation Learning for Planning from Observation|[[pdf]](http://arxiv.org/abs/2507.21533v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[SafeDriveRAG] SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.21585v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety-Efficiency Trade-Offs|[[pdf]](http://arxiv.org/abs/2507.21506v2)|⚠️|⭐️⭐️⭐️|
@@ -1487,6 +1500,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1461
+- Total Papers: 1474
 - Code Implementations: 20
 - Last Updated: August 2025

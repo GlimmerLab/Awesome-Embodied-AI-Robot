@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-31|Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2|[[pdf]](http://arxiv.org/abs/2507.23272v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[MPCC] MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.23382v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Modeling Human Gaze Behavior with Diffusion Models for Unified Scanpath Prediction|[[pdf]](http://arxiv.org/abs/2507.23021v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Early Goal-Guided Multi-Scale Fusion for Real-Time Vision-Language Driving|[[pdf]](http://arxiv.org/abs/2507.23042v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Large Language Models for Wireless Communications: From Adaptation to Autonomy|[[pdf]](http://arxiv.org/abs/2507.21524v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[en] Exploring the Link Between Bayesian Inference and Embodied Intelligence: Toward Open Physical-World Embodied AI Systems|[[pdf]](http://arxiv.org/abs/2507.21589v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Hebbian Memory-Augmented Recurrent Networks: Engram Neurons in Deep Learning|[[pdf]](http://arxiv.org/abs/2507.21474v1)|⚠️|⭐️⭐️⭐️|
@@ -298,6 +302,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 277
+- Total Papers: 281
 - Code Implementations: 5
 - Last Updated: August 2025

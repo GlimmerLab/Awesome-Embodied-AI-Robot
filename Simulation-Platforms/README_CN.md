@@ -39,6 +39,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-31|[AutoBridge] AutoBridge: Automating Smart Device Integration with Centralized Platform|[[pdf]](http://arxiv.org/abs/2507.23178v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|[Hydra-Bench] Hydra-Bench: A Benchmark for Multi-Modal Leaf Wetness Sensing|[[pdf]](http://arxiv.org/abs/2507.22685v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Towards Locally Deployable Fine-Tuned Causal Large Language Models for Mode Choice Behaviour|[[pdf]](http://arxiv.org/abs/2507.21432v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decentralized Modeling of Vehicular Maneuvers and Interactions at Urban Junctions|[[pdf]](http://arxiv.org/abs/2507.21547v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Multifunctional physical reservoir computing in soft tensegrity robots|[[pdf]](http://arxiv.org/abs/2507.21496v1)|⚠️|⭐️⭐️⭐️|
@@ -305,6 +307,6 @@
 
 ## 📊 统计
 
-- 论文总数：280篇
+- 论文总数：282篇
 - 代码实现：21个
 - 最后更新：2025年08月

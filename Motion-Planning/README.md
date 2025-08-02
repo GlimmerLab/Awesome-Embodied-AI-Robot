@@ -32,6 +32,7 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-07-31|Quadratic Programming-Based Posture Manipulation and Thrust-vectoring for Agile Dynamic Walking on Narrow Pathways|[[pdf]](http://arxiv.org/abs/2507.23203v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Quadruped] UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation|[[pdf]](http://arxiv.org/abs/2507.22653v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[FLORES] FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability|[[pdf]](http://arxiv.org/abs/2507.22345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects|[[pdf]](http://arxiv.org/abs/2507.21407v1)|⚠️|⭐️⭐️⭐️|
@@ -321,6 +322,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 296
+- Total Papers: 297
 - Code Implementations: 8
 - Last Updated: August 2025
