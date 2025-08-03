@@ -41,6 +41,8 @@ This directory collects papers and code implementations related to simulation pl
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-31|[AutoBridge] AutoBridge: Automating Smart Device Integration with Centralized Platform|[[pdf]](http://arxiv.org/abs/2507.23178v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Hydra-Bench] Hydra-Bench: A Benchmark for Multi-Modal Leaf Wetness Sensing|[[pdf]](http://arxiv.org/abs/2507.22685v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Physics-constrained generative machine learning-based high-resolution downscaling of Greenland's surface mass balance and surface temperature|[[pdf]](http://arxiv.org/abs/2507.22485v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Visual Language Models as Zero-Shot Deepfake Detectors|[[pdf]](http://arxiv.org/abs/2507.22469v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Towards Locally Deployable Fine-Tuned Causal Large Language Models for Mode Choice Behaviour|[[pdf]](http://arxiv.org/abs/2507.21432v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decentralized Modeling of Vehicular Maneuvers and Interactions at Urban Junctions|[[pdf]](http://arxiv.org/abs/2507.21547v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Multifunctional physical reservoir computing in soft tensegrity robots|[[pdf]](http://arxiv.org/abs/2507.21496v1)|⚠️|⭐️⭐️⭐️|
@@ -307,6 +309,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 282
+- Total Papers: 284
 - Code Implementations: 21
 - Last Updated: August 2025

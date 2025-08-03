@@ -35,11 +35,13 @@
 |2025-07-31|Quadratic Programming-Based Posture Manipulation and Thrust-vectoring for Agile Dynamic Walking on Narrow Pathways|[[pdf]](http://arxiv.org/abs/2507.23203v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Quadruped] UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation|[[pdf]](http://arxiv.org/abs/2507.22653v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[FLORES] FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability|[[pdf]](http://arxiv.org/abs/2507.22345v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Bayesian Optimization applied for accelerated Virtual Validation of the Autonomous Driving Function|[[pdf]](http://arxiv.org/abs/2507.22769v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects|[[pdf]](http://arxiv.org/abs/2507.21407v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics|[[pdf]](http://arxiv.org/abs/2507.22042v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Systematic Robot Design Optimization Methodology with Application to Redundant Dual-Arm Manipulators|[[pdf]](http://arxiv.org/abs/2507.21896v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|A Deep Learning-Driven Autonomous System for Retinal Vein Cannulation: Validation Using a Chicken Embryo Model|[[pdf]](http://arxiv.org/abs/2507.21965v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Deployment of Objects with a Soft Everting Robot|[[pdf]](http://arxiv.org/abs/2507.22188v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-29|Multi-Agent Path Finding Among Dynamic Uncontrollable Agents with Statistical Safety Guarantees|[[pdf]](http://arxiv.org/abs/2507.22282v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|[LanternNet] LanternNet: A Novel Hub-and-Spoke System to Seek and Suppress Spotted Lanternfly Populations|[[pdf]](http://arxiv.org/abs/2507.20800v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-27|[Humanoid] Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots|[[pdf]](http://arxiv.org/abs/2507.20217v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-26|Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control|[[pdf]](http://arxiv.org/abs/2507.19860v1)|⚠️|⭐️⭐️⭐️|
@@ -322,6 +324,6 @@
 
 ## 📊 统计
 
-- 论文总数：297篇
+- 论文总数：299篇
 - 代码实现：8个
 - 最后更新：2025年08月

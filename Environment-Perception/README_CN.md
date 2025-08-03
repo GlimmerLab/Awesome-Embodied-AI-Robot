@@ -27,7 +27,9 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-31|[Adaptive] A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.23540v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Design of a bioinspired robophysical antenna for insect-scale tactile perception and navigation|[[pdf]](http://arxiv.org/abs/2507.23719v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2507.22473v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Explainable Deep Anomaly Detection with Sequential Hypothesis Testing for Robotic Sewer Inspection|[[pdf]](http://arxiv.org/abs/2507.22546v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|AI Literacy as a Key Driver of User Experience in AI-Powered Assessment: Insights from Socratic Mind|[[pdf]](http://arxiv.org/abs/2507.21654v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Temporally Consistent Unsupervised Segmentation for Mobile Robot Perception|[[pdf]](http://arxiv.org/abs/2507.22194v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-28|A Multimodal Architecture for Endpoint Position Prediction in Team-based Multiplayer Games|[[pdf]](http://arxiv.org/abs/2507.20670v1)|⚠️|⭐️⭐️⭐️|
@@ -228,6 +230,6 @@
 
 ## 📊 统计
 
-- 论文总数：204篇
+- 论文总数：206篇
 - 代码实现：8个
 - 最后更新：2025年08月

@@ -58,6 +58,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-31|Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents|[[pdf]](http://arxiv.org/abs/2507.23698v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Whisker-based Active Tactile Perception for Contour Reconstruction|[[pdf]](http://arxiv.org/abs/2507.23305v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Quantifying and Visualizing Sim-to-Real Gaps: Physics-Guided Regularization for Reproducibility|[[pdf]](http://arxiv.org/abs/2507.23445v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Learning to Drift with Individual Wheel Drive: Maneuvering Autonomous Vehicle at the Handling Limits|[[pdf]](http://arxiv.org/abs/2507.23339v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[DRACo-SLAM2] DRACo-SLAM2: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar EquippedUnderwater Robot Teams with Object Graph Matching|[[pdf]](http://arxiv.org/abs/2507.23629v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Assessing the Alignment of Automated Vehicle Decisions with Human Reasons|[[pdf]](http://arxiv.org/abs/2507.23324v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Recognizing Actions from Robotic View for Natural Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.22522v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[VL-Cogito] VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2507.22607v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Teaching the Teacher: Improving Neural Network Distillability for Symbolic Regression via Jacobian Regularization|[[pdf]](http://arxiv.org/abs/2507.22767v1)|⚠️|⭐️⭐️⭐️|
@@ -67,6 +70,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-30|An Explainable Emotion Alignment Framework for LLM-Empowered Agent in Metaverse Service Ecosystem|[[pdf]](http://arxiv.org/abs/2507.22326v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Quadruped] In-between Motion Generation Based Multi-Style Quadruped Robot Locomotion|[[pdf]](http://arxiv.org/abs/2507.23053v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Learning to Prune Branches in Modern Tree-Fruit Orchards|[[pdf]](http://arxiv.org/abs/2507.23015v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|A Certifably Correct Algorithm for Generalized Robot-World and Hand-Eye Calibration|[[pdf]](http://arxiv.org/abs/2507.23045v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Experimentally-Driven Analysis of Stability in Connected Vehicle Platooning: Insights and Control Strategies|[[pdf]](http://arxiv.org/abs/2507.23078v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Model Predictive Adversarial Imitation Learning for Planning from Observation|[[pdf]](http://arxiv.org/abs/2507.21533v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[SafeDriveRAG] SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.21585v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety-Efficiency Trade-Offs|[[pdf]](http://arxiv.org/abs/2507.21506v2)|⚠️|⭐️⭐️⭐️|
@@ -1500,6 +1505,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1474
+- Total Papers: 1479
 - Code Implementations: 20
 - Last Updated: August 2025
