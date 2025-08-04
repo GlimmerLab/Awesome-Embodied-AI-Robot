@@ -30,6 +30,7 @@
 |2025-07-30|[Magentic-UI] Magentic-UI: Towards Human-in-the-loop Agentic Systems|[[pdf]](http://arxiv.org/abs/2507.22358v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Vision-Language Fusion for Real-Time Autonomous Driving: Goal-Centered Cross-Attention of Camera, HD-Map, & Waypoints|[[pdf]](http://arxiv.org/abs/2507.23064v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[en] Beyond Rigid AI: Towards Natural Human-Machine Symbiosis for Interoperative Surgical Assistance|[[pdf]](http://arxiv.org/abs/2507.23088v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|[Viser] Viser: Imperative, Web-based 3D Visualization in Python|[[pdf]](http://arxiv.org/abs/2507.22885v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Automatic Classification of User Requirements from Online Feedback -- A Replication Study|[[pdf]](http://arxiv.org/abs/2507.21532v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Emergent interactions lead to collective frustration in robotic matter|[[pdf]](http://arxiv.org/abs/2507.22148v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[Multi-Agent] Sound Source Localization for Human-Robot Interaction in Outdoor Environments|[[pdf]](http://arxiv.org/abs/2507.21431v1)|⚠️|⭐️⭐️⭐️|
@@ -210,6 +211,6 @@
 
 ## 📊 统计
 
-- 论文总数：185篇
+- 论文总数：186篇
 - 代码实现：6个
 - 最后更新：2025年08月

@@ -61,6 +61,7 @@
 |2025-07-31|Learning to Drift with Individual Wheel Drive: Maneuvering Autonomous Vehicle at the Handling Limits|[[pdf]](http://arxiv.org/abs/2507.23339v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[DRACo-SLAM2] DRACo-SLAM2: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar EquippedUnderwater Robot Teams with Object Graph Matching|[[pdf]](http://arxiv.org/abs/2507.23629v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Assessing the Alignment of Automated Vehicle Decisions with Human Reasons|[[pdf]](http://arxiv.org/abs/2507.23324v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Impact of a Lower Limb Exosuit Anchor Points on Energetics and Biomechanics|[[pdf]](http://arxiv.org/abs/2507.23579v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Recognizing Actions from Robotic View for Natural Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.22522v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[VL-Cogito] VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2507.22607v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Teaching the Teacher: Improving Neural Network Distillability for Symbolic Regression via Jacobian Regularization|[[pdf]](http://arxiv.org/abs/2507.22767v1)|⚠️|⭐️⭐️⭐️|
@@ -72,6 +73,7 @@
 |2025-07-30|Learning to Prune Branches in Modern Tree-Fruit Orchards|[[pdf]](http://arxiv.org/abs/2507.23015v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|A Certifably Correct Algorithm for Generalized Robot-World and Hand-Eye Calibration|[[pdf]](http://arxiv.org/abs/2507.23045v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Experimentally-Driven Analysis of Stability in Connected Vehicle Platooning: Insights and Control Strategies|[[pdf]](http://arxiv.org/abs/2507.23078v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-30|Aleatoric Uncertainty Medical Image Segmentation Estimation via Flow Matching|[[pdf]](http://arxiv.org/abs/2507.22418v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Model Predictive Adversarial Imitation Learning for Planning from Observation|[[pdf]](http://arxiv.org/abs/2507.21533v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|[SafeDriveRAG] SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2507.21585v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety-Efficiency Trade-Offs|[[pdf]](http://arxiv.org/abs/2507.21506v2)|⚠️|⭐️⭐️⭐️|
@@ -1505,6 +1507,6 @@
 
 ## 📊 统计
 
-- 论文总数：1479篇
+- 论文总数：1481篇
 - 代码实现：20个
 - 最后更新：2025年08月

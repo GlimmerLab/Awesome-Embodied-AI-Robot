@@ -20,6 +20,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-07-31|Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2|[[pdf]](http://arxiv.org/abs/2507.23272v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[MPCC] MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.23382v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[SimuRA] SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model|[[pdf]](http://arxiv.org/abs/2507.23773v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Modeling Human Gaze Behavior with Diffusion Models for Unified Scanpath Prediction|[[pdf]](http://arxiv.org/abs/2507.23021v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Early Goal-Guided Multi-Scale Fusion for Real-Time Vision-Language Driving|[[pdf]](http://arxiv.org/abs/2507.23042v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Large Language Models for Wireless Communications: From Adaptation to Autonomy|[[pdf]](http://arxiv.org/abs/2507.21524v1)|⚠️|⭐️⭐️⭐️|
@@ -302,6 +303,6 @@
 
 ## 📊 统计
 
-- 论文总数：281篇
+- 论文总数：282篇
 - 代码实现：5个
 - 最后更新：2025年08月
