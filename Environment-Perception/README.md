@@ -26,6 +26,8 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-01|[OmniUnet] OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery|[[pdf]](http://arxiv.org/abs/2508.00580v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[en] Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting|[[pdf]](http://arxiv.org/abs/2508.00427v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[Adaptive] A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.23540v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Design of a bioinspired robophysical antenna for insect-scale tactile perception and navigation|[[pdf]](http://arxiv.org/abs/2507.23719v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2507.22473v1)|⚠️|⭐️⭐️⭐️|
@@ -230,6 +232,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 206
+- Total Papers: 208
 - Code Implementations: 8
 - Last Updated: August 2025

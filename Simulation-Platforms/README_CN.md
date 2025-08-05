@@ -39,7 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-01|Theory of Mind Using Active Inference: A Framework for Multi-Agent Cooperation|[[pdf]](http://arxiv.org/abs/2508.00401v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[en] Controllable Pedestrian Video Editing for Multi-View Driving Scenarios via Motion Sequence|[[pdf]](http://arxiv.org/abs/2508.00299v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[Policy] Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging|[[pdf]](http://arxiv.org/abs/2508.00354v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|OpenScout v1.1 mobile robot: a case study on open hardware continuation|[[pdf]](http://arxiv.org/abs/2508.00625v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[AutoBridge] AutoBridge: Automating Smart Device Integration with Centralized Platform|[[pdf]](http://arxiv.org/abs/2507.23178v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[XRoboToolkit] XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation|[[pdf]](http://arxiv.org/abs/2508.00097v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Hydra-Bench] Hydra-Bench: A Benchmark for Multi-Modal Leaf Wetness Sensing|[[pdf]](http://arxiv.org/abs/2507.22685v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Physics-constrained generative machine learning-based high-resolution downscaling of Greenland's surface mass balance and surface temperature|[[pdf]](http://arxiv.org/abs/2507.22485v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Visual Language Models as Zero-Shot Deepfake Detectors|[[pdf]](http://arxiv.org/abs/2507.22469v1)|⚠️|⭐️⭐️⭐️|
@@ -309,6 +314,6 @@
 
 ## 📊 统计
 
-- 论文总数：284篇
+- 论文总数：289篇
 - 代码实现：21个
 - 最后更新：2025年08月

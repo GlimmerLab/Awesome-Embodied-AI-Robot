@@ -47,6 +47,17 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-01|[TOP] TOP: Time Optimization Policy for Stable and Accurate Standing Manipulation with Humanoid Robots|[[pdf]](http://arxiv.org/abs/2508.00355v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|Video Generators are Robot Policies|[[pdf]](http://arxiv.org/abs/2508.00795v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[HannesImitation] HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning|[[pdf]](http://arxiv.org/abs/2508.00491v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[en] On-Device Diffusion Transformer Policy for Efficient Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.00697v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[en] Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking|[[pdf]](http://arxiv.org/abs/2508.00500v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|How LLMs are Shaping the Future of Virtual Reality|[[pdf]](http://arxiv.org/abs/2508.00737v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|Adaptive Machine Learning-Driven Multi-Fidelity Stratified Sampling for Failure Analysis of Nonlinear Stochastic Systems|[[pdf]](http://arxiv.org/abs/2508.00734v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis|[[pdf]](http://arxiv.org/abs/2508.00381v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|Beamformed 360° Sound Maps: U-Net-Driven Acoustic Source Segmentation and Localization|[[pdf]](http://arxiv.org/abs/2508.00307v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[Biped] A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot|[[pdf]](http://arxiv.org/abs/2508.00362v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[IGL-Nav] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation|[[pdf]](http://arxiv.org/abs/2508.00823v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Multi-Waypoint Path Planning and Motion Control for Non-holonomic Mobile Robots in Agricultural Applications|[[pdf]](http://arxiv.org/abs/2507.23350v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Distributed AI Agents for Cognitive Underwater Robot Autonomy|[[pdf]](http://arxiv.org/abs/2507.23735v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Can LLM-Reasoning Models Replace Classical Planning? A Benchmark Study|[[pdf]](http://arxiv.org/abs/2507.23589v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +73,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-07-31|[DRACo-SLAM2] DRACo-SLAM2: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar EquippedUnderwater Robot Teams with Object Graph Matching|[[pdf]](http://arxiv.org/abs/2507.23629v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Assessing the Alignment of Automated Vehicle Decisions with Human Reasons|[[pdf]](http://arxiv.org/abs/2507.23324v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Impact of a Lower Limb Exosuit Anchor Points on Energetics and Biomechanics|[[pdf]](http://arxiv.org/abs/2507.23579v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[Agency Among Agents] Agency Among Agents: Designing with Hypertextual Friction in the Algorithmic Web|[[pdf]](http://arxiv.org/abs/2507.23585v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Benchmarking Partial Observability in Reinforcement Learning with a Suite of Memory-Improvable Domains|[[pdf]](http://arxiv.org/abs/2508.00046v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[Biped] The Monado SLAM Dataset for Egocentric Visual-Inertial Tracking|[[pdf]](http://arxiv.org/abs/2508.00088v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Data-Driven Motion Planning for Uncertain Nonlinear Systems|[[pdf]](http://arxiv.org/abs/2508.00154v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Recognizing Actions from Robotic View for Natural Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2507.22522v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[VL-Cogito] VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2507.22607v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Teaching the Teacher: Improving Neural Network Distillability for Symbolic Regression via Jacobian Regularization|[[pdf]](http://arxiv.org/abs/2507.22767v1)|⚠️|⭐️⭐️⭐️|
@@ -1507,6 +1522,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1481
+- Total Papers: 1496
 - Code Implementations: 20
 - Last Updated: August 2025

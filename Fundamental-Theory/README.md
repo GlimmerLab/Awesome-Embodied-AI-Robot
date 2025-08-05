@@ -18,9 +18,11 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-01|[UAV-ON] UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents|[[pdf]](http://arxiv.org/abs/2508.00288v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2|[[pdf]](http://arxiv.org/abs/2507.23272v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[MPCC] MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.23382v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[SimuRA] SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model|[[pdf]](http://arxiv.org/abs/2507.23773v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|Punching Bag vs. Punching Person: Motion Transferability in Videos|[[pdf]](http://arxiv.org/abs/2508.00085v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Modeling Human Gaze Behavior with Diffusion Models for Unified Scanpath Prediction|[[pdf]](http://arxiv.org/abs/2507.23021v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Early Goal-Guided Multi-Scale Fusion for Real-Time Vision-Language Driving|[[pdf]](http://arxiv.org/abs/2507.23042v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-29|Large Language Models for Wireless Communications: From Adaptation to Autonomy|[[pdf]](http://arxiv.org/abs/2507.21524v1)|⚠️|⭐️⭐️⭐️|
@@ -303,6 +305,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 282
+- Total Papers: 284
 - Code Implementations: 5
 - Last Updated: August 2025
