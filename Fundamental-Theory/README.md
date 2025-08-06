@@ -18,7 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-04|[NaviMaster] NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks|[[pdf]](http://arxiv.org/abs/2508.02046v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|A Survey on Agent Workflow -- Status and Future|[[pdf]](http://arxiv.org/abs/2508.01186v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens|[[pdf]](http://arxiv.org/abs/2508.01191v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|[WinkTPG] WinkTPG: An Execution Framework for Multi-Agent Path Finding Using Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2508.01495v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[UAV-ON] UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents|[[pdf]](http://arxiv.org/abs/2508.00288v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|[REACT] REACT: A Real-Time Edge-AI Based V2X Framework for Accident Avoidance in Autonomous Driving System|[[pdf]](http://arxiv.org/abs/2508.01057v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2|[[pdf]](http://arxiv.org/abs/2507.23272v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[MPCC] MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2507.23382v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[SimuRA] SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model|[[pdf]](http://arxiv.org/abs/2507.23773v1)|⚠️|⭐️⭐️⭐️|
@@ -305,6 +310,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 284
+- Total Papers: 289
 - Code Implementations: 5
 - Last Updated: August 2025

@@ -25,6 +25,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-04|[HyCodePolicy] HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents|[[pdf]](http://arxiv.org/abs/2508.02629v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Humanoid-Robot Interaction|[[pdf]](http://arxiv.org/abs/2508.02505v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing|[[pdf]](http://arxiv.org/abs/2508.02425v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for Local-Life Service Recommendation|[[pdf]](http://arxiv.org/abs/2508.02451v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[en] What Is Your AI Agent Buying? Evaluation, Implications and Emerging Questions for Agentic E-Commerce|[[pdf]](http://arxiv.org/abs/2508.02630v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[en] Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors|[[pdf]](http://arxiv.org/abs/2508.01736v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Video-based Vehicle Surveillance in the Wild: License Plate, Make, and Model Recognition with Self Reflective Vision-Language Models|[[pdf]](http://arxiv.org/abs/2508.01387v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|[VLH] VLH: Vision-Language-Haptics Foundation Model|[[pdf]](http://arxiv.org/abs/2508.01361v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Human-Exoskeleton Kinematic Calibration to Improve Hand Tracking for Dexterous Teleoperation|[[pdf]](http://arxiv.org/abs/2507.23592v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[Multi-Agent] User Experience Estimation in Human-Robot Interaction Via Multi-Instance Learning of Multimodal Social Signals|[[pdf]](http://arxiv.org/abs/2507.23544v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Magentic-UI] Magentic-UI: Towards Human-in-the-loop Agentic Systems|[[pdf]](http://arxiv.org/abs/2507.22358v1)|⚠️|⭐️⭐️⭐️|
@@ -211,6 +219,6 @@
 
 ## 📊 统计
 
-- 论文总数：186篇
+- 论文总数：194篇
 - 代码实现：6个
 - 最后更新：2025年08月

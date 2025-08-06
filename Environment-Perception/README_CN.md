@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-03|[OpenMap] OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping|[[pdf]](http://arxiv.org/abs/2508.01723v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[OmniUnet] OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery|[[pdf]](http://arxiv.org/abs/2508.00580v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[en] Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting|[[pdf]](http://arxiv.org/abs/2508.00427v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|[Adaptive] A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving|[[pdf]](http://arxiv.org/abs/2507.23540v1)|⚠️|⭐️⭐️⭐️|
@@ -232,6 +233,6 @@
 
 ## 📊 统计
 
-- 论文总数：208篇
+- 论文总数：209篇
 - 代码实现：8个
 - 最后更新：2025年08月

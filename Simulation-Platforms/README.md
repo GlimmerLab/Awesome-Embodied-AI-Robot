@@ -39,6 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-04|[en] Vision Language Model-based Testing of Industrial Autonomous Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.02338v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[en] Dynamic Robot-Assisted Surgery with Hierarchical Class-Incremental Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2508.01713v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[ChairPose] ChairPose: Pressure-based Chair Morphology Grounded Sitting Pose Estimation through Simulation-Assisted Training|[[pdf]](http://arxiv.org/abs/2508.01850v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|Theory of Mind Using Active Inference: A Framework for Multi-Agent Cooperation|[[pdf]](http://arxiv.org/abs/2508.00401v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[en] Controllable Pedestrian Video Editing for Multi-View Driving Scenarios via Motion Sequence|[[pdf]](http://arxiv.org/abs/2508.00299v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[Policy] Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging|[[pdf]](http://arxiv.org/abs/2508.00354v1)|⚠️|⭐️⭐️⭐️|
@@ -314,6 +317,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 289
+- Total Papers: 292
 - Code Implementations: 21
 - Last Updated: August 2025

@@ -47,6 +47,40 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-04|[Don't Overthink It] Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models|[[pdf]](http://arxiv.org/abs/2508.02120v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Stakeholder Perspectives on Humanistic Implementation of Computer Perception in Healthcare: A Qualitative Study|[[pdf]](http://arxiv.org/abs/2508.02550v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation|[[pdf]](http://arxiv.org/abs/2508.02132v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Framework for Robust Motion Planning of Tethered Multi-Robot Systems in Marine Environments|[[pdf]](http://arxiv.org/abs/2508.02287v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Improving Generalization of Language-Conditioned Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.02405v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Periodic robust robotic rock chop via virtual model control|[[pdf]](http://arxiv.org/abs/2508.02604v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[Manip4Care] Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks|[[pdf]](http://arxiv.org/abs/2508.02649v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[FedVLA] FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.02190v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[RICL] RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2508.02062v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|["Set It Up"] "Set It Up": Functional Object Arrangement with Compositional Generative Models|[[pdf]](http://arxiv.org/abs/2508.02068v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[Traffic-R1] Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems|[[pdf]](http://arxiv.org/abs/2508.02344v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[Multi-Agent] Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis|[[pdf]](http://arxiv.org/abs/2508.02106v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[CO-RFT] CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.02219v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[Biped] Constrained Reinforcement Learning for Unstable Point-Feet Bipedal Locomotion Applied to the Bolt Robot|[[pdf]](http://arxiv.org/abs/2508.02194v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[TacMan-Turbo] TacMan-Turbo: Proactive Tactile Control for Robust and Efficient Articulated Object Manipulation|[[pdf]](http://arxiv.org/abs/2508.02204v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|A Moment Matching-Based Method for Sparse and Noisy Point Cloud Registration|[[pdf]](http://arxiv.org/abs/2508.02187v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[ROVER] ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks|[[pdf]](http://arxiv.org/abs/2508.01943v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[L3M+P] L3M+P: Lifelong Planning with Large Language Models|[[pdf]](http://arxiv.org/abs/2508.01917v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|Neural Predictive Control to Coordinate Discrete- and Continuous-Time Models for Time-Series Analysis with Control-Theoretical Improvements|[[pdf]](http://arxiv.org/abs/2508.01833v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[LiveMCPBench] LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?|[[pdf]](http://arxiv.org/abs/2508.01780v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|Augmented Reinforcement Learning Framework For Enhancing Decision-Making In Machine Learning Models Using External Agents|[[pdf]](http://arxiv.org/abs/2508.01612v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[CLASS] CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.01600v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[Web-CogReasoner] Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents|[[pdf]](http://arxiv.org/abs/2508.01858v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[en] Polymorphic Combinatorial Frameworks (PCF): Guiding the Design of Mathematically-Grounded, Adaptive AI Agents|[[pdf]](http://arxiv.org/abs/2508.01581v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|Beyond Vulnerabilities: A Survey of Adversarial Attacks as Both Threats and Defenses in Computer Vision Systems|[[pdf]](http://arxiv.org/abs/2508.01845v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|Contrastive Multi-Task Learning with Solvent-Aware Augmentation for Drug Discovery|[[pdf]](http://arxiv.org/abs/2508.01799v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[DexReMoE] DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts|[[pdf]](http://arxiv.org/abs/2508.01695v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[VFP] VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.01622v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-03|[en] HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation|[[pdf]](http://arxiv.org/abs/2508.01539v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.01522v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Relation-Aware LNN-Transformer for Intersection-Centric Next-Step Prediction|[[pdf]](http://arxiv.org/abs/2508.01368v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|[H2C] H2C: Hippocampal Circuit-inspired Continual Learning for Lifelong Trajectory Prediction in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.01158v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy|[[pdf]](http://arxiv.org/abs/2508.01247v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Tuning LLM-based Code Optimization via Meta-Prompting: An Industrial Perspective|[[pdf]](http://arxiv.org/abs/2508.01443v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[TOP] TOP: Time Optimization Policy for Stable and Accurate Standing Manipulation with Humanoid Robots|[[pdf]](http://arxiv.org/abs/2508.00355v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|Video Generators are Robot Policies|[[pdf]](http://arxiv.org/abs/2508.00795v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[HannesImitation] HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning|[[pdf]](http://arxiv.org/abs/2508.00491v1)|⚠️|⭐️⭐️⭐️|
@@ -58,6 +92,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-01|Beamformed 360° Sound Maps: U-Net-Driven Acoustic Source Segmentation and Localization|[[pdf]](http://arxiv.org/abs/2508.00307v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[Biped] A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot|[[pdf]](http://arxiv.org/abs/2508.00362v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[IGL-Nav] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation|[[pdf]](http://arxiv.org/abs/2508.00823v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-01|Learning Pivoting Manipulation with Force and Vision Feedback Using Optimization-based Demonstrations|[[pdf]](http://arxiv.org/abs/2508.01082v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Multi-Waypoint Path Planning and Motion Control for Non-holonomic Mobile Robots in Agricultural Applications|[[pdf]](http://arxiv.org/abs/2507.23350v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Distributed AI Agents for Cognitive Underwater Robot Autonomy|[[pdf]](http://arxiv.org/abs/2507.23735v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Can LLM-Reasoning Models Replace Classical Planning? A Benchmark Study|[[pdf]](http://arxiv.org/abs/2507.23589v1)|⚠️|⭐️⭐️⭐️|
@@ -1522,6 +1557,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1496
+- Total Papers: 1531
 - Code Implementations: 20
 - Last Updated: August 2025

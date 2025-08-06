@@ -32,9 +32,15 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-04|[SE-Agent] SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents|[[pdf]](http://arxiv.org/abs/2508.02085v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[SpikeSTAG] SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration|[[pdf]](http://arxiv.org/abs/2508.02069v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[QuaDreamer] QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots|[[pdf]](http://arxiv.org/abs/2508.02512v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[DIRF] DIRF: A Framework for Digital Identity Protection and Clone Governance in Agentic AI Systems|[[pdf]](http://arxiv.org/abs/2508.01997v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-02|Unified Generation-Refinement Planning: Bridging Flow Matching and Sampling-Based MPC|[[pdf]](http://arxiv.org/abs/2508.01192v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[Quadruped] A control scheme for collaborative object transportation between a human and a quadruped robot using the MIGHTY suction cup|[[pdf]](http://arxiv.org/abs/2508.00584v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Quadratic Programming-Based Posture Manipulation and Thrust-vectoring for Agile Dynamic Walking on Narrow Pathways|[[pdf]](http://arxiv.org/abs/2507.23203v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|CHILD (Controller for Humanoid Imitation and Live Demonstration): a Whole-Body Humanoid Teleoperation System|[[pdf]](http://arxiv.org/abs/2508.00162v1)|⚠️|⭐️⭐️⭐️|
+|2025-07-31|[en] BarlowWalk: Self-supervised Representation Learning for Legged Robot Terrain-adaptive Locomotion|[[pdf]](http://arxiv.org/abs/2508.00939v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[Quadruped] UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation|[[pdf]](http://arxiv.org/abs/2507.22653v2)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[FLORES] FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability|[[pdf]](http://arxiv.org/abs/2507.22345v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|Bayesian Optimization applied for accelerated Virtual Validation of the Autonomous Driving Function|[[pdf]](http://arxiv.org/abs/2507.22769v1)|⚠️|⭐️⭐️⭐️|
@@ -326,6 +332,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 301
+- Total Papers: 307
 - Code Implementations: 8
 - Last Updated: August 2025
