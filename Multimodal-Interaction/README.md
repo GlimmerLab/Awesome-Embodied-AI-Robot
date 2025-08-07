@@ -30,6 +30,7 @@ This directory collects papers and code implementations related to multimodal in
 |2025-08-04|Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing|[[pdf]](http://arxiv.org/abs/2508.02425v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for Local-Life Service Recommendation|[[pdf]](http://arxiv.org/abs/2508.02451v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[en] What Is Your AI Agent Buying? Evaluation, Implications and Emerging Questions for Agentic E-Commerce|[[pdf]](http://arxiv.org/abs/2508.02630v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces|[[pdf]](http://arxiv.org/abs/2508.02917v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[en] Set the Stage: Enabling Storytelling with Multiple Robots through Roleplaying Metaphors|[[pdf]](http://arxiv.org/abs/2508.01736v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|Video-based Vehicle Surveillance in the Wild: License Plate, Make, and Model Recognition with Self Reflective Vision-Language Models|[[pdf]](http://arxiv.org/abs/2508.01387v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|[VLH] VLH: Vision-Language-Haptics Foundation Model|[[pdf]](http://arxiv.org/abs/2508.01361v1)|⚠️|⭐️⭐️⭐️|
@@ -219,6 +220,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 194
+- Total Papers: 195
 - Code Implementations: 6
 - Last Updated: August 2025

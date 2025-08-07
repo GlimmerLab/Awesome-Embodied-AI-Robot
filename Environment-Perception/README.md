@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-05|[SkeNa] SkeNa: Learning to Navigate Unseen Environments Based on Abstract Hand-Drawn Maps|[[pdf]](http://arxiv.org/abs/2508.03053v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[Language as Cost] Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation|[[pdf]](http://arxiv.org/abs/2508.03138v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[SCFlow] SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models|[[pdf]](http://arxiv.org/abs/2508.03402v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|A novel autonomous microplastics surveying robot for beach environments|[[pdf]](http://arxiv.org/abs/2508.02952v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[en] Robot builds a robot's brain: AI generated drone command and control station hosted in the sky|[[pdf]](http://arxiv.org/abs/2508.02962v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[OpenMap] OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping|[[pdf]](http://arxiv.org/abs/2508.01723v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[OmniUnet] OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery|[[pdf]](http://arxiv.org/abs/2508.00580v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[en] Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting|[[pdf]](http://arxiv.org/abs/2508.00427v1)|⚠️|⭐️⭐️⭐️|
@@ -233,6 +238,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 209
+- Total Papers: 214
 - Code Implementations: 8
 - Last Updated: August 2025

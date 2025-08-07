@@ -32,10 +32,15 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-05|[Navigation Pixie] Navigation Pixie: Implementation and Empirical Study Toward On-demand Navigation Agents in Commercial Metaverse|[[pdf]](http://arxiv.org/abs/2508.03216v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals|[[pdf]](http://arxiv.org/abs/2508.03003v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching|[[pdf]](http://arxiv.org/abs/2508.03068v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[en] Why Evolve When You Can Adapt? Post-Evolution Adaptation of Genetic Memory for On-the-Fly Control|[[pdf]](http://arxiv.org/abs/2508.03600v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[SE-Agent] SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents|[[pdf]](http://arxiv.org/abs/2508.02085v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[SpikeSTAG] SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration|[[pdf]](http://arxiv.org/abs/2508.02069v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[QuaDreamer] QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots|[[pdf]](http://arxiv.org/abs/2508.02512v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[DIRF] DIRF: A Framework for Digital Identity Protection and Clone Governance in Agentic AI Systems|[[pdf]](http://arxiv.org/abs/2508.01997v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|Optimal Trajectory Planning in a Vertically Undulating Snake Locomotion using Contact-implicit Optimization|[[pdf]](http://arxiv.org/abs/2508.02953v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|Unified Generation-Refinement Planning: Bridging Flow Matching and Sampling-Based MPC|[[pdf]](http://arxiv.org/abs/2508.01192v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|[Quadruped] A control scheme for collaborative object transportation between a human and a quadruped robot using the MIGHTY suction cup|[[pdf]](http://arxiv.org/abs/2508.00584v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Quadratic Programming-Based Posture Manipulation and Thrust-vectoring for Agile Dynamic Walking on Narrow Pathways|[[pdf]](http://arxiv.org/abs/2507.23203v1)|⚠️|⭐️⭐️⭐️|
@@ -332,6 +337,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 307
+- Total Papers: 312
 - Code Implementations: 8
 - Last Updated: August 2025

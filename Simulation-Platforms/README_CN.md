@@ -39,7 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-05|[Frontier] Frontier: Simulating the Next Generation of LLM Inference Systems|[[pdf]](http://arxiv.org/abs/2508.03148v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[La La LiDAR] La La LiDAR: Large-Scale Layout Generation from LiDAR Data|[[pdf]](http://arxiv.org/abs/2508.03691v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[en] Vision Language Model-based Testing of Industrial Autonomous Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.02338v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[en] AQUAH: Automatic Quantification and Unified Agent in Hydrology|[[pdf]](http://arxiv.org/abs/2508.02936v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[en] Dynamic Robot-Assisted Surgery with Hierarchical Class-Incremental Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2508.01713v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[ChairPose] ChairPose: Pressure-based Chair Morphology Grounded Sitting Pose Estimation through Simulation-Assisted Training|[[pdf]](http://arxiv.org/abs/2508.01850v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-01|Theory of Mind Using Active Inference: A Framework for Multi-Agent Cooperation|[[pdf]](http://arxiv.org/abs/2508.00401v1)|⚠️|⭐️⭐️⭐️|
@@ -317,6 +320,6 @@
 
 ## 📊 统计
 
-- 论文总数：292篇
+- 论文总数：295篇
 - 代码实现：21个
 - 最后更新：2025年08月

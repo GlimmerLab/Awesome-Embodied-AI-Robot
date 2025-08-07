@@ -47,6 +47,27 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-05|[GACL] GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring|[[pdf]](http://arxiv.org/abs/2508.02988v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Cross-Model Semantics in Representation Learning|[[pdf]](http://arxiv.org/abs/2508.03649v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[VideoGuard] VideoGuard: Protecting Video Content from Unauthorized Editing|[[pdf]](http://arxiv.org/abs/2508.03480v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[StoryEnsemble] StoryEnsemble: Enabling Dynamic Exploration & Iteration in the Design Process with AI and Forward-Backward Propagation|[[pdf]](http://arxiv.org/abs/2508.03182v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[The Power of Many] The Power of Many: Synergistic Unification of Diverse Augmentations for Efficient Adversarial Robustness|[[pdf]](http://arxiv.org/abs/2508.03213v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[CollaBot] CollaBot: Vision-Language Guided Simultaneous Collaborative Manipulation|[[pdf]](http://arxiv.org/abs/2508.03526v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running|[[pdf]](http://arxiv.org/abs/2508.03070v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Physics-informed Neural Time Fields for Prehensile Object Manipulation|[[pdf]](http://arxiv.org/abs/2508.02976v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Safety-Aware Imitation Learning via MPC-Guided Disturbance Injection|[[pdf]](http://arxiv.org/abs/2508.03129v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[DiWA] DiWA: Diffusion Policy Adaptation with World Models|[[pdf]](http://arxiv.org/abs/2508.03645v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[SonicMaster] SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering|[[pdf]](http://arxiv.org/abs/2508.03448v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[VRPO] VRPO: Rethinking Value Modeling for Robust RL Training under Noisy Supervision|[[pdf]](http://arxiv.org/abs/2508.03058v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Self-Questioning Language Models|[[pdf]](http://arxiv.org/abs/2508.03682v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Aerobatic maneuvers in insect-scale flapping-wing aerial robots via deep-learned robust tube model predictive control|[[pdf]](http://arxiv.org/abs/2508.03043v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Enhancing Joint Human-AI Inference in Robot Missions: A Confidence-Based Approach|[[pdf]](http://arxiv.org/abs/2508.03293v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Vision-based Perception System for Automated Delivery Robot-Pedestrians Interactions|[[pdf]](http://arxiv.org/abs/2508.03541v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[Multi-Agent] Online Learning for Vibration Suppression in Physical Robot Interaction using Power Tools|[[pdf]](http://arxiv.org/abs/2508.03559v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Can Large Language Models Identify Materials from Radar Signals?|[[pdf]](http://arxiv.org/abs/2508.03120v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[en] Multimodal Human-Intent Modeling for Contextual Robot-to-Human Handovers of Arbitrary Objects|[[pdf]](http://arxiv.org/abs/2508.02982v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[en] Veila: Panoramic LiDAR Generation from a Monocular RGB Image|[[pdf]](http://arxiv.org/abs/2508.03690v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[en] Force-Compliance MPC and Robot-User CBFs for Interactive Navigation and User-Robot Safety in Hexapod Guide Robots|[[pdf]](http://arxiv.org/abs/2508.03246v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[Don't Overthink It] Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models|[[pdf]](http://arxiv.org/abs/2508.02120v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|Stakeholder Perspectives on Humanistic Implementation of Computer Perception in Healthcare: A Qualitative Study|[[pdf]](http://arxiv.org/abs/2508.02550v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation|[[pdf]](http://arxiv.org/abs/2508.02132v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +84,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-04|[Biped] Constrained Reinforcement Learning for Unstable Point-Feet Bipedal Locomotion Applied to the Bolt Robot|[[pdf]](http://arxiv.org/abs/2508.02194v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[TacMan-Turbo] TacMan-Turbo: Proactive Tactile Control for Robust and Efficient Articulated Object Manipulation|[[pdf]](http://arxiv.org/abs/2508.02204v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|A Moment Matching-Based Method for Sparse and Noisy Point Cloud Registration|[[pdf]](http://arxiv.org/abs/2508.02187v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-04|[en] AeroSafe: Mobile Indoor Air Purification using Aerosol Residence Time Analysis and Robotic Cough Emulator Testbed|[[pdf]](http://arxiv.org/abs/2508.02947v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[ROVER] ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks|[[pdf]](http://arxiv.org/abs/2508.01943v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[L3M+P] L3M+P: Lifelong Planning with Large Language Models|[[pdf]](http://arxiv.org/abs/2508.01917v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|Neural Predictive Control to Coordinate Discrete- and Continuous-Time Models for Time-Series Analysis with Control-Theoretical Improvements|[[pdf]](http://arxiv.org/abs/2508.01833v1)|⚠️|⭐️⭐️⭐️|
@@ -1557,6 +1579,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1531
+- Total Papers: 1553
 - Code Implementations: 20
 - Last Updated: August 2025
