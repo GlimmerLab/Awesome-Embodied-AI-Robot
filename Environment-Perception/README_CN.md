@@ -26,9 +26,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-06|Behaviorally Adaptive Multi-Robot Hazard Localization in Failure-Prone, Communication-Denied Environments|[[pdf]](http://arxiv.org/abs/2508.04537v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[SkeNa] SkeNa: Learning to Navigate Unseen Environments Based on Abstract Hand-Drawn Maps|[[pdf]](http://arxiv.org/abs/2508.03053v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Language as Cost] Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation|[[pdf]](http://arxiv.org/abs/2508.03138v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[SCFlow] SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models|[[pdf]](http://arxiv.org/abs/2508.03402v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[MetaScope] MetaScope: Optics-Driven Neural Network for Ultra-Micro Metalens Endoscopy|[[pdf]](http://arxiv.org/abs/2508.03596v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|A novel autonomous microplastics surveying robot for beach environments|[[pdf]](http://arxiv.org/abs/2508.02952v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[en] Robot builds a robot's brain: AI generated drone command and control station hosted in the sky|[[pdf]](http://arxiv.org/abs/2508.02962v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[OpenMap] OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping|[[pdf]](http://arxiv.org/abs/2508.01723v1)|⚠️|⭐️⭐️⭐️|
@@ -238,6 +240,6 @@
 
 ## 📊 统计
 
-- 论文总数：214篇
+- 论文总数：216篇
 - 代码实现：8个
 - 最后更新：2025年08月

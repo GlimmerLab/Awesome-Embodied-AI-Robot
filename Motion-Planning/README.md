@@ -32,10 +32,14 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-06|Dynamic User-controllable Privacy-preserving Few-shot Sensing Framework|[[pdf]](http://arxiv.org/abs/2508.03989v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems|[[pdf]](http://arxiv.org/abs/2508.04146v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Personalized Knowledge Transfer Through Generative AI: Contextualizing Learning to Individual Career Goals|[[pdf]](http://arxiv.org/abs/2508.04070v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Navigation Pixie] Navigation Pixie: Implementation and Empirical Study Toward On-demand Navigation Agents in Commercial Metaverse|[[pdf]](http://arxiv.org/abs/2508.03216v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals|[[pdf]](http://arxiv.org/abs/2508.03003v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching|[[pdf]](http://arxiv.org/abs/2508.03068v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[en] Why Evolve When You Can Adapt? Post-Evolution Adaptation of Genetic Memory for On-the-Fly Control|[[pdf]](http://arxiv.org/abs/2508.03600v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|When Agents Break Down in Multiagent Path Finding|[[pdf]](http://arxiv.org/abs/2508.03777v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[SE-Agent] SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents|[[pdf]](http://arxiv.org/abs/2508.02085v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[SpikeSTAG] SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration|[[pdf]](http://arxiv.org/abs/2508.02069v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[QuaDreamer] QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots|[[pdf]](http://arxiv.org/abs/2508.02512v1)|⚠️|⭐️⭐️⭐️|
@@ -337,6 +341,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 312
+- Total Papers: 316
 - Code Implementations: 8
 - Last Updated: August 2025

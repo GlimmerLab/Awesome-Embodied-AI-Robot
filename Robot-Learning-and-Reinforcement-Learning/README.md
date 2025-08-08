@@ -47,6 +47,15 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-06|Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success|[[pdf]](http://arxiv.org/abs/2508.04280v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[LayerT2V] LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation|[[pdf]](http://arxiv.org/abs/2508.04228v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[COPO] COPO: Consistency-Aware Policy Optimization|[[pdf]](http://arxiv.org/abs/2508.04138v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[SEAgent] SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience|[[pdf]](http://arxiv.org/abs/2508.04700v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Open Scene Graphs for Open-World Object-Goal Navigation|[[pdf]](http://arxiv.org/abs/2508.04678v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Incorporating Stochastic Models of Controller Behavior into Kinodynamic Efficiently Adaptive State Lattices for Mobile Robot Motion Planning in Off-Road Environments|[[pdf]](http://arxiv.org/abs/2508.04384v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[en] From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario|[[pdf]](http://arxiv.org/abs/2508.04691v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Achieving Precise and Reliable Locomotion with Differentiable Simulation-Based System Identification|[[pdf]](http://arxiv.org/abs/2508.04696v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[$NavA^3$] $NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything|[[pdf]](http://arxiv.org/abs/2508.04598v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[GACL] GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring|[[pdf]](http://arxiv.org/abs/2508.02988v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Cross-Model Semantics in Representation Learning|[[pdf]](http://arxiv.org/abs/2508.03649v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[VideoGuard] VideoGuard: Protecting Video Content from Unauthorized Editing|[[pdf]](http://arxiv.org/abs/2508.03480v1)|⚠️|⭐️⭐️⭐️|
@@ -68,6 +77,11 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-05|[en] Multimodal Human-Intent Modeling for Contextual Robot-to-Human Handovers of Arbitrary Objects|[[pdf]](http://arxiv.org/abs/2508.02982v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[en] Veila: Panoramic LiDAR Generation from a Monocular RGB Image|[[pdf]](http://arxiv.org/abs/2508.03690v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[en] Force-Compliance MPC and Robot-User CBFs for Interactive Navigation and User-Robot Safety in Hexapod Guide Robots|[[pdf]](http://arxiv.org/abs/2508.03246v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Constraint-Preserving Data Generation for Visuomotor Policy Learning|[[pdf]](http://arxiv.org/abs/2508.03944v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Trustworthiness of Legal Considerations for the Use of LLMs in Education|[[pdf]](http://arxiv.org/abs/2508.03771v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[BitsAI-Fix] BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice|[[pdf]](http://arxiv.org/abs/2508.03487v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[Forest vs Tree] Forest vs Tree: The $(N, K)$ Trade-off in Reproducible ML Evaluation|[[pdf]](http://arxiv.org/abs/2508.03663v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[CogniPlan] CogniPlan: Uncertainty-Guided Path Planning with Conditional Generative Layout Prediction|[[pdf]](http://arxiv.org/abs/2508.03027v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[Don't Overthink It] Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models|[[pdf]](http://arxiv.org/abs/2508.02120v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|Stakeholder Perspectives on Humanistic Implementation of Computer Perception in Healthcare: A Qualitative Study|[[pdf]](http://arxiv.org/abs/2508.02550v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation|[[pdf]](http://arxiv.org/abs/2508.02132v1)|⚠️|⭐️⭐️⭐️|
@@ -1579,6 +1593,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1553
+- Total Papers: 1567
 - Code Implementations: 20
 - Last Updated: August 2025

@@ -23,6 +23,7 @@
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
 |2025-08-05|[CookBench] CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios|[[pdf]](http://arxiv.org/abs/2508.03232v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning|[[pdf]](http://arxiv.org/abs/2508.03018v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|[RoboMemory] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems|[[pdf]](http://arxiv.org/abs/2508.01415v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-31|Simulation-based planning of Motion Sequences for Automated Procedure Optimization in Multi-Robot Assembly Cells|[[pdf]](http://arxiv.org/abs/2507.23270v1)|⚠️|⭐️⭐️⭐️|
 |2025-07-30|[RLVMR] RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents|[[pdf]](http://arxiv.org/abs/2507.22844v1)|⚠️|⭐️⭐️⭐️|
@@ -201,6 +202,6 @@
 
 ## 📊 统计
 
-- 论文总数：177篇
+- 论文总数：178篇
 - 代码实现：6个
 - 最后更新：2025年08月

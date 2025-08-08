@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-06|[DRIVE] DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.04066v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[OmniPlay] OmniPlay: Benchmarking Omni-Modal Models on Omni-Modal Game Playing|[[pdf]](http://arxiv.org/abs/2508.04361v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[ViFP] ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs|[[pdf]](http://arxiv.org/abs/2508.04201v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[en] Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling|[[pdf]](http://arxiv.org/abs/2508.04282v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[AGENTiGraph] AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots|[[pdf]](http://arxiv.org/abs/2508.02999v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Tree-of-Reasoning] Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree|[[pdf]](http://arxiv.org/abs/2508.03038v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|LLMs Have a Heart of Stone: Demystifying the Soft Thinking Ability of Large Reasoning Models|[[pdf]](http://arxiv.org/abs/2508.03440v2)|⚠️|⭐️⭐️⭐️|
@@ -25,6 +29,8 @@ This directory collects papers and code implementations related to fundamental t
 |2025-08-05|[UniFucGrasp] UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands|[[pdf]](http://arxiv.org/abs/2508.03339v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[en] A Survey of AI Agent Registry Solutions|[[pdf]](http://arxiv.org/abs/2508.03095v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[ToolVQA] ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools|[[pdf]](http://arxiv.org/abs/2508.03284v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking|[[pdf]](http://arxiv.org/abs/2508.03440v3)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|[Point2Act] Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping|[[pdf]](http://arxiv.org/abs/2508.03099v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[NaviMaster] NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks|[[pdf]](http://arxiv.org/abs/2508.02046v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation|[[pdf]](http://arxiv.org/abs/2508.02808v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|A Survey on Agent Workflow -- Status and Future|[[pdf]](http://arxiv.org/abs/2508.01186v1)|⚠️|⭐️⭐️⭐️|
@@ -318,6 +324,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 297
+- Total Papers: 303
 - Code Implementations: 5
 - Last Updated: August 2025

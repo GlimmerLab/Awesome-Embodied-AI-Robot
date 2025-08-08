@@ -39,8 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-06|[MSC] MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning|[[pdf]](http://arxiv.org/abs/2508.04549v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Optimization of sliding control parameters for a 3-dof robot arm using genetic algorithm (GA)|[[pdf]](http://arxiv.org/abs/2508.04009v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Frontier] Frontier: Simulating the Next Generation of LLM Inference Systems|[[pdf]](http://arxiv.org/abs/2508.03148v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[La La LiDAR] La La LiDAR: Large-Scale Layout Generation from LiDAR Data|[[pdf]](http://arxiv.org/abs/2508.03691v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Simulating Cyberattacks through a Breach Attack Simulation (BAS) Platform empowered by Security Chaos Engineering (SCE)|[[pdf]](http://arxiv.org/abs/2508.03882v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[en] Vision Language Model-based Testing of Industrial Autonomous Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.02338v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[en] AQUAH: Automatic Quantification and Unified Agent in Hydrology|[[pdf]](http://arxiv.org/abs/2508.02936v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-03|[en] Dynamic Robot-Assisted Surgery with Hierarchical Class-Incremental Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2508.01713v1)|⚠️|⭐️⭐️⭐️|
@@ -320,6 +323,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 295
+- Total Papers: 298
 - Code Implementations: 21
 - Last Updated: August 2025

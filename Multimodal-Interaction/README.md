@@ -25,6 +25,9 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-06|[StepWrite] StepWrite: Adaptive Planning for Speech-Driven Text Generation|[[pdf]](http://arxiv.org/abs/2508.04011v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Improving Tactile Gesture Recognition with Optical Flow|[[pdf]](http://arxiv.org/abs/2508.04338v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-05|Decoding and Engineering the Phytobiome Communication for Smart Agriculture|[[pdf]](http://arxiv.org/abs/2508.03584v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|[HyCodePolicy] HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents|[[pdf]](http://arxiv.org/abs/2508.02629v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Humanoid-Robot Interaction|[[pdf]](http://arxiv.org/abs/2508.02505v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-04|Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing|[[pdf]](http://arxiv.org/abs/2508.02425v1)|⚠️|⭐️⭐️⭐️|
@@ -220,6 +223,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 195
+- Total Papers: 198
 - Code Implementations: 6
 - Last Updated: August 2025
