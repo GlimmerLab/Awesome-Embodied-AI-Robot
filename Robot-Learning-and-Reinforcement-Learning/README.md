@@ -47,6 +47,26 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-07|Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling|[[pdf]](http://arxiv.org/abs/2508.05634v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[TrajEvo] TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution|[[pdf]](http://arxiv.org/abs/2508.05616v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Test-Time Reinforcement Learning for GUI Grounding via Region Consistency|[[pdf]](http://arxiv.org/abs/2508.05615v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Shuffle-R1] Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle|[[pdf]](http://arxiv.org/abs/2508.05612v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[FedGIN] FedGIN: Federated Learning with Dynamic Global Intensity Non-linear Augmentation for Organ Segmentation using Multi-modal Images|[[pdf]](http://arxiv.org/abs/2508.05137v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Posterior-GRPO] Posterior-GRPO: Rewarding Reasoning Processes in Code Generation|[[pdf]](http://arxiv.org/abs/2508.05170v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[CleanUpBench] CleanUpBench: Embodied Sweeping and Grasping Benchmark|[[pdf]](http://arxiv.org/abs/2508.05543v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Learning to See and Act: Task-Aware View Planning for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.05186v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Mixed-Initiative Dialog for Human-Robot Collaborative Manipulation|[[pdf]](http://arxiv.org/abs/2508.05535v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[en] FCBV-Net: Category-Level Robotic Garment Smoothing via Feature-Conditioned Bimanual Value Prediction|[[pdf]](http://arxiv.org/abs/2508.05153v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[MENDR] MENDR: Manifold Explainable Neural Data Representations|[[pdf]](http://arxiv.org/abs/2508.04956v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Pruning Large Language Models by Identifying and Preserving Functional Networks|[[pdf]](http://arxiv.org/abs/2508.05239v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[en] ASkDAgger: Active Skill-level Data Aggregation for Interactive Imitation Learning|[[pdf]](http://arxiv.org/abs/2508.05310v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[EasySize] EasySize: Elastic Analog Circuit Sizing via LLM-Guided Heuristic Search|[[pdf]](http://arxiv.org/abs/2508.05113v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Genie Envisioner] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.05635v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Quadruped] MAG-Nav: Language-Driven Object Navigation Leveraging Memory-Reserved Active Grounding|[[pdf]](http://arxiv.org/abs/2508.05021v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|From Canada to Japan: How 10,000 km Affect User Perception in Robot Teleoperation|[[pdf]](http://arxiv.org/abs/2508.05143v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Towards Human-Centric Evaluation of Interaction-Aware Automated Vehicle Controllers: A Framework and Case Study|[[pdf]](http://arxiv.org/abs/2508.05497v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Chemist Eye] Chemist Eye: A Visual Language Model-Powered System for Safety Monitoring and Robot Decision-Making in Self-Driving Laboratories|[[pdf]](http://arxiv.org/abs/2508.05148v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[en] GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming|[[pdf]](http://arxiv.org/abs/2508.05298v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success|[[pdf]](http://arxiv.org/abs/2508.04280v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[LayerT2V] LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation|[[pdf]](http://arxiv.org/abs/2508.04228v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[COPO] COPO: Consistency-Aware Policy Optimization|[[pdf]](http://arxiv.org/abs/2508.04138v1)|⚠️|⭐️⭐️⭐️|
@@ -56,6 +76,8 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-06|[en] From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario|[[pdf]](http://arxiv.org/abs/2508.04691v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Achieving Precise and Reliable Locomotion with Differentiable Simulation-Based System Identification|[[pdf]](http://arxiv.org/abs/2508.04696v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[$NavA^3$] $NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything|[[pdf]](http://arxiv.org/abs/2508.04598v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[Trajectory] INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM|[[pdf]](http://arxiv.org/abs/2508.04931v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|Sequence Aware SAC Control for Engine Fuel Consumption Optimization in Electrified Powertrain|[[pdf]](http://arxiv.org/abs/2508.04874v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[GACL] GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring|[[pdf]](http://arxiv.org/abs/2508.02988v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Cross-Model Semantics in Representation Learning|[[pdf]](http://arxiv.org/abs/2508.03649v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[VideoGuard] VideoGuard: Protecting Video Content from Unauthorized Editing|[[pdf]](http://arxiv.org/abs/2508.03480v1)|⚠️|⭐️⭐️⭐️|
@@ -1593,6 +1615,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1567
+- Total Papers: 1589
 - Code Implementations: 20
 - Last Updated: August 2025

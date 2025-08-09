@@ -25,6 +25,12 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-07|Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction|[[pdf]](http://arxiv.org/abs/2508.05294v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation|[[pdf]](http://arxiv.org/abs/2508.05427v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Building Effective Safety Guardrails in AI Education Tools|[[pdf]](http://arxiv.org/abs/2508.05360v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Examining the legibility of humanoid robot arm movements in a pointing task|[[pdf]](http://arxiv.org/abs/2508.05104v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[ADSEL] ADSEL: Adaptive dual self-expression learning for EEG feature selection via incomplete multi-dimensional emotional tagging|[[pdf]](http://arxiv.org/abs/2508.05229v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Multi-Agent] Dancing with a Robot: An Experimental Study of Child-Robot Interaction in a Performative Art Setting|[[pdf]](http://arxiv.org/abs/2508.05208v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[StepWrite] StepWrite: Adaptive Planning for Speech-Driven Text Generation|[[pdf]](http://arxiv.org/abs/2508.04011v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Improving Tactile Gesture Recognition with Optical Flow|[[pdf]](http://arxiv.org/abs/2508.04338v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Decoding and Engineering the Phytobiome Communication for Smart Agriculture|[[pdf]](http://arxiv.org/abs/2508.03584v1)|⚠️|⭐️⭐️⭐️|
@@ -223,6 +229,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 198
+- Total Papers: 204
 - Code Implementations: 6
 - Last Updated: August 2025

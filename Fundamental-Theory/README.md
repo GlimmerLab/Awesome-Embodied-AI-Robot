@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-07|Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control|[[pdf]](http://arxiv.org/abs/2508.05342v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[GRAIL] GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning|[[pdf]](http://arxiv.org/abs/2508.05498v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|A Novel Architecture for Symbolic Reasoning with Decision Trees and LLM Agents|[[pdf]](http://arxiv.org/abs/2508.05311v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[R-Zero] R-Zero: Self-Evolving Reasoning LLM from Zero Data|[[pdf]](http://arxiv.org/abs/2508.05004v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Do Robots Really Need Anthropomorphic Hands?|[[pdf]](http://arxiv.org/abs/2508.05415v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[en] OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks|[[pdf]](http://arxiv.org/abs/2508.05614v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[DRIVE] DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.04066v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[OmniPlay] OmniPlay: Benchmarking Omni-Modal Models on Omni-Modal Game Playing|[[pdf]](http://arxiv.org/abs/2508.04361v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[ViFP] ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs|[[pdf]](http://arxiv.org/abs/2508.04201v1)|⚠️|⭐️⭐️⭐️|
@@ -324,6 +330,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 303
+- Total Papers: 309
 - Code Implementations: 5
 - Last Updated: August 2025

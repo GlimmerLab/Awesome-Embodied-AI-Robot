@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-07|Hierarchical Deep Deterministic Policy Gradient for Autonomous Maze Navigation of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.04994v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Cognitive Duality for Adaptive Web Agents|[[pdf]](http://arxiv.org/abs/2508.05081v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[CookBench] CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios|[[pdf]](http://arxiv.org/abs/2508.03232v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning|[[pdf]](http://arxiv.org/abs/2508.03018v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|[RoboMemory] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems|[[pdf]](http://arxiv.org/abs/2508.01415v1)|⚠️|⭐️⭐️⭐️|
@@ -202,6 +204,6 @@
 
 ## 📊 统计
 
-- 论文总数：178篇
+- 论文总数：180篇
 - 代码实现：6个
 - 最后更新：2025年08月
