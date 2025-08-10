@@ -67,6 +67,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-07|Towards Human-Centric Evaluation of Interaction-Aware Automated Vehicle Controllers: A Framework and Case Study|[[pdf]](http://arxiv.org/abs/2508.05497v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[Chemist Eye] Chemist Eye: A Visual Language Model-Powered System for Safety Monitoring and Robot Decision-Making in Self-Driving Laboratories|[[pdf]](http://arxiv.org/abs/2508.05148v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[en] GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming|[[pdf]](http://arxiv.org/abs/2508.05298v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Domain-driven Metrics for Reinforcement Learning: A Case Study on Epidemic Control using Agent-based Simulation|[[pdf]](http://arxiv.org/abs/2508.05154v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Analyzing the Impact of Multimodal Perception on Sample Complexity and Optimization Landscapes in Imitation Learning|[[pdf]](http://arxiv.org/abs/2508.05077v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Robots can defuse high-intensity conflict situations|[[pdf]](http://arxiv.org/abs/2508.05373v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success|[[pdf]](http://arxiv.org/abs/2508.04280v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[LayerT2V] LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation|[[pdf]](http://arxiv.org/abs/2508.04228v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[COPO] COPO: Consistency-Aware Policy Optimization|[[pdf]](http://arxiv.org/abs/2508.04138v1)|⚠️|⭐️⭐️⭐️|
@@ -1615,6 +1618,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1589
+- Total Papers: 1592
 - Code Implementations: 20
 - Last Updated: August 2025

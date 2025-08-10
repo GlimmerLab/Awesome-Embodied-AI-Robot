@@ -44,6 +44,7 @@ This directory collects papers and code implementations related to simulation pl
 |2025-08-07|[KuaiLive] KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation|[[pdf]](http://arxiv.org/abs/2508.05633v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Simulating Human-Like Learning Dynamics with LLM-Empowered Agents|[[pdf]](http://arxiv.org/abs/2508.05622v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[MV-Debate] MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for Multimodal Harmful Content Detection in Social Media|[[pdf]](http://arxiv.org/abs/2508.05557v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Robust adaptive fuzzy sliding mode control for trajectory tracking for of cylindrical manipulator|[[pdf]](http://arxiv.org/abs/2508.05584v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[MSC] MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning|[[pdf]](http://arxiv.org/abs/2508.04549v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Optimization of sliding control parameters for a 3-dof robot arm using genetic algorithm (GA)|[[pdf]](http://arxiv.org/abs/2508.04009v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Frontier] Frontier: Simulating the Next Generation of LLM Inference Systems|[[pdf]](http://arxiv.org/abs/2508.03148v1)|⚠️|⭐️⭐️⭐️|
@@ -328,6 +329,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 303
+- Total Papers: 304
 - Code Implementations: 21
 - Last Updated: August 2025

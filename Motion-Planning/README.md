@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-07|Computational Design and Fabrication of Modular Robots with Untethered Control|[[pdf]](http://arxiv.org/abs/2508.05410v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Benchmarking Shortcutting Techniques for Multi-Robot-Arm Motion Planning|[[pdf]](http://arxiv.org/abs/2508.05027v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Dynamic User-controllable Privacy-preserving Few-shot Sensing Framework|[[pdf]](http://arxiv.org/abs/2508.03989v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems|[[pdf]](http://arxiv.org/abs/2508.04146v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Personalized Knowledge Transfer Through Generative AI: Contextualizing Learning to Individual Career Goals|[[pdf]](http://arxiv.org/abs/2508.04070v1)|⚠️|⭐️⭐️⭐️|
@@ -342,6 +344,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 317
+- Total Papers: 319
 - Code Implementations: 8
 - Last Updated: August 2025

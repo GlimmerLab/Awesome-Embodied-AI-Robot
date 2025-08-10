@@ -24,10 +24,12 @@
 |2025-08-07|[R-Zero] R-Zero: Self-Evolving Reasoning LLM from Zero Data|[[pdf]](http://arxiv.org/abs/2508.05004v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Do Robots Really Need Anthropomorphic Hands?|[[pdf]](http://arxiv.org/abs/2508.05415v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[en] OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks|[[pdf]](http://arxiv.org/abs/2508.05614v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[en] Resource-Limited Joint Multimodal Sentiment Reasoning and Classification via Chain-of-Thought Enhancement and Distillation|[[pdf]](http://arxiv.org/abs/2508.05234v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[DRIVE] DRIVE: Dynamic Rule Inference and Verified Evaluation for Constraint-Aware Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.04066v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[OmniPlay] OmniPlay: Benchmarking Omni-Modal Models on Omni-Modal Game Playing|[[pdf]](http://arxiv.org/abs/2508.04361v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[ViFP] ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs|[[pdf]](http://arxiv.org/abs/2508.04201v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[en] Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling|[[pdf]](http://arxiv.org/abs/2508.04282v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[Voost] Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off|[[pdf]](http://arxiv.org/abs/2508.04825v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[AGENTiGraph] AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots|[[pdf]](http://arxiv.org/abs/2508.02999v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Tree-of-Reasoning] Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree|[[pdf]](http://arxiv.org/abs/2508.03038v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|LLMs Have a Heart of Stone: Demystifying the Soft Thinking Ability of Large Reasoning Models|[[pdf]](http://arxiv.org/abs/2508.03440v2)|⚠️|⭐️⭐️⭐️|
@@ -330,6 +332,6 @@
 
 ## 📊 统计
 
-- 论文总数：309篇
+- 论文总数：311篇
 - 代码实现：5个
 - 最后更新：2025年08月

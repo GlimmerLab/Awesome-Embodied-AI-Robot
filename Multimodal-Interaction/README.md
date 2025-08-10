@@ -31,6 +31,7 @@ This directory collects papers and code implementations related to multimodal in
 |2025-08-07|Examining the legibility of humanoid robot arm movements in a pointing task|[[pdf]](http://arxiv.org/abs/2508.05104v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[ADSEL] ADSEL: Adaptive dual self-expression learning for EEG feature selection via incomplete multi-dimensional emotional tagging|[[pdf]](http://arxiv.org/abs/2508.05229v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[Multi-Agent] Dancing with a Robot: An Experimental Study of Child-Robot Interaction in a Performative Art Setting|[[pdf]](http://arxiv.org/abs/2508.05208v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|[Multi-Agent] Affecta-Context: The Context-Guided Behavior Adaptation Framework|[[pdf]](http://arxiv.org/abs/2508.05359v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[StepWrite] StepWrite: Adaptive Planning for Speech-Driven Text Generation|[[pdf]](http://arxiv.org/abs/2508.04011v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Improving Tactile Gesture Recognition with Optical Flow|[[pdf]](http://arxiv.org/abs/2508.04338v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Decoding and Engineering the Phytobiome Communication for Smart Agriculture|[[pdf]](http://arxiv.org/abs/2508.03584v1)|⚠️|⭐️⭐️⭐️|
@@ -229,6 +230,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 204
+- Total Papers: 205
 - Code Implementations: 6
 - Last Updated: August 2025
