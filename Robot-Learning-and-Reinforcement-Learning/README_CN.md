@@ -81,6 +81,7 @@
 |2025-08-06|[$NavA^3$] $NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything|[[pdf]](http://arxiv.org/abs/2508.04598v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[Trajectory] INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM|[[pdf]](http://arxiv.org/abs/2508.04931v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Sequence Aware SAC Control for Engine Fuel Consumption Optimization in Electrified Powertrain|[[pdf]](http://arxiv.org/abs/2508.04874v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-06|[RoboTron-Sim] RoboTron-Sim: Improving Real-World Driving via Simulated Hard-Case|[[pdf]](http://arxiv.org/abs/2508.04642v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[GACL] GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring|[[pdf]](http://arxiv.org/abs/2508.02988v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Cross-Model Semantics in Representation Learning|[[pdf]](http://arxiv.org/abs/2508.03649v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[VideoGuard] VideoGuard: Protecting Video Content from Unauthorized Editing|[[pdf]](http://arxiv.org/abs/2508.03480v1)|⚠️|⭐️⭐️⭐️|
@@ -1618,6 +1619,6 @@
 
 ## 📊 统计
 
-- 论文总数：1592篇
+- 论文总数：1593篇
 - 代码实现：20个
 - 最后更新：2025年08月

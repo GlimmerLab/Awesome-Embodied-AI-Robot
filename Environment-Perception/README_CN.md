@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-07|A Vision-Based Collision Sensing Method for Stable Circular Object Grasping with A Soft Gripper System|[[pdf]](http://arxiv.org/abs/2508.05040v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Behaviorally Adaptive Multi-Robot Hazard Localization in Failure-Prone, Communication-Denied Environments|[[pdf]](http://arxiv.org/abs/2508.04537v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[SkeNa] SkeNa: Learning to Navigate Unseen Environments Based on Abstract Hand-Drawn Maps|[[pdf]](http://arxiv.org/abs/2508.03053v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[Language as Cost] Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation|[[pdf]](http://arxiv.org/abs/2508.03138v1)|⚠️|⭐️⭐️⭐️|
@@ -240,6 +241,6 @@
 
 ## 📊 统计
 
-- 论文总数：216篇
+- 论文总数：217篇
 - 代码实现：8个
 - 最后更新：2025年08月
