@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-08|[MeanAudio] MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows|[[pdf]](http://arxiv.org/abs/2508.06098v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[PASG] PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.05976v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[UW-3DGS] UW-3DGS: Underwater 3D Reconstruction with Physics-Aware Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2508.06169v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|A Vision-Based Collision Sensing Method for Stable Circular Object Grasping with A Soft Gripper System|[[pdf]](http://arxiv.org/abs/2508.05040v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Behaviorally Adaptive Multi-Robot Hazard Localization in Failure-Prone, Communication-Denied Environments|[[pdf]](http://arxiv.org/abs/2508.04537v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[SkeNa] SkeNa: Learning to Navigate Unseen Environments Based on Abstract Hand-Drawn Maps|[[pdf]](http://arxiv.org/abs/2508.03053v1)|⚠️|⭐️⭐️⭐️|
@@ -241,6 +244,6 @@
 
 ## 📊 统计
 
-- 论文总数：217篇
+- 论文总数：220篇
 - 代码实现：8个
 - 最后更新：2025年08月

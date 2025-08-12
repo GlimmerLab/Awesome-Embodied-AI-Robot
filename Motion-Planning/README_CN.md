@@ -32,6 +32,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-08|Dynamical Trajectory Planning of Disturbance Consciousness for Air-Land Bimodal Unmanned Aerial Vehicles|[[pdf]](http://arxiv.org/abs/2508.05972v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Computational Design and Fabrication of Modular Robots with Untethered Control|[[pdf]](http://arxiv.org/abs/2508.05410v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Benchmarking Shortcutting Techniques for Multi-Robot-Arm Motion Planning|[[pdf]](http://arxiv.org/abs/2508.05027v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Dynamic User-controllable Privacy-preserving Few-shot Sensing Framework|[[pdf]](http://arxiv.org/abs/2508.03989v1)|⚠️|⭐️⭐️⭐️|
@@ -344,6 +345,6 @@
 
 ## 📊 统计
 
-- 论文总数：319篇
+- 论文总数：320篇
 - 代码实现：8个
 - 最后更新：2025年08月

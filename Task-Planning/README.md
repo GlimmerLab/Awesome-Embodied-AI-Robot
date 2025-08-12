@@ -22,8 +22,10 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-08|[EcBot] EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators|[[pdf]](http://arxiv.org/abs/2508.06276v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Hierarchical Deep Deterministic Policy Gradient for Autonomous Maze Navigation of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.04994v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Cognitive Duality for Adaptive Web Agents|[[pdf]](http://arxiv.org/abs/2508.05081v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-Graph Ensembles for Improved Tool Retrieval in Enterprise Task Planning|[[pdf]](http://arxiv.org/abs/2508.05888v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|[CookBench] CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios|[[pdf]](http://arxiv.org/abs/2508.03232v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-05|Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning|[[pdf]](http://arxiv.org/abs/2508.03018v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-02|[RoboMemory] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong Learning in Physical Embodied Systems|[[pdf]](http://arxiv.org/abs/2508.01415v1)|⚠️|⭐️⭐️⭐️|
@@ -204,6 +206,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 180
+- Total Papers: 182
 - Code Implementations: 6
 - Last Updated: August 2025

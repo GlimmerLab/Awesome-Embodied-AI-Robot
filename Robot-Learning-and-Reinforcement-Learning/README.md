@@ -47,6 +47,22 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-08|[ME$^3$-BEV] ME$^3$-BEV: Mamba-Enhanced Deep Reinforcement Learning for End-to-End Autonomous Driving with BEV-Perception|[[pdf]](http://arxiv.org/abs/2508.06074v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Bounding Distributional Shifts in World Modeling through Novelty Detection|[[pdf]](http://arxiv.org/abs/2508.06096v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Towards MR-Based Trochleoplasty Planning|[[pdf]](http://arxiv.org/abs/2508.06076v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[GCHR] GCHR : Goal-Conditioned Hindsight Regularization for Sample-Efficient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.06108v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[Affordance-R1] Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model|[[pdf]](http://arxiv.org/abs/2508.06206v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Incremental Language Understanding for Online Motion Planning of Robot Manipulators|[[pdf]](http://arxiv.org/abs/2508.06095v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Affordance-Guided Dual-Armed Disassembly Teleoperation for Mating Parts|[[pdf]](http://arxiv.org/abs/2508.05937v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[ADPro] ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints|[[pdf]](http://arxiv.org/abs/2508.06266v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[REBot] REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance|[[pdf]](http://arxiv.org/abs/2508.06229v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Real-Time 3D Vision-Language Embedding Mapping|[[pdf]](http://arxiv.org/abs/2508.06291v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[en] Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation|[[pdf]](http://arxiv.org/abs/2508.06426v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Mildly Conservative Regularized Evaluation for Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.05960v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[L2Calib] L2Calib: $SE(3)$-Manifold Reinforcement Learning for Robust Extrinsic Calibration with Degenerate Motion Resilience|[[pdf]](http://arxiv.org/abs/2508.06330v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Beyond Constant Parameters: Hyper Prediction Models and HyperMPC|[[pdf]](http://arxiv.org/abs/2508.06181v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Towards Balanced Behavior Cloning from Imbalanced Datasets|[[pdf]](http://arxiv.org/abs/2508.06319v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|[Depth Jitter] Depth Jitter: Seeing through the Depth|[[pdf]](http://arxiv.org/abs/2508.06227v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling|[[pdf]](http://arxiv.org/abs/2508.05634v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[TrajEvo] TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution|[[pdf]](http://arxiv.org/abs/2508.05616v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Test-Time Reinforcement Learning for GUI Grounding via Region Consistency|[[pdf]](http://arxiv.org/abs/2508.05615v1)|⚠️|⭐️⭐️⭐️|
@@ -70,6 +86,10 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-07|Domain-driven Metrics for Reinforcement Learning: A Case Study on Epidemic Control using Agent-based Simulation|[[pdf]](http://arxiv.org/abs/2508.05154v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Analyzing the Impact of Multimodal Perception on Sample Complexity and Optimization Landscapes in Imitation Learning|[[pdf]](http://arxiv.org/abs/2508.05077v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Robots can defuse high-intensity conflict situations|[[pdf]](http://arxiv.org/abs/2508.05373v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Integrating Vision Foundation Models with Reinforcement Learning for Enhanced Object Interaction|[[pdf]](http://arxiv.org/abs/2508.05838v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Semantic Reasoning Meets Numerical Precision: An LLM-Powered Multi-Agent System for Power Grid Control|[[pdf]](http://arxiv.org/abs/2508.05702v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|A Physiologically-Constrained Neural Network Digital Twin Framework for Replicating Glucose Dynamics in Type 1 Diabetes|[[pdf]](http://arxiv.org/abs/2508.05705v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-07|Towards Transparent Ethical AI: A Roadmap for Trustworthy Robotic Systems|[[pdf]](http://arxiv.org/abs/2508.05846v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success|[[pdf]](http://arxiv.org/abs/2508.04280v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[LayerT2V] LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation|[[pdf]](http://arxiv.org/abs/2508.04228v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|[COPO] COPO: Consistency-Aware Policy Optimization|[[pdf]](http://arxiv.org/abs/2508.04138v1)|⚠️|⭐️⭐️⭐️|
@@ -1619,6 +1639,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1593
+- Total Papers: 1613
 - Code Implementations: 20
 - Last Updated: August 2025

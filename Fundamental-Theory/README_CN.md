@@ -18,6 +18,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-08|Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning|[[pdf]](http://arxiv.org/abs/2508.06042v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control|[[pdf]](http://arxiv.org/abs/2508.05342v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[GRAIL] GRAIL:Learning to Interact with Large Knowledge Graphs for Retrieval Augmented Reasoning|[[pdf]](http://arxiv.org/abs/2508.05498v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|A Novel Architecture for Symbolic Reasoning with Decision Trees and LLM Agents|[[pdf]](http://arxiv.org/abs/2508.05311v1)|⚠️|⭐️⭐️⭐️|
@@ -332,6 +333,6 @@
 
 ## 📊 统计
 
-- 论文总数：311篇
+- 论文总数：312篇
 - 代码实现：5个
 - 最后更新：2025年08月
