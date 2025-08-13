@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-11|Autonomous Navigation of Cloud-Controlled Quadcopters in Confined Spaces Using Multi-Modal Perception and LLM-Driven High Semantic Reasoning|[[pdf]](http://arxiv.org/abs/2508.07885v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|A Learning-Based Framework for Collision-Free Motion Planning|[[pdf]](http://arxiv.org/abs/2508.07502v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[MeanAudio] MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows|[[pdf]](http://arxiv.org/abs/2508.06098v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[PASG] PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.05976v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[UW-3DGS] UW-3DGS: Underwater 3D Reconstruction with Physics-Aware Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2508.06169v1)|⚠️|⭐️⭐️⭐️|
@@ -244,6 +246,6 @@
 
 ## 📊 统计
 
-- 论文总数：220篇
+- 论文总数：222篇
 - 代码实现：8个
 - 最后更新：2025年08月

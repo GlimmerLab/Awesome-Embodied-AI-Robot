@@ -47,6 +47,36 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-11|Deep Reinforcement Learning with anticipatory reward in LSTM for Collision Avoidance of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.07941v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[MedReasoner] MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision|[[pdf]](http://arxiv.org/abs/2508.08177v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment|[[pdf]](http://arxiv.org/abs/2508.07750v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Uncertainty-Driven Reliability: Selective Prediction and Trustworthy Deployment in Modern Machine Learning|[[pdf]](http://arxiv.org/abs/2508.07556v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[ODYSSEY] ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2508.08240v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy|[[pdf]](http://arxiv.org/abs/2508.07611v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[AgentWorld] AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.07770v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[GraphCoT-VLA] GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions|[[pdf]](http://arxiv.org/abs/2508.07650v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[MoRoCo] MoRoCo: Multi-operator-robot Coordination, Interaction and Exploration under Restricted Communication|[[pdf]](http://arxiv.org/abs/2508.07657v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[SwarmVLM] SwarmVLM: VLM-Guided Impedance Control for Autonomous Navigation of Heterogeneous Robots in Dynamic Warehousing|[[pdf]](http://arxiv.org/abs/2508.07814v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[PCHands] PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF|[[pdf]](http://arxiv.org/abs/2508.07945v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[AR-VRM] AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning|[[pdf]](http://arxiv.org/abs/2508.07626v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[en] COMponent-Aware Pruning for Accelerated Control Tasks in Latent Space Models|[[pdf]](http://arxiv.org/abs/2508.08144v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[en] Grasp-HGN: Grasping the Unexpected|[[pdf]](http://arxiv.org/abs/2508.07648v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[From Field to Drone] From Field to Drone: Domain Drift Tolerant Automated Multi-Species and Damage Plant Semantic Segmentation for Herbicide Trials|[[pdf]](http://arxiv.org/abs/2508.07514v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[Multi-Agent] Touch Speaks, Sound Feels: A Multimodal Approach to Affective and Social Touch from Robots to Humans|[[pdf]](http://arxiv.org/abs/2508.07839v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Collision-Free Trajectory Planning and control of Robotic Manipulator using Energy-Based Artificial Potential Field (E-APF)|[[pdf]](http://arxiv.org/abs/2508.07323v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Multimodal Spiking Neural Network for Space Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.07287v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|DragonFruitQualityNet: A Lightweight Convolutional Neural Network for Real-Time Dragon Fruit Quality Inspection on Mobile Devices|[[pdf]](http://arxiv.org/abs/2508.07306v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Real-Time Analysis of Unstructured Data with Machine Learning on Heterogeneous Architectures|[[pdf]](http://arxiv.org/abs/2508.07423v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Bio-Inspired Topological Autonomous Navigation with Active Inference in Robotics|[[pdf]](http://arxiv.org/abs/2508.07267v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|[PANAMA] PANAMA: A Network-Aware MARL Framework for Multi-Agent Path Finding in Digital Twin Ecosystems|[[pdf]](http://arxiv.org/abs/2508.06767v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|Model Predictive Control for Crowd Navigation via Learning-Based Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2508.07079v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|[AMFT] AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance|[[pdf]](http://arxiv.org/abs/2508.06944v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.07029v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|Learning a Vision-Based Footstep Planner for Hierarchical Walking Control|[[pdf]](http://arxiv.org/abs/2508.06779v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|Balancing Privacy and Efficiency: Music Information Retrieval via Additive Homomorphic Encryption|[[pdf]](http://arxiv.org/abs/2508.07044v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|Making Effective Decisions: Machine Learning and the Ecogame in 1970|[[pdf]](http://arxiv.org/abs/2508.07027v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|[en] DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery|[[pdf]](http://arxiv.org/abs/2508.06960v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|[DexFruit] DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit|[[pdf]](http://arxiv.org/abs/2508.07118v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[ME$^3$-BEV] ME$^3$-BEV: Mamba-Enhanced Deep Reinforcement Learning for End-to-End Autonomous Driving with BEV-Perception|[[pdf]](http://arxiv.org/abs/2508.06074v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Bounding Distributional Shifts in World Modeling through Novelty Detection|[[pdf]](http://arxiv.org/abs/2508.06096v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Towards MR-Based Trochleoplasty Planning|[[pdf]](http://arxiv.org/abs/2508.06076v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +93,9 @@
 |2025-08-08|Beyond Constant Parameters: Hyper Prediction Models and HyperMPC|[[pdf]](http://arxiv.org/abs/2508.06181v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Towards Balanced Behavior Cloning from Imbalanced Datasets|[[pdf]](http://arxiv.org/abs/2508.06319v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[Depth Jitter] Depth Jitter: Seeing through the Depth|[[pdf]](http://arxiv.org/abs/2508.06227v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Learning Causal Structure Distributions for Robust Planning|[[pdf]](http://arxiv.org/abs/2508.06742v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Early Detection of Pancreatic Cancer Using Multimodal Learning on Electronic Health Record|[[pdf]](http://arxiv.org/abs/2508.06627v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|A Fuzzy Logic Prompting Framework for Large Language Models in Adaptive and Uncertain Tasks|[[pdf]](http://arxiv.org/abs/2508.06754v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling|[[pdf]](http://arxiv.org/abs/2508.05634v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|[TrajEvo] TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution|[[pdf]](http://arxiv.org/abs/2508.05616v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Test-Time Reinforcement Learning for GUI Grounding via Region Consistency|[[pdf]](http://arxiv.org/abs/2508.05615v1)|⚠️|⭐️⭐️⭐️|
@@ -1639,6 +1672,6 @@
 
 ## 📊 统计
 
-- 论文总数：1613篇
+- 论文总数：1646篇
 - 代码实现：20个
 - 最后更新：2025年08月

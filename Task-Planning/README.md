@@ -22,7 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-11|[MolmoAct] MolmoAct: Action Reasoning Models that can Reason in Space|[[pdf]](http://arxiv.org/abs/2508.07917v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[EcBot] EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators|[[pdf]](http://arxiv.org/abs/2508.06276v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Robust-Sub-Gaussian Model Predictive Control for Safe Ultrasound-Image-Guided Robotic Spinal Surgery|[[pdf]](http://arxiv.org/abs/2508.06744v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Hierarchical Deep Deterministic Policy Gradient for Autonomous Maze Navigation of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.04994v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Cognitive Duality for Adaptive Web Agents|[[pdf]](http://arxiv.org/abs/2508.05081v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-Graph Ensembles for Improved Tool Retrieval in Enterprise Task Planning|[[pdf]](http://arxiv.org/abs/2508.05888v1)|⚠️|⭐️⭐️⭐️|
@@ -206,6 +208,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 182
+- Total Papers: 184
 - Code Implementations: 6
 - Last Updated: August 2025

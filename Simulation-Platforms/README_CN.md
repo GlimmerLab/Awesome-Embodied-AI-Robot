@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-11|Robot and Overhead Crane Collaboration Scheme to Enhance Payload Manipulation|[[pdf]](http://arxiv.org/abs/2508.07758v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Neural Bridge Processes|[[pdf]](http://arxiv.org/abs/2508.07220v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|Conformal Set-based Human-AI Complementarity with Multiple Experts|[[pdf]](http://arxiv.org/abs/2508.06997v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Surrogate-Enhanced Modeling and Adaptive Modular Control of All-Electric Heavy-Duty Robotic Manipulators|[[pdf]](http://arxiv.org/abs/2508.06313v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges|[[pdf]](http://arxiv.org/abs/2508.06401v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Optimal Planning for Multi-Robot Simultaneous Area and Line Coverage Using Hierarchical Cyclic Merging Regulation|[[pdf]](http://arxiv.org/abs/2508.04981v1)|⚠️|⭐️⭐️⭐️|
@@ -331,6 +334,6 @@
 
 ## 📊 统计
 
-- 论文总数：306篇
+- 论文总数：309篇
 - 代码实现：21个
 - 最后更新：2025年08月

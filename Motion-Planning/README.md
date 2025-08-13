@@ -32,7 +32,14 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-11|[Grid2Guide] Grid2Guide: A* Enabled Small Language Model for Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.08100v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[BeyondMimic] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion|[[pdf]](http://arxiv.org/abs/2508.08241v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[LAURON VI] LAURON VI: A Six-Legged Robot for Dynamic Walking|[[pdf]](http://arxiv.org/abs/2508.07689v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|[AgriVLN] AgriVLN: Vision-and-Language Navigation for Agricultural Robots|[[pdf]](http://arxiv.org/abs/2508.07406v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Intention-Aware Diffusion Model for Pedestrian Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2508.07146v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-09|[LSDTs] LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning|[[pdf]](http://arxiv.org/abs/2508.06799v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Dynamical Trajectory Planning of Disturbance Consciousness for Air-Land Bimodal Unmanned Aerial Vehicles|[[pdf]](http://arxiv.org/abs/2508.05972v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-08|Zero-Shot Cellular Trajectory Map Matching|[[pdf]](http://arxiv.org/abs/2508.06674v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Computational Design and Fabrication of Modular Robots with Untethered Control|[[pdf]](http://arxiv.org/abs/2508.05410v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Benchmarking Shortcutting Techniques for Multi-Robot-Arm Motion Planning|[[pdf]](http://arxiv.org/abs/2508.05027v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-06|Dynamic User-controllable Privacy-preserving Few-shot Sensing Framework|[[pdf]](http://arxiv.org/abs/2508.03989v1)|⚠️|⭐️⭐️⭐️|
@@ -345,6 +352,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 320
+- Total Papers: 327
 - Code Implementations: 8
 - Last Updated: August 2025
