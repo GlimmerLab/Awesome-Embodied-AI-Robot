@@ -32,11 +32,15 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-12|QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach|[[pdf]](http://arxiv.org/abs/2508.08627v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion|[[pdf]](http://arxiv.org/abs/2508.08982v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[Grid2Guide] Grid2Guide: A* Enabled Small Language Model for Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.08100v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[BeyondMimic] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion|[[pdf]](http://arxiv.org/abs/2508.08241v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[LAURON VI] LAURON VI: A Six-Legged Robot for Dynamic Walking|[[pdf]](http://arxiv.org/abs/2508.07689v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Risk Map As Middleware: Towards Interpretable Cooperative End-to-end Autonomous Driving for Risk-Aware Planning|[[pdf]](http://arxiv.org/abs/2508.07686v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|[AgriVLN] AgriVLN: Vision-and-Language Navigation for Agricultural Robots|[[pdf]](http://arxiv.org/abs/2508.07406v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|Intention-Aware Diffusion Model for Pedestrian Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2508.07146v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators|[[pdf]](http://arxiv.org/abs/2508.08328v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-09|[LSDTs] LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning|[[pdf]](http://arxiv.org/abs/2508.06799v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Dynamical Trajectory Planning of Disturbance Consciousness for Air-Land Bimodal Unmanned Aerial Vehicles|[[pdf]](http://arxiv.org/abs/2508.05972v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Zero-Shot Cellular Trajectory Map Matching|[[pdf]](http://arxiv.org/abs/2508.06674v1)|⚠️|⭐️⭐️⭐️|
@@ -352,6 +356,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 327
+- Total Papers: 331
 - Code Implementations: 8
 - Last Updated: August 2025

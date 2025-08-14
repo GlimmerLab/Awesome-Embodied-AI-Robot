@@ -18,8 +18,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-12|[Efficient Agent] Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation|[[pdf]](http://arxiv.org/abs/2508.08816v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Designing Memory-Augmented AR Agents for Spatiotemporal Reasoning in Personalized Task Assistance|[[pdf]](http://arxiv.org/abs/2508.08774v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[BrowseMaster] BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair|[[pdf]](http://arxiv.org/abs/2508.09129v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Rational Inverse Reasoning|[[pdf]](http://arxiv.org/abs/2508.08983v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents|[[pdf]](http://arxiv.org/abs/2508.07642v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[InterChart] InterChart: Benchmarking Visual Reasoning Across Decomposed and Distributed Chart Information|[[pdf]](http://arxiv.org/abs/2508.07630v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[GVGAI-LLM] GVGAI-LLM: Evaluating Large Language Model Agents with Infinite Games|[[pdf]](http://arxiv.org/abs/2508.08501v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[TeamMedAgents] TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork|[[pdf]](http://arxiv.org/abs/2508.08115v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey|[[pdf]](http://arxiv.org/abs/2508.07560v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-09|Simulating Biological Intelligence: Active Inference with Experiment-Informed Generative Model|[[pdf]](http://arxiv.org/abs/2508.06980v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning|[[pdf]](http://arxiv.org/abs/2508.06042v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control|[[pdf]](http://arxiv.org/abs/2508.05342v1)|⚠️|⭐️⭐️⭐️|
@@ -336,6 +343,6 @@
 
 ## 📊 统计
 
-- 论文总数：315篇
+- 论文总数：322篇
 - 代码实现：5个
 - 最后更新：2025年08月

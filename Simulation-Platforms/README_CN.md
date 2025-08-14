@@ -39,8 +39,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-12|Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams|[[pdf]](http://arxiv.org/abs/2508.09036v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Simulating Generative Social Agents via Theory-Informed Workflow Design|[[pdf]](http://arxiv.org/abs/2508.08726v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[P-CAFE] P-CAFE: Personalized Cost-Aware Incremental Feature Selection For Electronic Health Records|[[pdf]](http://arxiv.org/abs/2508.08646v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[UGM2N] UGM2N: An Unsupervised and Generalizable Mesh Movement Network via M-Uniform Loss|[[pdf]](http://arxiv.org/abs/2508.08615v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Robot and Overhead Crane Collaboration Scheme to Enhance Payload Manipulation|[[pdf]](http://arxiv.org/abs/2508.07758v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Neural Tangent Knowledge Distillation for Optical Convolutional Networks|[[pdf]](http://arxiv.org/abs/2508.08421v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Maximizing GPU Efficiency via Optimal Adapter Caching: An Analytical Approach for Multi-Tenant LLM Serving|[[pdf]](http://arxiv.org/abs/2508.08343v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[MuaLLM] MuaLLM: A Multimodal Large Language Model Agent for Circuit Design Assistance with Hybrid Contextual Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2508.08137v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|Neural Bridge Processes|[[pdf]](http://arxiv.org/abs/2508.07220v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-10|Noise-Aware Generative Microscopic Traffic Simulation|[[pdf]](http://arxiv.org/abs/2508.07453v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-09|Conformal Set-based Human-AI Complementarity with Multiple Experts|[[pdf]](http://arxiv.org/abs/2508.06997v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Surrogate-Enhanced Modeling and Adaptive Modular Control of All-Electric Heavy-Duty Robotic Manipulators|[[pdf]](http://arxiv.org/abs/2508.06313v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges|[[pdf]](http://arxiv.org/abs/2508.06401v1)|⚠️|⭐️⭐️⭐️|
@@ -334,6 +342,6 @@
 
 ## 📊 统计
 
-- 论文总数：309篇
+- 论文总数：317篇
 - 代码实现：21个
 - 最后更新：2025年08月

@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-12|Munsit at NADI 2025 Shared Task 2: Pushing the Boundaries of Multidialectal Arabic ASR with Weakly Supervised Pretraining and Continual Supervised Fine-tuning|[[pdf]](http://arxiv.org/abs/2508.08912v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[MolmoAct] MolmoAct: Action Reasoning Models that can Reason in Space|[[pdf]](http://arxiv.org/abs/2508.07917v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[EcBot] EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators|[[pdf]](http://arxiv.org/abs/2508.06276v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|Robust-Sub-Gaussian Model Predictive Control for Safe Ultrasound-Image-Guided Robotic Spinal Surgery|[[pdf]](http://arxiv.org/abs/2508.06744v1)|⚠️|⭐️⭐️⭐️|
@@ -208,6 +209,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 184
+- Total Papers: 185
 - Code Implementations: 6
 - Last Updated: August 2025

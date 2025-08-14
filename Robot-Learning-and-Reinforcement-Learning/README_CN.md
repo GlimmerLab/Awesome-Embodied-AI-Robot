@@ -47,6 +47,19 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-12|Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT|[[pdf]](http://arxiv.org/abs/2508.08748v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[UQGNN] UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction|[[pdf]](http://arxiv.org/abs/2508.08551v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Shape Completion and Real-Time Visualization in Robotic Ultrasound Spine Acquisitions|[[pdf]](http://arxiv.org/abs/2508.08923v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[Urban-STA4CLC] Urban-STA4CLC: Urban Theory-Informed Spatio-Temporal Attention Model for Predicting Post-Disaster Commercial Land Use Change|[[pdf]](http://arxiv.org/abs/2508.08976v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Large Scale Robotic Material Handling: Learning, Planning, and Control|[[pdf]](http://arxiv.org/abs/2508.09003v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[OmniVTLA] OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing|[[pdf]](http://arxiv.org/abs/2508.08706v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[DiffPhysCam] DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI|[[pdf]](http://arxiv.org/abs/2508.08831v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[OpenCUA] OpenCUA: Open Foundations for Computer-Use Agents|[[pdf]](http://arxiv.org/abs/2508.09123v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors|[[pdf]](http://arxiv.org/abs/2508.08896v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Towards Safe Imitation Learning via Potential Field-Guided Flow Matching|[[pdf]](http://arxiv.org/abs/2508.08707v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Boosting Action-Information via a Variational Bottleneck on Unlabelled Robot Videos|[[pdf]](http://arxiv.org/abs/2508.08743v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[Multi-Agent] DeepFleet: Multi-Agent Foundation Models for Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.08574v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[GeoVLA] GeoVLA: Empowering 3D Representations in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2508.09071v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Deep Reinforcement Learning with anticipatory reward in LSTM for Collision Avoidance of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.07941v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[MedReasoner] MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision|[[pdf]](http://arxiv.org/abs/2508.08177v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment|[[pdf]](http://arxiv.org/abs/2508.07750v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +76,10 @@
 |2025-08-11|[en] Grasp-HGN: Grasping the Unexpected|[[pdf]](http://arxiv.org/abs/2508.07648v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[From Field to Drone] From Field to Drone: Domain Drift Tolerant Automated Multi-Species and Damage Plant Semantic Segmentation for Herbicide Trials|[[pdf]](http://arxiv.org/abs/2508.07514v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[Multi-Agent] Touch Speaks, Sound Feels: A Multimodal Approach to Affective and Social Touch from Robots to Humans|[[pdf]](http://arxiv.org/abs/2508.07839v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|[StreetViewAI] StreetViewAI: Making Street View Accessible Using Context-Aware Multimodal AI|[[pdf]](http://arxiv.org/abs/2508.08524v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Bilevel MCTS for Amortized O(1) Node Selection in Classical Planning|[[pdf]](http://arxiv.org/abs/2508.08385v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|A Minimal Model for Emergent Collective Behaviors in Autonomous Robotic Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2508.08473v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-11|Capsizing-Guided Trajectory Optimization for Autonomous Navigation with Rough Terrain|[[pdf]](http://arxiv.org/abs/2508.08108v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|Collision-Free Trajectory Planning and control of Robotic Manipulator using Energy-Based Artificial Potential Field (E-APF)|[[pdf]](http://arxiv.org/abs/2508.07323v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|Multimodal Spiking Neural Network for Space Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.07287v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|DragonFruitQualityNet: A Lightweight Convolutional Neural Network for Real-Time Dragon Fruit Quality Inspection on Mobile Devices|[[pdf]](http://arxiv.org/abs/2508.07306v1)|⚠️|⭐️⭐️⭐️|
@@ -1672,6 +1689,6 @@
 
 ## 📊 统计
 
-- 论文总数：1646篇
+- 论文总数：1663篇
 - 代码实现：20个
 - 最后更新：2025年08月

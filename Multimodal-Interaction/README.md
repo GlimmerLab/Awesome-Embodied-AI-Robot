@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-12|Silicon Minds versus Human Hearts: The Wisdom of Crowds Beats the Wisdom of AI in Emotion Recognition|[[pdf]](http://arxiv.org/abs/2508.08830v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[Imposing AI] Imposing AI: Deceptive design patterns against sustainability|[[pdf]](http://arxiv.org/abs/2508.08672v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection|[[pdf]](http://arxiv.org/abs/2508.08593v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Autonomous Mobile Plant Watering Robot : A Kinematic Approach|[[pdf]](http://arxiv.org/abs/2508.08607v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[Conversational DNA] Conversational DNA: A New Visual Language for Understanding Dialogue Structure in Human and AI|[[pdf]](http://arxiv.org/abs/2508.07520v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction|[[pdf]](http://arxiv.org/abs/2508.05294v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-07|Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation|[[pdf]](http://arxiv.org/abs/2508.05427v1)|⚠️|⭐️⭐️⭐️|
@@ -231,6 +235,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 206
+- Total Papers: 210
 - Code Implementations: 6
 - Last Updated: August 2025
