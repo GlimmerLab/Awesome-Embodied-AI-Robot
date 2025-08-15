@@ -32,6 +32,9 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-13|[CaRoBio] CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail|[[pdf]](http://arxiv.org/abs/2508.09558v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[Humanoid] GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation|[[pdf]](http://arxiv.org/abs/2508.09960v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[PPL] PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces|[[pdf]](http://arxiv.org/abs/2508.09950v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach|[[pdf]](http://arxiv.org/abs/2508.08627v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion|[[pdf]](http://arxiv.org/abs/2508.08982v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[Grid2Guide] Grid2Guide: A* Enabled Small Language Model for Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.08100v1)|⚠️|⭐️⭐️⭐️|
@@ -356,6 +359,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 331
+- Total Papers: 334
 - Code Implementations: 8
 - Last Updated: August 2025

@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-13|Anomaly Detection for IoT Global Connectivity|[[pdf]](http://arxiv.org/abs/2508.09660v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|Embodied Tactile Perception of Soft Objects Properties|[[pdf]](http://arxiv.org/abs/2508.09836v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents|[[pdf]](http://arxiv.org/abs/2508.08837v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Autonomous Navigation of Cloud-Controlled Quadcopters in Confined Spaces Using Multi-Modal Perception and LLM-Driven High Semantic Reasoning|[[pdf]](http://arxiv.org/abs/2508.07885v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Large Language Models as Oracles for Ontology Alignment|[[pdf]](http://arxiv.org/abs/2508.08500v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-10|A Learning-Based Framework for Collision-Free Motion Planning|[[pdf]](http://arxiv.org/abs/2508.07502v1)|⚠️|⭐️⭐️⭐️|
@@ -248,6 +251,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 224
+- Total Papers: 227
 - Code Implementations: 8
 - Last Updated: August 2025

@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-13|Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation|[[pdf]](http://arxiv.org/abs/2508.09846v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Silicon Minds versus Human Hearts: The Wisdom of Crowds Beats the Wisdom of AI in Emotion Recognition|[[pdf]](http://arxiv.org/abs/2508.08830v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[Imposing AI] Imposing AI: Deceptive design patterns against sustainability|[[pdf]](http://arxiv.org/abs/2508.08672v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection|[[pdf]](http://arxiv.org/abs/2508.08593v1)|⚠️|⭐️⭐️⭐️|
@@ -235,6 +236,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 210
+- Total Papers: 211
 - Code Implementations: 6
 - Last Updated: August 2025

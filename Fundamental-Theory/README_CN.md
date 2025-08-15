@@ -18,6 +18,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-13|[EvoCurr] EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making|[[pdf]](http://arxiv.org/abs/2508.09586v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[GoViG] GoViG: Goal-Conditioned Visual Navigation Instruction Generation|[[pdf]](http://arxiv.org/abs/2508.09547v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[en] RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization|[[pdf]](http://arxiv.org/abs/2508.09459v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[Efficient Agent] Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation|[[pdf]](http://arxiv.org/abs/2508.08816v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Designing Memory-Augmented AR Agents for Spatiotemporal Reasoning in Personalized Task Assistance|[[pdf]](http://arxiv.org/abs/2508.08774v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[BrowseMaster] BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair|[[pdf]](http://arxiv.org/abs/2508.09129v1)|⚠️|⭐️⭐️⭐️|
@@ -343,6 +346,6 @@
 
 ## 📊 统计
 
-- 论文总数：322篇
+- 论文总数：325篇
 - 代码实现：5个
 - 最后更新：2025年08月

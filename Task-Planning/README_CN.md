@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-13|DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2508.09444v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Munsit at NADI 2025 Shared Task 2: Pushing the Boundaries of Multidialectal Arabic ASR with Weakly Supervised Pretraining and Continual Supervised Fine-tuning|[[pdf]](http://arxiv.org/abs/2508.08912v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[MolmoAct] MolmoAct: Action Reasoning Models that can Reason in Space|[[pdf]](http://arxiv.org/abs/2508.07917v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-08|[EcBot] EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators|[[pdf]](http://arxiv.org/abs/2508.06276v1)|⚠️|⭐️⭐️⭐️|
@@ -209,6 +210,6 @@
 
 ## 📊 统计
 
-- 论文总数：185篇
+- 论文总数：186篇
 - 代码实现：6个
 - 最后更新：2025年08月

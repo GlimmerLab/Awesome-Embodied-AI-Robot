@@ -47,6 +47,15 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-13|[UDA] UDA: Unsupervised Debiasing Alignment for Pair-wise LLM-as-a-Judge|[[pdf]](http://arxiv.org/abs/2508.09724v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[BEAVR] BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots|[[pdf]](http://arxiv.org/abs/2508.09606v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes|[[pdf]](http://arxiv.org/abs/2508.09855v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[en] Interpretable Robot Control via Structured Behavior Trees and Large Language Models|[[pdf]](http://arxiv.org/abs/2508.09621v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[en] Vision-driven River Following of UAV via Safe Reinforcement Learning using Semantic Dynamics Model|[[pdf]](http://arxiv.org/abs/2508.09971v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[What-Meets-Where] What-Meets-Where: Unified Learning of Action and Contact Localization in a New Dataset|[[pdf]](http://arxiv.org/abs/2508.09428v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[Milestone] Masquerade: Learning from In-the-wild Human Videos using Data-Editing|[[pdf]](http://arxiv.org/abs/2508.09976v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[Multi-Agent] Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions|[[pdf]](http://arxiv.org/abs/2508.09700v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|Reactive Model Predictive Contouring Control for Robot Manipulators|[[pdf]](http://arxiv.org/abs/2508.09502v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT|[[pdf]](http://arxiv.org/abs/2508.08748v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[UQGNN] UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction|[[pdf]](http://arxiv.org/abs/2508.08551v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Shape Completion and Real-Time Visualization in Robotic Ultrasound Spine Acquisitions|[[pdf]](http://arxiv.org/abs/2508.08923v1)|⚠️|⭐️⭐️⭐️|
@@ -60,6 +69,12 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-12|Boosting Action-Information via a Variational Bottleneck on Unlabelled Robot Videos|[[pdf]](http://arxiv.org/abs/2508.08743v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[Multi-Agent] DeepFleet: Multi-Agent Foundation Models for Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.08574v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[GeoVLA] GeoVLA: Empowering 3D Representations in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2508.09071v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[GSMT] GSMT: Graph Fusion and Spatiotemporal TaskCorrection for Multi-Bus Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2508.09227v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[RicciFlowRec] RicciFlowRec: A Geometric Root Cause Recommender Using Ricci Curvature on Financial Graphs|[[pdf]](http://arxiv.org/abs/2508.09334v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[CLF-RL] CLF-RL: Control Lyapunov Function Guided Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.09354v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|Opening Musical Creativity? Embedded Ideologies in Generative-AI Music Systems|[[pdf]](http://arxiv.org/abs/2508.08805v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[SegDAC] SegDAC: Segmentation-Driven Actor-Critic for Visual Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.09325v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy|[[pdf]](http://arxiv.org/abs/2508.09346v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Deep Reinforcement Learning with anticipatory reward in LSTM for Collision Avoidance of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.07941v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[MedReasoner] MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision|[[pdf]](http://arxiv.org/abs/2508.08177v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment|[[pdf]](http://arxiv.org/abs/2508.07750v1)|⚠️|⭐️⭐️⭐️|
@@ -1689,6 +1704,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1663
+- Total Papers: 1678
 - Code Implementations: 20
 - Last Updated: August 2025
