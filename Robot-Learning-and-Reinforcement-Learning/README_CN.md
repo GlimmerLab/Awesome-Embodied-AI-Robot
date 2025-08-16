@@ -47,6 +47,20 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|[AEGIS] AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences|[[pdf]](http://arxiv.org/abs/2508.10771v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[ToonComposer] ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing|[[pdf]](http://arxiv.org/abs/2508.10881v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[PASS] PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning|[[pdf]](http://arxiv.org/abs/2508.10501v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[MLM] MLM: Learning Multi-task Loco-Manipulation Whole-Body Control for Quadruped Robot with Arm|[[pdf]](http://arxiv.org/abs/2508.10538v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[MASH] MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion|[[pdf]](http://arxiv.org/abs/2508.10423v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Learning Task Execution Hierarchies for Redundant Robots|[[pdf]](http://arxiv.org/abs/2508.10780v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[ReconVLA] ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver|[[pdf]](http://arxiv.org/abs/2508.10333v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[PQ-DAF] PQ-DAF: Pose-driven Quality-controlled Data Augmentation for Data-scarce Driver Distraction Detection|[[pdf]](http://arxiv.org/abs/2508.10397v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[FIRESPARQL] FIRESPARQL: A LLM-based Framework for SPARQL Query Generation over Scholarly Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2508.10467v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)|[[pdf]](http://arxiv.org/abs/2508.10686v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[Multi-Agent] Why Report Failed Interactions With Robots?! Towards Vignette-based Interaction Quality|[[pdf]](http://arxiv.org/abs/2508.10603v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[KDPE] KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection|[[pdf]](http://arxiv.org/abs/2508.10511v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Few-shot Vision-based Human Activity Recognition with MLLM-based Visual Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.10371v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[en] Super LiDAR Reflectance for Robotic Perception|[[pdf]](http://arxiv.org/abs/2508.10398v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[UDA] UDA: Unsupervised Debiasing Alignment for Pair-wise LLM-as-a-Judge|[[pdf]](http://arxiv.org/abs/2508.09724v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[BEAVR] BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots|[[pdf]](http://arxiv.org/abs/2508.09606v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes|[[pdf]](http://arxiv.org/abs/2508.09855v1)|⚠️|⭐️⭐️⭐️|
@@ -56,6 +70,7 @@
 |2025-08-13|[Milestone] Masquerade: Learning from In-the-wild Human Videos using Data-Editing|[[pdf]](http://arxiv.org/abs/2508.09976v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[Multi-Agent] Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions|[[pdf]](http://arxiv.org/abs/2508.09700v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Reactive Model Predictive Contouring Control for Robot Manipulators|[[pdf]](http://arxiv.org/abs/2508.09502v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|Plane Detection and Ranking via Model Information Optimization|[[pdf]](http://arxiv.org/abs/2508.09625v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT|[[pdf]](http://arxiv.org/abs/2508.08748v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[UQGNN] UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction|[[pdf]](http://arxiv.org/abs/2508.08551v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Shape Completion and Real-Time Visualization in Robotic Ultrasound Spine Acquisitions|[[pdf]](http://arxiv.org/abs/2508.08923v1)|⚠️|⭐️⭐️⭐️|
@@ -1704,6 +1719,6 @@
 
 ## 📊 统计
 
-- 论文总数：1678篇
+- 论文总数：1693篇
 - 代码实现：20个
 - 最后更新：2025年08月

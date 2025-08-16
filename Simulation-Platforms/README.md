@@ -39,15 +39,18 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|[Video-BLADE] Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation|[[pdf]](http://arxiv.org/abs/2508.10774v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[SMART-OC] SMART-OC: A Real-time Time-risk Optimal Replanning Algorithm for Dynamic Obstacles and Spatio-temporally Varying Currents|[[pdf]](http://arxiv.org/abs/2508.09508v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Decentralized Rank Scheduling for Energy-Constrained Multi-Task Federated Fine-Tuning in Edge-Assisted IoV Networks|[[pdf]](http://arxiv.org/abs/2508.09532v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[FLARE] FLARE: Agile Flights for Quadrotor Cable-Suspended Payload System via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.09797v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[LaajMeter] LaajMeter: A Framework for LaaJ Evaluation|[[pdf]](http://arxiv.org/abs/2508.10161v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams|[[pdf]](http://arxiv.org/abs/2508.09036v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Simulating Generative Social Agents via Theory-Informed Workflow Design|[[pdf]](http://arxiv.org/abs/2508.08726v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[P-CAFE] P-CAFE: Personalized Cost-Aware Incremental Feature Selection For Electronic Health Records|[[pdf]](http://arxiv.org/abs/2508.08646v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[UGM2N] UGM2N: An Unsupervised and Generalizable Mesh Movement Network via M-Uniform Loss|[[pdf]](http://arxiv.org/abs/2508.08615v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|The Othello AI Arena: Evaluating Intelligent Systems Through Limited-Time Adaptation to Unseen Boards|[[pdf]](http://arxiv.org/abs/2508.09292v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[Yan] Yan: Foundational Interactive Video Generation|[[pdf]](http://arxiv.org/abs/2508.08601v3)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[en] NetMoniAI: An Agentic AI Framework for Network Security & Monitoring|[[pdf]](http://arxiv.org/abs/2508.10052v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Robot and Overhead Crane Collaboration Scheme to Enhance Payload Manipulation|[[pdf]](http://arxiv.org/abs/2508.07758v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Neural Tangent Knowledge Distillation for Optical Convolutional Networks|[[pdf]](http://arxiv.org/abs/2508.08421v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Maximizing GPU Efficiency via Optimal Adapter Caching: An Analytical Approach for Multi-Tenant LLM Serving|[[pdf]](http://arxiv.org/abs/2508.08343v1)|⚠️|⭐️⭐️⭐️|
@@ -347,6 +350,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 322
+- Total Papers: 325
 - Code Implementations: 21
 - Last Updated: August 2025

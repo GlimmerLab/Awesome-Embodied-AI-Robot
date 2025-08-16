@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|A Semantic-Aware Framework for Safe and Intent-Integrative Assistance in Upper-Limb Exoskeletons|[[pdf]](http://arxiv.org/abs/2508.10378v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[SpaRC-AD] SpaRC-AD: A Baseline for Radar-Camera Fusion in End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.10567v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2508.09444v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Munsit at NADI 2025 Shared Task 2: Pushing the Boundaries of Multidialectal Arabic ASR with Weakly Supervised Pretraining and Continual Supervised Fine-tuning|[[pdf]](http://arxiv.org/abs/2508.08912v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[MolmoAct] MolmoAct: Action Reasoning Models that can Reason in Space|[[pdf]](http://arxiv.org/abs/2508.07917v1)|⚠️|⭐️⭐️⭐️|
@@ -210,6 +212,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 186
+- Total Papers: 188
 - Code Implementations: 6
 - Last Updated: August 2025

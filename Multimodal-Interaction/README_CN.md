@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots|[[pdf]](http://arxiv.org/abs/2508.10828v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation|[[pdf]](http://arxiv.org/abs/2508.09846v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Silicon Minds versus Human Hearts: The Wisdom of Crowds Beats the Wisdom of AI in Emotion Recognition|[[pdf]](http://arxiv.org/abs/2508.08830v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[Imposing AI] Imposing AI: Deceptive design patterns against sustainability|[[pdf]](http://arxiv.org/abs/2508.08672v1)|⚠️|⭐️⭐️⭐️|
@@ -236,6 +237,6 @@
 
 ## 📊 统计
 
-- 论文总数：211篇
+- 论文总数：212篇
 - 代码实现：6个
 - 最后更新：2025年08月

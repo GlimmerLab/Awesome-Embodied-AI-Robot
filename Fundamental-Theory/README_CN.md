@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|[ComoRAG] ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning|[[pdf]](http://arxiv.org/abs/2508.10419v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[LeanRAG] LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval|[[pdf]](http://arxiv.org/abs/2508.10391v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[FROGENT] FROGENT: An End-to-End Full-process Drug Design Agent|[[pdf]](http://arxiv.org/abs/2508.10760v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Promoting Efficient Reasoning with Verifiable Stepwise Reward|[[pdf]](http://arxiv.org/abs/2508.10293v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning|[[pdf]](http://arxiv.org/abs/2508.10399v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[EvoCurr] EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making|[[pdf]](http://arxiv.org/abs/2508.09586v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[GoViG] GoViG: Goal-Conditioned Visual Navigation Instruction Generation|[[pdf]](http://arxiv.org/abs/2508.09547v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[en] RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization|[[pdf]](http://arxiv.org/abs/2508.09459v1)|⚠️|⭐️⭐️⭐️|
@@ -346,6 +351,6 @@
 
 ## 📊 统计
 
-- 论文总数：325篇
+- 论文总数：330篇
 - 代码实现：5个
 - 最后更新：2025年08月

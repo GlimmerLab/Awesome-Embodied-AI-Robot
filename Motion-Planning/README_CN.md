@@ -32,9 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning|[[pdf]](http://arxiv.org/abs/2508.10872v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[Pinet] Pinet: Optimizing hard-constrained neural networks with orthogonal projection layers|[[pdf]](http://arxiv.org/abs/2508.10480v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[CaRoBio] CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail|[[pdf]](http://arxiv.org/abs/2508.09558v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[Humanoid] GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation|[[pdf]](http://arxiv.org/abs/2508.09960v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[PPL] PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces|[[pdf]](http://arxiv.org/abs/2508.09950v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|Advancing Data Equity: Practitioner Responsibility and Accountability in NLP Data Practices|[[pdf]](http://arxiv.org/abs/2508.10071v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach|[[pdf]](http://arxiv.org/abs/2508.08627v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion|[[pdf]](http://arxiv.org/abs/2508.08982v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[Grid2Guide] Grid2Guide: A* Enabled Small Language Model for Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.08100v1)|⚠️|⭐️⭐️⭐️|
@@ -359,6 +362,6 @@
 
 ## 📊 统计
 
-- 论文总数：334篇
+- 论文总数：337篇
 - 代码实现：8个
 - 最后更新：2025年08月

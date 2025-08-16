@@ -26,8 +26,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-14|[CorrectNav] CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model|[[pdf]](http://arxiv.org/abs/2508.10416v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[en] The SET Perceptual Factors Framework: Towards Assured Perception for Autonomous Systems|[[pdf]](http://arxiv.org/abs/2508.10798v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Anomaly Detection for IoT Global Connectivity|[[pdf]](http://arxiv.org/abs/2508.09660v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Embodied Tactile Perception of Soft Objects Properties|[[pdf]](http://arxiv.org/abs/2508.09836v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|MCP-Orchestrated Multi-Agent System for Automated Disinformation Detection|[[pdf]](http://arxiv.org/abs/2508.10143v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents|[[pdf]](http://arxiv.org/abs/2508.08837v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Autonomous Navigation of Cloud-Controlled Quadcopters in Confined Spaces Using Multi-Modal Perception and LLM-Driven High Semantic Reasoning|[[pdf]](http://arxiv.org/abs/2508.07885v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Large Language Models as Oracles for Ontology Alignment|[[pdf]](http://arxiv.org/abs/2508.08500v1)|⚠️|⭐️⭐️⭐️|
@@ -251,6 +254,6 @@
 
 ## 📊 统计
 
-- 论文总数：227篇
+- 论文总数：230篇
 - 代码实现：8个
 - 最后更新：2025年08月
