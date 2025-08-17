@@ -34,6 +34,9 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2025-08-14|TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning|[[pdf]](http://arxiv.org/abs/2508.10872v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[Pinet] Pinet: Optimizing hard-constrained neural networks with orthogonal projection layers|[[pdf]](http://arxiv.org/abs/2508.10480v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[BEASST] BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.10363v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Hybrid Data-Driven Predictive Control for Robust and Reactive Exoskeleton Locomotion Synthesis|[[pdf]](http://arxiv.org/abs/2508.10269v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Synthesis of Deep Neural Networks with Safe Robust Adaptive Control for Reliable Operation of Wheeled Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.10634v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[CaRoBio] CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail|[[pdf]](http://arxiv.org/abs/2508.09558v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[Humanoid] GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation|[[pdf]](http://arxiv.org/abs/2508.09960v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[PPL] PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces|[[pdf]](http://arxiv.org/abs/2508.09950v1)|⚠️|⭐️⭐️⭐️|
@@ -362,6 +365,6 @@
 
 ## 📊 统计
 
-- 论文总数：337篇
+- 论文总数：340篇
 - 代码实现：8个
 - 最后更新：2025年08月

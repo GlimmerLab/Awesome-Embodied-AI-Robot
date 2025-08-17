@@ -44,6 +44,7 @@ This directory collects papers and code implementations related to simulation pl
 |2025-08-13|Decentralized Rank Scheduling for Energy-Constrained Multi-Task Federated Fine-Tuning in Edge-Assisted IoV Networks|[[pdf]](http://arxiv.org/abs/2508.09532v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[FLARE] FLARE: Agile Flights for Quadrotor Cable-Suspended Payload System via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.09797v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[LaajMeter] LaajMeter: A Framework for LaaJ Evaluation|[[pdf]](http://arxiv.org/abs/2508.10161v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|AI Blob! LLM-Driven Recontextualization of Italian Television Archives|[[pdf]](http://arxiv.org/abs/2508.09535v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams|[[pdf]](http://arxiv.org/abs/2508.09036v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Simulating Generative Social Agents via Theory-Informed Workflow Design|[[pdf]](http://arxiv.org/abs/2508.08726v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[P-CAFE] P-CAFE: Personalized Cost-Aware Incremental Feature Selection For Electronic Health Records|[[pdf]](http://arxiv.org/abs/2508.08646v1)|⚠️|⭐️⭐️⭐️|
@@ -350,6 +351,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 325
+- Total Papers: 326
 - Code Implementations: 21
 - Last Updated: August 2025

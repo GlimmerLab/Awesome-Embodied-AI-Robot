@@ -61,6 +61,9 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-14|[KDPE] KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection|[[pdf]](http://arxiv.org/abs/2508.10511v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|Few-shot Vision-based Human Activity Recognition with MLLM-based Visual Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.10371v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[en] Super LiDAR Reflectance for Robotic Perception|[[pdf]](http://arxiv.org/abs/2508.10398v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[HiRef] HiRef: Leveraging Hierarchical Ontology and Network Refinement for Robust Medication Recommendation|[[pdf]](http://arxiv.org/abs/2508.10425v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[Hierarchical] Enabling Generic Robot Skill Implementation Using Object Oriented Programming|[[pdf]](http://arxiv.org/abs/2508.10497v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Probabilistic Latency Analysis of the Data Distribution Service in ROS 2|[[pdf]](http://arxiv.org/abs/2508.10413v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[UDA] UDA: Unsupervised Debiasing Alignment for Pair-wise LLM-as-a-Judge|[[pdf]](http://arxiv.org/abs/2508.09724v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[BEAVR] BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots|[[pdf]](http://arxiv.org/abs/2508.09606v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes|[[pdf]](http://arxiv.org/abs/2508.09855v1)|⚠️|⭐️⭐️⭐️|
@@ -71,6 +74,7 @@ This directory collects papers and code implementations related to robot learnin
 |2025-08-13|[Multi-Agent] Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions|[[pdf]](http://arxiv.org/abs/2508.09700v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Reactive Model Predictive Contouring Control for Robot Manipulators|[[pdf]](http://arxiv.org/abs/2508.09502v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Plane Detection and Ranking via Model Information Optimization|[[pdf]](http://arxiv.org/abs/2508.09625v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|[ESCoT] ESCoT: An Enhanced Step-based Coordinate Trajectory Planning Method for Multiple Car-like Robots|[[pdf]](http://arxiv.org/abs/2508.09581v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT|[[pdf]](http://arxiv.org/abs/2508.08748v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[UQGNN] UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction|[[pdf]](http://arxiv.org/abs/2508.08551v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Shape Completion and Real-Time Visualization in Robotic Ultrasound Spine Acquisitions|[[pdf]](http://arxiv.org/abs/2508.08923v1)|⚠️|⭐️⭐️⭐️|
@@ -1719,6 +1723,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1693
+- Total Papers: 1697
 - Code Implementations: 20
 - Last Updated: August 2025
