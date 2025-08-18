@@ -64,6 +64,7 @@
 |2025-08-14|[HiRef] HiRef: Leveraging Hierarchical Ontology and Network Refinement for Robust Medication Recommendation|[[pdf]](http://arxiv.org/abs/2508.10425v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[Hierarchical] Enabling Generic Robot Skill Implementation Using Object Oriented Programming|[[pdf]](http://arxiv.org/abs/2508.10497v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|Probabilistic Latency Analysis of the Data Distribution Service in ROS 2|[[pdf]](http://arxiv.org/abs/2508.10413v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning|[[pdf]](http://arxiv.org/abs/2508.10747v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[UDA] UDA: Unsupervised Debiasing Alignment for Pair-wise LLM-as-a-Judge|[[pdf]](http://arxiv.org/abs/2508.09724v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[BEAVR] BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots|[[pdf]](http://arxiv.org/abs/2508.09606v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes|[[pdf]](http://arxiv.org/abs/2508.09855v1)|⚠️|⭐️⭐️⭐️|
@@ -75,6 +76,7 @@
 |2025-08-13|Reactive Model Predictive Contouring Control for Robot Manipulators|[[pdf]](http://arxiv.org/abs/2508.09502v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Plane Detection and Ranking via Model Information Optimization|[[pdf]](http://arxiv.org/abs/2508.09625v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[ESCoT] ESCoT: An Enhanced Step-based Coordinate Trajectory Planning Method for Multiple Car-like Robots|[[pdf]](http://arxiv.org/abs/2508.09581v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-13|A Shank Angle-Based Control System Enables Soft Exoskeleton to Assist Human Non-Steady Locomotion|[[pdf]](http://arxiv.org/abs/2508.09876v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT|[[pdf]](http://arxiv.org/abs/2508.08748v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[UQGNN] UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction|[[pdf]](http://arxiv.org/abs/2508.08551v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|Shape Completion and Real-Time Visualization in Robotic Ultrasound Spine Acquisitions|[[pdf]](http://arxiv.org/abs/2508.08923v1)|⚠️|⭐️⭐️⭐️|
@@ -94,6 +96,7 @@
 |2025-08-12|Opening Musical Creativity? Embedded Ideologies in Generative-AI Music Systems|[[pdf]](http://arxiv.org/abs/2508.08805v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|[SegDAC] SegDAC: Segmentation-Driven Actor-Critic for Visual Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.09325v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-12|How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy|[[pdf]](http://arxiv.org/abs/2508.09346v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-12|[Spatial Traces] Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding|[[pdf]](http://arxiv.org/abs/2508.09032v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Deep Reinforcement Learning with anticipatory reward in LSTM for Collision Avoidance of Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.07941v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|[MedReasoner] MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision|[[pdf]](http://arxiv.org/abs/2508.08177v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-11|Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment|[[pdf]](http://arxiv.org/abs/2508.07750v1)|⚠️|⭐️⭐️⭐️|
@@ -1723,6 +1726,6 @@
 
 ## 📊 统计
 
-- 论文总数：1697篇
+- 论文总数：1700篇
 - 代码实现：20个
 - 最后更新：2025年08月
