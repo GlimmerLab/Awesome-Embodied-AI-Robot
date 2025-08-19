@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-15|Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent|[[pdf]](http://arxiv.org/abs/2508.11286v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|A Semantic-Aware Framework for Safe and Intent-Integrative Assistance in Upper-Limb Exoskeletons|[[pdf]](http://arxiv.org/abs/2508.10378v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[SpaRC-AD] SpaRC-AD: A Baseline for Radar-Camera Fusion in End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.10567v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2508.09444v1)|⚠️|⭐️⭐️⭐️|
@@ -212,6 +213,6 @@
 
 ## 📊 统计
 
-- 论文总数：188篇
+- 论文总数：189篇
 - 代码实现：6个
 - 最后更新：2025年08月

@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-15|[en] Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution Tracing|[[pdf]](http://arxiv.org/abs/2508.11406v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Better Supervised Fine-tuning for VQA: Integer-Only Loss|[[pdf]](http://arxiv.org/abs/2508.11170v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[OVSegDT] OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2508.11479v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[Video-BLADE] Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation|[[pdf]](http://arxiv.org/abs/2508.10774v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[SMART-OC] SMART-OC: A Real-time Time-risk Optimal Replanning Algorithm for Dynamic Obstacles and Spatio-temporally Varying Currents|[[pdf]](http://arxiv.org/abs/2508.09508v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Decentralized Rank Scheduling for Energy-Constrained Multi-Task Federated Fine-Tuning in Edge-Assisted IoV Networks|[[pdf]](http://arxiv.org/abs/2508.09532v1)|⚠️|⭐️⭐️⭐️|
@@ -351,6 +354,6 @@
 
 ## 📊 统计
 
-- 论文总数：326篇
+- 论文总数：329篇
 - 代码实现：21个
 - 最后更新：2025年08月

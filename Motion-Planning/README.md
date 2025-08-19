@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-15|Geometry-Aware Predictive Safety Filters on Humanoids: From Poisson Safety Functions to CBF Constrained MPC|[[pdf]](http://arxiv.org/abs/2508.11129v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Learning Differentiable Reachability Maps for Optimization-based Humanoid Motion Generation|[[pdf]](http://arxiv.org/abs/2508.11275v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|A Comparative Study of Floating-Base Space Parameterizations for Agile Whole-Body Motion Planning|[[pdf]](http://arxiv.org/abs/2508.11520v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[en] ReachVox: Clutter-free Reachability Visualization for Robot Motion Planning in Virtual Reality|[[pdf]](http://arxiv.org/abs/2508.11426v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning|[[pdf]](http://arxiv.org/abs/2508.10872v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[Pinet] Pinet: Optimizing hard-constrained neural networks with orthogonal projection layers|[[pdf]](http://arxiv.org/abs/2508.10480v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[BEASST] BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.10363v1)|⚠️|⭐️⭐️⭐️|
@@ -366,6 +370,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 341
+- Total Papers: 345
 - Code Implementations: 8
 - Last Updated: August 2025

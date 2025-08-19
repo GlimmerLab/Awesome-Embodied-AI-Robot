@@ -47,6 +47,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-15|[Sim2Dust] Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media|[[pdf]](http://arxiv.org/abs/2508.11503v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward|[[pdf]](http://arxiv.org/abs/2508.11143v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[Inside Knowledge] Inside Knowledge: Graph-based Path Generation with Explainable Data Augmentation and Curriculum Learning for Visual Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.11446v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Multi-Group Equivariant Augmentation for Reinforcement Learning in Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.11204v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Visuomotor Grasping with World Models for Surgical Robots|[[pdf]](http://arxiv.org/abs/2508.11200v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Handwritten Text Recognition of Historical Manuscripts Using Transformer-Based Models|[[pdf]](http://arxiv.org/abs/2508.11499v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[en] Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps|[[pdf]](http://arxiv.org/abs/2508.11452v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[Tactile Robotics] Tactile Robotics: An Outlook|[[pdf]](http://arxiv.org/abs/2508.11261v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[AEGIS] AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences|[[pdf]](http://arxiv.org/abs/2508.10771v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[ToonComposer] ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing|[[pdf]](http://arxiv.org/abs/2508.10881v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[PASS] PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning|[[pdf]](http://arxiv.org/abs/2508.10501v1)|⚠️|⭐️⭐️⭐️|
@@ -65,6 +73,11 @@
 |2025-08-14|[Hierarchical] Enabling Generic Robot Skill Implementation Using Object Oriented Programming|[[pdf]](http://arxiv.org/abs/2508.10497v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|Probabilistic Latency Analysis of the Data Distribution Service in ROS 2|[[pdf]](http://arxiv.org/abs/2508.10413v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning|[[pdf]](http://arxiv.org/abs/2508.10747v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[3D FlowMatch Actor] 3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation|[[pdf]](http://arxiv.org/abs/2508.11002v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[GhostObjects] GhostObjects: Instructing Robots by Manipulating Spatially Aligned Virtual Twins in Augmented Reality|[[pdf]](http://arxiv.org/abs/2508.11022v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[GenFlowRL] GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.11049v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|[Policy] Robot Policy Evaluation for Sim-to-Real Transfer: A Benchmarking Perspective|[[pdf]](http://arxiv.org/abs/2508.11117v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Developing and Validating a High-Throughput Robotic System for the Accelerated Development of Porous Membranes|[[pdf]](http://arxiv.org/abs/2508.10973v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[UDA] UDA: Unsupervised Debiasing Alignment for Pair-wise LLM-as-a-Judge|[[pdf]](http://arxiv.org/abs/2508.09724v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|[BEAVR] BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots|[[pdf]](http://arxiv.org/abs/2508.09606v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes|[[pdf]](http://arxiv.org/abs/2508.09855v1)|⚠️|⭐️⭐️⭐️|
@@ -1726,6 +1739,6 @@
 
 ## 📊 统计
 
-- 论文总数：1700篇
+- 论文总数：1713篇
 - 代码实现：20个
 - 最后更新：2025年08月

@@ -26,8 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-15|Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks|[[pdf]](http://arxiv.org/abs/2508.11584v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[CorrectNav] CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model|[[pdf]](http://arxiv.org/abs/2508.10416v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[en] The SET Perceptual Factors Framework: Towards Assured Perception for Autonomous Systems|[[pdf]](http://arxiv.org/abs/2508.10798v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-14|Utilizing Vision-Language Models as Action Models for Intent Recognition and Assistance|[[pdf]](http://arxiv.org/abs/2508.11093v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Anomaly Detection for IoT Global Connectivity|[[pdf]](http://arxiv.org/abs/2508.09660v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Embodied Tactile Perception of Soft Objects Properties|[[pdf]](http://arxiv.org/abs/2508.09836v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|MCP-Orchestrated Multi-Agent System for Automated Disinformation Detection|[[pdf]](http://arxiv.org/abs/2508.10143v1)|⚠️|⭐️⭐️⭐️|
@@ -254,6 +256,6 @@
 
 ## 📊 统计
 
-- 论文总数：230篇
+- 论文总数：232篇
 - 代码实现：8个
 - 最后更新：2025年08月
