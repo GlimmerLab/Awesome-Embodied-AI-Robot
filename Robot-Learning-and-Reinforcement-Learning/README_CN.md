@@ -47,6 +47,40 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-18|[CAMAR] CAMAR: Continuous Actions Multi-Agent Routing|[[pdf]](http://arxiv.org/abs/2508.12845v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[PC-Sampler] PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models|[[pdf]](http://arxiv.org/abs/2508.13021v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[OpenMoCap] OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion|[[pdf]](http://arxiv.org/abs/2508.12610v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Towards Open-Ended Emotional Support Conversations in LLMs via Reinforcement Learning with Future-Oriented Rewards|[[pdf]](http://arxiv.org/abs/2508.12935v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Scaling Multi-Agent Epistemic Planning through GNN-Derived Heuristics|[[pdf]](http://arxiv.org/abs/2508.12840v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[Vitamin N] Vitamin N: Benefits of Different Forms of Public Greenery for Urban Health|[[pdf]](http://arxiv.org/abs/2508.12998v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Multi-Phase Automated Segmentation of Dental Structures in CBCT Using a Lightweight Auto3DSeg and SegResNet Implementation|[[pdf]](http://arxiv.org/abs/2508.12962v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|The Maximum Coverage Model and Recommendation System for UAV Vertiports Location Planning|[[pdf]](http://arxiv.org/abs/2508.12651v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey|[[pdf]](http://arxiv.org/abs/2508.13073v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[RoboRetriever] RoboRetriever: Single-Camera Robot Object Retrieval via Active and Interactive Perception with Dynamic Scene Graph|[[pdf]](http://arxiv.org/abs/2508.12916v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors|[[pdf]](http://arxiv.org/abs/2508.13151v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy|[[pdf]](http://arxiv.org/abs/2508.13103v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[OPTIC-ER] OPTIC-ER: A Reinforcement Learning Framework for Real-Time Emergency Response and Equitable Resource Allocation in Underserved African Communities|[[pdf]](http://arxiv.org/abs/2508.12943v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[Kourkoutas-Beta] Kourkoutas-Beta: A Sunspike-Driven Adam Optimizer with Desert Flair|[[pdf]](http://arxiv.org/abs/2508.12996v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[OS-R1] OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.12551v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Precise Action-to-Video Generation Through Visual Action Prompts|[[pdf]](http://arxiv.org/abs/2508.13104v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Improving Pre-Trained Vision-Language-Action Policies with Model-Based Search|[[pdf]](http://arxiv.org/abs/2508.12211v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[Cold-RL] Cold-RL: Learning Cache Eviction with Offline Reinforcement Learning for NGINX|[[pdf]](http://arxiv.org/abs/2508.12485v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[Robot Trains Robot] Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids|[[pdf]](http://arxiv.org/abs/2508.12252v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Synthetic Data is Sufficient for Zero-Shot Visual Generalization from Offline Data|[[pdf]](http://arxiv.org/abs/2508.12356v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|"My productivity is boosted, but ..." Demystifying Users' Perception on AI Coding Assistants|[[pdf]](http://arxiv.org/abs/2508.12285v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|A robust and compliant robotic assembly control strategy for batch precision assembly task with uncertain fit types and fit amounts|[[pdf]](http://arxiv.org/abs/2508.12296v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[SIGN] SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.12394v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[en] Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control|[[pdf]](http://arxiv.org/abs/2508.12335v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[Multi-robot] MAPF-World: Action World Model for Multi-Agent Path Finding|[[pdf]](http://arxiv.org/abs/2508.12087v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[ExploreVLM] ExploreVLM: Closed-Loop Robot Exploration Task Planning with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2508.11918v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Fully Spiking Actor-Critic Neural Network for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.12038v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Toward General Physical Intelligence for Resilient Agile Manufacturing Automation|[[pdf]](http://arxiv.org/abs/2508.11960v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[en] No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain|[[pdf]](http://arxiv.org/abs/2508.11929v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Substituting Proof of Work in Blockchain with Training-Verified Collaborative Model Computation|[[pdf]](http://arxiv.org/abs/2508.12138v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Generative Medical Event Models Improve with Scale|[[pdf]](http://arxiv.org/abs/2508.12104v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Modeling Relational Logic Circuits for And-Inverter Graph Convolutional Network|[[pdf]](http://arxiv.org/abs/2508.11991v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[Quadruped] Control of Legged Robots using Model Predictive Optimized Path Integral|[[pdf]](http://arxiv.org/abs/2508.11917v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[Biped] Contact-Rich and Deformable Foot Modeling for Locomotion Control of the Human Musculoskeletal System|[[pdf]](http://arxiv.org/abs/2508.11885v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[Sim2Dust] Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media|[[pdf]](http://arxiv.org/abs/2508.11503v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward|[[pdf]](http://arxiv.org/abs/2508.11143v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[Inside Knowledge] Inside Knowledge: Graph-based Path Generation with Explainable Data Augmentation and Curriculum Learning for Visual Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.11446v1)|⚠️|⭐️⭐️⭐️|
@@ -55,6 +89,10 @@
 |2025-08-15|Handwritten Text Recognition of Historical Manuscripts Using Transformer-Based Models|[[pdf]](http://arxiv.org/abs/2508.11499v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[en] Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps|[[pdf]](http://arxiv.org/abs/2508.11452v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[Tactile Robotics] Tactile Robotics: An Outlook|[[pdf]](http://arxiv.org/abs/2508.11261v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[CRAFT-GUI] CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks|[[pdf]](http://arxiv.org/abs/2508.11360v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Anticipatory and Adaptive Footstep Streaming for Teleoperated Bipedal Robots|[[pdf]](http://arxiv.org/abs/2508.11802v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|Artificial Intelligence in Rural Healthcare Delivery: Bridging Gaps and Enhancing Equity through Innovation|[[pdf]](http://arxiv.org/abs/2508.11738v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-15|[en] Using Natural Language for Human-Robot Collaboration in the Real World|[[pdf]](http://arxiv.org/abs/2508.11759v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[AEGIS] AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences|[[pdf]](http://arxiv.org/abs/2508.10771v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[ToonComposer] ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing|[[pdf]](http://arxiv.org/abs/2508.10881v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[PASS] PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning|[[pdf]](http://arxiv.org/abs/2508.10501v1)|⚠️|⭐️⭐️⭐️|
@@ -1739,6 +1777,6 @@
 
 ## 📊 统计
 
-- 论文总数：1713篇
+- 论文总数：1751篇
 - 代码实现：20个
 - 最后更新：2025年08月

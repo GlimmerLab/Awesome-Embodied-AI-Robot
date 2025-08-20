@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-17|[Mantis] Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting|[[pdf]](http://arxiv.org/abs/2508.12260v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Synchronization Dynamics of Heterogeneous, Collaborative Multi-Agent AI Systems|[[pdf]](http://arxiv.org/abs/2508.12314v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[en] Self-Guided Action Diffusion|[[pdf]](http://arxiv.org/abs/2508.12189v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[en] OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation|[[pdf]](http://arxiv.org/abs/2508.11898v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[en] Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution Tracing|[[pdf]](http://arxiv.org/abs/2508.11406v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Better Supervised Fine-tuning for VQA: Integer-Only Loss|[[pdf]](http://arxiv.org/abs/2508.11170v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[OVSegDT] OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2508.11479v1)|⚠️|⭐️⭐️⭐️|
@@ -354,6 +358,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 329
+- Total Papers: 333
 - Code Implementations: 21
 - Last Updated: August 2025

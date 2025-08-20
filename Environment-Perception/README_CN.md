@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-17|Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2508.12439v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks|[[pdf]](http://arxiv.org/abs/2508.11584v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[CorrectNav] CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model|[[pdf]](http://arxiv.org/abs/2508.10416v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[en] The SET Perceptual Factors Framework: Towards Assured Perception for Autonomous Systems|[[pdf]](http://arxiv.org/abs/2508.10798v1)|⚠️|⭐️⭐️⭐️|
@@ -256,6 +257,6 @@
 
 ## 📊 统计
 
-- 论文总数：232篇
+- 论文总数：233篇
 - 代码实现：8个
 - 最后更新：2025年08月

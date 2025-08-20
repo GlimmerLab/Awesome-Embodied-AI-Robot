@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-17|[Mantis] Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting|[[pdf]](http://arxiv.org/abs/2508.12260v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Synchronization Dynamics of Heterogeneous, Collaborative Multi-Agent AI Systems|[[pdf]](http://arxiv.org/abs/2508.12314v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[en] Self-Guided Action Diffusion|[[pdf]](http://arxiv.org/abs/2508.12189v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[en] OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation|[[pdf]](http://arxiv.org/abs/2508.11898v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[en] Open, Reproducible and Trustworthy Robot-Based Experiments with Virtual Labs and Digital-Twin-Based Execution Tracing|[[pdf]](http://arxiv.org/abs/2508.11406v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Better Supervised Fine-tuning for VQA: Integer-Only Loss|[[pdf]](http://arxiv.org/abs/2508.11170v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[OVSegDT] OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2508.11479v1)|⚠️|⭐️⭐️⭐️|
@@ -354,6 +358,6 @@
 
 ## 📊 统计
 
-- 论文总数：329篇
+- 论文总数：333篇
 - 代码实现：21个
 - 最后更新：2025年08月

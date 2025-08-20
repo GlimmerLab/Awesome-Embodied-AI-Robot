@@ -18,6 +18,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-18|Contrastive Representations for Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2508.13113v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Hierarchical Evaluation Function (HEF): A Multi-Metric Approach for Optimizing Demand Forecasting Models|[[pdf]](http://arxiv.org/abs/2508.13057v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|[MedKGent] MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph|[[pdf]](http://arxiv.org/abs/2508.12393v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[FutureX] FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction|[[pdf]](http://arxiv.org/abs/2508.11987v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Embodied Edge Intelligence Meets Near Field Communication: Concept, Design, and Verification|[[pdf]](http://arxiv.org/abs/2508.11232v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[ComoRAG] ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning|[[pdf]](http://arxiv.org/abs/2508.10419v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|[LeanRAG] LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval|[[pdf]](http://arxiv.org/abs/2508.10391v1)|⚠️|⭐️⭐️⭐️|
@@ -354,6 +358,6 @@
 
 ## 📊 统计
 
-- 论文总数：333篇
+- 论文总数：337篇
 - 代码实现：5个
 - 最后更新：2025年08月

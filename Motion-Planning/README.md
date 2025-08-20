@@ -32,6 +32,13 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-18|[CLAIRE-DSA] CLAIRE-DSA: Fluoroscopic Image Classification for Quality Assurance of Computer Vision Pipelines in Acute Ischemic Stroke|[[pdf]](http://arxiv.org/abs/2508.12755v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Simultaneous Contact Sequence and Patch Planning for Dynamic Locomotion|[[pdf]](http://arxiv.org/abs/2508.12928v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Scaling Whole-body Multi-contact Manipulation with Contact Optimization|[[pdf]](http://arxiv.org/abs/2508.12980v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|On the complexity of constrained reconfiguration and motion planning|[[pdf]](http://arxiv.org/abs/2508.13032v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Humanoid Motion Scripting with Postural Synergies|[[pdf]](http://arxiv.org/abs/2508.12184v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Active inference for action-unaware agents|[[pdf]](http://arxiv.org/abs/2508.12027v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024)|[[pdf]](http://arxiv.org/abs/2508.12170v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Geometry-Aware Predictive Safety Filters on Humanoids: From Poisson Safety Functions to CBF Constrained MPC|[[pdf]](http://arxiv.org/abs/2508.11129v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Learning Differentiable Reachability Maps for Optimization-based Humanoid Motion Generation|[[pdf]](http://arxiv.org/abs/2508.11275v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|A Comparative Study of Floating-Base Space Parameterizations for Agile Whole-Body Motion Planning|[[pdf]](http://arxiv.org/abs/2508.11520v1)|⚠️|⭐️⭐️⭐️|
@@ -370,6 +377,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 345
+- Total Papers: 352
 - Code Implementations: 8
 - Last Updated: August 2025
