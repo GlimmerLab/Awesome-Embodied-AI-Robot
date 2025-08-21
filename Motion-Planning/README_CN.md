@@ -32,11 +32,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-19|A Three-Level Whole-Body Disturbance Rejection Control Framework for Dynamic Motions in Legged Robots|[[pdf]](http://arxiv.org/abs/2508.13531v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[en] Knowledge Graph Completion for Action Prediction on Situational Graphs -- A Case Study on Household Tasks|[[pdf]](http://arxiv.org/abs/2508.13675v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[Switch4EAI] Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics|[[pdf]](http://arxiv.org/abs/2508.13444v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[CLAIRE-DSA] CLAIRE-DSA: Fluoroscopic Image Classification for Quality Assurance of Computer Vision Pipelines in Acute Ischemic Stroke|[[pdf]](http://arxiv.org/abs/2508.12755v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Simultaneous Contact Sequence and Patch Planning for Dynamic Locomotion|[[pdf]](http://arxiv.org/abs/2508.12928v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Scaling Whole-body Multi-contact Manipulation with Contact Optimization|[[pdf]](http://arxiv.org/abs/2508.12980v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|On the complexity of constrained reconfiguration and motion planning|[[pdf]](http://arxiv.org/abs/2508.13032v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|Humanoid Motion Scripting with Postural Synergies|[[pdf]](http://arxiv.org/abs/2508.12184v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Autonomous Oil Spill Response Through Liquid Neural Trajectory Modeling and Coordinated Marine Robotics|[[pdf]](http://arxiv.org/abs/2508.12456v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|Active inference for action-unaware agents|[[pdf]](http://arxiv.org/abs/2508.12027v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024)|[[pdf]](http://arxiv.org/abs/2508.12170v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Geometry-Aware Predictive Safety Filters on Humanoids: From Poisson Safety Functions to CBF Constrained MPC|[[pdf]](http://arxiv.org/abs/2508.11129v1)|⚠️|⭐️⭐️⭐️|
@@ -377,6 +381,6 @@
 
 ## 📊 统计
 
-- 论文总数：352篇
+- 论文总数：356篇
 - 代码实现：8个
 - 最后更新：2025年08月

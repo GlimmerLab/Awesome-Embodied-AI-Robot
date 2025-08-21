@@ -39,6 +39,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-19|Structured Agentic Workflows for Financial Time-Series Modeling with LLMs and Reflective Feedback|[[pdf]](http://arxiv.org/abs/2508.13915v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[en] Physics-Informed Neural Networks for Programmable Origami Metamaterials with Controlled Deployment|[[pdf]](http://arxiv.org/abs/2508.13559v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[en] The Collaboration Paradox: Why Generative AI Requires Both Strategic Intelligence and Operational Stability in Supply Chain Management|[[pdf]](http://arxiv.org/abs/2508.13942v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[ChronoLLM] ChronoLLM: Customizing Language Models for Physics-Based Simulation Code Generation|[[pdf]](http://arxiv.org/abs/2508.13975v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[AutoMPC] AutoMPC: A Code Generator for MPC-based Automated Driving|[[pdf]](http://arxiv.org/abs/2508.13656v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[Diff-MSM] Diff-MSM: Differentiable MusculoSkeletal Model for Simultaneous Identification of Human Muscle and Bone Parameters|[[pdf]](http://arxiv.org/abs/2508.13303v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Incremental Generalized Hybrid A*|[[pdf]](http://arxiv.org/abs/2508.13392v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[Mantis] Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting|[[pdf]](http://arxiv.org/abs/2508.12260v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|Synchronization Dynamics of Heterogeneous, Collaborative Multi-Agent AI Systems|[[pdf]](http://arxiv.org/abs/2508.12314v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[en] Self-Guided Action Diffusion|[[pdf]](http://arxiv.org/abs/2508.12189v1)|⚠️|⭐️⭐️⭐️|
@@ -358,6 +365,6 @@
 
 ## 📊 统计
 
-- 论文总数：333篇
+- 论文总数：340篇
 - 代码实现：21个
 - 最后更新：2025年08月

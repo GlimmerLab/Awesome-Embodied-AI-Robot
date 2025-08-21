@@ -47,6 +47,21 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-19|[Multi-robot] Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer|[[pdf]](http://arxiv.org/abs/2508.13877v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Consumer Autonomy or Illusion? Rethinking Consumer Agency in the Age of Algorithms|[[pdf]](http://arxiv.org/abs/2508.13440v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation|[[pdf]](http://arxiv.org/abs/2508.14031v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[ProMed] ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs|[[pdf]](http://arxiv.org/abs/2508.13514v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[GRAFT] GRAFT: Gradient-Aware Fast MaxVol Technique for Dynamic Data Sampling|[[pdf]](http://arxiv.org/abs/2508.13653v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[Embodied-R1] Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.13998v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|The 9th AI City Challenge|[[pdf]](http://arxiv.org/abs/2508.13564v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Toward an Interaction-Centered Approach to Robot Trustworthiness|[[pdf]](http://arxiv.org/abs/2508.13976v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[en] ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents|[[pdf]](http://arxiv.org/abs/2508.14040v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Categorical Policies: Multimodal Policy Learning and Exploration in Continuous Control|[[pdf]](http://arxiv.org/abs/2508.13922v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|End-to-End Audio-Visual Learning for Cochlear Implant Sound Coding in Noisy Environments|[[pdf]](http://arxiv.org/abs/2508.13576v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[MimicFunc] MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence|[[pdf]](http://arxiv.org/abs/2508.13534v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation|[[pdf]](http://arxiv.org/abs/2508.14042v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[ResPlan] ResPlan: A Large-Scale Vector-Graph Dataset of 17,000 Residential Floor Plans|[[pdf]](http://arxiv.org/abs/2508.14006v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[MR6D] MR6D: Benchmarking 6D Pose Estimation for Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.13775v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[CAMAR] CAMAR: Continuous Actions Multi-Agent Routing|[[pdf]](http://arxiv.org/abs/2508.12845v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[PC-Sampler] PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models|[[pdf]](http://arxiv.org/abs/2508.13021v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[OpenMoCap] OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion|[[pdf]](http://arxiv.org/abs/2508.12610v1)|⚠️|⭐️⭐️⭐️|
@@ -63,6 +78,10 @@
 |2025-08-18|[Kourkoutas-Beta] Kourkoutas-Beta: A Sunspike-Driven Adam Optimizer with Desert Flair|[[pdf]](http://arxiv.org/abs/2508.12996v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[OS-R1] OS-R1: Agentic Operating System Kernel Tuning with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.12551v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Precise Action-to-Video Generation Through Visual Action Prompts|[[pdf]](http://arxiv.org/abs/2508.13104v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[CardAIc-Agents] CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support|[[pdf]](http://arxiv.org/abs/2508.13256v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[BOW] BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments|[[pdf]](http://arxiv.org/abs/2508.13052v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory|[[pdf]](http://arxiv.org/abs/2508.12681v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[en] MCTR: Midpoint Corrected Triangulation for Autonomous Racing via Digital Twin Simulation in CARLA|[[pdf]](http://arxiv.org/abs/2508.12729v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|Improving Pre-Trained Vision-Language-Action Policies with Model-Based Search|[[pdf]](http://arxiv.org/abs/2508.12211v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[Cold-RL] Cold-RL: Learning Cache Eviction with Offline Reinforcement Learning for NGINX|[[pdf]](http://arxiv.org/abs/2508.12485v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[Robot Trains Robot] Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids|[[pdf]](http://arxiv.org/abs/2508.12252v1)|⚠️|⭐️⭐️⭐️|
@@ -1777,6 +1796,6 @@
 
 ## 📊 统计
 
-- 论文总数：1751篇
+- 论文总数：1770篇
 - 代码实现：20个
 - 最后更新：2025年08月

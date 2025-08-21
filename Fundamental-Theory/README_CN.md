@@ -18,6 +18,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-19|[CausalPlan] CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning|[[pdf]](http://arxiv.org/abs/2508.13721v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[Virtuous Machines] Virtuous Machines: Towards Artificial General Science|[[pdf]](http://arxiv.org/abs/2508.13421v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[en] CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter|[[pdf]](http://arxiv.org/abs/2508.13530v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[en] Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference|[[pdf]](http://arxiv.org/abs/2508.13439v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Contrastive Representations for Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2508.13113v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Hierarchical Evaluation Function (HEF): A Multi-Metric Approach for Optimizing Demand Forecasting Models|[[pdf]](http://arxiv.org/abs/2508.13057v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[MedKGent] MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph|[[pdf]](http://arxiv.org/abs/2508.12393v2)|⚠️|⭐️⭐️⭐️|
@@ -358,6 +362,6 @@
 
 ## 📊 统计
 
-- 论文总数：337篇
+- 论文总数：341篇
 - 代码实现：5个
 - 最后更新：2025年08月

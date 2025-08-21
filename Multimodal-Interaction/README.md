@@ -25,7 +25,12 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-19|The Social Context of Human-Robot Interactions|[[pdf]](http://arxiv.org/abs/2508.13982v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[BetaWeb] BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web|[[pdf]](http://arxiv.org/abs/2508.13787v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[STER-VLM] STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models|[[pdf]](http://arxiv.org/abs/2508.13470v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|One-Class Intrusion Detection with Dynamic Graphs|[[pdf]](http://arxiv.org/abs/2508.12885v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|A Surveillance Based Interactive Robot|[[pdf]](http://arxiv.org/abs/2508.13319v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[en] Precise Action-to-Video Generation Through Visual Action Prompts|[[pdf]](http://arxiv.org/abs/2508.13104v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|[SimInterview] SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System|[[pdf]](http://arxiv.org/abs/2508.11873v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots|[[pdf]](http://arxiv.org/abs/2508.10828v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-13|Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation|[[pdf]](http://arxiv.org/abs/2508.09846v1)|⚠️|⭐️⭐️⭐️|
@@ -240,6 +245,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 215
+- Total Papers: 220
 - Code Implementations: 6
 - Last Updated: August 2025
