@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-20|[DEXTER-LLM] DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models|[[pdf]](http://arxiv.org/abs/2508.14387v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Accelerating Signal-Temporal-Logic-Based Task and Motion Planning of Bipedal Navigation using Benders Decomposition|[[pdf]](http://arxiv.org/abs/2508.13407v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent|[[pdf]](http://arxiv.org/abs/2508.11286v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|A Semantic-Aware Framework for Safe and Intent-Integrative Assistance in Upper-Limb Exoskeletons|[[pdf]](http://arxiv.org/abs/2508.10378v1)|⚠️|⭐️⭐️⭐️|
@@ -214,6 +215,6 @@
 
 ## 📊 统计
 
-- 论文总数：190篇
+- 论文总数：191篇
 - 代码实现：6个
 - 最后更新：2025年08月

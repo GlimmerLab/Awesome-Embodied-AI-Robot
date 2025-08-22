@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-20|[NoteIt] NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding|[[pdf]](http://arxiv.org/abs/2508.14395v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Taming VR Teleoperation and Learning from Demonstration for Multi-Task Bimanual Table Service Manipulation|[[pdf]](http://arxiv.org/abs/2508.14542v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|The Social Context of Human-Robot Interactions|[[pdf]](http://arxiv.org/abs/2508.13982v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[BetaWeb] BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web|[[pdf]](http://arxiv.org/abs/2508.13787v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[STER-VLM] STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models|[[pdf]](http://arxiv.org/abs/2508.13470v1)|⚠️|⭐️⭐️⭐️|
@@ -245,6 +247,6 @@
 
 ## 📊 统计
 
-- 论文总数：220篇
+- 论文总数：222篇
 - 代码实现：6个
 - 最后更新：2025年08月

@@ -47,6 +47,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-20|[Organ-Agents] Organ-Agents: Virtual Human Physiology Simulator via LLMs|[[pdf]](http://arxiv.org/abs/2508.14357v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Detecting Reading-Induced Confusion Using EEG and Eye Tracking|[[pdf]](http://arxiv.org/abs/2508.14442v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[FBI] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy|[[pdf]](http://arxiv.org/abs/2508.14441v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[Virtual Community] Virtual Community: An Open World for Humans, Robots, and Society|[[pdf]](http://arxiv.org/abs/2508.14893v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[The Agent Behavior] The Agent Behavior: Model, Governance and Challenges in the AI Digital Age|[[pdf]](http://arxiv.org/abs/2508.14415v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Action-Constrained Imitation Learning|[[pdf]](http://arxiv.org/abs/2508.14379v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|An Informative Planning Framework for Target Tracking and Active Mapping in Dynamic Environments with ASVs|[[pdf]](http://arxiv.org/abs/2508.14636v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[FiReFly] FiReFly: Fair Distributed Receding Horizon Planning for Multiple UAVs|[[pdf]](http://arxiv.org/abs/2508.14381v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Offline Imitation Learning upon Arbitrary Demonstrations by Pre-Training Dynamics Representations|[[pdf]](http://arxiv.org/abs/2508.14383v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[Multi-robot] Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer|[[pdf]](http://arxiv.org/abs/2508.13877v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Consumer Autonomy or Illusion? Rethinking Consumer Agency in the Age of Algorithms|[[pdf]](http://arxiv.org/abs/2508.13440v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation|[[pdf]](http://arxiv.org/abs/2508.14031v1)|⚠️|⭐️⭐️⭐️|
@@ -62,6 +71,13 @@
 |2025-08-19|Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation|[[pdf]](http://arxiv.org/abs/2508.14042v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[ResPlan] ResPlan: A Large-Scale Vector-Graph Dataset of 17,000 Residential Floor Plans|[[pdf]](http://arxiv.org/abs/2508.14006v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[MR6D] MR6D: Benchmarking 6D Pose Estimation for Mobile Robots|[[pdf]](http://arxiv.org/abs/2508.13775v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[LENS] LENS: Learning to Segment Anything with Unified Reinforced Reasoning|[[pdf]](http://arxiv.org/abs/2508.14153v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[MF-LPR$^2$] MF-LPR$^2$: Multi-Frame License Plate Image Restoration and Recognition using Optical Flow|[[pdf]](http://arxiv.org/abs/2508.14797v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Adapting Biological Reflexes for Dynamic Reorientation in Space Manipulator Systems|[[pdf]](http://arxiv.org/abs/2508.14258v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|An Improved Multi-Agent Algorithm for Cooperative and Competitive Environments by Identifying and Encouraging Cooperation among Agents|[[pdf]](http://arxiv.org/abs/2508.14131v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[OccluNet] OccluNet: Spatio-Temporal Deep Learning for Occlusion Detection on DSA|[[pdf]](http://arxiv.org/abs/2508.14286v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Driving Style Recognition Like an Expert Using Semantic Privileged Information from Large Language Models|[[pdf]](http://arxiv.org/abs/2508.13881v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|[ROVER] ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments|[[pdf]](http://arxiv.org/abs/2508.13488v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[CAMAR] CAMAR: Continuous Actions Multi-Agent Routing|[[pdf]](http://arxiv.org/abs/2508.12845v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[PC-Sampler] PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models|[[pdf]](http://arxiv.org/abs/2508.13021v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[OpenMoCap] OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion|[[pdf]](http://arxiv.org/abs/2508.12610v1)|⚠️|⭐️⭐️⭐️|
@@ -90,6 +106,7 @@
 |2025-08-17|A robust and compliant robotic assembly control strategy for batch precision assembly task with uncertain fit types and fit amounts|[[pdf]](http://arxiv.org/abs/2508.12296v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[SIGN] SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.12394v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[en] Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control|[[pdf]](http://arxiv.org/abs/2508.12335v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-17|Efficient Environment Design for Multi-Robot Navigation via Continuous Control|[[pdf]](http://arxiv.org/abs/2508.14105v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|[Multi-robot] MAPF-World: Action World Model for Multi-Agent Path Finding|[[pdf]](http://arxiv.org/abs/2508.12087v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|[ExploreVLM] ExploreVLM: Closed-Loop Robot Exploration Task Planning with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2508.11918v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|Fully Spiking Actor-Critic Neural Network for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.12038v1)|⚠️|⭐️⭐️⭐️|
@@ -100,6 +117,7 @@
 |2025-08-16|Modeling Relational Logic Circuits for And-Inverter Graph Convolutional Network|[[pdf]](http://arxiv.org/abs/2508.11991v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|[Quadruped] Control of Legged Robots using Model Predictive Optimized Path Integral|[[pdf]](http://arxiv.org/abs/2508.11917v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|[Biped] Contact-Rich and Deformable Foot Modeling for Locomotion Control of the Human Musculoskeletal System|[[pdf]](http://arxiv.org/abs/2508.11885v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-16|[en] Domain Translation of a Soft Robotic Arm using Conditional Cycle Generative Adversarial Network|[[pdf]](http://arxiv.org/abs/2508.14100v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[Sim2Dust] Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media|[[pdf]](http://arxiv.org/abs/2508.11503v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward|[[pdf]](http://arxiv.org/abs/2508.11143v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|[Inside Knowledge] Inside Knowledge: Graph-based Path Generation with Explainable Data Augmentation and Curriculum Learning for Visual Indoor Navigation|[[pdf]](http://arxiv.org/abs/2508.11446v1)|⚠️|⭐️⭐️⭐️|
@@ -1796,6 +1814,6 @@
 
 ## 📊 统计
 
-- 论文总数：1770篇
+- 论文总数：1788篇
 - 代码实现：20个
 - 最后更新：2025年08月

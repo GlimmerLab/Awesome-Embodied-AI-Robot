@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-20|[DEXTER-LLM] DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models|[[pdf]](http://arxiv.org/abs/2508.14387v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Accelerating Signal-Temporal-Logic-Based Task and Motion Planning of Bipedal Navigation using Benders Decomposition|[[pdf]](http://arxiv.org/abs/2508.13407v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent|[[pdf]](http://arxiv.org/abs/2508.11286v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-14|A Semantic-Aware Framework for Safe and Intent-Integrative Assistance in Upper-Limb Exoskeletons|[[pdf]](http://arxiv.org/abs/2508.10378v1)|⚠️|⭐️⭐️⭐️|
@@ -214,6 +215,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 190
+- Total Papers: 191
 - Code Implementations: 6
 - Last Updated: August 2025

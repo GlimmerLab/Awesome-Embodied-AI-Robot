@@ -39,6 +39,7 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-20|[en] Learning in Repeated Multi-Objective Stackelberg Games with Payoff Manipulation|[[pdf]](http://arxiv.org/abs/2508.14705v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Structured Agentic Workflows for Financial Time-Series Modeling with LLMs and Reflective Feedback|[[pdf]](http://arxiv.org/abs/2508.13915v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] Physics-Informed Neural Networks for Programmable Origami Metamaterials with Controlled Deployment|[[pdf]](http://arxiv.org/abs/2508.13559v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] The Collaboration Paradox: Why Generative AI Requires Both Strategic Intelligence and Operational Stability in Supply Chain Management|[[pdf]](http://arxiv.org/abs/2508.13942v1)|⚠️|⭐️⭐️⭐️|
@@ -365,6 +366,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 340
+- Total Papers: 341
 - Code Implementations: 21
 - Last Updated: August 2025
