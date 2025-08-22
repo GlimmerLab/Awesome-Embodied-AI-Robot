@@ -28,6 +28,7 @@ This directory collects papers and code implementations related to environment p
 |:---:|:---:|:---:|:---:|:---:|
 |2025-08-20|Safe and Transparent Robots for Human-in-the-Loop Meat Processing|[[pdf]](http://arxiv.org/abs/2508.14763v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] Blast Hole Seeking and Dipping -- The Navigation and Perception Framework in a Mine Site Inspection Robot|[[pdf]](http://arxiv.org/abs/2508.13785v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|SLAM-based Safe Indoor Exploration Strategy|[[pdf]](http://arxiv.org/abs/2508.14235v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[en] Precise Action-to-Video Generation Through Visual Action Prompts|[[pdf]](http://arxiv.org/abs/2508.13104v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|Geodesic Tracing-Based Kinematic Integration of Rolling and Sliding Contact on Manifold Meshes for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2508.12439v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks|[[pdf]](http://arxiv.org/abs/2508.11584v1)|⚠️|⭐️⭐️⭐️|
@@ -260,6 +261,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 236
+- Total Papers: 237
 - Code Implementations: 8
 - Last Updated: August 2025

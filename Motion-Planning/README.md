@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-21|Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2508.15663v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|[Quadruped] Hardware Implementation of a Zero-Prior-Knowledge Approach to Lifelong Learning in Kinematic Control of Tendon-Driven Quadrupeds|[[pdf]](http://arxiv.org/abs/2508.15160v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|Understanding and Utilizing Dynamic Coupling in Free-Floating Space Manipulators for On-Orbit Servicing|[[pdf]](http://arxiv.org/abs/2508.15732v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|A Vision-Based Shared-Control Teleoperation Scheme for Controlling the Robotic Arm of a Four-Legged Robot|[[pdf]](http://arxiv.org/abs/2508.14994v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|A Three-Level Whole-Body Disturbance Rejection Control Framework for Dynamic Motions in Legged Robots|[[pdf]](http://arxiv.org/abs/2508.13531v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] Knowledge Graph Completion for Action Prediction on Situational Graphs -- A Case Study on Household Tasks|[[pdf]](http://arxiv.org/abs/2508.13675v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[Switch4EAI] Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics|[[pdf]](http://arxiv.org/abs/2508.13444v1)|⚠️|⭐️⭐️⭐️|
@@ -383,6 +387,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 358
+- Total Papers: 362
 - Code Implementations: 8
 - Last Updated: August 2025

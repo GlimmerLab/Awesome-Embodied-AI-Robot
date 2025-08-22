@@ -18,6 +18,8 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-21|LLM-Driven Self-Refinement for Embodied Drone Task Planning|[[pdf]](http://arxiv.org/abs/2508.15501v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|Sensing, Social, and Motion Intelligence in Embodied Navigation: A Comprehensive Survey|[[pdf]](http://arxiv.org/abs/2508.15354v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[TransLLM] TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting|[[pdf]](http://arxiv.org/abs/2508.14782v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[MCP-Universe] MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers|[[pdf]](http://arxiv.org/abs/2508.14704v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware Planning and Coordination|[[pdf]](http://arxiv.org/abs/2508.14635v1)|⚠️|⭐️⭐️⭐️|
@@ -29,6 +31,7 @@ This directory collects papers and code implementations related to fundamental t
 |2025-08-19|[RynnEC] RynnEC: Bringing MLLMs into Embodied World|[[pdf]](http://arxiv.org/abs/2508.14160v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Contrastive Representations for Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2508.13113v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Hierarchical Evaluation Function (HEF): A Multi-Metric Approach for Optimizing Demand Forecasting Models|[[pdf]](http://arxiv.org/abs/2508.13057v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-18|[en] Precise Action-to-Video Generation Through Visual Action Prompts|[[pdf]](http://arxiv.org/abs/2508.13104v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-17|[MedKGent] MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph|[[pdf]](http://arxiv.org/abs/2508.12393v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-16|[FutureX] FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction|[[pdf]](http://arxiv.org/abs/2508.11987v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Embodied Edge Intelligence Meets Near Field Communication: Concept, Design, and Verification|[[pdf]](http://arxiv.org/abs/2508.11232v1)|⚠️|⭐️⭐️⭐️|
@@ -367,6 +370,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 346
+- Total Papers: 349
 - Code Implementations: 5
 - Last Updated: August 2025

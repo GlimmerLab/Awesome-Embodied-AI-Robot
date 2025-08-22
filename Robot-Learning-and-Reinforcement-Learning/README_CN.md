@@ -47,6 +47,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-21|Survey of Vision-Language-Action Models for Embodied Manipulation|[[pdf]](http://arxiv.org/abs/2508.15201v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|Search-Based Credit Assignment for Offline Preference-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.15327v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|[Mobile-Agent-v3] Mobile-Agent-v3: Foundamental Agents for GUI Automation|[[pdf]](http://arxiv.org/abs/2508.15144v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|From Bits to Boardrooms: A Cutting-Edge Multi-Agent LLM Framework for Business Excellence|[[pdf]](http://arxiv.org/abs/2508.15447v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|Exploiting Policy Idling for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2508.15669v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|[en] Neural Robot Dynamics|[[pdf]](http://arxiv.org/abs/2508.15755v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|"Does the cafe entrance look accessible? Where is the door?" Towards Geospatial AI Agents for Visual Inquiries|[[pdf]](http://arxiv.org/abs/2508.15752v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|Understanding Action Effects through Instrumental Empowerment in Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.15652v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|[en] A Dynamical Systems Framework for Reinforcement Learning Safety and Robustness Verification|[[pdf]](http://arxiv.org/abs/2508.15588v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[Organ-Agents] Organ-Agents: Virtual Human Physiology Simulator via LLMs|[[pdf]](http://arxiv.org/abs/2508.14357v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Detecting Reading-Induced Confusion Using EEG and Eye Tracking|[[pdf]](http://arxiv.org/abs/2508.14442v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[FBI] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy|[[pdf]](http://arxiv.org/abs/2508.14441v1)|⚠️|⭐️⭐️⭐️|
@@ -56,6 +65,10 @@
 |2025-08-20|An Informative Planning Framework for Target Tracking and Active Mapping in Dynamic Environments with ASVs|[[pdf]](http://arxiv.org/abs/2508.14636v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[FiReFly] FiReFly: Fair Distributed Receding Horizon Planning for Multiple UAVs|[[pdf]](http://arxiv.org/abs/2508.14381v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Offline Imitation Learning upon Arbitrary Demonstrations by Pre-Training Dynamics Representations|[[pdf]](http://arxiv.org/abs/2508.14383v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[GraspQP] GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping|[[pdf]](http://arxiv.org/abs/2508.15002v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|In-Context Iterative Policy Improvement for Dynamic Manipulation|[[pdf]](http://arxiv.org/abs/2508.15021v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[en] Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring|[[pdf]](http://arxiv.org/abs/2508.15038v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Goals and the Structure of Experience|[[pdf]](http://arxiv.org/abs/2508.15013v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[Multi-robot] Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer|[[pdf]](http://arxiv.org/abs/2508.13877v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Consumer Autonomy or Illusion? Rethinking Consumer Agency in the Age of Algorithms|[[pdf]](http://arxiv.org/abs/2508.13440v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation|[[pdf]](http://arxiv.org/abs/2508.14031v1)|⚠️|⭐️⭐️⭐️|
@@ -78,6 +91,8 @@
 |2025-08-19|[OccluNet] OccluNet: Spatio-Temporal Deep Learning for Occlusion Detection on DSA|[[pdf]](http://arxiv.org/abs/2508.14286v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Driving Style Recognition Like an Expert Using Semantic Privileged Information from Large Language Models|[[pdf]](http://arxiv.org/abs/2508.13881v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[ROVER] ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments|[[pdf]](http://arxiv.org/abs/2508.13488v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Learning to Drive Ethically: Embedding Moral Reasoning into Autonomous Driving|[[pdf]](http://arxiv.org/abs/2508.14926v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Lightweight Tracking Control for Computationally Constrained Aerial Systems with the Newton-Raphson Method|[[pdf]](http://arxiv.org/abs/2508.14185v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[CAMAR] CAMAR: Continuous Actions Multi-Agent Routing|[[pdf]](http://arxiv.org/abs/2508.12845v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[PC-Sampler] PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models|[[pdf]](http://arxiv.org/abs/2508.13021v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[OpenMoCap] OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion|[[pdf]](http://arxiv.org/abs/2508.12610v1)|⚠️|⭐️⭐️⭐️|
@@ -1814,6 +1829,6 @@
 
 ## 📊 统计
 
-- 论文总数：1788篇
+- 论文总数：1803篇
 - 代码实现：20个
 - 最后更新：2025年08月
