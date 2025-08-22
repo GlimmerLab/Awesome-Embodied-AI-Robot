@@ -1,12 +1,12 @@
-name: Daily Paper Update
+name: Weekly Paper Update
 
 # 控制工作流何时运行
 on:
   # 允许从 Actions 标签手动运行此工作流
   workflow_dispatch:
-  # 每天运行一次
+  # 每周运行一次（每周一 UTC 0:00 运行）
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0:00 运行
+    - cron: "0 0 * * 1"  # 每周一 UTC 0:00 运行
   # 在推送到主分支时触发
   push:
     branches:
@@ -50,7 +50,7 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Daily Update: Auto-update papers list"
+          commit-message: "Weekly Update: Auto-update papers list"
           files: |
             **/README.md
             **/README_CN.md
