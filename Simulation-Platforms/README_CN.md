@@ -44,6 +44,7 @@
 |2025-08-20|Emergent Crowds Dynamics from Language-Driven Multi-Agent Interactions|[[pdf]](http://arxiv.org/abs/2508.15047v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[Hydra] Hydra: A 1.6B-Parameter State-Space Language Model with Sparse Attention, Mixture-of-Experts, and Memory|[[pdf]](http://arxiv.org/abs/2508.15099v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[en] Open-Universe Assistance Games|[[pdf]](http://arxiv.org/abs/2508.15119v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Discrete VHCs for Propeller Motion of a Devil-Stick using purely Impulsive Inputs|[[pdf]](http://arxiv.org/abs/2508.15040v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Structured Agentic Workflows for Financial Time-Series Modeling with LLMs and Reflective Feedback|[[pdf]](http://arxiv.org/abs/2508.13915v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] Physics-Informed Neural Networks for Programmable Origami Metamaterials with Controlled Deployment|[[pdf]](http://arxiv.org/abs/2508.13559v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] The Collaboration Paradox: Why Generative AI Requires Both Strategic Intelligence and Operational Stability in Supply Chain Management|[[pdf]](http://arxiv.org/abs/2508.13942v1)|⚠️|⭐️⭐️⭐️|
@@ -370,6 +371,6 @@
 
 ## 📊 统计
 
-- 论文总数：345篇
+- 论文总数：346篇
 - 代码实现：21个
 - 最后更新：2025年08月

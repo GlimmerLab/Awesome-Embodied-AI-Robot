@@ -23,12 +23,14 @@
 |2025-08-20|[TransLLM] TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting|[[pdf]](http://arxiv.org/abs/2508.14782v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[MCP-Universe] MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers|[[pdf]](http://arxiv.org/abs/2508.14704v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware Planning and Coordination|[[pdf]](http://arxiv.org/abs/2508.14635v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation|[[pdf]](http://arxiv.org/abs/2508.14358v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[CausalPlan] CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning|[[pdf]](http://arxiv.org/abs/2508.13721v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[Virtuous Machines] Virtuous Machines: Towards Artificial General Science|[[pdf]](http://arxiv.org/abs/2508.13421v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter|[[pdf]](http://arxiv.org/abs/2508.13530v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference|[[pdf]](http://arxiv.org/abs/2508.13439v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[Tooth-Diffusion] Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning|[[pdf]](http://arxiv.org/abs/2508.14276v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[RynnEC] RynnEC: Bringing MLLMs into Embodied World|[[pdf]](http://arxiv.org/abs/2508.14160v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-19|Multimodal Data Storage and Retrieval for Embodied AI: A Survey|[[pdf]](http://arxiv.org/abs/2508.13901v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Contrastive Representations for Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2508.13113v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Hierarchical Evaluation Function (HEF): A Multi-Metric Approach for Optimizing Demand Forecasting Models|[[pdf]](http://arxiv.org/abs/2508.13057v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|[en] Precise Action-to-Video Generation Through Visual Action Prompts|[[pdf]](http://arxiv.org/abs/2508.13104v1)|⚠️|⭐️⭐️⭐️|
@@ -370,6 +372,6 @@
 
 ## 📊 统计
 
-- 论文总数：349篇
+- 论文总数：351篇
 - 代码实现：5个
 - 最后更新：2025年08月

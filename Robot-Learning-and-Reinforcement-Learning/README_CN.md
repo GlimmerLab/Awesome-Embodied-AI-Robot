@@ -56,6 +56,7 @@
 |2025-08-21|"Does the cafe entrance look accessible? Where is the door?" Towards Geospatial AI Agents for Visual Inquiries|[[pdf]](http://arxiv.org/abs/2508.15752v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Understanding Action Effects through Instrumental Empowerment in Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.15652v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|[en] A Dynamical Systems Framework for Reinforcement Learning Safety and Robustness Verification|[[pdf]](http://arxiv.org/abs/2508.15588v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-21|[GenTune] GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design|[[pdf]](http://arxiv.org/abs/2508.15227v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[Organ-Agents] Organ-Agents: Virtual Human Physiology Simulator via LLMs|[[pdf]](http://arxiv.org/abs/2508.14357v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Detecting Reading-Induced Confusion Using EEG and Eye Tracking|[[pdf]](http://arxiv.org/abs/2508.14442v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[FBI] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy|[[pdf]](http://arxiv.org/abs/2508.14441v1)|⚠️|⭐️⭐️⭐️|
@@ -69,6 +70,9 @@
 |2025-08-20|In-Context Iterative Policy Improvement for Dynamic Manipulation|[[pdf]](http://arxiv.org/abs/2508.15021v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[en] Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring|[[pdf]](http://arxiv.org/abs/2508.15038v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Goals and the Structure of Experience|[[pdf]](http://arxiv.org/abs/2508.15013v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[S3LoRA] S3LoRA: Safe Spectral Sharpness-Guided Pruning in Adaptation of Agent Planner|[[pdf]](http://arxiv.org/abs/2508.15068v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|Consistent Pose Estimation of Unmanned Ground Vehicles through Terrain-Aided Multi-Sensor Fusion on Geometric Manifolds|[[pdf]](http://arxiv.org/abs/2508.14661v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-20|[D$^2$-LIO] D$^2$-LIO: Enhanced Optimization for LiDAR-IMU Odometry Considering Directional Degeneracy|[[pdf]](http://arxiv.org/abs/2508.14355v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[Multi-robot] Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer|[[pdf]](http://arxiv.org/abs/2508.13877v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Consumer Autonomy or Illusion? Rethinking Consumer Agency in the Age of Algorithms|[[pdf]](http://arxiv.org/abs/2508.13440v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation|[[pdf]](http://arxiv.org/abs/2508.14031v1)|⚠️|⭐️⭐️⭐️|
@@ -1829,6 +1833,6 @@
 
 ## 📊 统计
 
-- 论文总数：1803篇
+- 论文总数：1807篇
 - 代码实现：20个
 - 最后更新：2025年08月
