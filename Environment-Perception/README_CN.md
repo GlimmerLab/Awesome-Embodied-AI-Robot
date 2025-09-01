@@ -26,6 +26,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-28|Language-Enhanced Mobile Manipulation for Efficient Object Search in Indoor Environments|[[pdf]](http://arxiv.org/abs/2508.20899v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[en] UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception|[[pdf]](http://arxiv.org/abs/2508.20982v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[Beyond BEV] Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception|[[pdf]](http://arxiv.org/abs/2508.19638v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[LSD-3D] LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding|[[pdf]](http://arxiv.org/abs/2508.19204v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|Uncertainty-Resilient Active Intention Recognition for Robotic Assistants|[[pdf]](http://arxiv.org/abs/2508.19150v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-25|[en] No Need to Look! Locating and Grasping Objects by a Robot Arm Covered with Sensitive Skin|[[pdf]](http://arxiv.org/abs/2508.17986v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Safe and Transparent Robots for Human-in-the-Loop Meat Processing|[[pdf]](http://arxiv.org/abs/2508.14763v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|[en] Blast Hole Seeking and Dipping -- The Navigation and Perception Framework in a Mine Site Inspection Robot|[[pdf]](http://arxiv.org/abs/2508.13785v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|SLAM-based Safe Indoor Exploration Strategy|[[pdf]](http://arxiv.org/abs/2508.14235v1)|⚠️|⭐️⭐️⭐️|
@@ -261,6 +267,6 @@
 
 ## 📊 统计
 
-- 论文总数：237篇
+- 论文总数：243篇
 - 代码实现：8个
-- 最后更新：2025年08月
+- 最后更新：2025年09月

@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-28|[CaddieSet] CaddieSet: A Golf Swing Dataset with Human Joint Features and Ball Information|[[pdf]](http://arxiv.org/abs/2508.20491v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[TF-TransUNet1D] TF-TransUNet1D: Time-Frequency Guided Transformer U-Net for Robust ECG Denoising in Digital Twin|[[pdf]](http://arxiv.org/abs/2508.20398v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[en] SimShear: Sim-to-Real Shear-based Tactile Servoing|[[pdf]](http://arxiv.org/abs/2508.20561v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Prompting Strategies for Language Model-Based Item Generation in K-12 Education: Bridging the Gap Between Small and Large Language Models|[[pdf]](http://arxiv.org/abs/2508.20217v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Robust and Efficient Quantum Reservoir Computing with Discrete Time Crystal|[[pdf]](http://arxiv.org/abs/2508.15230v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[en] Learning in Repeated Multi-Objective Stackelberg Games with Payoff Manipulation|[[pdf]](http://arxiv.org/abs/2508.14705v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Emergent Crowds Dynamics from Language-Driven Multi-Agent Interactions|[[pdf]](http://arxiv.org/abs/2508.15047v1)|⚠️|⭐️⭐️⭐️|
@@ -371,6 +375,6 @@
 
 ## 📊 统计
 
-- 论文总数：346篇
+- 论文总数：350篇
 - 代码实现：21个
-- 最后更新：2025年08月
+- 最后更新：2025年09月

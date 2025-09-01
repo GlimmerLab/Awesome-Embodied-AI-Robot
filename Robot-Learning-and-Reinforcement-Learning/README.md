@@ -47,6 +47,46 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-28|Learning Primitive Embodied World Models: Towards Scalable Robotic Learning|[[pdf]](http://arxiv.org/abs/2508.20840v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[AI-SearchPlanner] AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.20368v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[HITTER] HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning|[[pdf]](http://arxiv.org/abs/2508.21043v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Learning Fast, Tool aware Collision Avoidance for Collaborative Robots|[[pdf]](http://arxiv.org/abs/2508.20457v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[Signs of Struggle] Signs of Struggle: Spotting Cognitive Distortions across Language and Register|[[pdf]](http://arxiv.org/abs/2508.20771v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Single Agent Robust Deep Reinforcement Learning for Bus Fleet Control|[[pdf]](http://arxiv.org/abs/2508.20784v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Occlusion Robustness of CLIP for Military Vehicle Classification|[[pdf]](http://arxiv.org/abs/2508.20760v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[Learning on the Fly] Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation|[[pdf]](http://arxiv.org/abs/2508.21065v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Traversing the Narrow Path: A Two-Stage Reinforcement Learning Framework for Humanoid Beam Walking|[[pdf]](http://arxiv.org/abs/2508.20661v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[CogVLA] CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification|[[pdf]](http://arxiv.org/abs/2508.21046v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[UltraEar] UltraEar: a multicentric, large-scale database combining ultra-high-resolution computed tomography and clinical data for ear diseases|[[pdf]](http://arxiv.org/abs/2508.20141v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[SWIRL] SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control|[[pdf]](http://arxiv.org/abs/2508.20018v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[HERMES] HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2508.20085v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Elliptical K-Nearest Neighbors -- Path Optimization via Coulomb's Law and Invalid Vertices in C-space Obstacles|[[pdf]](http://arxiv.org/abs/2508.19771v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[APT*] APT*: Asymptotically Optimal Motion Planning via Adaptively Prolated Elliptical R-Nearest Neighbors|[[pdf]](http://arxiv.org/abs/2508.19790v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Impedance Primitive-augmented Hierarchical Reinforcement Learning for Sequential Tasks|[[pdf]](http://arxiv.org/abs/2508.19607v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[en] InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning|[[pdf]](http://arxiv.org/abs/2508.19679v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[en] Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties|[[pdf]](http://arxiv.org/abs/2508.19611v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[Orchid] Orchid: Orchestrating Context Across Creative Workflows with Generative AI|[[pdf]](http://arxiv.org/abs/2508.19517v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[CASE] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments|[[pdf]](http://arxiv.org/abs/2508.19932v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks|[[pdf]](http://arxiv.org/abs/2508.19566v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[PoolFlip] PoolFlip: A Multi-Agent Reinforcement Learning Security Environment for Cyber Defense|[[pdf]](http://arxiv.org/abs/2508.19488v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[Invited Paper] Invited Paper: Feature-to-Classifier Co-Design for Mixed-Signal Smart Flexible Wearables for Healthcare at the Extreme Edge|[[pdf]](http://arxiv.org/abs/2508.19637v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[Sat2Flow] Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery|[[pdf]](http://arxiv.org/abs/2508.19499v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[Long-VLA] Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.19958v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[FARM] FARM: Frame-Accelerated Augmentation and Residual Mixture-of-Experts for Physics-Based High-Dynamic Humanoid Control|[[pdf]](http://arxiv.org/abs/2508.19926v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors|[[pdf]](http://arxiv.org/abs/2508.19953v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[en] Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots|[[pdf]](http://arxiv.org/abs/2508.19788v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[Re] Re:Frame -- Retrieving Experience From Associative Memory|[[pdf]](http://arxiv.org/abs/2508.19344v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[ZeST] ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments|[[pdf]](http://arxiv.org/abs/2508.19131v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|Who Is Lagging Behind: Profiling Student Behaviors with Graph-Level Encoding in Curriculum-Based Online Learning Systems|[[pdf]](http://arxiv.org/abs/2508.18925v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[HAEPO] HAEPO: History-Aggregated Exploratory Policy Optimization|[[pdf]](http://arxiv.org/abs/2508.18884v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|Automated classification of natural habitats using ground-level imagery|[[pdf]](http://arxiv.org/abs/2508.19314v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[MemoryVLA] MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2508.19236v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity|[[pdf]](http://arxiv.org/abs/2508.19172v3)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[AutoRing] AutoRing: Imitation Learning--based Autonomous Intraocular Foreign Body Removal Manipulation with Eye Surgical Robot|[[pdf]](http://arxiv.org/abs/2508.19191v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[en] Deep Sensorimotor Control by Imitating Predictive Models of Human Motion|[[pdf]](http://arxiv.org/abs/2508.18691v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[en] HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation|[[pdf]](http://arxiv.org/abs/2508.18802v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[en] AgriChrono: A Multi-modal Dataset Capturing Crop Growth and Lighting Variability with a Field Robot|[[pdf]](http://arxiv.org/abs/2508.18694v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-25|[en] SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2508.18268v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Survey of Vision-Language-Action Models for Embodied Manipulation|[[pdf]](http://arxiv.org/abs/2508.15201v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Search-Based Credit Assignment for Offline Preference-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.15327v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|[Mobile-Agent-v3] Mobile-Agent-v3: Foundamental Agents for GUI Automation|[[pdf]](http://arxiv.org/abs/2508.15144v1)|⚠️|⭐️⭐️⭐️|
@@ -1833,6 +1873,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1807
+- Total Papers: 1847
 - Code Implementations: 20
-- Last Updated: August 2025
+- Last Updated: September 2025

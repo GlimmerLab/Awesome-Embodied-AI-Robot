@@ -32,6 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-28|Task-Oriented Edge-Assisted Cross-System Design for Real-Time Human-Robot Interaction in Industrial Metaverse|[[pdf]](http://arxiv.org/abs/2508.20664v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees|[[pdf]](http://arxiv.org/abs/2508.21001v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning|[[pdf]](http://arxiv.org/abs/2508.20884v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[ActLoc] ActLoc: Learning to Localize on the Move via Active Viewpoint Selection|[[pdf]](http://arxiv.org/abs/2508.20981v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[Trajectory] Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion Planning|[[pdf]](http://arxiv.org/abs/2508.20095v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Autonomous Aerial Manipulation at Arbitrary Pose in SE(3) with Robust Control and Whole-body Planning|[[pdf]](http://arxiv.org/abs/2508.19608v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2508.15663v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|[Quadruped] Hardware Implementation of a Zero-Prior-Knowledge Approach to Lifelong Learning in Kinematic Control of Tendon-Driven Quadrupeds|[[pdf]](http://arxiv.org/abs/2508.15160v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Understanding and Utilizing Dynamic Coupling in Free-Floating Space Manipulators for On-Orbit Servicing|[[pdf]](http://arxiv.org/abs/2508.15732v1)|⚠️|⭐️⭐️⭐️|
@@ -388,6 +394,6 @@
 
 ## 📊 统计
 
-- 论文总数：363篇
+- 论文总数：369篇
 - 代码实现：8个
-- 最后更新：2025年08月
+- 最后更新：2025年09月

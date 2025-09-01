@@ -22,6 +22,12 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-28|Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting|[[pdf]](http://arxiv.org/abs/2508.20812v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|Rapid Mismatch Estimation via Neural Network Informed Variational Inference|[[pdf]](http://arxiv.org/abs/2508.21007v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[CODA] CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.20096v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[Reactive] Real-Time Model Checking for Closed-Loop Robot Reactive Planning|[[pdf]](http://arxiv.org/abs/2508.19186v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[HiPlan] HiPlan: Hierarchical Planning for LLM-Based Agents with Adaptive Global-Local Guidance|[[pdf]](http://arxiv.org/abs/2508.19076v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[en] Integration of Robot and Scene Kinematics for Sequential Mobile Manipulation Planning|[[pdf]](http://arxiv.org/abs/2508.18627v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[DEXTER-LLM] DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models|[[pdf]](http://arxiv.org/abs/2508.14387v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-18|Accelerating Signal-Temporal-Logic-Based Task and Motion Planning of Bipedal Navigation using Benders Decomposition|[[pdf]](http://arxiv.org/abs/2508.13407v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-15|Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agent|[[pdf]](http://arxiv.org/abs/2508.11286v1)|⚠️|⭐️⭐️⭐️|
@@ -215,6 +221,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 191
+- Total Papers: 197
 - Code Implementations: 6
-- Last Updated: August 2025
+- Last Updated: September 2025

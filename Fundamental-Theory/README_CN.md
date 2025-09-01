@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-27|Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization|[[pdf]](http://arxiv.org/abs/2508.20294v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|Investigating Advanced Reasoning of Large Language Models via Black-Box Interaction|[[pdf]](http://arxiv.org/abs/2508.19035v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|LLM-Driven Self-Refinement for Embodied Drone Task Planning|[[pdf]](http://arxiv.org/abs/2508.15501v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|Sensing, Social, and Motion Intelligence in Embodied Navigation: A Comprehensive Survey|[[pdf]](http://arxiv.org/abs/2508.15354v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[TransLLM] TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting|[[pdf]](http://arxiv.org/abs/2508.14782v1)|⚠️|⭐️⭐️⭐️|
@@ -372,6 +374,6 @@
 
 ## 📊 统计
 
-- 论文总数：351篇
+- 论文总数：353篇
 - 代码实现：5个
-- 最后更新：2025年08月
+- 最后更新：2025年09月

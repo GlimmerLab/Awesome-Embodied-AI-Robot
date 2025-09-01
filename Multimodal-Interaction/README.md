@@ -25,6 +25,13 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-08-28|Scaling Fabric-Based Piezoresistive Sensor Arrays for Whole-Body Tactile Sensing|[[pdf]](http://arxiv.org/abs/2508.20959v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-28|[en] A Soft Fabric-Based Thermal Haptic Device for VR and Teleoperation|[[pdf]](http://arxiv.org/abs/2508.20831v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation|[[pdf]](http://arxiv.org/abs/2508.19660v2)|⚠️|⭐️⭐️⭐️|
+|2025-08-27|[en] Visio-Verbal Teleimpedance Interface: Enabling Semi-Autonomous Control of Physical Interaction via Eye Tracking and Speech|[[pdf]](http://arxiv.org/abs/2508.20037v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|[LaVA-Man] LaVA-Man: Learning Visual Action Representations for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2508.19391v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|Addressing Weak Authentication like RFID, NFC in EVs and EVCs using AI-powered Adaptive Authentication|[[pdf]](http://arxiv.org/abs/2508.19465v1)|⚠️|⭐️⭐️⭐️|
+|2025-08-26|"She was useful, but a bit too optimistic": Augmenting Design with Interactive Virtual Personas|[[pdf]](http://arxiv.org/abs/2508.19463v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|[NoteIt] NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding|[[pdf]](http://arxiv.org/abs/2508.14395v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-20|Taming VR Teleoperation and Learning from Demonstration for Multi-Task Bimanual Table Service Manipulation|[[pdf]](http://arxiv.org/abs/2508.14542v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-19|The Social Context of Human-Robot Interactions|[[pdf]](http://arxiv.org/abs/2508.13982v1)|⚠️|⭐️⭐️⭐️|
@@ -247,6 +254,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 222
+- Total Papers: 229
 - Code Implementations: 6
-- Last Updated: August 2025
+- Last Updated: September 2025
