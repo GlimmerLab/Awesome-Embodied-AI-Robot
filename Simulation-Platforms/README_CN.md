@@ -39,6 +39,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-03|Lattice Annotated Temporal (LAT) Logic for Non-Markovian Reasoning|[[pdf]](http://arxiv.org/abs/2509.02958v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|Parallel-Constraint Model Predictive Control: Exploiting Parallel Computation for Improving Safety|[[pdf]](http://arxiv.org/abs/2509.03261v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[CaddieSet] CaddieSet: A Golf Swing Dataset with Human Joint Features and Ball Information|[[pdf]](http://arxiv.org/abs/2508.20491v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[TF-TransUNet1D] TF-TransUNet1D: Time-Frequency Guided Transformer U-Net for Robust ECG Denoising in Digital Twin|[[pdf]](http://arxiv.org/abs/2508.20398v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[en] SimShear: Sim-to-Real Shear-based Tactile Servoing|[[pdf]](http://arxiv.org/abs/2508.20561v1)|⚠️|⭐️⭐️⭐️|
@@ -375,6 +377,6 @@
 
 ## 📊 统计
 
-- 论文总数：350篇
+- 论文总数：352篇
 - 代码实现：21个
 - 最后更新：2025年09月

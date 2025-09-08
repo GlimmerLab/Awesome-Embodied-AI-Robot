@@ -32,6 +32,18 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-04|Keypoint-based Diffusion for Robotic Motion Planning on the NICOL Robot|[[pdf]](http://arxiv.org/abs/2509.04076v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[FaMA] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace|[[pdf]](http://arxiv.org/abs/2509.03890v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance|[[pdf]](http://arxiv.org/abs/2509.03889v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators|[[pdf]](http://arxiv.org/abs/2509.04094v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Lightweight Kinematic and Static Modeling of Cable-Driven Continuum Robots via Actuation-Space Energy Formulation|[[pdf]](http://arxiv.org/abs/2509.04119v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[Efficient Virtuoso] Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning|[[pdf]](http://arxiv.org/abs/2509.03658v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|The Role of Embodiment in Intuitive Whole-Body Teleoperation for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2509.03222v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[Biped] CTBC: Contact-Triggered Blind Climbing for Wheeled Bipedal Robots with Instruction Learning and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.02986v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|Learning Social Heuristics for Human-Aware Path Planning|[[pdf]](http://arxiv.org/abs/2509.02134v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] The Impact of Adaptive Emotional Alignment on Mental State Attribution and User Empathy in HRI|[[pdf]](http://arxiv.org/abs/2509.02749v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Systematic Evaluation of Trade-Offs in Motion Planning Algorithms for Optimal Industrial Robotic Work Cell Design|[[pdf]](http://arxiv.org/abs/2509.02146v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|Articulated Object Estimation in the Wild|[[pdf]](http://arxiv.org/abs/2509.01708v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Task-Oriented Edge-Assisted Cross-System Design for Real-Time Human-Robot Interaction in Industrial Metaverse|[[pdf]](http://arxiv.org/abs/2508.20664v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees|[[pdf]](http://arxiv.org/abs/2508.21001v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning|[[pdf]](http://arxiv.org/abs/2508.20884v1)|⚠️|⭐️⭐️⭐️|
@@ -394,6 +406,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 369
+- Total Papers: 381
 - Code Implementations: 8
 - Last Updated: September 2025

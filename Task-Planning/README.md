@@ -22,6 +22,12 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-04|A Multidimensional AI-powered Framework for Analyzing Tourist Perception in Historic Urban Quarters: A Case Study in Shanghai|[[pdf]](http://arxiv.org/abs/2509.03830v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[FPC-VLA] FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction|[[pdf]](http://arxiv.org/abs/2509.04018v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|Plan Verification for LLM-Based Embodied Task Completion Agents|[[pdf]](http://arxiv.org/abs/2509.02761v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[AppCopilot] AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent|[[pdf]](http://arxiv.org/abs/2509.02444v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|Language-Guided Long Horizon Manipulation with LLM-based Planning and Visual Perception|[[pdf]](http://arxiv.org/abs/2509.02324v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[Learning] Generalizable Skill Learning for Construction Robots with Crowdsourced Natural Language Instructions, Composable Skills Standardization, and Large Language Model|[[pdf]](http://arxiv.org/abs/2509.02876v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting|[[pdf]](http://arxiv.org/abs/2508.20812v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Rapid Mismatch Estimation via Neural Network Informed Variational Inference|[[pdf]](http://arxiv.org/abs/2508.21007v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-27|[CODA] CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.20096v1)|⚠️|⭐️⭐️⭐️|
@@ -221,6 +227,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 197
+- Total Papers: 203
 - Code Implementations: 6
 - Last Updated: September 2025

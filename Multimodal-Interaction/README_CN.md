@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-04|[DEXOP] DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation|[[pdf]](http://arxiv.org/abs/2509.04441v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[Multi-Agent] SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars|[[pdf]](http://arxiv.org/abs/2509.04356v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[OVGrasp] OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection|[[pdf]](http://arxiv.org/abs/2509.04324v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[KEPT] KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2509.02966v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[en] Exploring persuasive interactions with generative social robots: An experimental framework|[[pdf]](http://arxiv.org/abs/2509.03231v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[MIRAGE] MIRAGE: Multimodal Intention Recognition and Admittance-Guided Enhancement in VR-based Multi-object Teleoperation|[[pdf]](http://arxiv.org/abs/2509.01996v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Scaling Fabric-Based Piezoresistive Sensor Arrays for Whole-Body Tactile Sensing|[[pdf]](http://arxiv.org/abs/2508.20959v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[en] A Soft Fabric-Based Thermal Haptic Device for VR and Teleoperation|[[pdf]](http://arxiv.org/abs/2508.20831v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-27|Arbitrary Precision Printed Ternary Neural Networks with Holistic Evolutionary Approximation|[[pdf]](http://arxiv.org/abs/2508.19660v2)|⚠️|⭐️⭐️⭐️|
@@ -254,6 +260,6 @@
 
 ## 📊 统计
 
-- 论文总数：229篇
+- 论文总数：235篇
 - 代码实现：6个
 - 最后更新：2025年09月

@@ -47,6 +47,44 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-04|Hybrid Reinforcement Learning and Search for Flight Trajectory Planning|[[pdf]](http://arxiv.org/abs/2509.04100v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models|[[pdf]](http://arxiv.org/abs/2509.04063v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Learning Multi-Stage Pick-and-Place with a Legged Mobile Manipulator|[[pdf]](http://arxiv.org/abs/2509.03859v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[EMMA] EMMA: Scaling Mobile Manipulation via Egocentric Human Data|[[pdf]](http://arxiv.org/abs/2509.04443v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[INGRID] INGRID: Intelligent Generative Robotic Design Using Large Language Models|[[pdf]](http://arxiv.org/abs/2509.03842v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Solving Robotics Tasks with Prior Demonstration via Exploration-Efficient Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.04069v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models|[[pdf]](http://arxiv.org/abs/2509.03827v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|Gravity Well Echo Chamber Modeling With An LLM-Based Confirmation Bias Model|[[pdf]](http://arxiv.org/abs/2509.03832v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[No Thoughts Just AI] No Thoughts Just AI: Biased LLM Recommendations Limit Human Agency in Resume Screening|[[pdf]](http://arxiv.org/abs/2509.04404v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[AUDETER] AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds|[[pdf]](http://arxiv.org/abs/2509.04345v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.03646v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[ANNIE] ANNIE: Be Careful of Your Robots|[[pdf]](http://arxiv.org/abs/2509.03383v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[E-ARMOR] E-ARMOR: Edge case Assessment and Review of Multilingual Optical Character Recognition|[[pdf]](http://arxiv.org/abs/2509.03615v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning|[[pdf]](http://arxiv.org/abs/2509.03118v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[Loong] Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers|[[pdf]](http://arxiv.org/abs/2509.03059v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[VendiRL] VendiRL: A Framework for Self-Supervised Reinforcement Learning of Diversely Diverse Skills|[[pdf]](http://arxiv.org/abs/2509.02930v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|Decentralised self-organisation of pivoting cube ensembles using geometric deep learning|[[pdf]](http://arxiv.org/abs/2509.03140v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|Self-Organizing Aerial Swarm Robotics for Resilient Load Transportation : A Table-Mechanics-Inspired Approach|[[pdf]](http://arxiv.org/abs/2509.03563v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|Low-Cost Open-Source Ambidextrous Robotic Hand with 23 Direct-Drive servos for American Sign Language Alphabet|[[pdf]](http://arxiv.org/abs/2509.03690v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[Doctoral Thesis] Doctoral Thesis: Geometric Deep Learning For Camera Pose Prediction, Registration, Depth Estimation, and 3D Reconstruction|[[pdf]](http://arxiv.org/abs/2509.01873v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[Think2Sing] Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation|[[pdf]](http://arxiv.org/abs/2509.02278v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|When Agents go Astray: Course-Correcting SWE Agents with PRMs|[[pdf]](http://arxiv.org/abs/2509.02360v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[U-ARM] U-ARM : Ultra low-cost general teleoperation interface for robot manipulation|[[pdf]](http://arxiv.org/abs/2509.02437v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots|[[pdf]](http://arxiv.org/abs/2509.02530v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.02544v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method|[[pdf]](http://arxiv.org/abs/2509.03550v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|Towards Agents That Know When They Don't Know: Uncertainty as a Control Signal for Structured Reasoning|[[pdf]](http://arxiv.org/abs/2509.02401v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Acrobotics: A Generalist Approahc To Quadrupedal Robots' Parkour|[[pdf]](http://arxiv.org/abs/2509.02727v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance|[[pdf]](http://arxiv.org/abs/2509.02055v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments|[[pdf]](http://arxiv.org/abs/2509.02283v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] A Geometric Method for Base Parameter Analysis in Robot Inertia Identification Based on Projective Geometric Algebra|[[pdf]](http://arxiv.org/abs/2509.02071v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|Multi-vessel Interaction-Aware Trajectory Prediction and Collision Risk Assessment|[[pdf]](http://arxiv.org/abs/2509.01836v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|Goal-Conditioned Reinforcement Learning for Data-Driven Maritime Navigation|[[pdf]](http://arxiv.org/abs/2509.01838v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|[MoTo] MoTo: A Zero-shot Plug-in Interaction-aware Navigation for General Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2509.01658v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|Non-conflicting Energy Minimization in Reinforcement Learning based Robot Control|[[pdf]](http://arxiv.org/abs/2509.01765v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|[ManiFlow] ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training|[[pdf]](http://arxiv.org/abs/2509.01819v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|Constrained Decoding for Robotics Foundation Models|[[pdf]](http://arxiv.org/abs/2509.01728v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-01|[en] Disentangled Multi-Context Meta-Learning: Unlocking robust and Generalized Task Learning|[[pdf]](http://arxiv.org/abs/2509.01297v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Learning Primitive Embodied World Models: Towards Scalable Robotic Learning|[[pdf]](http://arxiv.org/abs/2508.20840v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[AI-SearchPlanner] AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2508.20368v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[HITTER] HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning|[[pdf]](http://arxiv.org/abs/2508.21043v1)|⚠️|⭐️⭐️⭐️|
@@ -1873,6 +1911,6 @@
 
 ## 📊 统计
 
-- 论文总数：1847篇
+- 论文总数：1885篇
 - 代码实现：20个
 - 最后更新：2025年09月

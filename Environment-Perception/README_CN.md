@@ -26,6 +26,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-04|Privacy Perceptions in Robot-Assisted Well-Being Coaching: Examining the Roles of Information Transparency, User Control, and Proactivity|[[pdf]](http://arxiv.org/abs/2509.04358v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|Real-Time Instrument Planning and Perception for Novel Measurements of Dynamic Phenomena|[[pdf]](http://arxiv.org/abs/2509.03500v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Human-Inspired Soft Anthropomorphic Hand System for Neuromorphic Object and Pose Recognition Using Multimodal Signals|[[pdf]](http://arxiv.org/abs/2509.02275v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring|[[pdf]](http://arxiv.org/abs/2509.01878v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|[en] Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation|[[pdf]](http://arxiv.org/abs/2509.02343v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|Language-Enhanced Mobile Manipulation for Efficient Object Search in Indoor Environments|[[pdf]](http://arxiv.org/abs/2508.20899v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[en] UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception|[[pdf]](http://arxiv.org/abs/2508.20982v2)|⚠️|⭐️⭐️⭐️|
 |2025-08-27|[Beyond BEV] Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception|[[pdf]](http://arxiv.org/abs/2508.19638v1)|⚠️|⭐️⭐️⭐️|
@@ -267,6 +272,6 @@
 
 ## 📊 统计
 
-- 论文总数：243篇
+- 论文总数：248篇
 - 代码实现：8个
 - 最后更新：2025年09月

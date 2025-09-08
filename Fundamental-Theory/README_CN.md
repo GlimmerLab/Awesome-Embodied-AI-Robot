@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-04|World Model Implanting for Test-time Adaptation of Embodied Agents|[[pdf]](http://arxiv.org/abs/2509.03956v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-04|[en] Cloud-Assisted Remote Control for Aerial Robots: From Theory to Proof-of-Concept Implementation|[[pdf]](http://arxiv.org/abs/2509.04095v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[en] Simulacra Naturae: Generative Ecosystem driven by Agent-Based Simulations and Brain Organoid Collective Intelligence|[[pdf]](http://arxiv.org/abs/2509.02924v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[en] Learning an Adversarial World Model for Automated Curriculum Generation in MARL|[[pdf]](http://arxiv.org/abs/2509.03771v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-03|[en] Vibration Damping in Underactuated Cable-suspended Artwork -- Flying Belt Motion Control|[[pdf]](http://arxiv.org/abs/2509.03238v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|Improving the Resilience of Quadrotors in Underground Environments by Combining Learning-based and Safety Controllers|[[pdf]](http://arxiv.org/abs/2509.02808v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-02|The Landscape of Agentic Reinforcement Learning for LLMs: A Survey|[[pdf]](http://arxiv.org/abs/2509.02547v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-27|Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization|[[pdf]](http://arxiv.org/abs/2508.20294v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-26|Investigating Advanced Reasoning of Large Language Models via Black-Box Interaction|[[pdf]](http://arxiv.org/abs/2508.19035v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-21|LLM-Driven Self-Refinement for Embodied Drone Task Planning|[[pdf]](http://arxiv.org/abs/2508.15501v1)|⚠️|⭐️⭐️⭐️|
@@ -374,6 +381,6 @@
 
 ## 📊 统计
 
-- 论文总数：353篇
+- 论文总数：360篇
 - 代码实现：5个
 - 最后更新：2025年09月
