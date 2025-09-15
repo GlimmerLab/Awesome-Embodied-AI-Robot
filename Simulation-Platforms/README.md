@@ -39,6 +39,7 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-11|Kinetostatics and Particle-Swarm Optimization of Vehicle-Mounted Underactuated Metamorphic Loading Manipulators|[[pdf]](http://arxiv.org/abs/2509.09093v2)|⚠️|⭐️⭐️⭐️|
 |2025-09-03|Lattice Annotated Temporal (LAT) Logic for Non-Markovian Reasoning|[[pdf]](http://arxiv.org/abs/2509.02958v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-03|Parallel-Constraint Model Predictive Control: Exploiting Parallel Computation for Improving Safety|[[pdf]](http://arxiv.org/abs/2509.03261v1)|⚠️|⭐️⭐️⭐️|
 |2025-08-28|[CaddieSet] CaddieSet: A Golf Swing Dataset with Human Joint Features and Ball Information|[[pdf]](http://arxiv.org/abs/2508.20491v1)|⚠️|⭐️⭐️⭐️|
@@ -377,6 +378,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 352
+- Total Papers: 353
 - Code Implementations: 21
 - Last Updated: September 2025

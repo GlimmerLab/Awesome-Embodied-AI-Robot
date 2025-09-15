@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-10|Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2509.08270v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[RoboChemist] RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation|[[pdf]](http://arxiv.org/abs/2509.08820v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|EHWGesture -- A dataset for multimodal understanding of clinical gestures|[[pdf]](http://arxiv.org/abs/2509.07525v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2509.08126v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[TA-VLA] TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2509.07962v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[en] Flexible Morphing Aerial Robot with Inflatable Structure for Perching-based Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2509.07496v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|[DEXOP] DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation|[[pdf]](http://arxiv.org/abs/2509.04441v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|[Multi-Agent] SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars|[[pdf]](http://arxiv.org/abs/2509.04356v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|[OVGrasp] OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection|[[pdf]](http://arxiv.org/abs/2509.04324v1)|⚠️|⭐️⭐️⭐️|
@@ -260,6 +266,6 @@
 
 ## 📊 统计
 
-- 论文总数：235篇
+- 论文总数：241篇
 - 代码实现：6个
 - 最后更新：2025年09月

@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-11|[OmniEVA] OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning|[[pdf]](http://arxiv.org/abs/2509.09332v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[SEDM] SEDM: Scalable Self-Evolving Distributed Memory for Agents|[[pdf]](http://arxiv.org/abs/2509.09498v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[en] TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making|[[pdf]](http://arxiv.org/abs/2509.08500v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2509.07957v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[JEL] JEL: A Novel Model Linking Knowledge Graph entities to News Mentions|[[pdf]](http://arxiv.org/abs/2509.08086v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|World Model Implanting for Test-time Adaptation of Embodied Agents|[[pdf]](http://arxiv.org/abs/2509.03956v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|[en] Cloud-Assisted Remote Control for Aerial Robots: From Theory to Proof-of-Concept Implementation|[[pdf]](http://arxiv.org/abs/2509.04095v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-03|[en] Simulacra Naturae: Generative Ecosystem driven by Agent-Based Simulations and Brain Organoid Collective Intelligence|[[pdf]](http://arxiv.org/abs/2509.02924v1)|⚠️|⭐️⭐️⭐️|
@@ -381,6 +386,6 @@
 
 ## 📊 统计
 
-- 论文总数：360篇
+- 论文总数：365篇
 - 代码实现：5个
 - 最后更新：2025年09月

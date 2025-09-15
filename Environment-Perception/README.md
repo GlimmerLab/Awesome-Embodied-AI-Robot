@@ -26,6 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-11|[ObjectReact] ObjectReact: Learning Object-Relative Control for Visual Navigation|[[pdf]](http://arxiv.org/abs/2509.09594v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|Classification of Driver Behaviour Using External Observation Techniques for Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2509.09349v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[en] Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution|[[pdf]](http://arxiv.org/abs/2509.09560v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[en] A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models|[[pdf]](http://arxiv.org/abs/2509.08490v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Real-Time Obstacle Avoidance for a Mobile Robot Using CNN-Based Sensor Fusion|[[pdf]](http://arxiv.org/abs/2509.08095v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[en] OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics|[[pdf]](http://arxiv.org/abs/2509.07500v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|Privacy Perceptions in Robot-Assisted Well-Being Coaching: Examining the Roles of Information Transparency, User Control, and Proactivity|[[pdf]](http://arxiv.org/abs/2509.04358v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-03|Real-Time Instrument Planning and Perception for Novel Measurements of Dynamic Phenomena|[[pdf]](http://arxiv.org/abs/2509.03500v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-02|[en] Human-Inspired Soft Anthropomorphic Hand System for Neuromorphic Object and Pose Recognition Using Multimodal Signals|[[pdf]](http://arxiv.org/abs/2509.02275v1)|⚠️|⭐️⭐️⭐️|
@@ -272,6 +278,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 248
+- Total Papers: 254
 - Code Implementations: 8
 - Last Updated: September 2025

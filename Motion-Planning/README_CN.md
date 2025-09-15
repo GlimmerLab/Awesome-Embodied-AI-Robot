@@ -32,6 +32,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-11|[KoopMotion] KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning|[[pdf]](http://arxiv.org/abs/2509.09074v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[FMT$^{x}$] FMT$^{x}$: An Efficient and Asymptotically Optimal Extension of the Fast Marching Tree for Dynamic Replanning|[[pdf]](http://arxiv.org/abs/2509.08521v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Dual-Stage Safe Herding Framework for Adversarial Attacker in Dynamic Environment|[[pdf]](http://arxiv.org/abs/2509.08460v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation|[[pdf]](http://arxiv.org/abs/2509.08159v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-08|[en] CRISP -- Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation|[[pdf]](http://arxiv.org/abs/2509.06819v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|Keypoint-based Diffusion for Robotic Motion Planning on the NICOL Robot|[[pdf]](http://arxiv.org/abs/2509.04076v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|[FaMA] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace|[[pdf]](http://arxiv.org/abs/2509.03890v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance|[[pdf]](http://arxiv.org/abs/2509.03889v1)|⚠️|⭐️⭐️⭐️|
@@ -406,6 +411,6 @@
 
 ## 📊 统计
 
-- 论文总数：381篇
+- 论文总数：386篇
 - 代码实现：8个
 - 最后更新：2025年09月

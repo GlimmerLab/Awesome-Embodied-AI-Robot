@@ -47,6 +47,40 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-11|Curriculum-Based Multi-Tier Semantic Exploration via Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.09356v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging|[[pdf]](http://arxiv.org/abs/2509.09484v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[Dexplore] Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration|[[pdf]](http://arxiv.org/abs/2509.09671v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|Visual Grounding from Event Cameras|[[pdf]](http://arxiv.org/abs/2509.09584v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[en] Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective|[[pdf]](http://arxiv.org/abs/2509.09154v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|Virtual staining for 3D X-ray histology of bone implants|[[pdf]](http://arxiv.org/abs/2509.09235v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[en] Enabling Regulatory Multi-Agent Collaboration: Architecture, Challenges, and Solutions|[[pdf]](http://arxiv.org/abs/2509.09215v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[Biped] LIPM-Guided Reinforcement Learning for Stable and Perceptive Locomotion in Bipedal Robots|[[pdf]](http://arxiv.org/abs/2509.09106v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[Quadruped] RENet: Fault-Tolerant Motion Control for Quadruped Robots via Redundant Estimator Networks under Visual Collapse|[[pdf]](http://arxiv.org/abs/2509.09283v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[AEOS] AEOS: Active Environment-aware Optimal Scanning Control for UAV LiDAR-Inertial Odometry in Complex Scenes|[[pdf]](http://arxiv.org/abs/2509.09141v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-11|[en] SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking|[[pdf]](http://arxiv.org/abs/2509.09509v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[TANGO] TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals|[[pdf]](http://arxiv.org/abs/2509.08699v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations|[[pdf]](http://arxiv.org/abs/2509.08646v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[\emph{FoQuS}] \emph{FoQuS}: A Forgetting-Quality Coreset Selection Framework for Automatic Modulation Recognition|[[pdf]](http://arxiv.org/abs/2509.08300v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[PegasusFlow] PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching|[[pdf]](http://arxiv.org/abs/2509.08435v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[Grasp Like Humans] Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration|[[pdf]](http://arxiv.org/abs/2509.08354v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Joint Model-based Model-free Diffusion for Planning with Constraints|[[pdf]](http://arxiv.org/abs/2509.08775v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[SocialNav-SUB] SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation|[[pdf]](http://arxiv.org/abs/2509.08757v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Augmenting Neural Networks-based Model Approximators in Robotic Force-tracking Tasks|[[pdf]](http://arxiv.org/abs/2509.08440v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|[en] HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants|[[pdf]](http://arxiv.org/abs/2509.08494v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Using AI to Optimize Patient Transfer and Resource Utilization During Mass-Casualty Incidents: A Simulation Platform|[[pdf]](http://arxiv.org/abs/2509.08756v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Symmetry-Guided Multi-Agent Inverse Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.08257v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|A Comprehensive Review of Reinforcement Learning for Autonomous Driving in the CARLA Simulator|[[pdf]](http://arxiv.org/abs/2509.08221v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Sample-Efficient Online Control Policy Learning with Real-Time Recursive Model Updates|[[pdf]](http://arxiv.org/abs/2509.08241v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Quadrotor Navigation using Reinforcement Learning with Privileged Information|[[pdf]](http://arxiv.org/abs/2509.08177v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Can SSD-Mamba2 Unlock Reinforcement Learning for End-to-End Motion Control?|[[pdf]](http://arxiv.org/abs/2509.07593v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[RaC] RaC: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction|[[pdf]](http://arxiv.org/abs/2509.07953v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Programmable Locking Cells (PLC) for Modular Robots with High Stiffness Tunability and Morphological Adaptability|[[pdf]](http://arxiv.org/abs/2509.07916v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[en] Multi Robot Coordination in Highly Dynamic Environments: Tackling Asymmetric Obstacles and Limited Communication|[[pdf]](http://arxiv.org/abs/2509.08859v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[en] Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions|[[pdf]](http://arxiv.org/abs/2509.07445v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[en] DepthVision: Robust Vision-Language Understanding through GAN-Based LiDAR-to-RGB Synthesis|[[pdf]](http://arxiv.org/abs/2509.07463v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[en] Bio-inspired decision making in swarms under biases from stubborn robots, corrupted communication, and independent discovery|[[pdf]](http://arxiv.org/abs/2509.07561v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-08|[en] LLaDA-VLA: Vision Language Diffusion Action Models|[[pdf]](http://arxiv.org/abs/2509.06932v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-08|[en] Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments|[[pdf]](http://arxiv.org/abs/2509.06953v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|Hybrid Reinforcement Learning and Search for Flight Trajectory Planning|[[pdf]](http://arxiv.org/abs/2509.04100v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models|[[pdf]](http://arxiv.org/abs/2509.04063v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|Learning Multi-Stage Pick-and-Place with a Legged Mobile Manipulator|[[pdf]](http://arxiv.org/abs/2509.03859v2)|⚠️|⭐️⭐️⭐️|
@@ -1911,6 +1945,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1885
+- Total Papers: 1919
 - Code Implementations: 20
 - Last Updated: September 2025

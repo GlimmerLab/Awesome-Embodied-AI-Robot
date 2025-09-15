@@ -22,6 +22,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-11|[SimpleVLA-RL] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.09674v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-10|Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following|[[pdf]](http://arxiv.org/abs/2509.08222v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation|[[pdf]](http://arxiv.org/abs/2509.08157v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|Diffusion-Guided Multi-Arm Motion Planning|[[pdf]](http://arxiv.org/abs/2509.08160v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-09|[Decoding RobKiNet] Decoding RobKiNet: Insights into Efficient Training of Robotic Kinematics Informed Neural Network|[[pdf]](http://arxiv.org/abs/2509.07646v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|A Multidimensional AI-powered Framework for Analyzing Tourist Perception in Historic Urban Quarters: A Case Study in Shanghai|[[pdf]](http://arxiv.org/abs/2509.03830v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-04|[FPC-VLA] FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction|[[pdf]](http://arxiv.org/abs/2509.04018v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-02|Plan Verification for LLM-Based Embodied Task Completion Agents|[[pdf]](http://arxiv.org/abs/2509.02761v2)|⚠️|⭐️⭐️⭐️|
@@ -227,6 +232,6 @@
 
 ## 📊 统计
 
-- 论文总数：203篇
+- 论文总数：208篇
 - 代码实现：6个
 - 最后更新：2025年09月
