@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|[Multi-Agent] Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery|[[pdf]](http://arxiv.org/abs/2509.14967v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[InfraMind] InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management|[[pdf]](http://arxiv.org/abs/2509.13704v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[GestOS] GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot|[[pdf]](http://arxiv.org/abs/2509.14412v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Spotting the Unfriendly Robot -- Towards better Metrics for Interactions|[[pdf]](http://arxiv.org/abs/2509.12912v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-10|Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2509.08270v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-10|[RoboChemist] RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation|[[pdf]](http://arxiv.org/abs/2509.08820v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-09|EHWGesture -- A dataset for multimodal understanding of clinical gestures|[[pdf]](http://arxiv.org/abs/2509.07525v1)|⚠️|⭐️⭐️⭐️|
@@ -266,6 +270,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 241
+- Total Papers: 245
 - Code Implementations: 6
 - Last Updated: September 2025

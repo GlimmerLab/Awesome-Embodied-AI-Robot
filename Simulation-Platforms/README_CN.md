@@ -39,6 +39,17 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|[TITAN] TITAN: A Trajectory-Informed Technique for Adaptive Parameter Freezing in Large-Scale VQE|[[pdf]](http://arxiv.org/abs/2509.15193v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2509.14956v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Rationality Check! Benchmarking the Rationality of Large Language Models|[[pdf]](http://arxiv.org/abs/2509.14546v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[en] Parallel Simulation of Contact and Actuation for Soft Growing Robots|[[pdf]](http://arxiv.org/abs/2509.15180v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Mitigating Query Selection Bias in Referring Video Object Segmentation|[[pdf]](http://arxiv.org/abs/2509.13722v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Constraint-Consistent Control of Task-Based and Kinematic RCM Constraints for Surgical Robots|[[pdf]](http://arxiv.org/abs/2509.14075v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Apertus: Democratizing Open and Compliant LLMs for Global Language Environments|[[pdf]](http://arxiv.org/abs/2509.14233v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|A reduced-order derivative-informed neural operator for subsurface fluid-flow|[[pdf]](http://arxiv.org/abs/2509.13620v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios|[[pdf]](http://arxiv.org/abs/2509.13132v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|Layout-Aware OCR for Black Digital Archives with Unsupervised Evaluation|[[pdf]](http://arxiv.org/abs/2509.13236v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy|[[pdf]](http://arxiv.org/abs/2509.13234v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|Kinetostatics and Particle-Swarm Optimization of Vehicle-Mounted Underactuated Metamorphic Loading Manipulators|[[pdf]](http://arxiv.org/abs/2509.09093v2)|⚠️|⭐️⭐️⭐️|
 |2025-09-03|Lattice Annotated Temporal (LAT) Logic for Non-Markovian Reasoning|[[pdf]](http://arxiv.org/abs/2509.02958v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-03|Parallel-Constraint Model Predictive Control: Exploiting Parallel Computation for Improving Safety|[[pdf]](http://arxiv.org/abs/2509.03261v1)|⚠️|⭐️⭐️⭐️|
@@ -378,6 +389,6 @@
 
 ## 📊 统计
 
-- 论文总数：353篇
+- 论文总数：364篇
 - 代码实现：21个
 - 最后更新：2025年09月

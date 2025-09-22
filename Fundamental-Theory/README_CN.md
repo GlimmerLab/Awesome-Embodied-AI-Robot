@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|[TableDART] TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding|[[pdf]](http://arxiv.org/abs/2509.14671v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects|[[pdf]](http://arxiv.org/abs/2509.14939v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Embodied sensorimotor control: computational modeling of the neural control of movement|[[pdf]](http://arxiv.org/abs/2509.14360v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[THOR] THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning|[[pdf]](http://arxiv.org/abs/2509.13761v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|From Mimicry to True Intelligence (TI) -- A New Paradigm for Artificial General Intelligence|[[pdf]](http://arxiv.org/abs/2509.14474v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] DREAM: Domain-aware Reasoning for Efficient Autonomous Underwater Monitoring|[[pdf]](http://arxiv.org/abs/2509.13666v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Towards a Physics Foundation Model|[[pdf]](http://arxiv.org/abs/2509.13805v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[OmniEVA] OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning|[[pdf]](http://arxiv.org/abs/2509.09332v2)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[SEDM] SEDM: Scalable Self-Evolving Distributed Memory for Agents|[[pdf]](http://arxiv.org/abs/2509.09498v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-10|[en] TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making|[[pdf]](http://arxiv.org/abs/2509.08500v1)|⚠️|⭐️⭐️⭐️|
@@ -386,6 +393,6 @@
 
 ## 📊 统计
 
-- 论文总数：365篇
+- 论文总数：372篇
 - 代码实现：5个
 - 最后更新：2025年09月

@@ -32,6 +32,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|[Biped] CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids|[[pdf]](http://arxiv.org/abs/2509.14935v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[en] Energy-Constrained Navigation for Planetary Rovers under Hybrid RTG-Solar Power|[[pdf]](http://arxiv.org/abs/2509.15062v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[Humanoid] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion|[[pdf]](http://arxiv.org/abs/2509.14353v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Hierarchical Learning for Maze Navigation: Emergence of Mental Representations via Second-Order Learning|[[pdf]](http://arxiv.org/abs/2509.14195v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[CLAW] CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping|[[pdf]](http://arxiv.org/abs/2509.14143v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Whole-body Motion Control of an Omnidirectional Wheel-Legged Mobile Manipulator via Contact-Aware Dynamic Optimization|[[pdf]](http://arxiv.org/abs/2509.14010v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Flexible and Foldable: Workspace Analysis and Object Manipulation Using a Soft, Interconnected, Origami-Inspired Actuator Array|[[pdf]](http://arxiv.org/abs/2509.13998v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Dynamic Adaptive Legged Locomotion Policy via Decoupling Reaction Force Control and Gait Control|[[pdf]](http://arxiv.org/abs/2509.13737v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[KoopMotion] KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning|[[pdf]](http://arxiv.org/abs/2509.09074v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-10|[FMT$^{x}$] FMT$^{x}$: An Efficient and Asymptotically Optimal Extension of the Fast Marching Tree for Dynamic Replanning|[[pdf]](http://arxiv.org/abs/2509.08521v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-10|Dual-Stage Safe Herding Framework for Adversarial Attacker in Dynamic Environment|[[pdf]](http://arxiv.org/abs/2509.08460v1)|⚠️|⭐️⭐️⭐️|
@@ -411,6 +419,6 @@
 
 ## 📊 统计
 
-- 论文总数：386篇
+- 论文总数：394篇
 - 代码实现：8个
 - 最后更新：2025年09月

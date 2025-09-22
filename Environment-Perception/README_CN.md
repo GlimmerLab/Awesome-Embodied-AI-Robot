@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|[en] PERAL: Perception-Aware Motion Control for Passive LiDAR Excitation in Spherical Robots|[[pdf]](http://arxiv.org/abs/2509.14915v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[MAP] MAP: End-to-End Autonomous Driving with Map-Assisted Planning|[[pdf]](http://arxiv.org/abs/2509.13926v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] HARMONIC: A Content-Centric Cognitive Robotic Architecture|[[pdf]](http://arxiv.org/abs/2509.13279v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Hierarchical Deep Fusion Framework for Multi-dimensional Facial Forgery Detection -- The 2024 Global Deepfake Image Detection Challenge|[[pdf]](http://arxiv.org/abs/2509.13107v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[ObjectReact] ObjectReact: Learning Object-Relative Control for Visual Navigation|[[pdf]](http://arxiv.org/abs/2509.09594v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|Classification of Driver Behaviour Using External Observation Techniques for Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2509.09349v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[en] Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution|[[pdf]](http://arxiv.org/abs/2509.09560v1)|⚠️|⭐️⭐️⭐️|
@@ -278,6 +282,6 @@
 
 ## 📊 统计
 
-- 论文总数：254篇
+- 论文总数：258篇
 - 代码实现：8个
 - 最后更新：2025年09月

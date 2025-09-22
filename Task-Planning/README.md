@@ -22,6 +22,10 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|Hierarchical Planning and Scheduling for Reconfigurable Multi-Robot Disassembly Systems under Structural Constraints|[[pdf]](http://arxiv.org/abs/2509.14564v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Process-Supervised Reinforcement Learning for Interactive Multimodal Tool-Use Agents|[[pdf]](http://arxiv.org/abs/2509.14480v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[FlowDrive] FlowDrive: Energy Flow Field for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2509.14303v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[CRAFT] CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks|[[pdf]](http://arxiv.org/abs/2509.14380v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[SimpleVLA-RL] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.09674v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-10|Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following|[[pdf]](http://arxiv.org/abs/2509.08222v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-09|Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation|[[pdf]](http://arxiv.org/abs/2509.08157v1)|⚠️|⭐️⭐️⭐️|
@@ -232,6 +236,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 208
+- Total Papers: 212
 - Code Implementations: 6
 - Last Updated: September 2025

@@ -47,6 +47,43 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-18|[WorldForge] WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance|[[pdf]](http://arxiv.org/abs/2509.15130v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Self-Improving Embodied Foundation Models|[[pdf]](http://arxiv.org/abs/2509.15155v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[M4Diffuser] M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2509.14980v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Scalable Multi-Objective Robot Reinforcement Learning through Gradient Conflict Resolution|[[pdf]](http://arxiv.org/abs/2509.14816v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[Learning to Pick] Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking|[[pdf]](http://arxiv.org/abs/2509.14530v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[The Role of Touch] The Role of Touch: Towards Optimal Tactile Sensing Distribution in Anthropomorphic Hands for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2509.14984v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[RealMirror] RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI|[[pdf]](http://arxiv.org/abs/2509.14687v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[Robot Control Stack] Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale|[[pdf]](http://arxiv.org/abs/2509.14932v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Toward Embodiment Equivariant Vision-Language-Action Policy|[[pdf]](http://arxiv.org/abs/2509.14630v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[Multi-CAP] Multi-CAP: A Multi-Robot Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments|[[pdf]](http://arxiv.org/abs/2509.14941v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|[exUMI] exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation|[[pdf]](http://arxiv.org/abs/2509.14688v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Reinforcement Learning Agent for a 2D Shooter Game|[[pdf]](http://arxiv.org/abs/2509.15042v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-18|Human Interaction for Collaborative Semantic SLAM using Extended Reality|[[pdf]](http://arxiv.org/abs/2509.14949v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[Prompt2Auto] Prompt2Auto: From Motion Prompt to Automated Control via Geometry-Invariant One-Shot Gaussian Process Learning|[[pdf]](http://arxiv.org/abs/2509.14040v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[AgentCTG] AgentCTG: Harnessing Multi-Agent Collaboration for Fine-Grained Precise Control in Text Generation|[[pdf]](http://arxiv.org/abs/2509.13677v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Learning Discrete Abstractions for Visual Rearrangement Tasks Using Vision-Guided Graph Coloring|[[pdf]](http://arxiv.org/abs/2509.14460v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move|[[pdf]](http://arxiv.org/abs/2509.14342v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Local-Canonicalization Equivariant Graph Neural Networks for Sample-Efficient and Generalizable Swarm Robot Control|[[pdf]](http://arxiv.org/abs/2509.14431v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Untowered Airspace|[[pdf]](http://arxiv.org/abs/2509.14063v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[RLBind] RLBind: Adversarial-Invariant Cross-Modal Alignment for Unified Robust Embeddings|[[pdf]](http://arxiv.org/abs/2509.14383v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models|[[pdf]](http://arxiv.org/abs/2509.13903v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach|[[pdf]](http://arxiv.org/abs/2509.13774v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] SHaRe-RL: Structured, Interactive Reinforcement Learning for Contact-Rich Industrial Assembly Tasks|[[pdf]](http://arxiv.org/abs/2509.13949v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph|[[pdf]](http://arxiv.org/abs/2509.13733v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Behavior Foundation Model for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2509.13780v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|BIM Informed Visual SLAM for Construction Monitoring|[[pdf]](http://arxiv.org/abs/2509.13972v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-17|[en] Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings|[[pdf]](http://arxiv.org/abs/2509.13731v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|A Design Co-Pilot for Task-Tailored Manipulators|[[pdf]](http://arxiv.org/abs/2509.13077v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[TreeIRL] TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.13579v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software|[[pdf]](http://arxiv.org/abs/2509.13471v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|Dense-Jump Flow Matching with Non-Uniform Time Scheduling for Robotic Policies: Mitigating Multi-Step Inference Degradation|[[pdf]](http://arxiv.org/abs/2509.13574v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Agentic AI for Financial Crime Compliance|[[pdf]](http://arxiv.org/abs/2509.13137v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.13534v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Collaborative Loco-Manipulation for Pick-and-Place Tasks with Dynamic Reward Curriculum|[[pdf]](http://arxiv.org/abs/2509.13239v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Model Predictive Control with Reference Learning for Soft Robotic Intracranial Pressure Waveform Modulation|[[pdf]](http://arxiv.org/abs/2509.13109v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Hydrosoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manipulation|[[pdf]](http://arxiv.org/abs/2509.13126v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-16|[en] Empowering Multi-Robot Cooperation via Sequential World Models|[[pdf]](http://arxiv.org/abs/2509.13095v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|Curriculum-Based Multi-Tier Semantic Exploration via Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.09356v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging|[[pdf]](http://arxiv.org/abs/2509.09484v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-11|[Dexplore] Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration|[[pdf]](http://arxiv.org/abs/2509.09671v1)|⚠️|⭐️⭐️⭐️|
@@ -1945,6 +1982,6 @@
 
 ## 📊 统计
 
-- 论文总数：1919篇
+- 论文总数：1956篇
 - 代码实现：20个
 - 最后更新：2025年09月
