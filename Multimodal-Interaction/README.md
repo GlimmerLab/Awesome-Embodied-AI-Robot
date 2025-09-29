@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|Communication Bias in Large Language Models: A Regulatory Perspective|[[pdf]](http://arxiv.org/abs/2509.21075v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation|[[pdf]](http://arxiv.org/abs/2509.19954v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[Multi-Agent] Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery|[[pdf]](http://arxiv.org/abs/2509.14967v2)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[InfraMind] InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management|[[pdf]](http://arxiv.org/abs/2509.13704v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[GestOS] GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot|[[pdf]](http://arxiv.org/abs/2509.14412v1)|⚠️|⭐️⭐️⭐️|
@@ -270,6 +272,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 245
+- Total Papers: 247
 - Code Implementations: 6
 - Last Updated: September 2025

@@ -32,6 +32,19 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|AI-Enabled Crater-Based Navigation for Lunar Mapping|[[pdf]](http://arxiv.org/abs/2509.20748v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|SLAM-Free Visual Navigation with Hierarchical Vision-Language Perception and Coarse-to-Fine Semantic Topological Planning|[[pdf]](http://arxiv.org/abs/2509.20739v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Learning Terrain-Specialized Policies for Adaptive Locomotion in Challenging Environments|[[pdf]](http://arxiv.org/abs/2509.20635v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Digital Twin-Guided Robot Path Planning: A Beta-Bernoulli Fusion with Large Language Model as a Sensor|[[pdf]](http://arxiv.org/abs/2509.20709v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Even More Kawaii than Real-Person-Driven VTubers? Understanding How Viewers Perceive AI-Driven VTubers|[[pdf]](http://arxiv.org/abs/2509.20817v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2509.19696v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[VisualMimic] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation|[[pdf]](http://arxiv.org/abs/2509.20322v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation|[[pdf]](http://arxiv.org/abs/2509.20516v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Affective Computing and Emotional Data: Challenges and Implications in Privacy Regulations, The AI Act, and Ethics in Large Language Models|[[pdf]](http://arxiv.org/abs/2509.20153v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning|[[pdf]](http://arxiv.org/abs/2509.20077v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] MARG: MAstering Risky Gap Terrains for Legged Robots with Elevation Mapping|[[pdf]](http://arxiv.org/abs/2509.20036v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms|[[pdf]](http://arxiv.org/abs/2509.20263v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-23|[en] Supercomputing for High-speed Avoidance and Reactive Planning in Robots|[[pdf]](http://arxiv.org/abs/2509.19486v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[Biped] CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids|[[pdf]](http://arxiv.org/abs/2509.14935v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[en] Energy-Constrained Navigation for Planetary Rovers under Hybrid RTG-Solar Power|[[pdf]](http://arxiv.org/abs/2509.15062v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[Humanoid] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion|[[pdf]](http://arxiv.org/abs/2509.14353v1)|⚠️|⭐️⭐️⭐️|
@@ -419,6 +432,6 @@
 
 ## 📊 统计
 
-- 论文总数：394篇
+- 论文总数：407篇
 - 代码实现：8个
 - 最后更新：2025年09月

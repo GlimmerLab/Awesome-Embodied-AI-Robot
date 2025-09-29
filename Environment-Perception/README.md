@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|[AnywhereVLA] AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2509.21006v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[en] MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM|[[pdf]](http://arxiv.org/abs/2509.20757v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[en] Building Information Models to Robot-Ready Site Digital Twins (BIM2RDT): An Agentic AI Safety-First Framework|[[pdf]](http://arxiv.org/abs/2509.20705v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[en] PERAL: Perception-Aware Motion Control for Passive LiDAR Excitation in Spherical Robots|[[pdf]](http://arxiv.org/abs/2509.14915v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[MAP] MAP: End-to-End Autonomous Driving with Map-Assisted Planning|[[pdf]](http://arxiv.org/abs/2509.13926v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-16|[en] HARMONIC: A Content-Centric Cognitive Robotic Architecture|[[pdf]](http://arxiv.org/abs/2509.13279v1)|⚠️|⭐️⭐️⭐️|
@@ -282,6 +285,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 258
+- Total Papers: 261
 - Code Implementations: 8
 - Last Updated: September 2025

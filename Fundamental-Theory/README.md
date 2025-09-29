@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|Efficient Construction of Implicit Surface Models From a Single Image for Motion Generation|[[pdf]](http://arxiv.org/abs/2509.20681v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[CLAUSE] CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering|[[pdf]](http://arxiv.org/abs/2509.21035v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy|[[pdf]](http://arxiv.org/abs/2509.21190v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[AnchDrive] AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving|[[pdf]](http://arxiv.org/abs/2509.20253v2)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[TableDART] TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding|[[pdf]](http://arxiv.org/abs/2509.14671v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects|[[pdf]](http://arxiv.org/abs/2509.14939v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|Embodied sensorimotor control: computational modeling of the neural control of movement|[[pdf]](http://arxiv.org/abs/2509.14360v1)|⚠️|⭐️⭐️⭐️|
@@ -393,6 +397,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 372
+- Total Papers: 376
 - Code Implementations: 5
 - Last Updated: September 2025

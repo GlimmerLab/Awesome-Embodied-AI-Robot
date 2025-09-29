@@ -47,6 +47,46 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|[Dynamic] Joint Flow Trajectory Optimization For Feasible Robot Motion Generation from Video Demonstrations|[[pdf]](http://arxiv.org/abs/2509.20703v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[Humanoid] RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking|[[pdf]](http://arxiv.org/abs/2509.20717v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[Trajectory] Cross-Modal Instructions for Robot Motion Generation|[[pdf]](http://arxiv.org/abs/2509.21107v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Human-like Navigation in a World Built for Humans|[[pdf]](http://arxiv.org/abs/2509.21189v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs|[[pdf]](http://arxiv.org/abs/2509.21128v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[SupCLAP] SupCLAP: Controlling Optimization Trajectory Drift in Audio-Text Contrastive Learning with Support Vector Regularization|[[pdf]](http://arxiv.org/abs/2509.21033v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|A Causality-Aware Spatiotemporal Model for Multi-Region and Multi-Pollutant Air Quality Forecasting|[[pdf]](http://arxiv.org/abs/2509.21260v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[Meta-Memory] Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2509.20754v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Multi-Robot Vision-Based Task and Motion Planning for EV Battery Disassembly and Sorting|[[pdf]](http://arxiv.org/abs/2509.21020v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[SEEC] SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2509.21231v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[RuN] RuN: Residual Policy for Natural Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2509.20696v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[Suction Leap-Hand] Suction Leap-Hand: Suction Cups on a Multi-fingered Hand Enable Embodied Dexterity and In-Hand Teleoperation|[[pdf]](http://arxiv.org/abs/2509.20646v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[ImaginationPolicy] ImaginationPolicy: Towards Generalizable, Precise and Reliable End-to-End Policy for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2509.20841v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[RetoVLA] RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2509.21243v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[en] Model-Based Reinforcement Learning under Random Observation Delays|[[pdf]](http://arxiv.org/abs/2509.20869v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.21126v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|MPC-based Deep Reinforcement Learning Method for Space Robotic Control with Fuel Sloshing Mitigation|[[pdf]](http://arxiv.org/abs/2509.21045v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[Multi-Agent] EEG-Driven AR-Robot System for Zero-Touch Grasping Manipulation|[[pdf]](http://arxiv.org/abs/2509.20656v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|[BiNoMaP] BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives|[[pdf]](http://arxiv.org/abs/2509.21256v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-25|Leveraging Temporally Extended Behavior Sharing for Multi-task Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.20766v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting|[[pdf]](http://arxiv.org/abs/2509.20499v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2509.20109v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[UserRL] UserRL: Training Interactive User-Centric Agent via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.19736v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[KSDiff] KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation|[[pdf]](http://arxiv.org/abs/2509.20128v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[FS-DFM] FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models|[[pdf]](http://arxiv.org/abs/2509.20624v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Latent Activation Editing: Inference-Time Refinement of Learned Policies for Safer Multirobot Navigation|[[pdf]](http://arxiv.org/abs/2509.20623v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Parse-Augment-Distill: Learning Generalizable Bimanual Visuomotor Policies from Single Human Video|[[pdf]](http://arxiv.org/abs/2509.20286v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Selective Progress-Aware Querying for Human-in-the-Loop Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.20541v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[mindmap] mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies|[[pdf]](http://arxiv.org/abs/2509.20297v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] From Pheromones to Policies: Reinforcement Learning for Engineered Biological Swarms|[[pdf]](http://arxiv.org/abs/2509.20095v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] GraspFactory: A Large Object-Centric Grasping Dataset|[[pdf]](http://arxiv.org/abs/2509.20550v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models|[[pdf]](http://arxiv.org/abs/2509.20107v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|Polarity Detection of Sustainable Detection Goals in News Text|[[pdf]](http://arxiv.org/abs/2509.19833v2)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects|[[pdf]](http://arxiv.org/abs/2509.19892v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] Generalist Robot Manipulation beyond Action Labeled Data|[[pdf]](http://arxiv.org/abs/2509.19958v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents|[[pdf]](http://arxiv.org/abs/2509.19843v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies|[[pdf]](http://arxiv.org/abs/2509.19712v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-23|[en] Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2509.19573v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-23|[en] Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots|[[pdf]](http://arxiv.org/abs/2509.19610v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-23|[en] Real-Time Reinforcement Learning for Dynamic Tasks with a Parallel Soft Robot|[[pdf]](http://arxiv.org/abs/2509.19525v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[WorldForge] WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance|[[pdf]](http://arxiv.org/abs/2509.15130v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|Self-Improving Embodied Foundation Models|[[pdf]](http://arxiv.org/abs/2509.15155v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[M4Diffuser] M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2509.14980v1)|⚠️|⭐️⭐️⭐️|
@@ -1982,6 +2022,6 @@
 
 ## 📊 统计
 
-- 论文总数：1956篇
+- 论文总数：1996篇
 - 代码实现：20个
 - 最后更新：2025年09月

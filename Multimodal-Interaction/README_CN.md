@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|Communication Bias in Large Language Models: A Regulatory Perspective|[[pdf]](http://arxiv.org/abs/2509.21075v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation|[[pdf]](http://arxiv.org/abs/2509.19954v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[Multi-Agent] Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery|[[pdf]](http://arxiv.org/abs/2509.14967v2)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[InfraMind] InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management|[[pdf]](http://arxiv.org/abs/2509.13704v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[GestOS] GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot|[[pdf]](http://arxiv.org/abs/2509.14412v1)|⚠️|⭐️⭐️⭐️|
@@ -270,6 +272,6 @@
 
 ## 📊 统计
 
-- 论文总数：245篇
+- 论文总数：247篇
 - 代码实现：6个
 - 最后更新：2025年09月

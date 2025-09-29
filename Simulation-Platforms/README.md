@@ -39,6 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-09-25|[en] Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI|[[pdf]](http://arxiv.org/abs/2509.20640v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[MELEGROS] MELEGROS: Monolithic Elephant-inspired Gripper with Optical Sensors|[[pdf]](http://arxiv.org/abs/2509.20510v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-24|[en] Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization|[[pdf]](http://arxiv.org/abs/2509.19688v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[TITAN] TITAN: A Trajectory-Informed Technique for Adaptive Parameter Freezing in Large-Scale VQE|[[pdf]](http://arxiv.org/abs/2509.15193v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2509.14956v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|Rationality Check! Benchmarking the Rationality of Large Language Models|[[pdf]](http://arxiv.org/abs/2509.14546v1)|⚠️|⭐️⭐️⭐️|
@@ -389,6 +392,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 364
+- Total Papers: 367
 - Code Implementations: 21
 - Last Updated: September 2025
