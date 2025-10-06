@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|A Locally Executable AI System for Improving Preoperative Patient Communication: A Multi-Domain Clinical Evaluation|[[pdf]](http://arxiv.org/abs/2510.01671v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP|[[pdf]](http://arxiv.org/abs/2510.01780v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Source-Free Cross-Domain Continual Learning|[[pdf]](http://arxiv.org/abs/2510.01649v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[INSIGHT] INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.01389v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|Communication Bias in Large Language Models: A Regulatory Perspective|[[pdf]](http://arxiv.org/abs/2509.21075v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-24|[en] Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation|[[pdf]](http://arxiv.org/abs/2509.19954v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|[Multi-Agent] Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery|[[pdf]](http://arxiv.org/abs/2509.14967v2)|⚠️|⭐️⭐️⭐️|
@@ -272,6 +276,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 247
+- Total Papers: 251
 - Code Implementations: 6
-- Last Updated: September 2025
+- Last Updated: October 2025

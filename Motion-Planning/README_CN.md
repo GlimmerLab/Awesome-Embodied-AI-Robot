@@ -32,6 +32,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|[Humanoid] PolySim: Bridging the Sim-to-Real Gap for Humanoid Control via Multi-Simulator Dynamics Randomization|[[pdf]](http://arxiv.org/abs/2510.01708v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Latency-aware Multimodal Federated Learning over UAV Networks|[[pdf]](http://arxiv.org/abs/2510.01717v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[SoK] SoK: Measuring What Matters for Closed-Loop Security Agents|[[pdf]](http://arxiv.org/abs/2510.01654v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[SPARC] SPARC: Spine with Prismatic and Revolute Compliance for Quadruped Robot|[[pdf]](http://arxiv.org/abs/2510.01984v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control|[[pdf]](http://arxiv.org/abs/2510.02129v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models|[[pdf]](http://arxiv.org/abs/2510.01914v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Conflict-Based Search as a Protocol: A Multi-Agent Motion Planning Protocol for Heterogeneous Agents, Solvers, and Independent Tasks|[[pdf]](http://arxiv.org/abs/2510.00425v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|AI-Enabled Crater-Based Navigation for Lunar Mapping|[[pdf]](http://arxiv.org/abs/2509.20748v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|SLAM-Free Visual Navigation with Hierarchical Vision-Language Perception and Coarse-to-Fine Semantic Topological Planning|[[pdf]](http://arxiv.org/abs/2509.20739v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|Learning Terrain-Specialized Policies for Adaptive Locomotion in Challenging Environments|[[pdf]](http://arxiv.org/abs/2509.20635v1)|⚠️|⭐️⭐️⭐️|
@@ -432,6 +439,6 @@
 
 ## 📊 统计
 
-- 论文总数：407篇
+- 论文总数：414篇
 - 代码实现：8个
-- 最后更新：2025年09月
+- 最后更新：2025年10月

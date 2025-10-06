@@ -39,6 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|[When Tracking Fails] When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos|[[pdf]](http://arxiv.org/abs/2510.02100v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[en] GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics|[[pdf]](http://arxiv.org/abs/2510.01848v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.00726v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[Verbalized Sampling] Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity|[[pdf]](http://arxiv.org/abs/2510.01171v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Neural Network Surrogates for Free Energy Computation of Complex Chemical Systems|[[pdf]](http://arxiv.org/abs/2510.01396v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] Physics-Informed Neural Controlled Differential Equations for Scalable Long Horizon Multi-Agent Motion Forecasting|[[pdf]](http://arxiv.org/abs/2510.00401v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[en] Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using Agentic AI|[[pdf]](http://arxiv.org/abs/2509.20640v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-24|[MELEGROS] MELEGROS: Monolithic Elephant-inspired Gripper with Optical Sensors|[[pdf]](http://arxiv.org/abs/2509.20510v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-24|[en] Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization|[[pdf]](http://arxiv.org/abs/2509.19688v1)|⚠️|⭐️⭐️⭐️|
@@ -392,6 +398,6 @@
 
 ## 📊 统计
 
-- 论文总数：367篇
+- 论文总数：373篇
 - 代码实现：21个
-- 最后更新：2025年09月
+- 最后更新：2025年10月

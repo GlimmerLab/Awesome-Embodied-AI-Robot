@@ -22,6 +22,10 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|[Multi-robot] TACOS: Task Agnostic COordinator of a multi-drone System|[[pdf]](http://arxiv.org/abs/2510.01869v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[Symskill] Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2510.01661v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes|[[pdf]](http://arxiv.org/abs/2510.00154v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] A Systematic Study of Large Language Models for Task and Motion Planning With PDDLStream|[[pdf]](http://arxiv.org/abs/2510.00182v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-18|Hierarchical Planning and Scheduling for Reconfigurable Multi-Robot Disassembly Systems under Structural Constraints|[[pdf]](http://arxiv.org/abs/2509.14564v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|Process-Supervised Reinforcement Learning for Interactive Multimodal Tool-Use Agents|[[pdf]](http://arxiv.org/abs/2509.14480v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-17|[FlowDrive] FlowDrive: Energy Flow Field for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2509.14303v1)|⚠️|⭐️⭐️⭐️|
@@ -236,6 +240,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 212
+- Total Papers: 216
 - Code Implementations: 6
-- Last Updated: September 2025
+- Last Updated: October 2025

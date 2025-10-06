@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|[en] Real-time Multi-Plane Segmentation Based on GPU Accelerated High-Resolution 3D Voxel Mapping for Legged Robot Locomotion|[[pdf]](http://arxiv.org/abs/2510.01592v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[en] LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions|[[pdf]](http://arxiv.org/abs/2510.02104v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2510.01304v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions|[[pdf]](http://arxiv.org/abs/2510.00783v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation|[[pdf]](http://arxiv.org/abs/2509.26308v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[AnywhereVLA] AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2509.21006v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[en] MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM|[[pdf]](http://arxiv.org/abs/2509.20757v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[en] Building Information Models to Robot-Ready Site Digital Twins (BIM2RDT): An Agentic AI Safety-First Framework|[[pdf]](http://arxiv.org/abs/2509.20705v1)|⚠️|⭐️⭐️⭐️|
@@ -285,6 +290,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 261
+- Total Papers: 266
 - Code Implementations: 8
-- Last Updated: September 2025
+- Last Updated: October 2025

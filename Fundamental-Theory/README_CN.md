@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|[Nav-EE] Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2510.01795v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Understanding the Geospatial Reasoning Capabilities of LLMs: A Trajectory Recovery Perspective|[[pdf]](http://arxiv.org/abs/2510.01639v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[KAIROS] KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting|[[pdf]](http://arxiv.org/abs/2510.02084v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[Plan Then Action] Plan Then Action:High-Level Planning Guidance Reinforcement Learning for LLM Reasoning|[[pdf]](http://arxiv.org/abs/2510.01833v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Can World Models Benefit VLMs for World Dynamics?|[[pdf]](http://arxiv.org/abs/2510.00855v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|Efficient Construction of Implicit Surface Models From a Single Image for Motion Generation|[[pdf]](http://arxiv.org/abs/2509.20681v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[CLAUSE] CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering|[[pdf]](http://arxiv.org/abs/2509.21035v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy|[[pdf]](http://arxiv.org/abs/2509.21190v1)|⚠️|⭐️⭐️⭐️|
@@ -397,6 +402,6 @@
 
 ## 📊 统计
 
-- 论文总数：376篇
+- 论文总数：381篇
 - 代码实现：5个
-- 最后更新：2025年09月
+- 最后更新：2025年10月

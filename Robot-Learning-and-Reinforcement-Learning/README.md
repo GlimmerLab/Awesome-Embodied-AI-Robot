@@ -47,6 +47,45 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-02|Information Seeking for Robust Decision Making under Partial Observability|[[pdf]](http://arxiv.org/abs/2510.01531v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Learning to Generate Object Interactions with Physics-Guided Video Diffusion|[[pdf]](http://arxiv.org/abs/2510.02284v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|The Unreasonable Effectiveness of Scaling Agents for Computer Use|[[pdf]](http://arxiv.org/abs/2510.02250v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[DragFlow] DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing|[[pdf]](http://arxiv.org/abs/2510.02253v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[DiFFPO] DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.02212v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots|[[pdf]](http://arxiv.org/abs/2510.01843v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[VLA-R1] VLA-R1: Enhancing Reasoning in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.01623v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[Retargeting Matters] Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking|[[pdf]](http://arxiv.org/abs/2510.02252v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[FailSafe] FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.01642v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[ActiveUMI] ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations|[[pdf]](http://arxiv.org/abs/2510.01607v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[MiniBEE] MiniBEE: A New Form Factor for Compact Bimanual Dexterity|[[pdf]](http://arxiv.org/abs/2510.01603v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[ARMADA] ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation|[[pdf]](http://arxiv.org/abs/2510.02298v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework|[[pdf]](http://arxiv.org/abs/2510.01830v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-02|[en] EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction|[[pdf]](http://arxiv.org/abs/2510.02080v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[VL-KnG] VL-KnG: Visual Scene Understanding for Navigation Goal Identification using Spatiotemporal Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2510.01483v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[MG2FlowNet] MG2FlowNet: Accelerating High-Reward Sample Generation via Enhanced MCTS and Greediness Control|[[pdf]](http://arxiv.org/abs/2510.00805v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[RiskPO] RiskPO: Risk-based Policy Optimization via Verifiable Reward for LLM Post-Training|[[pdf]](http://arxiv.org/abs/2510.00911v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[DIA] DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models|[[pdf]](http://arxiv.org/abs/2510.00778v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[VENTURA] VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation|[[pdf]](http://arxiv.org/abs/2510.01388v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Hybrid Training for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.00600v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments|[[pdf]](http://arxiv.org/abs/2510.01519v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment|[[pdf]](http://arxiv.org/abs/2510.00491v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[Prometheus] Prometheus: Universal, Open-Source Mocap-Based Teleoperation System with Force Feedback for Dataset Collection in Robot Learning|[[pdf]](http://arxiv.org/abs/2510.01023v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[AFFORD2ACT] AFFORD2ACT: Affordance-Guided Automatic Keypoint Selection for Generalizable and Lightweight Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.01433v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] Code2Video: A Code-centric Paradigm for Educational Video Generation|[[pdf]](http://arxiv.org/abs/2510.01174v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] A Practitioner's Guide to Multi-turn Agentic Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.01132v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[GEM] GEM: A Gym for Agentic LLMs|[[pdf]](http://arxiv.org/abs/2510.01051v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Adaptive Federated Few-Shot Rare-Disease Diagnosis with Energy-Aware Secure Aggregation|[[pdf]](http://arxiv.org/abs/2510.00976v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Differentiable Skill Optimisation for Powder Manipulation in Laboratory Automation|[[pdf]](http://arxiv.org/abs/2510.01438v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition|[[pdf]](http://arxiv.org/abs/2510.01068v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] Shared Object Manipulation with a Team of Collaborative Quadrupeds|[[pdf]](http://arxiv.org/abs/2510.00682v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-01|[en] Integrating Offline Pre-Training with Online Fine-Tuning: A Reinforcement Learning Approach for Robot Social Navigation|[[pdf]](http://arxiv.org/abs/2510.00466v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|Learning Human Reaching Optimality Principles from Minimal Observation Inverse Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.00329v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[DiSA-IQL] DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts|[[pdf]](http://arxiv.org/abs/2510.00358v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm|[[pdf]](http://arxiv.org/abs/2509.26236v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction|[[pdf]](http://arxiv.org/abs/2509.26633v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2509.26642v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] Radio-based Multi-Robot Odometry and Relative Localization|[[pdf]](http://arxiv.org/abs/2509.26558v1)|⚠️|⭐️⭐️⭐️|
+|2025-09-30|[en] TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks|[[pdf]](http://arxiv.org/abs/2510.00225v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[Dynamic] Joint Flow Trajectory Optimization For Feasible Robot Motion Generation from Video Demonstrations|[[pdf]](http://arxiv.org/abs/2509.20703v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[Humanoid] RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking|[[pdf]](http://arxiv.org/abs/2509.20717v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-25|[Trajectory] Cross-Modal Instructions for Robot Motion Generation|[[pdf]](http://arxiv.org/abs/2509.21107v1)|⚠️|⭐️⭐️⭐️|
@@ -2022,6 +2061,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 1996
+- Total Papers: 2035
 - Code Implementations: 20
-- Last Updated: September 2025
+- Last Updated: October 2025
