@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|[en] Stability Criteria and Motor Performance in Delayed Haptic Dyadic Interactions Mediated by Robots|[[pdf]](http://arxiv.org/abs/2510.14511v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[MotionBeat] MotionBeat: Motion-Aligned Music Representation via Embodied Contrastive Learning and Bar-Equivariant Contact-Aware Encoding|[[pdf]](http://arxiv.org/abs/2510.13244v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[DriveCritic] DriveCritic: Towards Context-Aware, Human-Aligned Evaluation for Autonomous Driving with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2510.13108v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[en] LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.13626v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|A Locally Executable AI System for Improving Preoperative Patient Communication: A Multi-Domain Clinical Evaluation|[[pdf]](http://arxiv.org/abs/2510.01671v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP|[[pdf]](http://arxiv.org/abs/2510.01780v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|Source-Free Cross-Domain Continual Learning|[[pdf]](http://arxiv.org/abs/2510.01649v1)|⚠️|⭐️⭐️⭐️|
@@ -276,6 +280,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 251
+- Total Papers: 255
 - Code Implementations: 6
 - Last Updated: October 2025

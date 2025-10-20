@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|[Trajectory] RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.14828v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning|[[pdf]](http://arxiv.org/abs/2510.14065v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[RoboHiMan] RoboHiMan: A Hierarchical Evaluation Paradigm for Compositional Generalization in Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2510.13149v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[Multi-robot] TACOS: Task Agnostic COordinator of a multi-drone System|[[pdf]](http://arxiv.org/abs/2510.01869v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[Symskill] Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2510.01661v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-30|[en] RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes|[[pdf]](http://arxiv.org/abs/2510.00154v1)|⚠️|⭐️⭐️⭐️|
@@ -240,6 +243,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 216
+- Total Papers: 219
 - Code Implementations: 6
 - Last Updated: October 2025

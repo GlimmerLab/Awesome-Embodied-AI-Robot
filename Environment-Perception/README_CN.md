@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|[VLA^2] VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation|[[pdf]](http://arxiv.org/abs/2510.14902v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[AI for Service] AI for Service: Proactive Assistance with AI Glasses|[[pdf]](http://arxiv.org/abs/2510.14359v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Two-stream network-driven vision-based tactile sensor for object feature extraction and fusion perception|[[pdf]](http://arxiv.org/abs/2510.12528v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[en] Real-time Multi-Plane Segmentation Based on GPU Accelerated High-Resolution 3D Voxel Mapping for Legged Robot Locomotion|[[pdf]](http://arxiv.org/abs/2510.01592v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[en] LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions|[[pdf]](http://arxiv.org/abs/2510.02104v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-01|Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2510.01304v1)|⚠️|⭐️⭐️⭐️|
@@ -290,6 +293,6 @@
 
 ## 📊 统计
 
-- 论文总数：266篇
+- 论文总数：269篇
 - 代码实现：8个
 - 最后更新：2025年10月

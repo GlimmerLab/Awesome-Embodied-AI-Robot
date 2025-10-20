@@ -32,6 +32,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|[STANCE] STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding|[[pdf]](http://arxiv.org/abs/2510.14588v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2510.14947v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[Biped] From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance|[[pdf]](http://arxiv.org/abs/2510.14952v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[en] Prescribed Performance Control of Deformable Object Manipulation in Spatial Latent Space|[[pdf]](http://arxiv.org/abs/2510.14234v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[MimicParts] MimicParts: Part-aware Style Injection for Speech-Driven 3D Motion Generation|[[pdf]](http://arxiv.org/abs/2510.13208v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots|[[pdf]](http://arxiv.org/abs/2510.13594v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Shape-Aware Whole-Body Control for Continuum Robots with Application in Endoluminal Surgical Robotics|[[pdf]](http://arxiv.org/abs/2510.12332v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-13|[en] NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.11542v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[Humanoid] PolySim: Bridging the Sim-to-Real Gap for Humanoid Control via Multi-Simulator Dynamics Randomization|[[pdf]](http://arxiv.org/abs/2510.01708v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|Latency-aware Multimodal Federated Learning over UAV Networks|[[pdf]](http://arxiv.org/abs/2510.01717v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[SoK] SoK: Measuring What Matters for Closed-Loop Security Agents|[[pdf]](http://arxiv.org/abs/2510.01654v1)|⚠️|⭐️⭐️⭐️|
@@ -439,6 +447,6 @@
 
 ## 📊 统计
 
-- 论文总数：414篇
+- 论文总数：422篇
 - 代码实现：8个
 - 最后更新：2025年10月

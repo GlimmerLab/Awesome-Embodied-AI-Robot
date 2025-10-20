@@ -39,6 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|Inpainting the Red Planet: Diffusion Models for the Reconstruction of Martian Environments in Virtual Reality|[[pdf]](http://arxiv.org/abs/2510.14765v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[ColorBench] ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2510.14621v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks|[[pdf]](http://arxiv.org/abs/2510.14207v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2510.14401v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[en] Helmsman: Autonomous Synthesis of Federated Learning Systems via Multi-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2510.14512v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Stable but Miscalibrated: A Kantian View on Overconfidence from Filters to Large Language Models|[[pdf]](http://arxiv.org/abs/2510.14925v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[When Tracking Fails] When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos|[[pdf]](http://arxiv.org/abs/2510.02100v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[en] GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics|[[pdf]](http://arxiv.org/abs/2510.01848v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-01|[en] CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.00726v1)|⚠️|⭐️⭐️⭐️|
@@ -398,6 +404,6 @@
 
 ## 📊 统计
 
-- 论文总数：373篇
+- 论文总数：379篇
 - 代码实现：21个
 - 最后更新：2025年10月

@@ -18,6 +18,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|Spatially anchored Tactile Awareness for Robust Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2510.14647v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[ARM-FM] ARM-FM: Automated Reward Machines via Foundation Models for Compositional Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.14176v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[NExT-OMNI] NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching|[[pdf]](http://arxiv.org/abs/2510.13721v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Adaptive Obstacle-Aware Task Assignment and Planning for Heterogeneous Robot Teaming|[[pdf]](http://arxiv.org/abs/2510.14063v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] T(R,O) Grasp: Efficient Graph Diffusion of Robot-Object Spatial Transformation for Cross-Embodiment Dexterous Grasping|[[pdf]](http://arxiv.org/abs/2510.12724v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] The Omega Turn: A General Turning Template for Elongate Robots|[[pdf]](http://arxiv.org/abs/2510.12970v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[Nav-EE] Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2510.01795v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|Understanding the Geospatial Reasoning Capabilities of LLMs: A Trajectory Recovery Perspective|[[pdf]](http://arxiv.org/abs/2510.01639v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[KAIROS] KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting|[[pdf]](http://arxiv.org/abs/2510.02084v2)|⚠️|⭐️⭐️⭐️|
@@ -402,6 +408,6 @@
 
 ## 📊 统计
 
-- 论文总数：381篇
+- 论文总数：387篇
 - 代码实现：5个
 - 最后更新：2025年10月

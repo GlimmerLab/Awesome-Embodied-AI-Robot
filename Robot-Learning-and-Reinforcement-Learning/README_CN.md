@@ -47,6 +47,49 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|Learning Human-Humanoid Coordination for Collaborative Object Carrying|[[pdf]](http://arxiv.org/abs/2510.14293v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[Humanoid] Towards Adaptable Humanoid Control via Adaptive Motion Tracking|[[pdf]](http://arxiv.org/abs/2510.14454v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[Humanoid] CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2510.14959v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[Hi-Agent] Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control|[[pdf]](http://arxiv.org/abs/2510.14388v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[SUM-AgriVLN] SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2510.14357v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Agentic Design of Compositional Machines|[[pdf]](http://arxiv.org/abs/2510.14980v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training|[[pdf]](http://arxiv.org/abs/2510.14969v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[TITAN] TITAN: Graph-Executable Reasoning for Cyber Threat Intelligence|[[pdf]](http://arxiv.org/abs/2510.14670v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[GroundedPRM] GroundedPRM: Tree-Guided and Fidelity-Aware Process Reward Modeling for Step-Level Reasoning|[[pdf]](http://arxiv.org/abs/2510.14942v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Generative Models From and For Sampling-Based MPC: A Bootstrapped Approach For Adaptive Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2510.14643v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[RL-100] RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.14830v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Restoring Noisy Demonstration for Imitation Learning With Diffusion Models|[[pdf]](http://arxiv.org/abs/2510.14467v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning|[[pdf]](http://arxiv.org/abs/2510.14300v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[The Bidding Games] The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain|[[pdf]](http://arxiv.org/abs/2510.14642v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network|[[pdf]](http://arxiv.org/abs/2510.14243v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living|[[pdf]](http://arxiv.org/abs/2510.14513v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Feature Selection and Regularization in Multi-Class Classification: An Empirical Study of One-vs-Rest Logistic Regression with Gradient Descent Optimization and L1 Sparsity Constraints|[[pdf]](http://arxiv.org/abs/2510.14449v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Risk-Aware Reinforcement Learning with Bandit-Based Adaptation for Quadrupedal Locomotion|[[pdf]](http://arxiv.org/abs/2510.14338v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[Imitation] Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2510.14771v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|[VT-Refine] VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin|[[pdf]](http://arxiv.org/abs/2510.14930v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-16|Leveraging Neural Descriptor Fields for Learning Contact-Aware Dynamic Recovery|[[pdf]](http://arxiv.org/abs/2510.14768v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails|[[pdf]](http://arxiv.org/abs/2510.13727v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|The Art of Scaling Reinforcement Learning Compute for LLMs|[[pdf]](http://arxiv.org/abs/2510.13786v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.13324v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[ViTacGen] ViTacGen: Robotic Pushing with Vision-to-Touch Generation|[[pdf]](http://arxiv.org/abs/2510.14117v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[InternVLA-M1] InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy|[[pdf]](http://arxiv.org/abs/2510.13778v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Hierarchical Discrete Lattice Assembly: An Approach for the Digital Fabrication of Scalable Macroscale Structures|[[pdf]](http://arxiv.org/abs/2510.13686v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents|[[pdf]](http://arxiv.org/abs/2510.13704v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[MimicKit] MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control|[[pdf]](http://arxiv.org/abs/2510.13794v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[en] VLA-0: Building State-of-the-Art VLAs with Zero Modification|[[pdf]](http://arxiv.org/abs/2510.13054v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[en] Adversarial Fine-tuning in Offline-to-Online Reinforcement Learning for Robust Robot Control|[[pdf]](http://arxiv.org/abs/2510.13358v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[en] Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations|[[pdf]](http://arxiv.org/abs/2510.13488v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[Actron3D] Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.12971v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop|[[pdf]](http://arxiv.org/abs/2510.12662v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Learning to Grasp Anything by Playing with Random Toys|[[pdf]](http://arxiv.org/abs/2510.12866v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] A Task-Efficient Reinforcement Learning Task-Motion Planner for Safe Human-Robot Cooperation|[[pdf]](http://arxiv.org/abs/2510.12477v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Reflection-Based Task Adaptation for Self-Improving VLA|[[pdf]](http://arxiv.org/abs/2510.12710v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Robot Learning: A Tutorial|[[pdf]](http://arxiv.org/abs/2510.12403v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Controlling Intent Expressiveness in Robot Motion with Diffusion Models|[[pdf]](http://arxiv.org/abs/2510.12370v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge|[[pdf]](http://arxiv.org/abs/2510.12509v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Autonomous Legged Mobile Manipulation for Lunar Surface Operations via Constrained Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.12684v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-14|[en] Pretraining in Actor-Critic Reinforcement Learning for Robot Motion Control|[[pdf]](http://arxiv.org/abs/2510.12363v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-13|[en] Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation|[[pdf]](http://arxiv.org/abs/2510.11689v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|Information Seeking for Robust Decision Making under Partial Observability|[[pdf]](http://arxiv.org/abs/2510.01531v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|Learning to Generate Object Interactions with Physics-Guided Video Diffusion|[[pdf]](http://arxiv.org/abs/2510.02284v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|The Unreasonable Effectiveness of Scaling Agents for Computer Use|[[pdf]](http://arxiv.org/abs/2510.02250v1)|⚠️|⭐️⭐️⭐️|
@@ -2061,6 +2104,6 @@
 
 ## 📊 统计
 
-- 论文总数：2035篇
+- 论文总数：2078篇
 - 代码实现：20个
 - 最后更新：2025年10月

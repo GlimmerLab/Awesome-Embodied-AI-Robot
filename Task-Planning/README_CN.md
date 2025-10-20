@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-16|[Trajectory] RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.14828v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning|[[pdf]](http://arxiv.org/abs/2510.14065v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-15|[RoboHiMan] RoboHiMan: A Hierarchical Evaluation Paradigm for Compositional Generalization in Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2510.13149v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[Multi-robot] TACOS: Task Agnostic COordinator of a multi-drone System|[[pdf]](http://arxiv.org/abs/2510.01869v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-02|[Symskill] Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2510.01661v1)|⚠️|⭐️⭐️⭐️|
 |2025-09-30|[en] RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes|[[pdf]](http://arxiv.org/abs/2510.00154v1)|⚠️|⭐️⭐️⭐️|
@@ -240,6 +243,6 @@
 
 ## 📊 统计
 
-- 论文总数：216篇
+- 论文总数：219篇
 - 代码实现：6个
 - 最后更新：2025年10月
