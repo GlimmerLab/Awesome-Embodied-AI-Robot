@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-23|[R2-SVC] R2-SVC: Towards Real-World Robust and Expressive Zero-shot Singing Voice Conversion|[[pdf]](http://arxiv.org/abs/2510.20677v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Transferable Black-Box One-Shot Forging of Watermarks via Image Preference Models|[[pdf]](http://arxiv.org/abs/2510.20468v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] MADR: MPC-guided Adversarial DeepReach|[[pdf]](http://arxiv.org/abs/2510.18845v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|Inpainting the Red Planet: Diffusion Models for the Reconstruction of Martian Environments in Virtual Reality|[[pdf]](http://arxiv.org/abs/2510.14765v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[ColorBench] ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2510.14621v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks|[[pdf]](http://arxiv.org/abs/2510.14207v1)|⚠️|⭐️⭐️⭐️|
@@ -404,6 +407,6 @@
 
 ## 📊 统计
 
-- 论文总数：379篇
+- 论文总数：382篇
 - 代码实现：21个
 - 最后更新：2025年10月

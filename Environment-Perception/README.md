@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-23|[en] GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?|[[pdf]](http://arxiv.org/abs/2510.20333v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|Kinematic Analysis and Integration of Vision Algorithms for a Mobile Manipulator Employed Inside a Self-Driving Laboratory|[[pdf]](http://arxiv.org/abs/2510.19081v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[$\nabla$-SDF] $\nabla$-SDF: Learning Euclidean Signed Distance Functions Online with Gradient-Augmented Octree Interpolation and Neural Residual|[[pdf]](http://arxiv.org/abs/2510.18999v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] Intent-Driven LLM Ensemble Planning for Flexible Multi-Robot Disassembly: Demonstration on EV Batteries|[[pdf]](http://arxiv.org/abs/2510.17576v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[VLA^2] VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation|[[pdf]](http://arxiv.org/abs/2510.14902v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[AI for Service] AI for Service: Proactive Assistance with AI Glasses|[[pdf]](http://arxiv.org/abs/2510.14359v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-14|[en] Two-stream network-driven vision-based tactile sensor for object feature extraction and fusion perception|[[pdf]](http://arxiv.org/abs/2510.12528v1)|⚠️|⭐️⭐️⭐️|
@@ -293,6 +297,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 269
+- Total Papers: 273
 - Code Implementations: 8
 - Last Updated: October 2025

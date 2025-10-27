@@ -18,6 +18,11 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-23|[en] Multi-Step Reasoning for Embodied Question Answering via Tool Augmentation|[[pdf]](http://arxiv.org/abs/2510.20310v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[en] A Tutorial on Cognitive Biases in Agentic AI-Driven 6G Autonomous Networks|[[pdf]](http://arxiv.org/abs/2510.19973v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[en] NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning|[[pdf]](http://arxiv.org/abs/2510.19429v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[en] Calibration of Parallel Kinematic Machine Based on Stewart Platform-A Literature Review|[[pdf]](http://arxiv.org/abs/2510.20070v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies|[[pdf]](http://arxiv.org/abs/2510.17950v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|Spatially anchored Tactile Awareness for Robust Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2510.14647v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[ARM-FM] ARM-FM: Automated Reward Machines via Foundation Models for Compositional Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.14176v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-15|[NExT-OMNI] NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching|[[pdf]](http://arxiv.org/abs/2510.13721v2)|⚠️|⭐️⭐️⭐️|
@@ -408,6 +413,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 387
+- Total Papers: 392
 - Code Implementations: 5
 - Last Updated: October 2025

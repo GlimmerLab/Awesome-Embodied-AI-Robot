@@ -47,6 +47,39 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-23|[VAMOS] VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation|[[pdf]](http://arxiv.org/abs/2510.20818v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots|[[pdf]](http://arxiv.org/abs/2510.20347v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[NeuralTouch] NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control|[[pdf]](http://arxiv.org/abs/2510.20390v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Real-Time Gait Adaptation for Quadrupeds using Model Predictive Control and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.20706v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|A Contact-Driven Framework for Manipulating in the Blind|[[pdf]](http://arxiv.org/abs/2510.20177v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[MR-UBi] MR-UBi: Mixed Reality-Based Underwater Robot Arm Teleoperation System with Reaction Torque Indicator via Bilateral Control|[[pdf]](http://arxiv.org/abs/2510.20407v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[MemER] MemER: Scaling Up Memory for Robot Control via Experience Retrieval|[[pdf]](http://arxiv.org/abs/2510.20328v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Simultaneous Stiffness and Trajectory Optimization for Energy Minimization of Pick-and-Place Tasks of SEA-Actuated Parallel Kinematic Manipulators|[[pdf]](http://arxiv.org/abs/2510.20490v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[en] GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.20813v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[en] The Reality Gap in Robotics: Challenges, Solutions, and Best Practices|[[pdf]](http://arxiv.org/abs/2510.20808v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[en] FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation|[[pdf]](http://arxiv.org/abs/2510.20774v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Human-Centered LLM-Agent System for Detecting Anomalous Digital Asset Transactions|[[pdf]](http://arxiv.org/abs/2510.20102v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2510.20728v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Reinforcement Learning and Consumption-Savings Behavior|[[pdf]](http://arxiv.org/abs/2510.20748v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Neural Diversity Regularizes Hallucinations in Small Models|[[pdf]](http://arxiv.org/abs/2510.20690v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2510.20683v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|Reinforcement Learning-based Robust Wall Climbing Locomotion Controller in Ferromagnetic Environment|[[pdf]](http://arxiv.org/abs/2510.20174v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[PointMapPolicy] PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning|[[pdf]](http://arxiv.org/abs/2510.20406v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[GigaBrain-0] GigaBrain-0: A World Model-Powered Vision-Language-Action Model|[[pdf]](http://arxiv.org/abs/2510.19430v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[Push Anything] Push Anything: Single- and Multi-Object Pushing From First Sight with Contact-Implicit MPC|[[pdf]](http://arxiv.org/abs/2510.19974v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|Learning Affordances at Inference-Time for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.19752v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.19495v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[en] Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.19732v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|Large Language Model enabled Mathematical Modeling|[[pdf]](http://arxiv.org/abs/2510.19895v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[HSCodeComp] HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents in Hierarchical Rule Application|[[pdf]](http://arxiv.org/abs/2510.19631v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|A Cross-Environment and Cross-Embodiment Path Planning Framework via a Conditional Diffusion Model|[[pdf]](http://arxiv.org/abs/2510.19128v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning|[[pdf]](http://arxiv.org/abs/2510.18518v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion|[[pdf]](http://arxiv.org/abs/2510.18348v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints|[[pdf]](http://arxiv.org/abs/2510.18002v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] SoftMimic: Learning Compliant Whole-body Control from Examples|[[pdf]](http://arxiv.org/abs/2510.17792v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain|[[pdf]](http://arxiv.org/abs/2510.17801v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.17640v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|[en] HumanMPC - Safe and Efficient MAV Navigation among Humans|[[pdf]](http://arxiv.org/abs/2510.17525v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|Learning Human-Humanoid Coordination for Collaborative Object Carrying|[[pdf]](http://arxiv.org/abs/2510.14293v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[Humanoid] Towards Adaptable Humanoid Control via Adaptive Motion Tracking|[[pdf]](http://arxiv.org/abs/2510.14454v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[Humanoid] CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2510.14959v1)|⚠️|⭐️⭐️⭐️|
@@ -2104,6 +2137,6 @@
 
 ## 📊 统计
 
-- 论文总数：2078篇
+- 论文总数：2111篇
 - 代码实现：20个
 - 最后更新：2025年10月

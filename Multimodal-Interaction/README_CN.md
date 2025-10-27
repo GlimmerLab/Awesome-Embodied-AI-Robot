@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-21|[en] Biomechanically consistent real-time action recognition for human-robot interaction|[[pdf]](http://arxiv.org/abs/2510.18373v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[en] Stability Criteria and Motor Performance in Delayed Haptic Dyadic Interactions Mediated by Robots|[[pdf]](http://arxiv.org/abs/2510.14511v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-15|[MotionBeat] MotionBeat: Motion-Aligned Music Representation via Embodied Contrastive Learning and Bar-Equivariant Contact-Aware Encoding|[[pdf]](http://arxiv.org/abs/2510.13244v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-15|[DriveCritic] DriveCritic: Towards Context-Aware, Human-Aligned Evaluation for Autonomous Driving with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2510.13108v1)|⚠️|⭐️⭐️⭐️|
@@ -280,6 +281,6 @@
 
 ## 📊 统计
 
-- 论文总数：255篇
+- 论文总数：256篇
 - 代码实现：6个
 - 最后更新：2025年10月

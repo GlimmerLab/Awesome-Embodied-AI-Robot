@@ -32,6 +32,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-23|[PathFormer] PathFormer: A Transformer with 3D Grid Constraints for Digital Twin Robot-Arm Trajectory Generation|[[pdf]](http://arxiv.org/abs/2510.20161v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-23|[en] Dual Control Reference Generation for Optimal Pick-and-Place Execution under Payload Uncertainty|[[pdf]](http://arxiv.org/abs/2510.20483v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|Approximate Model Predictive Control for Microgrid Energy Management via Imitation Learning|[[pdf]](http://arxiv.org/abs/2510.20040v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|[en] Optimizing Prosthetic Wrist Movement: A Model Predictive Control Approach|[[pdf]](http://arxiv.org/abs/2510.19541v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|Safe Active Navigation and Exploration for Planetary Environments Using Proprioceptive Measurements|[[pdf]](http://arxiv.org/abs/2510.19101v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes|[[pdf]](http://arxiv.org/abs/2510.18678v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] Towards Proprioceptive Terrain Mapping with Quadruped Robots for Exploration in Planetary Permanently Shadowed Regions|[[pdf]](http://arxiv.org/abs/2510.18986v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] Quadrupeds for Planetary Exploration: Field Testing Control Algorithms on an Active Volcano|[[pdf]](http://arxiv.org/abs/2510.18600v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-20|Distributed Spatial-Temporal Trajectory Optimization for Unmanned-Aerial-Vehicle Swarm|[[pdf]](http://arxiv.org/abs/2510.17541v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[STANCE] STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding|[[pdf]](http://arxiv.org/abs/2510.14588v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2510.14947v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[Biped] From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance|[[pdf]](http://arxiv.org/abs/2510.14952v2)|⚠️|⭐️⭐️⭐️|
@@ -447,6 +456,6 @@
 
 ## 📊 统计
 
-- 论文总数：422篇
+- 论文总数：431篇
 - 代码实现：8个
 - 最后更新：2025年10月

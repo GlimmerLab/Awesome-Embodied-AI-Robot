@@ -22,6 +22,10 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-23|[EmbodiedBrain] EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence|[[pdf]](http://arxiv.org/abs/2510.20578v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models|[[pdf]](http://arxiv.org/abs/2510.19268v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-22|Semantic World Models|[[pdf]](http://arxiv.org/abs/2510.19818v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-21|[en] MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning|[[pdf]](http://arxiv.org/abs/2510.18337v3)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[Trajectory] RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.14828v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-15|Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning|[[pdf]](http://arxiv.org/abs/2510.14065v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-15|[RoboHiMan] RoboHiMan: A Hierarchical Evaluation Paradigm for Compositional Generalization in Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2510.13149v1)|⚠️|⭐️⭐️⭐️|
@@ -243,6 +247,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 219
+- Total Papers: 223
 - Code Implementations: 6
 - Last Updated: October 2025
