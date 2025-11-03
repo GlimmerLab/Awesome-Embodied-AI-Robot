@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-30|Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off|[[pdf]](http://arxiv.org/abs/2510.26722v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Cooperative Task Spaces for Multi-Arm Manipulation Control based on Similarity Transformations|[[pdf]](http://arxiv.org/abs/2510.26362v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights|[[pdf]](http://arxiv.org/abs/2510.26132v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[ALDEN] ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents|[[pdf]](http://arxiv.org/abs/2510.25668v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[Agentic AI] Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions|[[pdf]](http://arxiv.org/abs/2510.25445v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization|[[pdf]](http://arxiv.org/abs/2510.26023v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] Embodying Physical Computing into Soft Robots|[[pdf]](http://arxiv.org/abs/2510.24692v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[en] Multi-Step Reasoning for Embodied Question Answering via Tool Augmentation|[[pdf]](http://arxiv.org/abs/2510.20310v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-22|[en] A Tutorial on Cognitive Biases in Agentic AI-Driven 6G Autonomous Networks|[[pdf]](http://arxiv.org/abs/2510.19973v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-22|[en] NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning|[[pdf]](http://arxiv.org/abs/2510.19429v1)|⚠️|⭐️⭐️⭐️|
@@ -413,6 +420,6 @@
 
 ## 📊 统计
 
-- 论文总数：392篇
+- 论文总数：399篇
 - 代码实现：5个
-- 最后更新：2025年10月
+- 最后更新：2025年11月

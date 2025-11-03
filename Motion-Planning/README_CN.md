@@ -32,6 +32,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-30|[Thor] Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments|[[pdf]](http://arxiv.org/abs/2510.26280v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|[Biped] Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse|[[pdf]](http://arxiv.org/abs/2510.26082v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|[PHUMA] PHUMA: Physically-Grounded Humanoid Locomotion Dataset|[[pdf]](http://arxiv.org/abs/2510.26236v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[4-Doodle] 4-Doodle: Text to 3D Sketches that Move!|[[pdf]](http://arxiv.org/abs/2510.25319v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Time-Optimal Transport of Loosely Placed Liquid Filled Cups along Prescribed Paths|[[pdf]](http://arxiv.org/abs/2510.25255v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] AAGATE: A NIST AI RMF-Aligned Governance Platform for Agentic AI|[[pdf]](http://arxiv.org/abs/2510.25863v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] Hybrid Vision Servoing with Depp Alignment and GRU-Based Occlusion Recovery|[[pdf]](http://arxiv.org/abs/2510.25233v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] Collision avoidance and path finding in a robotic mobile fulfillment system using multi-objective meta-heuristics|[[pdf]](http://arxiv.org/abs/2510.25650v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|Defect Mitigation for Robot Arm-based Additive Manufacturing Utilizing Intelligent Control and IOT|[[pdf]](http://arxiv.org/abs/2510.24994v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|Smooth path planning with safety margins using Piece-Wise Bezier curves|[[pdf]](http://arxiv.org/abs/2510.24972v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[PathFormer] PathFormer: A Transformer with 3D Grid Constraints for Digital Twin Robot-Arm Trajectory Generation|[[pdf]](http://arxiv.org/abs/2510.20161v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[en] Dual Control Reference Generation for Optimal Pick-and-Place Execution under Payload Uncertainty|[[pdf]](http://arxiv.org/abs/2510.20483v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-22|Approximate Model Predictive Control for Microgrid Energy Management via Imitation Learning|[[pdf]](http://arxiv.org/abs/2510.20040v1)|⚠️|⭐️⭐️⭐️|
@@ -456,6 +466,6 @@
 
 ## 📊 统计
 
-- 论文总数：431篇
+- 论文总数：441篇
 - 代码实现：8个
-- 最后更新：2025年10月
+- 最后更新：2025年11月

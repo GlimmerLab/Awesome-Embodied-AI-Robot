@@ -47,6 +47,47 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-30|Hybrid DQN-TD3 Reinforcement Learning for Autonomous Navigation in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2510.26646v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Adaptive Inverse Kinematics Framework for Learning Variable-Length Tool Manipulation in Robotics|[[pdf]](http://arxiv.org/abs/2510.26551v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Clone Deterministic 3D Worlds with Geometrically-Regularized World Models|[[pdf]](http://arxiv.org/abs/2510.26782v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Network-Constrained Policy Optimization for Adaptive Multi-agent Vehicle Routing|[[pdf]](http://arxiv.org/abs/2510.26089v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Process Integrated Computer Vision for Real-Time Failure Prediction in Steel Rolling Mill|[[pdf]](http://arxiv.org/abs/2510.26684v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|[GUI Knowledge Bench] GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in GUI Tasks|[[pdf]](http://arxiv.org/abs/2510.26098v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Graph-Enhanced Policy Optimization in LLM Agent Training|[[pdf]](http://arxiv.org/abs/2510.26270v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Human-in-the-loop Online Rejection Sampling for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.26406v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in Web Games|[[pdf]](http://arxiv.org/abs/2510.26298v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Hybrid LLM and Higher-Order Quantum Approximate Optimization for CSA Collateral Management|[[pdf]](http://arxiv.org/abs/2510.26217v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Morphology-Aware Graph Reinforcement Learning for Tensegrity Robot Locomotion|[[pdf]](http://arxiv.org/abs/2510.26067v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems|[[pdf]](http://arxiv.org/abs/2510.26656v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Hybrid Consistency Policy: Decoupling Multi-Modal Diversity and Real-Time Efficiency in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.26670v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|Towards Reinforcement Learning Based Log Loading Automation|[[pdf]](http://arxiv.org/abs/2510.26363v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[Humanoid] One-shot Humanoid Whole-body Motion Learning|[[pdf]](http://arxiv.org/abs/2510.25241v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[GAP] GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.25320v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[DARTS] DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System|[[pdf]](http://arxiv.org/abs/2510.26004v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Navigation in a Three-Dimensional Urban Flow using Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.25679v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Improving Temporal Consistency and Fidelity at Inference-time in Perceptual Video Restoration by Zero-shot Image-based Diffusion Models|[[pdf]](http://arxiv.org/abs/2510.25420v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Multi-Objective Search: Algorithms, Applications, and Emerging Directions|[[pdf]](http://arxiv.org/abs/2510.25504v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[SynHLMA] SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation|[[pdf]](http://arxiv.org/abs/2510.25268v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[NanoVLA] NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies|[[pdf]](http://arxiv.org/abs/2510.25122v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[SoraNav] SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning|[[pdf]](http://arxiv.org/abs/2510.25191v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Sim-to-Real Gentle Manipulation of Deformable and Fragile Objects with Stress-Guided Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.25405v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[GET-USE] GET-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions|[[pdf]](http://arxiv.org/abs/2510.25754v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] Scalable predictive processing framework for multitask caregiving robots|[[pdf]](http://arxiv.org/abs/2510.25053v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] FELA: A Multi-Agent Evolutionary System for Feature Engineering of Industrial Event Log Data|[[pdf]](http://arxiv.org/abs/2510.25223v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Off-policy Reinforcement Learning with Model-based Exploration Augmentation|[[pdf]](http://arxiv.org/abs/2510.25529v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Multi-Agent Reinforcement Learning for Market Making: Competition without Collusion|[[pdf]](http://arxiv.org/abs/2510.25929v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] WaveVerif: Acoustic Side-Channel based Verification of Robotic Workflows|[[pdf]](http://arxiv.org/abs/2510.25960v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|A Convexity-dependent Two-Phase Training Algorithm for Deep Neural Networks|[[pdf]](http://arxiv.org/abs/2510.25366v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[BLM$_1$] BLM$_1$: A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning|[[pdf]](http://arxiv.org/abs/2510.24161v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2510.24461v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|An Adaptive Inspection Planning Approach Towards Routine Monitoring in Uncertain Environments|[[pdf]](http://arxiv.org/abs/2510.24554v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[DynaRend] DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2510.24261v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI|[[pdf]](http://arxiv.org/abs/2510.24109v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2510.25725v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors|[[pdf]](http://arxiv.org/abs/2510.24257v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots|[[pdf]](http://arxiv.org/abs/2510.24533v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] Towards Quadrupedal Jumping and Walking for Dynamic Locomotion using Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2510.24584v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-28|[en] Stochastic Prize-Collecting Games: Strategic Planning in Multi-Robot Systems|[[pdf]](http://arxiv.org/abs/2510.24515v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[VAMOS] VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation|[[pdf]](http://arxiv.org/abs/2510.20818v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots|[[pdf]](http://arxiv.org/abs/2510.20347v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[NeuralTouch] NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control|[[pdf]](http://arxiv.org/abs/2510.20390v1)|⚠️|⭐️⭐️⭐️|
@@ -2137,6 +2178,6 @@
 
 ## 📊 统计
 
-- 论文总数：2111篇
+- 论文总数：2152篇
 - 代码实现：20个
-- 最后更新：2025年10月
+- 最后更新：2025年11月

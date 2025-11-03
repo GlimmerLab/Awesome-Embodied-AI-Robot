@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-30|I don't Want You to Die: A Shared Responsibility Framework for Safeguarding Child-Robot Companionship|[[pdf]](http://arxiv.org/abs/2510.26080v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|[en] AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2510.26358v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Using latent representations to link disjoint longitudinal data for mixed-effects regression|[[pdf]](http://arxiv.org/abs/2510.25531v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[Robotic Assistant] Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.25713v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[en] GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?|[[pdf]](http://arxiv.org/abs/2510.20333v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|Kinematic Analysis and Integration of Vision Algorithms for a Mobile Manipulator Employed Inside a Self-Driving Laboratory|[[pdf]](http://arxiv.org/abs/2510.19081v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|[$\nabla$-SDF] $\nabla$-SDF: Learning Euclidean Signed Distance Functions Online with Gradient-Augmented Octree Interpolation and Neural Residual|[[pdf]](http://arxiv.org/abs/2510.18999v1)|⚠️|⭐️⭐️⭐️|
@@ -297,6 +301,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 273
+- Total Papers: 277
 - Code Implementations: 8
-- Last Updated: October 2025
+- Last Updated: November 2025

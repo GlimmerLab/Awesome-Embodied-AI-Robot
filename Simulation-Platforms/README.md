@@ -39,6 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-29|Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics|[[pdf]](http://arxiv.org/abs/2510.25683v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[Monopoly Deal] Monopoly Deal: A Benchmark Environment for Bounded One-Sided Response Games|[[pdf]](http://arxiv.org/abs/2510.25080v2)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Hybrid Quantum-Classical Recurrent Neural Networks|[[pdf]](http://arxiv.org/abs/2510.25557v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[Debate2Create] Debate2Create: Robot Co-design via Large Language Model Debates|[[pdf]](http://arxiv.org/abs/2510.25850v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Solving the Right Problem with Multi-Robot Formations|[[pdf]](http://arxiv.org/abs/2510.25422v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[en] Learning Spatial-Aware Manipulation Ordering|[[pdf]](http://arxiv.org/abs/2510.25138v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Non-Invasive Calibration Of A Stewart Platform By Photogrammetry|[[pdf]](http://arxiv.org/abs/2510.25072v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[R2-SVC] R2-SVC: Towards Real-World Robust and Expressive Zero-shot Singing Voice Conversion|[[pdf]](http://arxiv.org/abs/2510.20677v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|Transferable Black-Box One-Shot Forging of Watermarks via Image Preference Models|[[pdf]](http://arxiv.org/abs/2510.20468v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|[en] MADR: MPC-guided Adversarial DeepReach|[[pdf]](http://arxiv.org/abs/2510.18845v1)|⚠️|⭐️⭐️⭐️|
@@ -407,6 +414,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 382
+- Total Papers: 389
 - Code Implementations: 21
-- Last Updated: October 2025
+- Last Updated: November 2025

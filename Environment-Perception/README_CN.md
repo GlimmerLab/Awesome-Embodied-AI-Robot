@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-10-30|I don't Want You to Die: A Shared Responsibility Framework for Safeguarding Child-Robot Companionship|[[pdf]](http://arxiv.org/abs/2510.26080v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-30|[en] AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2510.26358v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|Using latent representations to link disjoint longitudinal data for mixed-effects regression|[[pdf]](http://arxiv.org/abs/2510.25531v1)|⚠️|⭐️⭐️⭐️|
+|2025-10-29|[Robotic Assistant] Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2510.25713v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[en] GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?|[[pdf]](http://arxiv.org/abs/2510.20333v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|Kinematic Analysis and Integration of Vision Algorithms for a Mobile Manipulator Employed Inside a Self-Driving Laboratory|[[pdf]](http://arxiv.org/abs/2510.19081v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|[$\nabla$-SDF] $\nabla$-SDF: Learning Euclidean Signed Distance Functions Online with Gradient-Augmented Octree Interpolation and Neural Residual|[[pdf]](http://arxiv.org/abs/2510.18999v1)|⚠️|⭐️⭐️⭐️|
@@ -297,6 +301,6 @@
 
 ## 📊 统计
 
-- 论文总数：273篇
+- 论文总数：277篇
 - 代码实现：8个
-- 最后更新：2025年10月
+- 最后更新：2025年11月
