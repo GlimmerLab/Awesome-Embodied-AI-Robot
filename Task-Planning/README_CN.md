@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-06|[GraSP-VLA] GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies|[[pdf]](http://arxiv.org/abs/2511.04357v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[ReAcTree] ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning|[[pdf]](http://arxiv.org/abs/2511.02424v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills|[[pdf]](http://arxiv.org/abs/2510.25634v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Using VLM Reasoning to Constrain Task and Motion Planning|[[pdf]](http://arxiv.org/abs/2510.25548v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-23|[EmbodiedBrain] EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence|[[pdf]](http://arxiv.org/abs/2510.20578v1)|⚠️|⭐️⭐️⭐️|
@@ -249,6 +251,6 @@
 
 ## 📊 统计
 
-- 论文总数：225篇
+- 论文总数：227篇
 - 代码实现：6个
 - 最后更新：2025年11月

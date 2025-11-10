@@ -18,6 +18,14 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-06|[DR. WELL] DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2511.04646v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[KGFR] KGFR: A Foundation Retriever for Generalized Knowledge Graph Question Answering|[[pdf]](http://arxiv.org/abs/2511.04093v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|Beyond Shortest Path: Agentic Vehicular Routing with Semantic Context|[[pdf]](http://arxiv.org/abs/2511.04464v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[BAPPA] BAPPA: Benchmarking Agents, Plans, and Pipelines for Automated Text-to-SQL Generation|[[pdf]](http://arxiv.org/abs/2511.04153v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[FP-AbDiff] FP-AbDiff: Improving Score-based Antibody Design by Capturing Nonequilibrium Dynamics through the Underlying Fokker-Planck Equation|[[pdf]](http://arxiv.org/abs/2511.03113v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[LiveTradeBench] LiveTradeBench: Seeking Real-World Alpha with Large Language Models|[[pdf]](http://arxiv.org/abs/2511.03628v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[en] 3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors|[[pdf]](http://arxiv.org/abs/2511.03078v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[en] TRACE: Textual Reasoning for Affordance Coordinate Extraction|[[pdf]](http://arxiv.org/abs/2511.01999v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off|[[pdf]](http://arxiv.org/abs/2510.26722v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|Cooperative Task Spaces for Multi-Arm Manipulation Control based on Similarity Transformations|[[pdf]](http://arxiv.org/abs/2510.26362v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights|[[pdf]](http://arxiv.org/abs/2510.26132v1)|⚠️|⭐️⭐️⭐️|
@@ -420,6 +428,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 399
+- Total Papers: 407
 - Code Implementations: 5
 - Last Updated: November 2025

@@ -47,6 +47,50 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-06|Shared Spatial Memory Through Predictive Coding|[[pdf]](http://arxiv.org/abs/2511.04235v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[Learning] X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations|[[pdf]](http://arxiv.org/abs/2511.04671v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[GentleHumanoid] GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction|[[pdf]](http://arxiv.org/abs/2511.04679v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[BFM-Zero] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.04131v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[CBMC-V3] CBMC-V3: A CNS-inspired Control Framework Towards Manipulation Agility with SNN|[[pdf]](http://arxiv.org/abs/2511.04109v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions|[[pdf]](http://arxiv.org/abs/2511.04665v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|Can Context Bridge the Reality Gap? Sim-to-Real Transfer of Context-Aware Policies|[[pdf]](http://arxiv.org/abs/2511.04249v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|Optimizing Sensor Placement in Urban Storm Sewers: A Data-Driven Sparse Sensing Approach|[[pdf]](http://arxiv.org/abs/2511.04556v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|Large language models replicate and predict human cooperation across experiments in game theory|[[pdf]](http://arxiv.org/abs/2511.04500v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[GUI-360] GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents|[[pdf]](http://arxiv.org/abs/2511.04307v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[LUME-DBN] LUME-DBN: Full Bayesian Learning of DBNs from Incomplete data in Intensive Care|[[pdf]](http://arxiv.org/abs/2511.04333v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[en] Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2511.03996v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[en] GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments|[[pdf]](http://arxiv.org/abs/2511.04199v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[en] Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment|[[pdf]](http://arxiv.org/abs/2511.04555v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|[en] ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.04381v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Investigating Robot Control Policy Learning for Autonomous X-ray-guided Spine Procedures|[[pdf]](http://arxiv.org/abs/2511.03882v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[Hyper-Dexterous] Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control|[[pdf]](http://arxiv.org/abs/2511.03481v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[Adaptive] Optimizing Earth-Moon Transfer and Cislunar Navigation: Integrating Low-Energy Trajectories, AI Techniques and GNSS-R Technologies|[[pdf]](http://arxiv.org/abs/2511.03173v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[ROSBag MCP Server] ROSBag MCP Server: Analyzing Robot Data with LLMs for Agentic Embodied AI Applications|[[pdf]](http://arxiv.org/abs/2511.03497v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Laugh, Relate, Engage: Stylized Comment Generation for Short Videos|[[pdf]](http://arxiv.org/abs/2511.03757v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Multi-User Personalisation in Human-Robot Interaction: Using Quantitative Bipolar Argumentation Frameworks for Preferences Conflict Resolution|[[pdf]](http://arxiv.org/abs/2511.03576v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Adaptable Hindsight Experience Replay for Search-Based Learning|[[pdf]](http://arxiv.org/abs/2511.03405v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Learning-based Cooperative Robotic Paper Wrapping: A Unified Control Policy with Residual Force Control|[[pdf]](http://arxiv.org/abs/2511.03181v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Manifold-constrained Hamilton-Jacobi Reachability Learning for Decentralized Multi-Agent Motion Planning|[[pdf]](http://arxiv.org/abs/2511.03591v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[GUIDES] GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement|[[pdf]](http://arxiv.org/abs/2511.03400v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[Flying Robotics Art] Flying Robotics Art: ROS-based Drone Draws the Record-Breaking Mural|[[pdf]](http://arxiv.org/abs/2511.03651v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[en] Scaling Agent Learning via Experience Synthesis|[[pdf]](http://arxiv.org/abs/2511.03773v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Simulation-Based Validation of an Integrated 4D/5D Digital-Twin Framework for Predictive Construction Control|[[pdf]](http://arxiv.org/abs/2511.03684v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|Towards Scalable Web Accessibility Audit with MLLMs as Copilots|[[pdf]](http://arxiv.org/abs/2511.03471v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[AnaFlow] AnaFlow: Agentic LLM-based Workflow for Reasoning-Driven Explainable and Sample-Efficient Analog Circuit Sizing|[[pdf]](http://arxiv.org/abs/2511.03697v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[PerfDojo] PerfDojo: Automated ML Library Generation for Heterogeneous Architectures|[[pdf]](http://arxiv.org/abs/2511.03586v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|Systematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications|[[pdf]](http://arxiv.org/abs/2511.02979v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[MemSearcher] MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.02805v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[LACY] LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.02239v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[XR-1] XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations|[[pdf]](http://arxiv.org/abs/2511.02776v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|Federated Learning with Gramian Angular Fields for Privacy-Preserving ECG Classification on Heterogeneous IoT Devices|[[pdf]](http://arxiv.org/abs/2511.03753v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|Value of Information-Enhanced Exploration in Bootstrapped DQN|[[pdf]](http://arxiv.org/abs/2511.02969v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[MOBIUS] MOBIUS: A Multi-Modal Bipedal Robot that can Walk, Crawl, Climb, and Roll|[[pdf]](http://arxiv.org/abs/2511.01774v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[GenDexHand] GenDexHand: Generative Simulation for Dexterous Hands|[[pdf]](http://arxiv.org/abs/2511.01791v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping|[[pdf]](http://arxiv.org/abs/2511.01770v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[en] PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model|[[pdf]](http://arxiv.org/abs/2511.01571v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[en] MARS: Multi-Agent Robotic System with Multimodal Large Language Models for Assistive Intelligence|[[pdf]](http://arxiv.org/abs/2511.01594v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[en] CaRLi-V: Camera-RADAR-LiDAR Point-Wise 3D Velocity Estimation|[[pdf]](http://arxiv.org/abs/2511.01383v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[en] Scaling Cross-Embodiment World Models for Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2511.01177v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|Hybrid DQN-TD3 Reinforcement Learning for Autonomous Navigation in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2510.26646v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|Adaptive Inverse Kinematics Framework for Learning Variable-Length Tool Manipulation in Robotics|[[pdf]](http://arxiv.org/abs/2510.26551v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|Clone Deterministic 3D Worlds with Geometrically-Regularized World Models|[[pdf]](http://arxiv.org/abs/2510.26782v1)|⚠️|⭐️⭐️⭐️|
@@ -2178,6 +2222,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2152
+- Total Papers: 2196
 - Code Implementations: 20
 - Last Updated: November 2025

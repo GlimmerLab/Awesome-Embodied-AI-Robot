@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-06|[DMSORT] DMSORT: An efficient parallel maritime multi-object tracking architecture for unmanned vessel platforms|[[pdf]](http://arxiv.org/abs/2511.04128v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-06|Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology|[[pdf]](http://arxiv.org/abs/2511.04171v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|Agentic AI for Mobile Network RAN Management and Optimization|[[pdf]](http://arxiv.org/abs/2511.02532v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[en] SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction|[[pdf]](http://arxiv.org/abs/2511.02294v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-03|[en] AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models|[[pdf]](http://arxiv.org/abs/2511.01472v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|I don't Want You to Die: A Shared Responsibility Framework for Safeguarding Child-Robot Companionship|[[pdf]](http://arxiv.org/abs/2510.26080v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|[en] AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2510.26358v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Using latent representations to link disjoint longitudinal data for mixed-effects regression|[[pdf]](http://arxiv.org/abs/2510.25531v1)|⚠️|⭐️⭐️⭐️|
@@ -301,6 +306,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 277
+- Total Papers: 282
 - Code Implementations: 8
 - Last Updated: November 2025

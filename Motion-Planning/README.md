@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-05|[OneOcc] OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera|[[pdf]](http://arxiv.org/abs/2511.03571v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-05|[en] Learning Natural and Robust Hexapod Locomotion over Complex Terrains via Motion Priors based on Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.03167v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[TWIST2] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System|[[pdf]](http://arxiv.org/abs/2511.02832v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|[en] A Criminology of Machines|[[pdf]](http://arxiv.org/abs/2511.02895v2)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|[Thor] Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments|[[pdf]](http://arxiv.org/abs/2510.26280v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|[Biped] Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse|[[pdf]](http://arxiv.org/abs/2510.26082v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|[PHUMA] PHUMA: Physically-Grounded Humanoid Locomotion Dataset|[[pdf]](http://arxiv.org/abs/2510.26236v1)|⚠️|⭐️⭐️⭐️|
@@ -466,6 +470,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 441
+- Total Papers: 445
 - Code Implementations: 8
 - Last Updated: November 2025

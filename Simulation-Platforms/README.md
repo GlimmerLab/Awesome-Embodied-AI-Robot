@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-04|The Collaboration Gap|[[pdf]](http://arxiv.org/abs/2511.02687v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-04|Whole-body motion planning and safety-critical control for aerial manipulation|[[pdf]](http://arxiv.org/abs/2511.02342v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics|[[pdf]](http://arxiv.org/abs/2510.25683v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|[Monopoly Deal] Monopoly Deal: A Benchmark Environment for Bounded One-Sided Response Games|[[pdf]](http://arxiv.org/abs/2510.25080v2)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Hybrid Quantum-Classical Recurrent Neural Networks|[[pdf]](http://arxiv.org/abs/2510.25557v1)|⚠️|⭐️⭐️⭐️|
@@ -414,6 +416,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 389
+- Total Papers: 391
 - Code Implementations: 21
 - Last Updated: November 2025

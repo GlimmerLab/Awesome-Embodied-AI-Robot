@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-04|[en] A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics|[[pdf]](http://arxiv.org/abs/2511.03075v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|[RoboOS-NeXT] RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2510.26536v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|[en] Biomechanically consistent real-time action recognition for human-robot interaction|[[pdf]](http://arxiv.org/abs/2510.18373v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-16|[en] Stability Criteria and Motor Performance in Delayed Haptic Dyadic Interactions Mediated by Robots|[[pdf]](http://arxiv.org/abs/2510.14511v1)|⚠️|⭐️⭐️⭐️|
@@ -282,6 +283,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 257
+- Total Papers: 258
 - Code Implementations: 6
 - Last Updated: November 2025
