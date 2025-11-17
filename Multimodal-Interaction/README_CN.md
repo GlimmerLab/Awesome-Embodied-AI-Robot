@@ -25,6 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|Improving dependability in robotized bolting operations|[[pdf]](http://arxiv.org/abs/2511.10448v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Rethinking Visual Information Processing in Multimodal LLMs|[[pdf]](http://arxiv.org/abs/2511.10301v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|A Shared-Autonomy Construction Robotic System for Overhead Works|[[pdf]](http://arxiv.org/abs/2511.09695v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-04|[en] A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics|[[pdf]](http://arxiv.org/abs/2511.03075v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-30|[RoboOS-NeXT] RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2510.26536v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-21|[en] Biomechanically consistent real-time action recognition for human-robot interaction|[[pdf]](http://arxiv.org/abs/2510.18373v1)|⚠️|⭐️⭐️⭐️|
@@ -283,6 +286,6 @@
 
 ## 📊 统计
 
-- 论文总数：258篇
+- 论文总数：261篇
 - 代码实现：6个
 - 最后更新：2025年11月

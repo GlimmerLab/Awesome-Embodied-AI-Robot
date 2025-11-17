@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction|[[pdf]](http://arxiv.org/abs/2511.10586v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs|[[pdf]](http://arxiv.org/abs/2511.10480v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space|[[pdf]](http://arxiv.org/abs/2511.10555v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|[GraSP-VLA] GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies|[[pdf]](http://arxiv.org/abs/2511.04357v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-04|[ReAcTree] ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning|[[pdf]](http://arxiv.org/abs/2511.02424v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills|[[pdf]](http://arxiv.org/abs/2510.25634v1)|⚠️|⭐️⭐️⭐️|
@@ -251,6 +254,6 @@
 
 ## 📊 统计
 
-- 论文总数：227篇
+- 论文总数：230篇
 - 代码实现：6个
 - 最后更新：2025年11月

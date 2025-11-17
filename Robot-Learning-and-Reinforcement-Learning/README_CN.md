@@ -47,6 +47,45 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|[Learning] Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning|[[pdf]](http://arxiv.org/abs/2511.10087v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Provably Safe Stein Variational Clarity-Aware Informative Planning|[[pdf]](http://arxiv.org/abs/2511.09836v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Audio-VLA] Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.09958v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Robot Crash Course] Robot Crash Course: Learning Soft and Stylized Falling|[[pdf]](http://arxiv.org/abs/2511.10635v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[SemanticVLA] SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.10518v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[MSGNav] MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation|[[pdf]](http://arxiv.org/abs/2511.10376v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Learning a Thousand Tasks in a Day|[[pdf]](http://arxiv.org/abs/2511.10110v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation|[[pdf]](http://arxiv.org/abs/2511.09932v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Phantom Menace] Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks|[[pdf]](http://arxiv.org/abs/2511.10008v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Towards Emotionally Intelligent and Responsible Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.10573v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Instella] Instella: Fully Open Language Models with Stellar Performance|[[pdf]](http://arxiv.org/abs/2511.10628v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns|[[pdf]](http://arxiv.org/abs/2511.10390v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Simulating Misinformation Propagation in Social Networks using Large Language Models|[[pdf]](http://arxiv.org/abs/2511.10384v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Textual understanding boost in the WikiRace|[[pdf]](http://arxiv.org/abs/2511.10585v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[AgentEvolver] AgentEvolver: Towards Efficient Self-Evolving Agent System|[[pdf]](http://arxiv.org/abs/2511.10395v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Explaining Decentralized Multi-Agent Reinforcement Learning Policies|[[pdf]](http://arxiv.org/abs/2511.10409v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[SHRUG-FM] SHRUG-FM: Reliability-Aware Foundation Models for Earth Observation|[[pdf]](http://arxiv.org/abs/2511.10370v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling|[[pdf]](http://arxiv.org/abs/2511.10501v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] Harnessing Bounded-Support Evolution Strategies for Policy Refinement|[[pdf]](http://arxiv.org/abs/2511.09923v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Don't Waste It] Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding|[[pdf]](http://arxiv.org/abs/2511.10492v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity|[[pdf]](http://arxiv.org/abs/2511.10626v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Oya] Oya: Deep Learning for Accurate Global Precipitation Estimation|[[pdf]](http://arxiv.org/abs/2511.10562v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Panda] Panda: Test-Time Adaptation with Negative Data Augmentation|[[pdf]](http://arxiv.org/abs/2511.10481v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Bi-Level Contextual Bandits for Individualized Resource Allocation under Delayed Feedback|[[pdf]](http://arxiv.org/abs/2511.10572v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Continuum Dropout for Neural Differential Equations|[[pdf]](http://arxiv.org/abs/2511.10446v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|On the Detectability of Active Gradient Inversion Attacks in Federated Learning|[[pdf]](http://arxiv.org/abs/2511.10502v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Black-Box On-Policy Distillation of Large Language Models|[[pdf]](http://arxiv.org/abs/2511.10643v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Algorithm Design and Stronger Guarantees for the Improving Multi-Armed Bandits Problem|[[pdf]](http://arxiv.org/abs/2511.10619v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Mined Prompting and Metadata-Guided Generation for Wound Care Visual Question Answering|[[pdf]](http://arxiv.org/abs/2511.10591v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[SPOT] SPOT: Sparsification with Attention Dynamics via Token Relevance in Vision Transformers|[[pdf]](http://arxiv.org/abs/2511.10488v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling|[[pdf]](http://arxiv.org/abs/2511.10648v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[GrounDiff] GrounDiff: Diffusion-Based Ground Surface Generation from Digital Surface Models|[[pdf]](http://arxiv.org/abs/2511.10391v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization|[[pdf]](http://arxiv.org/abs/2511.10212v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|From 2D to 3D Without Extra Baggage: Data-Efficient Cancer Detection in Digital Breast Tomosynthesis|[[pdf]](http://arxiv.org/abs/2511.10597v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[BhashaKritika] BhashaKritika: Building Synthetic Pretraining Data at Scale for Indic Languages|[[pdf]](http://arxiv.org/abs/2511.10338v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Massively Parallel Proof-Number Search for Impartial Games and Beyond|[[pdf]](http://arxiv.org/abs/2511.10339v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|[SpatialActor] SpatialActor: Exploring Disentangled Spatial Representations for Robust Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.09555v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|[Baby Sophia] Baby Sophia: A Developmental Approach to Self-Exploration through Self-Touch and Hand Regard|[[pdf]](http://arxiv.org/abs/2511.09727v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|[en] Out-of-Distribution Generalization with a SPARC: Racing 100 Unseen Vehicles with a Single Policy|[[pdf]](http://arxiv.org/abs/2511.09737v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|Shared Spatial Memory Through Predictive Coding|[[pdf]](http://arxiv.org/abs/2511.04235v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|[Learning] X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations|[[pdf]](http://arxiv.org/abs/2511.04671v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|[GentleHumanoid] GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction|[[pdf]](http://arxiv.org/abs/2511.04679v1)|⚠️|⭐️⭐️⭐️|
@@ -2222,6 +2261,6 @@
 
 ## 📊 统计
 
-- 论文总数：2196篇
+- 论文总数：2235篇
 - 代码实现：20个
 - 最后更新：2025年11月

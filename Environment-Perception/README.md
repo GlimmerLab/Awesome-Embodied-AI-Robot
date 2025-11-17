@@ -26,6 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|[Bytes of a Feather] Bytes of a Feather: Personality and Opinion Alignment Effects in Human-AI Interaction|[[pdf]](http://arxiv.org/abs/2511.10544v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations|[[pdf]](http://arxiv.org/abs/2511.10432v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[HeatV2X] HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction|[[pdf]](http://arxiv.org/abs/2511.10211v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts|[[pdf]](http://arxiv.org/abs/2511.10300v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures|[[pdf]](http://arxiv.org/abs/2511.10209v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision|[[pdf]](http://arxiv.org/abs/2511.10316v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|[DMSORT] DMSORT: An efficient parallel maritime multi-object tracking architecture for unmanned vessel platforms|[[pdf]](http://arxiv.org/abs/2511.04128v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology|[[pdf]](http://arxiv.org/abs/2511.04171v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-04|Agentic AI for Mobile Network RAN Management and Optimization|[[pdf]](http://arxiv.org/abs/2511.02532v1)|⚠️|⭐️⭐️⭐️|
@@ -306,6 +312,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 282
+- Total Papers: 288
 - Code Implementations: 8
 - Last Updated: November 2025

@@ -39,6 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks|[[pdf]](http://arxiv.org/abs/2511.10079v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Hyper-Dexterous] RoboBenchMart: Benchmarking Robots in Retail Environment|[[pdf]](http://arxiv.org/abs/2511.10276v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] From Fold to Function: Dynamic Modeling and Simulation-Driven Design of Origami Mechanisms|[[pdf]](http://arxiv.org/abs/2511.10580v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation|[[pdf]](http://arxiv.org/abs/2511.10403v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|[MAP-VLA] MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.09516v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|[Hyper-Dexterous] IFG: Internet-Scale Guidance for Functional Grasping Generation|[[pdf]](http://arxiv.org/abs/2511.09558v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-04|The Collaboration Gap|[[pdf]](http://arxiv.org/abs/2511.02687v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-04|Whole-body motion planning and safety-critical control for aerial manipulation|[[pdf]](http://arxiv.org/abs/2511.02342v1)|⚠️|⭐️⭐️⭐️|
 |2025-10-29|Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics|[[pdf]](http://arxiv.org/abs/2510.25683v1)|⚠️|⭐️⭐️⭐️|
@@ -416,6 +422,6 @@
 
 ## 📊 统计
 
-- 论文总数：391篇
+- 论文总数：397篇
 - 代码实现：21个
 - 最后更新：2025年11月

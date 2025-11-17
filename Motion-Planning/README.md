@@ -32,6 +32,9 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|[Humanoid] DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion|[[pdf]](http://arxiv.org/abs/2511.10021v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment -- Demonstrated at Synchrotron Beamlines|[[pdf]](http://arxiv.org/abs/2511.09964v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-12|[Adaptive] A Robust Task-Level Control Architecture for Learned Dynamical Systems|[[pdf]](http://arxiv.org/abs/2511.09790v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-05|[OneOcc] OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera|[[pdf]](http://arxiv.org/abs/2511.03571v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-05|[en] Learning Natural and Robust Hexapod Locomotion over Complex Terrains via Motion Priors based on Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.03167v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-04|[TWIST2] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System|[[pdf]](http://arxiv.org/abs/2511.02832v1)|⚠️|⭐️⭐️⭐️|
@@ -470,6 +473,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 445
+- Total Papers: 448
 - Code Implementations: 8
 - Last Updated: November 2025

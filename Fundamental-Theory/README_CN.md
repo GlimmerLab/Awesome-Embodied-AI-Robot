@@ -18,6 +18,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-13|Generalizing Analogical Inference from Boolean to Continuous Domains|[[pdf]](http://arxiv.org/abs/2511.10416v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[LocalBench] LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning|[[pdf]](http://arxiv.org/abs/2511.10459v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[SSR] SSR: Socratic Self-Refine for Large Language Model Reasoning|[[pdf]](http://arxiv.org/abs/2511.10621v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[LongComp] LongComp: Long-Tail Compositional Zero-Shot Generalization for Robust Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2511.10411v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Rethinking the Reliability of Multi-agent System: A Perspective from Byzantine Fault Tolerance|[[pdf]](http://arxiv.org/abs/2511.10400v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|Reasoning About Intent for Ambiguous Requests|[[pdf]](http://arxiv.org/abs/2511.10453v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[en] OmniVGGT: Omni-Modality Driven Visual Geometry Grounded|[[pdf]](http://arxiv.org/abs/2511.10560v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[PROPA] PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.10279v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[Facial-R1] Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis|[[pdf]](http://arxiv.org/abs/2511.10254v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-13|[TubeRMC] TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding|[[pdf]](http://arxiv.org/abs/2511.10241v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|[DR. WELL] DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2511.04646v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|[KGFR] KGFR: A Foundation Retriever for Generalized Knowledge Graph Question Answering|[[pdf]](http://arxiv.org/abs/2511.04093v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-06|Beyond Shortest Path: Agentic Vehicular Routing with Semantic Context|[[pdf]](http://arxiv.org/abs/2511.04464v1)|⚠️|⭐️⭐️⭐️|
@@ -428,6 +438,6 @@
 
 ## 📊 统计
 
-- 论文总数：407篇
+- 论文总数：417篇
 - 代码实现：5个
 - 最后更新：2025年11月
