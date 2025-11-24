@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces|[[pdf]](http://arxiv.org/abs/2511.15956v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[TOFA] TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2511.16423v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[TimeViper] TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding|[[pdf]](http://arxiv.org/abs/2511.16595v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Pharos-ESG] Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report|[[pdf]](http://arxiv.org/abs/2511.16417v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Improving dependability in robotized bolting operations|[[pdf]](http://arxiv.org/abs/2511.10448v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Rethinking Visual Information Processing in Multimodal LLMs|[[pdf]](http://arxiv.org/abs/2511.10301v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-12|A Shared-Autonomy Construction Robotic System for Overhead Works|[[pdf]](http://arxiv.org/abs/2511.09695v1)|⚠️|⭐️⭐️⭐️|
@@ -286,6 +290,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 261
+- Total Papers: 265
 - Code Implementations: 6
 - Last Updated: November 2025

@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|[Humanoid] InEKFormer: A Hybrid State Estimator for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2511.16306v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|How Robot Dogs See the Unseeable|[[pdf]](http://arxiv.org/abs/2511.16262v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Interfacial and bulk switching MoS2 memristors for an all-2D reservoir computing framework|[[pdf]](http://arxiv.org/abs/2511.16557v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[Humanoid] DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion|[[pdf]](http://arxiv.org/abs/2511.10021v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[en] EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment -- Demonstrated at Synchrotron Beamlines|[[pdf]](http://arxiv.org/abs/2511.09964v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-12|[Adaptive] A Robust Task-Level Control Architecture for Learned Dynamical Systems|[[pdf]](http://arxiv.org/abs/2511.09790v1)|⚠️|⭐️⭐️⭐️|
@@ -473,6 +476,6 @@
 
 ## 📊 统计
 
-- 论文总数：448篇
+- 论文总数：451篇
 - 代码实现：8个
 - 最后更新：2025年11月

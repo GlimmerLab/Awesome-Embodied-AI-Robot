@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|[Multi-robot] PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization|[[pdf]](http://arxiv.org/abs/2511.15995v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction|[[pdf]](http://arxiv.org/abs/2511.10586v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs|[[pdf]](http://arxiv.org/abs/2511.10480v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space|[[pdf]](http://arxiv.org/abs/2511.10555v1)|⚠️|⭐️⭐️⭐️|
@@ -254,6 +255,6 @@
 
 ## 📊 统计
 
-- 论文总数：230篇
+- 论文总数：231篇
 - 代码实现：6个
 - 最后更新：2025年11月

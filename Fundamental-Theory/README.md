@@ -18,6 +18,17 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|Homogeneous Proportional-Integral-Derivative Controller in Mobile Robotic Manipulators|[[pdf]](http://arxiv.org/abs/2511.16406v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[MiMo-Embodied] MiMo-Embodied: X-Embodied Foundation Model Technical Report|[[pdf]](http://arxiv.org/abs/2511.16518v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization|[[pdf]](http://arxiv.org/abs/2511.16602v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Synthesis of Safety Specifications for Probabilistic Systems|[[pdf]](http://arxiv.org/abs/2511.16579v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Cognitive Foundations for Reasoning and Their Manifestation in LLMs|[[pdf]](http://arxiv.org/abs/2511.16660v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[MUSEKG] MUSEKG: A Knowledge Graph Over Museum Collections|[[pdf]](http://arxiv.org/abs/2511.16014v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|From Polynomials to Databases: Arithmetic Structures in Galois Theory|[[pdf]](http://arxiv.org/abs/2511.16622v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Dynamic Participation in Federated Learning: Benchmarks and a Knowledge Pool Plugin|[[pdf]](http://arxiv.org/abs/2511.16523v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[en] Late-decoupled 3D Hierarchical Semantic Segmentation with Semantic Prototype Discrimination based Bi-branch Supervision|[[pdf]](http://arxiv.org/abs/2511.16650v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[SAM2S] SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking|[[pdf]](http://arxiv.org/abs/2511.16618v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[ODE-ViT] ODE-ViT: Plug & Play Attention Layer from the Generalization of the ViT as an Ordinary Differential Equation|[[pdf]](http://arxiv.org/abs/2511.16501v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Generalizing Analogical Inference from Boolean to Continuous Domains|[[pdf]](http://arxiv.org/abs/2511.10416v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[LocalBench] LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning|[[pdf]](http://arxiv.org/abs/2511.10459v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[SSR] SSR: Socratic Self-Refine for Large Language Model Reasoning|[[pdf]](http://arxiv.org/abs/2511.10621v1)|⚠️|⭐️⭐️⭐️|
@@ -438,6 +449,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 417
+- Total Papers: 428
 - Code Implementations: 5
 - Last Updated: November 2025

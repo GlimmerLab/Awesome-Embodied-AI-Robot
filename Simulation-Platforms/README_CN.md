@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation|[[pdf]](http://arxiv.org/abs/2511.16494v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Dataset Distillation for Pre-Trained Self-Supervised Vision Models|[[pdf]](http://arxiv.org/abs/2511.16674v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Reducing Instability in Synthetic Data Evaluation with a Super-Metric in MalDataGen|[[pdf]](http://arxiv.org/abs/2511.16373v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks|[[pdf]](http://arxiv.org/abs/2511.10079v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[Hyper-Dexterous] RoboBenchMart: Benchmarking Robots in Retail Environment|[[pdf]](http://arxiv.org/abs/2511.10276v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[en] From Fold to Function: Dynamic Modeling and Simulation-Driven Design of Origami Mechanisms|[[pdf]](http://arxiv.org/abs/2511.10580v1)|⚠️|⭐️⭐️⭐️|
@@ -422,6 +425,6 @@
 
 ## 📊 统计
 
-- 论文总数：397篇
+- 论文总数：400篇
 - 代码实现：21个
 - 最后更新：2025年11月

@@ -47,6 +47,38 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|[InternData-A1] InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy|[[pdf]](http://arxiv.org/abs/2511.16651v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Safe and Optimal Variable Impedance Control via Certified Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.16330v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Learning] DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks|[[pdf]](http://arxiv.org/abs/2511.16223v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations|[[pdf]](http://arxiv.org/abs/2511.16661v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Bi-AQUA] Bi-AQUA: Bilateral Control-Based Imitation Learning for Underwater Robot Arms via Lighting-Aware Action Chunking with Transformers|[[pdf]](http://arxiv.org/abs/2511.16050v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Multi-robot] MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics|[[pdf]](http://arxiv.org/abs/2511.16158v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Mantis] Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight|[[pdf]](http://arxiv.org/abs/2511.16175v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Learning] Green Resilience of Cyber-Physical Systems: Doctoral Dissertation|[[pdf]](http://arxiv.org/abs/2511.16593v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Physically Realistic Sequence-Level Adversarial Clothing for Robust Human-Detection Evasion|[[pdf]](http://arxiv.org/abs/2511.16020v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Robot Metacognition] Robot Metacognition: Decision Making with Confidence for Tool Invention|[[pdf]](http://arxiv.org/abs/2511.16390v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Stabilizing Policy Gradient Methods via Reward Profiling|[[pdf]](http://arxiv.org/abs/2511.16629v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Flow-Aided Flight Through Dynamic Clutters From Point To Motion|[[pdf]](http://arxiv.org/abs/2511.16372v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[VLA-Pruner] VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference|[[pdf]](http://arxiv.org/abs/2511.16449v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[PersonaDrift] PersonaDrift: A Benchmark for Temporal Anomaly Detection in Language-Based Dementia Monitoring|[[pdf]](http://arxiv.org/abs/2511.16445v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations|[[pdf]](http://arxiv.org/abs/2511.16427v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation|[[pdf]](http://arxiv.org/abs/2511.16671v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Supervised Contrastive Learning for Few-Shot AI-Generated Image Detection and Attribution|[[pdf]](http://arxiv.org/abs/2511.16541v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[LAOF] LAOF: Robust Latent Action Learning with Optical Flow Constraints|[[pdf]](http://arxiv.org/abs/2511.16407v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[en] When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2511.16203v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Towards a Safer and Sustainable Manufacturing Process: Material classification in Laser Cutting Using Deep Learning|[[pdf]](http://arxiv.org/abs/2511.16026v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies|[[pdf]](http://arxiv.org/abs/2511.16596v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[D-GARA] D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies|[[pdf]](http://arxiv.org/abs/2511.16590v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion|[[pdf]](http://arxiv.org/abs/2511.16571v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[MedBayes-Lite] MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support|[[pdf]](http://arxiv.org/abs/2511.16625v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter|[[pdf]](http://arxiv.org/abs/2511.16665v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Toward Valid Generative Clinical Trial Data with Survival Endpoints|[[pdf]](http://arxiv.org/abs/2511.16551v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|Evolution Strategies at the Hyperscale|[[pdf]](http://arxiv.org/abs/2511.16652v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Beyond Visual Cues] Beyond Visual Cues: Leveraging General Semantics as Support for Few-Shot Segmentation|[[pdf]](http://arxiv.org/abs/2511.16435v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[en] Graph Neural Networks for Surgical Scene Segmentation|[[pdf]](http://arxiv.org/abs/2511.16430v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Video-as-Answer] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO|[[pdf]](http://arxiv.org/abs/2511.16669v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[en] SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation|[[pdf]](http://arxiv.org/abs/2511.16666v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Erase to Retain] Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks|[[pdf]](http://arxiv.org/abs/2511.16574v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[Learning] Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning|[[pdf]](http://arxiv.org/abs/2511.10087v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Provably Safe Stein Variational Clarity-Aware Informative Planning|[[pdf]](http://arxiv.org/abs/2511.09836v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[Audio-VLA] Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.09958v1)|⚠️|⭐️⭐️⭐️|
@@ -2261,6 +2293,6 @@
 
 ## 📊 统计
 
-- 论文总数：2235篇
+- 论文总数：2267篇
 - 代码实现：20个
 - 最后更新：2025年11月

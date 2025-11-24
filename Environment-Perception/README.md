@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|[Semantic Glitch] Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud|[[pdf]](http://arxiv.org/abs/2511.16048v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[LLM4EO] LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling|[[pdf]](http://arxiv.org/abs/2511.16485v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[StreetView-Waste] StreetView-Waste: A Multi-Task Dataset for Urban Waste Management|[[pdf]](http://arxiv.org/abs/2511.16440v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[en] POMA-3D: The Point Map Way to 3D Scene Understanding|[[pdf]](http://arxiv.org/abs/2511.16567v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[CylinderDepth] CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation|[[pdf]](http://arxiv.org/abs/2511.16428v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[Bytes of a Feather] Bytes of a Feather: Personality and Opinion Alignment Effects in Human-AI Interaction|[[pdf]](http://arxiv.org/abs/2511.10544v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations|[[pdf]](http://arxiv.org/abs/2511.10432v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|[HeatV2X] HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction|[[pdf]](http://arxiv.org/abs/2511.10211v1)|⚠️|⭐️⭐️⭐️|
@@ -312,6 +317,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 288
+- Total Papers: 293
 - Code Implementations: 8
 - Last Updated: November 2025

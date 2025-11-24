@@ -25,6 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-20|The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces|[[pdf]](http://arxiv.org/abs/2511.15956v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[TOFA] TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2511.16423v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[TimeViper] TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding|[[pdf]](http://arxiv.org/abs/2511.16595v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-20|[Pharos-ESG] Pharos-ESG: A Framework for Multimodal Parsing, Contextual Narration, and Hierarchical Labeling of ESG Report|[[pdf]](http://arxiv.org/abs/2511.16417v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Improving dependability in robotized bolting operations|[[pdf]](http://arxiv.org/abs/2511.10448v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Rethinking Visual Information Processing in Multimodal LLMs|[[pdf]](http://arxiv.org/abs/2511.10301v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-12|A Shared-Autonomy Construction Robotic System for Overhead Works|[[pdf]](http://arxiv.org/abs/2511.09695v1)|⚠️|⭐️⭐️⭐️|
@@ -286,6 +290,6 @@
 
 ## 📊 统计
 
-- 论文总数：261篇
+- 论文总数：265篇
 - 代码实现：6个
 - 最后更新：2025年11月
