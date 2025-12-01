@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[Multi-robot] Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation|[[pdf]](http://arxiv.org/abs/2511.22685v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.22338v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[BINDER] BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands|[[pdf]](http://arxiv.org/abs/2511.22364v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[RealD$^2$iff] RealD$^2$iff: Bridging Real-World Gap in Robot Manipulation via Depth Diffusion|[[pdf]](http://arxiv.org/abs/2511.22505v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Beyond Success] Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention|[[pdf]](http://arxiv.org/abs/2511.22555v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Soft Fluidic Sheet Transistor for Soft Robotic System Enabling Fluid Logic Operations|[[pdf]](http://arxiv.org/abs/2511.22318v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|3D Affordance Keypoint Detection for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2511.22195v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion|[[pdf]](http://arxiv.org/abs/2511.22445v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Counting Still Counts: Understanding Neural Complex Query Answering Through Query Relaxation|[[pdf]](http://arxiv.org/abs/2511.22565v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[MATCH] MATCH: Engineering Transparent and Controllable Conversational XAI Systems through Composable Building Blocks|[[pdf]](http://arxiv.org/abs/2511.22420v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[CoFiRec] CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation|[[pdf]](http://arxiv.org/abs/2511.22707v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] MLATC: Fast Hierarchical Topological Mapping from 3D LiDAR Point Clouds Based on Adaptive Resonance Theory|[[pdf]](http://arxiv.org/abs/2511.22238v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Flow Density Control: Generative Optimization Beyond Entropy-Regularized Fine-Tuning|[[pdf]](http://arxiv.org/abs/2511.22640v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Entropy is all you need for Inter-Seed Cross-Play in Hanabi|[[pdf]](http://arxiv.org/abs/2511.22581v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[DeepSeekMath-V2] DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning|[[pdf]](http://arxiv.org/abs/2511.22570v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Generative Anchored Fields: Controlled Data Generation via Emergent Velocity Fields and Transport Algebra|[[pdf]](http://arxiv.org/abs/2511.22693v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[BUDD-e] BUDD-e: an autonomous robotic guide for visually impaired users|[[pdf]](http://arxiv.org/abs/2511.22541v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Stable-Drift] Stable-Drift: A Patient-Aware Latent Drift Replay Method for Stabilizing Representations in Continual Learning|[[pdf]](http://arxiv.org/abs/2511.22615v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Exploring Performance Variations in Finetuned Translators of Ultra-Low Resource Languages: Do Linguistic Differences Matter?|[[pdf]](http://arxiv.org/abs/2511.22482v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[A race to belief] A race to belief: How Evidence Accumulation shapes trust in AI and Human informants|[[pdf]](http://arxiv.org/abs/2511.22617v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Test-time scaling of diffusions with flow maps|[[pdf]](http://arxiv.org/abs/2511.22688v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding|[[pdf]](http://arxiv.org/abs/2511.22466v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[VaMP] VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2511.22664v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Splat-SAP] Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction|[[pdf]](http://arxiv.org/abs/2511.22704v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[ABounD] ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection|[[pdf]](http://arxiv.org/abs/2511.22436v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-26|Massively Parallel Imitation Learning of Mouse Forelimb Musculoskeletal Reaching Dynamics|[[pdf]](http://arxiv.org/abs/2511.21848v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-26|Bridging Planning and Execution: Multi-Agent Path Finding Under Real-World Deadlines|[[pdf]](http://arxiv.org/abs/2511.21886v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-26|Prompted Policy Search: Reinforcement Learning through Linguistic and Numerical Reasoning in LLMs|[[pdf]](http://arxiv.org/abs/2511.21928v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-26|[en] OpenTwinMap: An Open-Source Digital Twin Generator for Urban Autonomous Driving|[[pdf]](http://arxiv.org/abs/2511.21925v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[InternData-A1] InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy|[[pdf]](http://arxiv.org/abs/2511.16651v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Safe and Optimal Variable Impedance Control via Certified Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.16330v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[Learning] DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks|[[pdf]](http://arxiv.org/abs/2511.16223v1)|⚠️|⭐️⭐️⭐️|
@@ -2293,6 +2322,6 @@
 
 ## 📊 统计
 
-- 论文总数：2267篇
+- 论文总数：2296篇
 - 代码实现：20个
-- 最后更新：2025年11月
+- 最后更新：2025年12月

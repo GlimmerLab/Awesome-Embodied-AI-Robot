@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[SwordRiding] SwordRiding: A Unified Navigation Framework for Quadrotors in Unknown Complex Environments via Online Guiding Vector Fields|[[pdf]](http://arxiv.org/abs/2511.22043v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[MTR-VP] MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2511.22181v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[DiffStyle360] DiffStyle360: Diffusion-Based 360° Head Stylization via Style Fusion Attention|[[pdf]](http://arxiv.org/abs/2511.22411v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation|[[pdf]](http://arxiv.org/abs/2511.22311v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[Humanoid] InEKFormer: A Hybrid State Estimator for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2511.16306v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|How Robot Dogs See the Unseeable|[[pdf]](http://arxiv.org/abs/2511.16262v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Interfacial and bulk switching MoS2 memristors for an all-2D reservoir computing framework|[[pdf]](http://arxiv.org/abs/2511.16557v1)|⚠️|⭐️⭐️⭐️|
@@ -476,6 +480,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 451
+- Total Papers: 455
 - Code Implementations: 8
-- Last Updated: November 2025
+- Last Updated: December 2025

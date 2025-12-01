@@ -26,6 +26,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[MG-Nav] MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory|[[pdf]](http://arxiv.org/abs/2511.22609v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] Design of an Adaptive Modular Anthropomorphic Dexterous Hand for Human-like Manipulation|[[pdf]](http://arxiv.org/abs/2511.22100v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Spatially Aware Dictionary-Free Eigenfunction Identification for Modeling and Control of Nonlinear Dynamical Systems|[[pdf]](http://arxiv.org/abs/2511.22648v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Diff-ICMH] Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior|[[pdf]](http://arxiv.org/abs/2511.22549v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Gaussians on Fire] Gaussians on Fire: High-Frequency Reconstruction of Flames|[[pdf]](http://arxiv.org/abs/2511.22459v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Fin3R] Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation|[[pdf]](http://arxiv.org/abs/2511.22429v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[Semantic Glitch] Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud|[[pdf]](http://arxiv.org/abs/2511.16048v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[LLM4EO] LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling|[[pdf]](http://arxiv.org/abs/2511.16485v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[StreetView-Waste] StreetView-Waste: A Multi-Task Dataset for Urban Waste Management|[[pdf]](http://arxiv.org/abs/2511.16440v1)|⚠️|⭐️⭐️⭐️|
@@ -317,6 +323,6 @@
 
 ## 📊 统计
 
-- 论文总数：293篇
+- 论文总数：299篇
 - 代码实现：8个
-- 最后更新：2025年11月
+- 最后更新：2025年12月

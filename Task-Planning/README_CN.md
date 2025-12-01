@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[CoT4AD] CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2511.22532v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Geometrically-Constrained Agent for Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2511.22659v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with Dynamic Inter-City Graph Embeddings|[[pdf]](http://arxiv.org/abs/2511.22325v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[Multi-robot] PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization|[[pdf]](http://arxiv.org/abs/2511.15995v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction|[[pdf]](http://arxiv.org/abs/2511.10586v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-13|Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs|[[pdf]](http://arxiv.org/abs/2511.10480v1)|⚠️|⭐️⭐️⭐️|
@@ -255,6 +258,6 @@
 
 ## 📊 统计
 
-- 论文总数：231篇
+- 论文总数：234篇
 - 代码实现：6个
-- 最后更新：2025年11月
+- 最后更新：2025年12月

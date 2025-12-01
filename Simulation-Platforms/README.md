@@ -39,6 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[Multi-robot] LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning|[[pdf]](http://arxiv.org/abs/2511.22354v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Multi-robot] Bayesian Decentralized Decision-making for Multi-Robot Systems: Sample-efficient Estimation of Event Rates|[[pdf]](http://arxiv.org/abs/2511.22225v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] A Two Degrees-of-Freedom Floor-Based Robot for Transfer and Rehabilitation Applications|[[pdf]](http://arxiv.org/abs/2511.22705v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2511.22187v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] HW-GNN: Homophily-Aware Gaussian-Window Constrained Graph Spectral Network for Social Network Bot Detection|[[pdf]](http://arxiv.org/abs/2511.22493v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[UAV-MM3D] UAV-MM3D: A Large-Scale Synthetic Benchmark for 3D Perception of Unmanned Aerial Vehicles with Multi-Modal Data|[[pdf]](http://arxiv.org/abs/2511.22404v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Bringing Your Portrait to 3D Presence|[[pdf]](http://arxiv.org/abs/2511.22553v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation|[[pdf]](http://arxiv.org/abs/2511.16494v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Dataset Distillation for Pre-Trained Self-Supervised Vision Models|[[pdf]](http://arxiv.org/abs/2511.16674v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Reducing Instability in Synthetic Data Evaluation with a Super-Metric in MalDataGen|[[pdf]](http://arxiv.org/abs/2511.16373v1)|⚠️|⭐️⭐️⭐️|
@@ -425,6 +432,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 400
+- Total Papers: 407
 - Code Implementations: 21
-- Last Updated: November 2025
+- Last Updated: December 2025

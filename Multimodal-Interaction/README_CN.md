@@ -25,6 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations|[[pdf]](http://arxiv.org/abs/2511.22697v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[SoftNash] SoftNash: Entropy-Regularized Nash Games for Non-Fighting Virtual Fixtures|[[pdf]](http://arxiv.org/abs/2511.22087v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[HarmoCLIP] HarmoCLIP: Harmonizing Global and Regional Representations in Contrastive Vision-Language Models|[[pdf]](http://arxiv.org/abs/2511.22594v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces|[[pdf]](http://arxiv.org/abs/2511.15956v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[TOFA] TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2511.16423v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[TimeViper] TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding|[[pdf]](http://arxiv.org/abs/2511.16595v1)|⚠️|⭐️⭐️⭐️|
@@ -290,6 +293,6 @@
 
 ## 📊 统计
 
-- 论文总数：265篇
+- 论文总数：268篇
 - 代码实现：6个
-- 最后更新：2025年11月
+- 最后更新：2025年12月

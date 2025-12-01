@@ -18,6 +18,17 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[DualVLA] DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action|[[pdf]](http://arxiv.org/abs/2511.22134v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization|[[pdf]](http://arxiv.org/abs/2511.22586v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|A Computable Game-Theoretic Framework for Multi-Agent Theory of Mind|[[pdf]](http://arxiv.org/abs/2511.22536v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[AI Deception] AI Deception: Risks, Dynamics, and Controls|[[pdf]](http://arxiv.org/abs/2511.22619v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Asking like Socrates: Socrates helps VLMs understand remote sensing images|[[pdf]](http://arxiv.org/abs/2511.22396v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Federated Learning Survey: A Multi-Level Taxonomy of Aggregation Techniques, Experimental Insights, and Future Frontiers|[[pdf]](http://arxiv.org/abs/2511.22616v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[ReAG] ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering|[[pdf]](http://arxiv.org/abs/2511.22715v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[GeoZero] GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes|[[pdf]](http://arxiv.org/abs/2511.22645v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models|[[pdf]](http://arxiv.org/abs/2511.22425v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[GEO-Detective] GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents|[[pdf]](http://arxiv.org/abs/2511.22441v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-26|[PathReasoning] PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images|[[pdf]](http://arxiv.org/abs/2511.21902v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Homogeneous Proportional-Integral-Derivative Controller in Mobile Robotic Manipulators|[[pdf]](http://arxiv.org/abs/2511.16406v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[MiMo-Embodied] MiMo-Embodied: X-Embodied Foundation Model Technical Report|[[pdf]](http://arxiv.org/abs/2511.16518v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization|[[pdf]](http://arxiv.org/abs/2511.16602v1)|⚠️|⭐️⭐️⭐️|
@@ -449,6 +460,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 428
+- Total Papers: 439
 - Code Implementations: 5
-- Last Updated: November 2025
+- Last Updated: December 2025

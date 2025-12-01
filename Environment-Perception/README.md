@@ -26,6 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-11-27|[MG-Nav] MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory|[[pdf]](http://arxiv.org/abs/2511.22609v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[en] Design of an Adaptive Modular Anthropomorphic Dexterous Hand for Human-like Manipulation|[[pdf]](http://arxiv.org/abs/2511.22100v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|Spatially Aware Dictionary-Free Eigenfunction Identification for Modeling and Control of Nonlinear Dynamical Systems|[[pdf]](http://arxiv.org/abs/2511.22648v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Diff-ICMH] Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior|[[pdf]](http://arxiv.org/abs/2511.22549v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Gaussians on Fire] Gaussians on Fire: High-Frequency Reconstruction of Flames|[[pdf]](http://arxiv.org/abs/2511.22459v1)|⚠️|⭐️⭐️⭐️|
+|2025-11-27|[Fin3R] Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation|[[pdf]](http://arxiv.org/abs/2511.22429v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[Semantic Glitch] Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud|[[pdf]](http://arxiv.org/abs/2511.16048v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[LLM4EO] LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling|[[pdf]](http://arxiv.org/abs/2511.16485v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-20|[StreetView-Waste] StreetView-Waste: A Multi-Task Dataset for Urban Waste Management|[[pdf]](http://arxiv.org/abs/2511.16440v1)|⚠️|⭐️⭐️⭐️|
@@ -317,6 +323,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 293
+- Total Papers: 299
 - Code Implementations: 8
-- Last Updated: November 2025
+- Last Updated: December 2025
