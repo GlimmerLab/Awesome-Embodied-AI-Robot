@@ -47,6 +47,40 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|[Humanoid] From Generated Human Videos to Physically Plausible Robot Trajectories|[[pdf]](http://arxiv.org/abs/2512.05094v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops|[[pdf]](http://arxiv.org/abs/2512.04446v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Multi-robot] Bridging Probabilistic Inference and Behavior Trees: An Interactive Framework for Adaptive Multi-Robot Cooperation|[[pdf]](http://arxiv.org/abs/2512.04404v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[STARE-VLA] STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2512.05107v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Gauss-Newton accelerated MPPI Control|[[pdf]](http://arxiv.org/abs/2512.04579v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Humanoid] Preliminary Analysis and Simulation of a Compact Variable Stiffness Wrist|[[pdf]](http://arxiv.org/abs/2512.04973v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[MOVE] MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2512.04813v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Learning] FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization|[[pdf]](http://arxiv.org/abs/2512.04952v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Open-Ended Goal Inference through Actions and Language for Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2512.04453v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2512.04731v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Towards 6G Native-AI Edge Networks: A Semantic-Aware and Agentic Intelligence Paradigm|[[pdf]](http://arxiv.org/abs/2512.04405v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|MARL Warehouse Robots|[[pdf]](http://arxiv.org/abs/2512.04463v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Are LLMs Truly Multilingual? Exploring Zero-Shot Multilingual Capability of LLMs for Information Retrieval: An Italian Healthcare Use Case|[[pdf]](http://arxiv.org/abs/2512.04834v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints|[[pdf]](http://arxiv.org/abs/2512.05079v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies|[[pdf]](http://arxiv.org/abs/2512.04960v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[DraCo] DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation|[[pdf]](http://arxiv.org/abs/2512.05112v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Chameleon] Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems|[[pdf]](http://arxiv.org/abs/2512.04895v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] GTM: Simulating the World of Tools for AI Agents|[[pdf]](http://arxiv.org/abs/2512.04535v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] RoboBPP: Benchmarking Robotic Online Bin Packing with Physics-based Simulation|[[pdf]](http://arxiv.org/abs/2512.04415v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.05105v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Structured Document Translation via Format Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.05100v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[CARL] CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent|[[pdf]](http://arxiv.org/abs/2512.04949v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|The Geometry of Intelligence: Deterministic Functional Topology as a Foundation for Real-World Perception|[[pdf]](http://arxiv.org/abs/2512.05089v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Multi-LLM Collaboration for Medication Recommendation|[[pdf]](http://arxiv.org/abs/2512.05066v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Realizable Abstractions: Near-Optimal Hierarchical Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.04958v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Learning Causality for Longitudinal Data|[[pdf]](http://arxiv.org/abs/2512.04980v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows|[[pdf]](http://arxiv.org/abs/2512.04954v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Self-Supervised Learning for Transparent Object Depth Completion Using Depth from Non-Transparent Objects|[[pdf]](http://arxiv.org/abs/2512.05006v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] BulletTime: Decoupled Control of Time and Camera Pose for Video Generation|[[pdf]](http://arxiv.org/abs/2512.05076v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Light-X] Light-X: Generative 4D Video Rendering with Camera and Illumination Control|[[pdf]](http://arxiv.org/abs/2512.05115v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Towards Adaptive Fusion of Multimodal Deep Networks for Human Action Recognition|[[pdf]](http://arxiv.org/abs/2512.04943v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[RobustSplat++] RobustSplat++: Decoupling Densification, Dynamics, and Illumination for In-the-Wild 3DGS|[[pdf]](http://arxiv.org/abs/2512.04815v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[YingMusic-SVC] YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases|[[pdf]](http://arxiv.org/abs/2512.04793v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-03|[en] ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models|[[pdf]](http://arxiv.org/abs/2512.04308v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[Multi-robot] Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation|[[pdf]](http://arxiv.org/abs/2511.22685v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2511.22338v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[BINDER] BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands|[[pdf]](http://arxiv.org/abs/2511.22364v1)|⚠️|⭐️⭐️⭐️|
@@ -2322,6 +2356,6 @@
 
 ## 📊 统计
 
-- 论文总数：2296篇
+- 论文总数：2330篇
 - 代码实现：20个
 - 最后更新：2025年12月

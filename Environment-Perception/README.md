@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|[TEMPO-VINE] TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards|[[pdf]](http://arxiv.org/abs/2512.04772v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] 4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer|[[pdf]](http://arxiv.org/abs/2512.05060v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[GeoPE] GeoPE:A Unified Geometric Positional Embedding for Structured Tensors|[[pdf]](http://arxiv.org/abs/2512.04963v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Virtually Unrolling the Herculaneum Papyri by Diffeomorphic Spiral Fitting|[[pdf]](http://arxiv.org/abs/2512.04927v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[LiteVGGT] LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging|[[pdf]](http://arxiv.org/abs/2512.04939v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[MG-Nav] MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory|[[pdf]](http://arxiv.org/abs/2511.22609v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[en] Design of an Adaptive Modular Anthropomorphic Dexterous Hand for Human-like Manipulation|[[pdf]](http://arxiv.org/abs/2511.22100v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|Spatially Aware Dictionary-Free Eigenfunction Identification for Modeling and Control of Nonlinear Dynamical Systems|[[pdf]](http://arxiv.org/abs/2511.22648v1)|⚠️|⭐️⭐️⭐️|
@@ -323,6 +328,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 299
+- Total Papers: 304
 - Code Implementations: 8
 - Last Updated: December 2025

@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|[TV2TV] TV2TV: A Unified Framework for Interleaved Language and Video Generation|[[pdf]](http://arxiv.org/abs/2512.05103v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models|[[pdf]](http://arxiv.org/abs/2512.04981v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors|[[pdf]](http://arxiv.org/abs/2512.04808v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications|[[pdf]](http://arxiv.org/abs/2512.04785v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations|[[pdf]](http://arxiv.org/abs/2511.22697v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[SoftNash] SoftNash: Entropy-Regularized Nash Games for Non-Fighting Virtual Fixtures|[[pdf]](http://arxiv.org/abs/2511.22087v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[HarmoCLIP] HarmoCLIP: Harmonizing Global and Regional Representations in Contrastive Vision-Language Models|[[pdf]](http://arxiv.org/abs/2511.22594v1)|⚠️|⭐️⭐️⭐️|
@@ -293,6 +297,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 268
+- Total Papers: 272
 - Code Implementations: 6
 - Last Updated: December 2025

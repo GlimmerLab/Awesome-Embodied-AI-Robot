@@ -39,6 +39,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain|[[pdf]](http://arxiv.org/abs/2512.05008v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems|[[pdf]](http://arxiv.org/abs/2512.04502v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Detecting Perspective Shifts in Multi-agent Systems|[[pdf]](http://arxiv.org/abs/2512.05013v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Strategic Self-Improvement for Competitive Agents in AI Labour Markets|[[pdf]](http://arxiv.org/abs/2512.04988v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[NeuralRemaster] NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation|[[pdf]](http://arxiv.org/abs/2512.05106v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding|[[pdf]](http://arxiv.org/abs/2512.04847v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Efficient Generative Transformer Operators For Million-Point PDEs|[[pdf]](http://arxiv.org/abs/2512.04974v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator|[[pdf]](http://arxiv.org/abs/2512.04917v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[Multi-robot] LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning|[[pdf]](http://arxiv.org/abs/2511.22354v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[Multi-robot] Bayesian Decentralized Decision-making for Multi-Robot Systems: Sample-efficient Estimation of Event Rates|[[pdf]](http://arxiv.org/abs/2511.22225v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[en] A Two Degrees-of-Freedom Floor-Based Robot for Transfer and Rehabilitation Applications|[[pdf]](http://arxiv.org/abs/2511.22705v1)|⚠️|⭐️⭐️⭐️|
@@ -432,6 +440,6 @@
 
 ## 📊 统计
 
-- 论文总数：407篇
+- 论文总数：415篇
 - 代码实现：21个
 - 最后更新：2025年12月

@@ -32,6 +32,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|[Hyper-Dexterous] Development of a 15-Degree-of-Freedom Bionic Hand with Cable-Driven Transmission and Distributed Actuation|[[pdf]](http://arxiv.org/abs/2512.04399v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation|[[pdf]](http://arxiv.org/abs/2512.04884v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Introducing V-Soft Pro: a Modular Platform for a Transhumeral Prosthesis with Controllable Stiffness|[[pdf]](http://arxiv.org/abs/2512.04998v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image|[[pdf]](http://arxiv.org/abs/2512.05044v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[SwordRiding] SwordRiding: A Unified Navigation Framework for Quadrotors in Unknown Complex Environments via Online Guiding Vector Fields|[[pdf]](http://arxiv.org/abs/2511.22043v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[MTR-VP] MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction|[[pdf]](http://arxiv.org/abs/2511.22181v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[DiffStyle360] DiffStyle360: Diffusion-Based 360° Head Stylization via Style Fusion Attention|[[pdf]](http://arxiv.org/abs/2511.22411v1)|⚠️|⭐️⭐️⭐️|
@@ -480,6 +484,6 @@
 
 ## 📊 统计
 
-- 论文总数：455篇
+- 论文总数：459篇
 - 代码实现：8个
 - 最后更新：2025年12月

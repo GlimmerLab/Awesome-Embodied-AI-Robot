@@ -18,6 +18,17 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|[BiTAgent] BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models|[[pdf]](http://arxiv.org/abs/2512.04513v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[FALCON] FALCON: Actively Decoupled Visuomotor Policies for Loco-Manipulation with Foundation-Model-Based Coordination|[[pdf]](http://arxiv.org/abs/2512.04381v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering|[[pdf]](http://arxiv.org/abs/2512.04597v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Arbitrage] Arbitrage: Efficient Reasoning via Advantage-Aware Speculation|[[pdf]](http://arxiv.org/abs/2512.05033v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[STELLA] STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions|[[pdf]](http://arxiv.org/abs/2512.04871v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[SEAL] SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2512.04868v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|Towards a unified framework for guided diffusion models|[[pdf]](http://arxiv.org/abs/2512.04985v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security|[[pdf]](http://arxiv.org/abs/2512.04841v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning|[[pdf]](http://arxiv.org/abs/2512.05111v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[RAMEN] RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation|[[pdf]](http://arxiv.org/abs/2512.05025v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[en] SIMA 2: A Generalist Embodied Agent for Virtual Worlds|[[pdf]](http://arxiv.org/abs/2512.04797v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[DualVLA] DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action|[[pdf]](http://arxiv.org/abs/2511.22134v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization|[[pdf]](http://arxiv.org/abs/2511.22586v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|A Computable Game-Theoretic Framework for Multi-Agent Theory of Mind|[[pdf]](http://arxiv.org/abs/2511.22536v1)|⚠️|⭐️⭐️⭐️|
@@ -460,6 +471,6 @@
 
 ## 📊 统计
 
-- 论文总数：439篇
+- 论文总数：450篇
 - 代码实现：5个
 - 最后更新：2025年12月

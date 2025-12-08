@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-04|LLMs Know More Than Words: A Genre Study with Syntax, Metaphor & Phonetics|[[pdf]](http://arxiv.org/abs/2512.04957v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-04|[Splannequin] Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting|[[pdf]](http://arxiv.org/abs/2512.05113v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[CoT4AD] CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2511.22532v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|Geometrically-Constrained Agent for Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2511.22659v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with Dynamic Inter-City Graph Embeddings|[[pdf]](http://arxiv.org/abs/2511.22325v1)|⚠️|⭐️⭐️⭐️|
@@ -258,6 +260,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 234
+- Total Papers: 236
 - Code Implementations: 6
 - Last Updated: December 2025
