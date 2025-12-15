@@ -18,6 +18,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|[Mull-Tokens] Mull-Tokens: Modality-Agnostic Latent Thinking|[[pdf]](http://arxiv.org/abs/2512.10941v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[BabyVLM-V2] BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models|[[pdf]](http://arxiv.org/abs/2512.10932v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[HAROOD] HAROOD: A Benchmark for Out-of-distribution Generalization in Sensor-based Human Activity Recognition|[[pdf]](http://arxiv.org/abs/2512.10807v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[LabelFusion] LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification|[[pdf]](http://arxiv.org/abs/2512.10793v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Stronger Normalization-Free Transformers|[[pdf]](http://arxiv.org/abs/2512.10938v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision|[[pdf]](http://arxiv.org/abs/2512.10956v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World|[[pdf]](http://arxiv.org/abs/2512.10958v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Sharp Monocular View Synthesis in Less Than a Second|[[pdf]](http://arxiv.org/abs/2512.10685v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[BiTAgent] BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models|[[pdf]](http://arxiv.org/abs/2512.04513v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[FALCON] FALCON: Actively Decoupled Visuomotor Policies for Loco-Manipulation with Foundation-Model-Based Coordination|[[pdf]](http://arxiv.org/abs/2512.04381v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering|[[pdf]](http://arxiv.org/abs/2512.04597v1)|⚠️|⭐️⭐️⭐️|
@@ -471,6 +479,6 @@
 
 ## 📊 统计
 
-- 论文总数：450篇
+- 论文总数：458篇
 - 代码实现：5个
 - 最后更新：2025年12月

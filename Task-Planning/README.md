@@ -22,6 +22,12 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|[MMSI-Video-Bench] MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence|[[pdf]](http://arxiv.org/abs/2512.10863v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[AlcheMinT] AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation|[[pdf]](http://arxiv.org/abs/2512.10943v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|LLMs Can Assist with Proposal Selection at Large User Facilities|[[pdf]](http://arxiv.org/abs/2512.10895v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Decoupled Q-Chunking|[[pdf]](http://arxiv.org/abs/2512.10926v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-10|Fast Functionally Redundant Inverse Kinematics for Robotic Toolpath Optimisation in Manufacturing Tasks|[[pdf]](http://arxiv.org/abs/2512.10116v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-10|Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation|[[pdf]](http://arxiv.org/abs/2512.10099v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|LLMs Know More Than Words: A Genre Study with Syntax, Metaphor & Phonetics|[[pdf]](http://arxiv.org/abs/2512.04957v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[Splannequin] Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting|[[pdf]](http://arxiv.org/abs/2512.05113v1)|⚠️|⭐️⭐️⭐️|
 |2025-11-27|[CoT4AD] CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2511.22532v1)|⚠️|⭐️⭐️⭐️|
@@ -260,6 +266,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 236
+- Total Papers: 242
 - Code Implementations: 6
 - Last Updated: December 2025

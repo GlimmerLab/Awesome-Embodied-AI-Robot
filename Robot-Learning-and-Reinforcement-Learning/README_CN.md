@@ -47,6 +47,38 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation|[[pdf]](http://arxiv.org/abs/2512.10925v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[CLASH] CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2512.10360v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[Multi-robot] Iterative Compositional Data Generation for Robot Control|[[pdf]](http://arxiv.org/abs/2512.10891v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[RoboNeuron] RoboNeuron: A Modular Framework Linking Foundation Models and ROS for Embodied AI|[[pdf]](http://arxiv.org/abs/2512.10394v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Evaluating Gemini Robotics Policies in a Veo World Simulator|[[pdf]](http://arxiv.org/abs/2512.10675v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Task-Oriented Grasping Using Reinforcement Learning with a Contextual Reward Machine|[[pdf]](http://arxiv.org/abs/2512.10235v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[AERMANI-Diffusion] AERMANI-Diffusion: Regime-Conditioned Diffusion for Dynamics Learning in Aerial Manipulators|[[pdf]](http://arxiv.org/abs/2512.10773v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[OmniView] OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis|[[pdf]](http://arxiv.org/abs/2512.10940v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[ImplicitRDP] ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning|[[pdf]](http://arxiv.org/abs/2512.10946v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit|[[pdf]](http://arxiv.org/abs/2512.10934v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Hierarchical Dataset Selection for High-Quality Data Sharing|[[pdf]](http://arxiv.org/abs/2512.10952v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.10691v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[V-OCBF] V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2512.10822v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|How to Brake? Ethical Emergency Braking with Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.10698v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation|[[pdf]](http://arxiv.org/abs/2512.10949v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[COMPARE] COMPARE: Clinical Optimization with Modular Planning and Assessment via RAG-Enhanced AI-OCT: Superior Decision Support for Percutaneous Coronary Intervention Compared to ChatGPT-5 and Junior Operators|[[pdf]](http://arxiv.org/abs/2512.10702v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] UACER: An Uncertainty-Aware Critic Ensemble Framework for Robust Adversarial Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.10492v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] Symphony: A Heuristic Normalized Calibrated Advantage Actor and Critic Algorithm in application for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2512.10477v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] Mr. Virgil: Learning Multi-robot Visual-range Relative Localization|[[pdf]](http://arxiv.org/abs/2512.10540v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|A Privacy-Preserving Cloud Architecture for Distributed Machine Learning at Scale|[[pdf]](http://arxiv.org/abs/2512.10341v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Learning Controllable and Diverse Player Behaviors in Multi-Agent Environments|[[pdf]](http://arxiv.org/abs/2512.10835v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Noisy Quantum Learning Theory|[[pdf]](http://arxiv.org/abs/2512.10929v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Guided Transfer Learning for Discrete Diffusion Models|[[pdf]](http://arxiv.org/abs/2512.10877v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Bidirectional Normalizing Flow: From Data to Noise and Back|[[pdf]](http://arxiv.org/abs/2512.10953v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Scaling Behavior of Discrete Diffusion Language Models|[[pdf]](http://arxiv.org/abs/2512.10858v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[Agile Deliberation] Agile Deliberation: Concept Deliberation for Subjective Visual Classification|[[pdf]](http://arxiv.org/abs/2512.10821v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Deep sets and event-level maximum-likelihood estimation for fast pile-up jet rejection in ATLAS|[[pdf]](http://arxiv.org/abs/2512.10819v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] Geo6DPose: Fast Zero-Shot 6D Object Pose Estimation via Geometry-Filtered Feature Matching|[[pdf]](http://arxiv.org/abs/2512.10674v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[Any4D] Any4D: Unified Feed-Forward Metric 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2512.10935v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[en] SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving|[[pdf]](http://arxiv.org/abs/2512.10719v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[CheXmask-U] CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images|[[pdf]](http://arxiv.org/abs/2512.10715v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-10|[Openpi Comet] Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge|[[pdf]](http://arxiv.org/abs/2512.10071v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[Humanoid] From Generated Human Videos to Physically Plausible Robot Trajectories|[[pdf]](http://arxiv.org/abs/2512.05094v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops|[[pdf]](http://arxiv.org/abs/2512.04446v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[Multi-robot] Bridging Probabilistic Inference and Behavior Trees: An Interactive Framework for Adaptive Multi-Robot Cooperation|[[pdf]](http://arxiv.org/abs/2512.04404v1)|⚠️|⭐️⭐️⭐️|
@@ -2356,6 +2388,6 @@
 
 ## 📊 统计
 
-- 论文总数：2330篇
+- 论文总数：2362篇
 - 代码实现：20个
 - 最后更新：2025年12月

@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|[LEO-RobotAgent] LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Operator|[[pdf]](http://arxiv.org/abs/2512.10605v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[CompanionCast] CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences|[[pdf]](http://arxiv.org/abs/2512.10918v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Natural Language Interface for Firewall Configuration|[[pdf]](http://arxiv.org/abs/2512.10789v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[VL-JEPA] VL-JEPA: Joint Embedding Predictive Architecture for Vision-language|[[pdf]](http://arxiv.org/abs/2512.10942v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[TV2TV] TV2TV: A Unified Framework for Interleaved Language and Video Generation|[[pdf]](http://arxiv.org/abs/2512.05103v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models|[[pdf]](http://arxiv.org/abs/2512.04981v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors|[[pdf]](http://arxiv.org/abs/2512.04808v1)|⚠️|⭐️⭐️⭐️|
@@ -297,6 +301,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 272
+- Total Papers: 276
 - Code Implementations: 6
 - Last Updated: December 2025

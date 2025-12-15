@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|[Hyper-Dexterous] Design and Validation of an Under-actuated Robotic Finger with Synchronous Tendon Routing|[[pdf]](http://arxiv.org/abs/2512.10349v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[T-SKM-Net] T-SKM-Net: Trainable Neural Network Framework for Linear Constraint Satisfaction via Sampling Kaczmarz-Motzkin Method|[[pdf]](http://arxiv.org/abs/2512.10461v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Motion Planning for Safe Landing of a Human-Piloted Parafoil|[[pdf]](http://arxiv.org/abs/2512.10595v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Design of a six wheel suspension and a three-axis linear actuation mechanism for a laser weeding robot|[[pdf]](http://arxiv.org/abs/2512.10319v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking|[[pdf]](http://arxiv.org/abs/2512.10874v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[MoCapAnything] MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos|[[pdf]](http://arxiv.org/abs/2512.10881v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[Hyper-Dexterous] Development of a 15-Degree-of-Freedom Bionic Hand with Cable-Driven Transmission and Distributed Actuation|[[pdf]](http://arxiv.org/abs/2512.04399v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation|[[pdf]](http://arxiv.org/abs/2512.04884v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Introducing V-Soft Pro: a Modular Platform for a Transhumeral Prosthesis with Controllable Stiffness|[[pdf]](http://arxiv.org/abs/2512.04998v1)|⚠️|⭐️⭐️⭐️|
@@ -484,6 +490,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 459
+- Total Papers: 465
 - Code Implementations: 8
 - Last Updated: December 2025

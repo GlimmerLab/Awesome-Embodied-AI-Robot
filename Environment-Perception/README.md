@@ -26,6 +26,8 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|[Contact SLAM] Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2512.10481v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Video Depth Propagation|[[pdf]](http://arxiv.org/abs/2512.10725v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[TEMPO-VINE] TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards|[[pdf]](http://arxiv.org/abs/2512.04772v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[en] 4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer|[[pdf]](http://arxiv.org/abs/2512.05060v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[GeoPE] GeoPE:A Unified Geometric Positional Embedding for Structured Tensors|[[pdf]](http://arxiv.org/abs/2512.04963v1)|⚠️|⭐️⭐️⭐️|
@@ -328,6 +330,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 304
+- Total Papers: 306
 - Code Implementations: 8
 - Last Updated: December 2025

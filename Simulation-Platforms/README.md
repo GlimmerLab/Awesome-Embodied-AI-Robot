@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-11|[PACIFIC] PACIFIC: a framework for generating benchmarks to check Precise Automatically Checked Instruction Following In Code|[[pdf]](http://arxiv.org/abs/2512.10713v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality|[[pdf]](http://arxiv.org/abs/2512.10791v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[LLM-Auction] LLM-Auction: Generative Auction towards LLM-Native Advertising|[[pdf]](http://arxiv.org/abs/2512.10551v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|Opportunities and Challenges in Harnessing Digital Technology for Effective Teaching and Learning|[[pdf]](http://arxiv.org/abs/2512.10777v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-11|[SWiT-4D] SWiT-4D: Sliding-Window Transformer for Lossless and Parameter-Free Temporal 4D Generation|[[pdf]](http://arxiv.org/abs/2512.10860v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain|[[pdf]](http://arxiv.org/abs/2512.05008v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems|[[pdf]](http://arxiv.org/abs/2512.04502v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|Detecting Perspective Shifts in Multi-agent Systems|[[pdf]](http://arxiv.org/abs/2512.05013v1)|⚠️|⭐️⭐️⭐️|
@@ -440,6 +445,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 415
+- Total Papers: 420
 - Code Implementations: 21
 - Last Updated: December 2025
