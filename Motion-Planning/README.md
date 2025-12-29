@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking|[[pdf]](http://arxiv.org/abs/2512.21882v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[LongFly] LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration|[[pdf]](http://arxiv.org/abs/2512.22010v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[StreamAvatar] StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars|[[pdf]](http://arxiv.org/abs/2512.22065v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[en] Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models|[[pdf]](http://arxiv.org/abs/2512.22046v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|Planetary Terrain Datasets and Benchmarks for Rover Path Planning|[[pdf]](http://arxiv.org/abs/2512.21438v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks|[[pdf]](http://arxiv.org/abs/2512.21375v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[Hyper-Dexterous] Design and Validation of an Under-actuated Robotic Finger with Synchronous Tendon Routing|[[pdf]](http://arxiv.org/abs/2512.10349v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[T-SKM-Net] T-SKM-Net: Trainable Neural Network Framework for Linear Constraint Satisfaction via Sampling Kaczmarz-Motzkin Method|[[pdf]](http://arxiv.org/abs/2512.10461v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|Motion Planning for Safe Landing of a Human-Piloted Parafoil|[[pdf]](http://arxiv.org/abs/2512.10595v1)|⚠️|⭐️⭐️⭐️|
@@ -490,6 +496,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 465
+- Total Papers: 471
 - Code Implementations: 8
 - Last Updated: December 2025

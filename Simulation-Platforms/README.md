@@ -39,6 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications|[[pdf]](http://arxiv.org/abs/2512.21886v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis|[[pdf]](http://arxiv.org/abs/2512.22100v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|From In Silico to In Vitro: Evaluating Molecule Generative Models for Hit Generation|[[pdf]](http://arxiv.org/abs/2512.22031v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[MMCTOP] MMCTOP: A Multimodal Textualization and Mixture-of-Experts Framework for Clinical Trial Outcome Prediction|[[pdf]](http://arxiv.org/abs/2512.21897v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|Spatiotemporal Tubes for Probabilistic Temporal Reach-Avoid-Stay Task in Uncertain Dynamic Environment|[[pdf]](http://arxiv.org/abs/2512.21497v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[InstructMoLE] InstructMoLE: Instruction-Guided Mixture of Low-rank Experts for Multi-Conditional Image Generation|[[pdf]](http://arxiv.org/abs/2512.21788v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[CATCH] CATCH: A Controllable Theme Detection Framework with Contextualized Clustering and Hierarchical Generation|[[pdf]](http://arxiv.org/abs/2512.21715v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[PACIFIC] PACIFIC: a framework for generating benchmarks to check Precise Automatically Checked Instruction Following In Code|[[pdf]](http://arxiv.org/abs/2512.10713v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality|[[pdf]](http://arxiv.org/abs/2512.10791v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[LLM-Auction] LLM-Auction: Generative Auction towards LLM-Native Advertising|[[pdf]](http://arxiv.org/abs/2512.10551v1)|⚠️|⭐️⭐️⭐️|
@@ -445,6 +452,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 420
+- Total Papers: 427
 - Code Implementations: 21
 - Last Updated: December 2025

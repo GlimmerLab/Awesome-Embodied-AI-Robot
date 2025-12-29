@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning|[[pdf]](http://arxiv.org/abs/2512.21924v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[en] End-to-End 3D Spatiotemporal Perception with Multimodal Fusion and V2X Collaboration|[[pdf]](http://arxiv.org/abs/2512.21831v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection|[[pdf]](http://arxiv.org/abs/2512.21856v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[A-QCF-Net] A-QCF-Net: An Adaptive Quaternion Cross-Fusion Network for Multimodal Liver Tumor Segmentation from Unpaired Datasets|[[pdf]](http://arxiv.org/abs/2512.21760v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[Contact SLAM] Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2512.10481v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|Video Depth Propagation|[[pdf]](http://arxiv.org/abs/2512.10725v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-04|[TEMPO-VINE] TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards|[[pdf]](http://arxiv.org/abs/2512.04772v1)|⚠️|⭐️⭐️⭐️|
@@ -330,6 +334,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 306
+- Total Papers: 310
 - Code Implementations: 8
 - Last Updated: December 2025

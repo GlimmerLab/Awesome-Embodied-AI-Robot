@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|Flexible Multitask Learning with Factorized Diffusion Policy|[[pdf]](http://arxiv.org/abs/2512.21898v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space|[[pdf]](http://arxiv.org/abs/2512.21887v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation|[[pdf]](http://arxiv.org/abs/2512.21866v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[SpatialBench] SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?|[[pdf]](http://arxiv.org/abs/2512.21907v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|A Comedy of Estimators: On KL Regularization in RL Training of LLMs|[[pdf]](http://arxiv.org/abs/2512.21852v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Meta-Learning-Based Handover Management in NextG O-RAN|[[pdf]](http://arxiv.org/abs/2512.22022v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs|[[pdf]](http://arxiv.org/abs/2512.21915v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Semiparametric Preference Optimization: Your Language Model is Secretly a Single-Index Model|[[pdf]](http://arxiv.org/abs/2512.21917v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Scalable Class-Incremental Learning Based on Parametric Neural Collapse|[[pdf]](http://arxiv.org/abs/2512.21845v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Why Smooth Stability Assumptions Fail for ReLU Learning|[[pdf]](http://arxiv.org/abs/2512.22055v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Context-Aware Intelligent Chatbot Framework Leveraging Mobile Sensing|[[pdf]](http://arxiv.org/abs/2512.22032v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|MAI-UI Technical Report: Real-World Centric Foundation GUI Agents|[[pdf]](http://arxiv.org/abs/2512.22047v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[Reloc-VGGT] Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer|[[pdf]](http://arxiv.org/abs/2512.21883v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[Humanoid] World-Coordinate Human Motion Retargeting via SAM 3D Body|[[pdf]](http://arxiv.org/abs/2512.21573v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[Trajectory] Structural Induced Exploration for Balanced and Scalable Multi-Robot Path Planning|[[pdf]](http://arxiv.org/abs/2512.21654v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[HELP] HELP: Hierarchical Embodied Language Planner for Household Tasks|[[pdf]](http://arxiv.org/abs/2512.21723v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[MAction-SocialNav] MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning|[[pdf]](http://arxiv.org/abs/2512.21722v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|Multiconnectivity for SAGIN: Current Trends, Challenges, AI-driven Solutions, and Opportunities|[[pdf]](http://arxiv.org/abs/2512.21717v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[BertsWin] BertsWin: Resolving Topological Sparsity in 3D Masked Autoencoders via Component-Balanced Structural Optimization|[[pdf]](http://arxiv.org/abs/2512.21769v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning|[[pdf]](http://arxiv.org/abs/2512.21702v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|Quadrupped-Legged Robot Movement Plan Generation using Large Language Model|[[pdf]](http://arxiv.org/abs/2512.21293v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|[RoboSafe] RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic|[[pdf]](http://arxiv.org/abs/2512.21220v2)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|Global End-Effector Pose Control of an Underactuated Aerial Manipulator via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2512.21085v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|[Hyper-Dexterous] UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer|[[pdf]](http://arxiv.org/abs/2512.21233v2)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|[Humanoid] Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3|[[pdf]](http://arxiv.org/abs/2512.21219v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation|[[pdf]](http://arxiv.org/abs/2512.21201v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|[LookPlanGraph] LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation|[[pdf]](http://arxiv.org/abs/2512.21243v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|[RoboCade] RoboCade: Gamifying Robot Data Collection|[[pdf]](http://arxiv.org/abs/2512.21235v2)|⚠️|⭐️⭐️⭐️|
+|2025-12-24|Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives|[[pdf]](http://arxiv.org/abs/2512.21109v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation|[[pdf]](http://arxiv.org/abs/2512.10925v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[CLASH] CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2512.10360v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[Multi-robot] Iterative Compositional Data Generation for Robot Control|[[pdf]](http://arxiv.org/abs/2512.10891v1)|⚠️|⭐️⭐️⭐️|
@@ -2388,6 +2417,6 @@
 
 ## 📊 统计
 
-- 论文总数：2362篇
+- 论文总数：2391篇
 - 代码实现：20个
 - 最后更新：2025年12月

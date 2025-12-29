@@ -18,6 +18,15 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|[StereoVLA] StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision|[[pdf]](http://arxiv.org/abs/2512.21970v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?|[[pdf]](http://arxiv.org/abs/2512.21871v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[See Less, See Right] See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2512.22120v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[SLIM-Brain] SLIM-Brain: A Data- and Training-Efficient Foundation Model for fMRI Data Analysis|[[pdf]](http://arxiv.org/abs/2512.21881v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[en] Patch-Discontinuity Mining for Generalized Deepfake Detection|[[pdf]](http://arxiv.org/abs/2512.22027v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[iSHIFT] iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception|[[pdf]](http://arxiv.org/abs/2512.22009v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning|[[pdf]](http://arxiv.org/abs/2512.21699v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech|[[pdf]](http://arxiv.org/abs/2512.21706v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|[Scene-VLM] Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models|[[pdf]](http://arxiv.org/abs/2512.21778v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[Mull-Tokens] Mull-Tokens: Modality-Agnostic Latent Thinking|[[pdf]](http://arxiv.org/abs/2512.10941v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[BabyVLM-V2] BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models|[[pdf]](http://arxiv.org/abs/2512.10932v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[HAROOD] HAROOD: A Benchmark for Out-of-distribution Generalization in Sensor-based Human Activity Recognition|[[pdf]](http://arxiv.org/abs/2512.10807v1)|⚠️|⭐️⭐️⭐️|
@@ -479,6 +488,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 458
+- Total Papers: 467
 - Code Implementations: 5
 - Last Updated: December 2025

@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|[MoonBot] MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction|[[pdf]](http://arxiv.org/abs/2512.21853v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[MMSI-Video-Bench] MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence|[[pdf]](http://arxiv.org/abs/2512.10863v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[AlcheMinT] AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation|[[pdf]](http://arxiv.org/abs/2512.10943v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|LLMs Can Assist with Proposal Selection at Large User Facilities|[[pdf]](http://arxiv.org/abs/2512.10895v1)|⚠️|⭐️⭐️⭐️|
@@ -266,6 +267,6 @@
 
 ## 📊 统计
 
-- 论文总数：242篇
+- 论文总数：243篇
 - 代码实现：6个
 - 最后更新：2025年12月

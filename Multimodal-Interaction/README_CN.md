@@ -25,6 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-26|Bab_Sak Robotic Intubation System (BRIS): A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation|[[pdf]](http://arxiv.org/abs/2512.21983v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-26|[Few Tokens Matter] Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models|[[pdf]](http://arxiv.org/abs/2512.21815v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-25|Multi-agent Adaptive Mechanism Design|[[pdf]](http://arxiv.org/abs/2512.21794v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[LEO-RobotAgent] LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Operator|[[pdf]](http://arxiv.org/abs/2512.10605v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[CompanionCast] CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences|[[pdf]](http://arxiv.org/abs/2512.10918v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|Natural Language Interface for Firewall Configuration|[[pdf]](http://arxiv.org/abs/2512.10789v1)|⚠️|⭐️⭐️⭐️|
@@ -301,6 +304,6 @@
 
 ## 📊 统计
 
-- 论文总数：276篇
+- 论文总数：279篇
 - 代码实现：6个
 - 最后更新：2025年12月
