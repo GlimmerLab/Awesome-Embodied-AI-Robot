@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|Optimal Transport-Based Decentralized Multi-Agent Distribution Matching|[[pdf]](http://arxiv.org/abs/2601.00548v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[AceFF] AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules|[[pdf]](http://arxiv.org/abs/2601.00581v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[FreeText] FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection|[[pdf]](http://arxiv.org/abs/2601.00535v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[SLEI3D] SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication|[[pdf]](http://arxiv.org/abs/2601.00163v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[en] DepFlow: Disentangled Speech Generation to Mitigate Semantic Bias in Depression Detection|[[pdf]](http://arxiv.org/abs/2601.00303v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications|[[pdf]](http://arxiv.org/abs/2512.21886v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis|[[pdf]](http://arxiv.org/abs/2512.22100v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|From In Silico to In Vitro: Evaluating Molecule Generative Models for Hit Generation|[[pdf]](http://arxiv.org/abs/2512.22031v1)|⚠️|⭐️⭐️⭐️|
@@ -452,6 +457,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 427
+- Total Papers: 432
 - Code Implementations: 21
-- Last Updated: December 2025
+- Last Updated: January 2026

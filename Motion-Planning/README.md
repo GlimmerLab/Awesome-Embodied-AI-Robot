@@ -32,6 +32,9 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|User Perceptions of an LLM-Based Chatbot for Cognitive Reappraisal of Stress: Feasibility Study|[[pdf]](http://arxiv.org/abs/2601.00570v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[Trajectory] Vehicle Painting Robot Path Planning Using Hierarchical Optimization|[[pdf]](http://arxiv.org/abs/2601.00271v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|Hierarchical Deformation Planning and Neural Tracking for DLOs in Constrained Environments|[[pdf]](http://arxiv.org/abs/2512.24974v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking|[[pdf]](http://arxiv.org/abs/2512.21882v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[LongFly] LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration|[[pdf]](http://arxiv.org/abs/2512.22010v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[StreamAvatar] StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars|[[pdf]](http://arxiv.org/abs/2512.22065v1)|⚠️|⭐️⭐️⭐️|
@@ -496,6 +499,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 471
+- Total Papers: 474
 - Code Implementations: 8
-- Last Updated: December 2025
+- Last Updated: January 2026

@@ -26,6 +26,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation|[[pdf]](http://arxiv.org/abs/2601.00545v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI|[[pdf]](http://arxiv.org/abs/2601.00516v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[en] Modality Dominance-Aware Optimization for Embodied RGB-Infrared Perception|[[pdf]](http://arxiv.org/abs/2601.00598v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[DefVINS] DefVINS: Visual-Inertial Odometry for Deformable Scenes|[[pdf]](http://arxiv.org/abs/2601.00702v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Mask-Conditioned Voxel Diffusion for Joint Geometry and Color Inpainting|[[pdf]](http://arxiv.org/abs/2601.00368v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Deep Delta Learning|[[pdf]](http://arxiv.org/abs/2601.00417v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning|[[pdf]](http://arxiv.org/abs/2512.21924v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[en] End-to-End 3D Spatiotemporal Perception with Multimodal Fusion and V2X Collaboration|[[pdf]](http://arxiv.org/abs/2512.21831v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection|[[pdf]](http://arxiv.org/abs/2512.21856v1)|⚠️|⭐️⭐️⭐️|
@@ -334,6 +340,6 @@
 
 ## 📊 统计
 
-- 论文总数：310篇
+- 论文总数：316篇
 - 代码实现：8个
-- 最后更新：2025年12月
+- 最后更新：2026年01月

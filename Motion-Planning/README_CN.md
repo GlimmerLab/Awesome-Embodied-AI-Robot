@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|User Perceptions of an LLM-Based Chatbot for Cognitive Reappraisal of Stress: Feasibility Study|[[pdf]](http://arxiv.org/abs/2601.00570v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[Trajectory] Vehicle Painting Robot Path Planning Using Hierarchical Optimization|[[pdf]](http://arxiv.org/abs/2601.00271v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|Hierarchical Deformation Planning and Neural Tracking for DLOs in Constrained Environments|[[pdf]](http://arxiv.org/abs/2512.24974v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking|[[pdf]](http://arxiv.org/abs/2512.21882v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[LongFly] LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration|[[pdf]](http://arxiv.org/abs/2512.22010v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[StreamAvatar] StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars|[[pdf]](http://arxiv.org/abs/2512.22065v1)|⚠️|⭐️⭐️⭐️|
@@ -496,6 +499,6 @@
 
 ## 📊 统计
 
-- 论文总数：471篇
+- 论文总数：474篇
 - 代码实现：8个
-- 最后更新：2025年12月
+- 最后更新：2026年01月

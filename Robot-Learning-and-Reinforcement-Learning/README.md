@@ -47,6 +47,48 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|LLM-Based Agentic Exploration for Robot Navigation & Manipulation with Skill Orchestration|[[pdf]](http://arxiv.org/abs/2601.00555v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Adaptive] NMPC-Augmented Visual Navigation and Safe Learning Control for Large-Scale Mobile Robots|[[pdf]](http://arxiv.org/abs/2601.00609v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[RoboReward] RoboReward: General-Purpose Vision-Language Reward Models for Robotics|[[pdf]](http://arxiv.org/abs/2601.00675v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Multi-robot] Priority-Aware Multi-Robot Coverage Path Planning|[[pdf]](http://arxiv.org/abs/2601.00580v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Adaptive] Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework|[[pdf]](http://arxiv.org/abs/2601.00610v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Detecting Performance Degradation under Data Shift in Pathology Vision-Language Model|[[pdf]](http://arxiv.org/abs/2601.00716v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[IRPO] IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.00677v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Learning to be Reproducible: Custom Loss Design for Robust Neural Networks|[[pdf]](http://arxiv.org/abs/2601.00578v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[FedHypeVAE] FedHypeVAE: Federated Learning with Hypernetwork Generated Conditional VAEs for Differentially Private Embedding Sharing|[[pdf]](http://arxiv.org/abs/2601.00785v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Bayesian Inverse Games with High-Dimensional Multi-Modal Observations|[[pdf]](http://arxiv.org/abs/2601.00696v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[ARISE] ARISE: Adaptive Reinforcement Integrated with Swarm Exploration|[[pdf]](http://arxiv.org/abs/2601.00693v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.00607v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Stochastic Actor-Critic: Mitigating Overestimation via Temporal Aleatoric Uncertainty|[[pdf]](http://arxiv.org/abs/2601.00737v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Adversarial Samples Are Not Created Equal|[[pdf]](http://arxiv.org/abs/2601.00577v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Precision Autotuning for Linear Solvers via Contextual Bandit-Based RL|[[pdf]](http://arxiv.org/abs/2601.00728v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[HFedMoE] HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts|[[pdf]](http://arxiv.org/abs/2601.00583v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Improving Scientific Document Retrieval with Academic Concept Index|[[pdf]](http://arxiv.org/abs/2601.00567v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Evaluating Web Accessibility and Usability in Bangladesh: A Comparative Analysis of Government and Non-Government Websites|[[pdf]](http://arxiv.org/abs/2601.00592v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|The AI Invisibility Effect: Understanding Human-AI Interaction When Users Don't Recognize Artificial Intelligence|[[pdf]](http://arxiv.org/abs/2601.00579v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Wave2Word] Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care|[[pdf]](http://arxiv.org/abs/2601.00670v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Avatar Forcing] Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation|[[pdf]](http://arxiv.org/abs/2601.00664v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[en] A Cascaded Information Interaction Network for Precise Image Segmentation|[[pdf]](http://arxiv.org/abs/2601.00562v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection|[[pdf]](http://arxiv.org/abs/2601.00777v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[AdaGaR] AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction|[[pdf]](http://arxiv.org/abs/2601.00796v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Quality Detection of Stored Potatoes via Transfer Learning: A CNN and Vision Transformer Approach|[[pdf]](http://arxiv.org/abs/2601.00645v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios|[[pdf]](http://arxiv.org/abs/2601.00537v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Pixel-to-4D] Pixel-to-4D: Camera-Controlled Image-to-Video Generation with Dynamic 3D Gaussians|[[pdf]](http://arxiv.org/abs/2601.00678v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Parametrized Sharing for Multi-Agent Hybrid DRL for Multiple Multi-Functional RISs-Aided Downlink NOMA Networks|[[pdf]](http://arxiv.org/abs/2601.00538v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Online Finetuning Decision Transformers with Pure RL Gradients|[[pdf]](http://arxiv.org/abs/2601.00167v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Can Semantic Methods Enhance Team Sports Tactics? A Methodology for Football with Broader Applications|[[pdf]](http://arxiv.org/abs/2601.00421v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[MAESTRO] MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability|[[pdf]](http://arxiv.org/abs/2601.00481v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[FCMBench] FCMBench: A Comprehensive Financial Credit Multimodal Benchmark for Real-world Applications|[[pdf]](http://arxiv.org/abs/2601.00150v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[MotionPhysics] MotionPhysics: Learnable Motion Distillation for Text-Guided Simulation|[[pdf]](http://arxiv.org/abs/2601.00504v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[en] Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers|[[pdf]](http://arxiv.org/abs/2601.00359v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|[CPPO] CPPO: Contrastive Perception for Vision Language Policy Optimization|[[pdf]](http://arxiv.org/abs/2601.00501v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Adaptive Causal Coordination Detection for Social Media: A Memory-Guided Framework with Semi-Supervised Learning|[[pdf]](http://arxiv.org/abs/2601.00400v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[Humanoid] Coordinated Humanoid Manipulation with Choice Policies|[[pdf]](http://arxiv.org/abs/2512.25072v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[Dream2Flow] Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow|[[pdf]](http://arxiv.org/abs/2512.24766v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[GRL-SNAM] GRL-SNAM: Geometric Reinforcement Learning with Path Differential Hamiltonians for Simultaneous Navigation and Mapping in Unknown Environments|[[pdf]](http://arxiv.org/abs/2601.00116v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[Hyper-Dexterous] ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands|[[pdf]](http://arxiv.org/abs/2512.24965v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|Reinforcement learning with timed constraints for robotics motion planning|[[pdf]](http://arxiv.org/abs/2601.00087v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[MSACL] MSACL: Multi-Step Actor-Critic Learning with Lyapunov Certificates for Exponentially Stabilizing Control|[[pdf]](http://arxiv.org/abs/2512.24955v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Flexible Multitask Learning with Factorized Diffusion Policy|[[pdf]](http://arxiv.org/abs/2512.21898v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space|[[pdf]](http://arxiv.org/abs/2512.21887v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation|[[pdf]](http://arxiv.org/abs/2512.21866v1)|⚠️|⭐️⭐️⭐️|
@@ -2417,6 +2459,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2391
+- Total Papers: 2433
 - Code Implementations: 20
-- Last Updated: December 2025
+- Last Updated: January 2026

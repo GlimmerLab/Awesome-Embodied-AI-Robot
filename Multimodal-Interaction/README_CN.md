@@ -25,6 +25,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|[Calling for Backup] Calling for Backup: How Children Navigate Successive Robot Communication Failures|[[pdf]](http://arxiv.org/abs/2601.00754v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|An Agentic Framework for Neuro-Symbolic Programming|[[pdf]](http://arxiv.org/abs/2601.00743v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[CRoPS] CRoPS: A Training-Free Hallucination Mitigation Framework for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2601.00659v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[GranAlign] GranAlign: Granularity-Aware Alignment Framework for Zero-Shot Video Moment Retrieval|[[pdf]](http://arxiv.org/abs/2601.00584v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|The Generative AI Paradox: GenAI and the Erosion of Trust, the Corrosion of Information Verification, and the Demise of Truth|[[pdf]](http://arxiv.org/abs/2601.00306v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Bab_Sak Robotic Intubation System (BRIS): A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation|[[pdf]](http://arxiv.org/abs/2512.21983v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[Few Tokens Matter] Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models|[[pdf]](http://arxiv.org/abs/2512.21815v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-25|Multi-agent Adaptive Mechanism Design|[[pdf]](http://arxiv.org/abs/2512.21794v1)|⚠️|⭐️⭐️⭐️|
@@ -304,6 +309,6 @@
 
 ## 📊 统计
 
-- 论文总数：279篇
+- 论文总数：284篇
 - 代码实现：6个
-- 最后更新：2025年12月
+- 最后更新：2026年01月

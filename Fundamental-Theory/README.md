@@ -18,6 +18,13 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|Cracking IoT Security: Can LLMs Outsmart Static Analysis Tools?|[[pdf]](http://arxiv.org/abs/2601.00559v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference|[[pdf]](http://arxiv.org/abs/2601.00694v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[Geometry of Reason] Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning|[[pdf]](http://arxiv.org/abs/2601.00791v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[DA-DPO] DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations|[[pdf]](http://arxiv.org/abs/2601.00623v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Multi-Agent Coordinated Rename Refactoring|[[pdf]](http://arxiv.org/abs/2601.00482v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[VLN-MME] VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents|[[pdf]](http://arxiv.org/abs/2512.24851v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[DarkEQA] DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments|[[pdf]](http://arxiv.org/abs/2512.24985v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[StereoVLA] StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision|[[pdf]](http://arxiv.org/abs/2512.21970v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?|[[pdf]](http://arxiv.org/abs/2512.21871v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[See Less, See Right] See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2512.22120v1)|⚠️|⭐️⭐️⭐️|
@@ -488,6 +495,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 467
+- Total Papers: 474
 - Code Implementations: 5
-- Last Updated: December 2025
+- Last Updated: January 2026

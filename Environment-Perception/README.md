@@ -26,6 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-02|Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation|[[pdf]](http://arxiv.org/abs/2601.00545v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI|[[pdf]](http://arxiv.org/abs/2601.00516v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[en] Modality Dominance-Aware Optimization for Embodied RGB-Infrared Perception|[[pdf]](http://arxiv.org/abs/2601.00598v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-02|[DefVINS] DefVINS: Visual-Inertial Odometry for Deformable Scenes|[[pdf]](http://arxiv.org/abs/2601.00702v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Mask-Conditioned Voxel Diffusion for Joint Geometry and Color Inpainting|[[pdf]](http://arxiv.org/abs/2601.00368v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-01|Deep Delta Learning|[[pdf]](http://arxiv.org/abs/2601.00417v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning|[[pdf]](http://arxiv.org/abs/2512.21924v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[en] End-to-End 3D Spatiotemporal Perception with Multimodal Fusion and V2X Collaboration|[[pdf]](http://arxiv.org/abs/2512.21831v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection|[[pdf]](http://arxiv.org/abs/2512.21856v1)|⚠️|⭐️⭐️⭐️|
@@ -334,6 +340,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 310
+- Total Papers: 316
 - Code Implementations: 8
-- Last Updated: December 2025
+- Last Updated: January 2026

@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025-12-31|[ArtiSG] ArtiSG: Functional 3D Scene Graph Construction via Human-demonstrated Articulated Objects Manipulation|[[pdf]](http://arxiv.org/abs/2512.24845v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|Compositional Diffusion with Guided search for Long-Horizon Planning|[[pdf]](http://arxiv.org/abs/2601.00126v1)|⚠️|⭐️⭐️⭐️|
+|2025-12-31|[Trajectory] Explaining Why Things Go Where They Go: Interpretable Constructs of Human Organizational Preferences|[[pdf]](http://arxiv.org/abs/2512.24829v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-26|[MoonBot] MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction|[[pdf]](http://arxiv.org/abs/2512.21853v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[MMSI-Video-Bench] MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence|[[pdf]](http://arxiv.org/abs/2512.10863v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-11|[AlcheMinT] AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation|[[pdf]](http://arxiv.org/abs/2512.10943v1)|⚠️|⭐️⭐️⭐️|
@@ -267,6 +270,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 243
+- Total Papers: 246
 - Code Implementations: 6
-- Last Updated: December 2025
+- Last Updated: January 2026
