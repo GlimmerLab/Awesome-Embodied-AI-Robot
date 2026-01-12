@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|[DexterCap] DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation|[[pdf]](http://arxiv.org/abs/2601.05844v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|[PRISM] PRISM: Protocol Refinement through Intelligent Simulation Modeling|[[pdf]](http://arxiv.org/abs/2601.05356v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|Inverting Non-Injective Functions with Twin Neural Network Regression|[[pdf]](http://arxiv.org/abs/2601.05378v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|User Perceptions of an LLM-Based Chatbot for Cognitive Reappraisal of Stress: Feasibility Study|[[pdf]](http://arxiv.org/abs/2601.00570v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-01|[Trajectory] Vehicle Painting Robot Path Planning Using Hierarchical Optimization|[[pdf]](http://arxiv.org/abs/2601.00271v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-31|Hierarchical Deformation Planning and Neural Tracking for DLOs in Constrained Environments|[[pdf]](http://arxiv.org/abs/2512.24974v1)|⚠️|⭐️⭐️⭐️|
@@ -499,6 +502,6 @@
 
 ## 📊 统计
 
-- 论文总数：474篇
+- 论文总数：477篇
 - 代码实现：8个
 - 最后更新：2026年01月

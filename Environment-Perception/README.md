@@ -26,6 +26,14 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|Mobile Robot Localization Using a Novel Whisker-Like Sensor|[[pdf]](http://arxiv.org/abs/2601.05612v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Motion Compensation for Real Time Ultrasound Scanning in Robotically Assisted Prostate Biopsy Procedures|[[pdf]](http://arxiv.org/abs/2601.05661v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[InsSo3D] InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection|[[pdf]](http://arxiv.org/abs/2601.05805v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[FeatureSLAM] FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time|[[pdf]](http://arxiv.org/abs/2601.05738v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[en] GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2601.05511v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[en] GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras|[[pdf]](http://arxiv.org/abs/2601.05839v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Kidney Cancer Detection Using 3D-Based Latent Diffusion Models|[[pdf]](http://arxiv.org/abs/2601.05852v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Advancing credit mobility through stakeholder-informed AI design and adoption|[[pdf]](http://arxiv.org/abs/2601.05666v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation|[[pdf]](http://arxiv.org/abs/2601.00545v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI|[[pdf]](http://arxiv.org/abs/2601.00516v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[en] Modality Dominance-Aware Optimization for Embodied RGB-Infrared Perception|[[pdf]](http://arxiv.org/abs/2601.00598v1)|⚠️|⭐️⭐️⭐️|
@@ -340,6 +348,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 316
+- Total Papers: 324
 - Code Implementations: 8
 - Last Updated: January 2026

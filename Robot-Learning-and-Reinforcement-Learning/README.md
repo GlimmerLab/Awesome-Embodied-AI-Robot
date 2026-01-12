@@ -47,6 +47,36 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.05836v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[SceneFoundry] SceneFoundry: Generating Interactive Infinite 3D Worlds|[[pdf]](http://arxiv.org/abs/2601.05810v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[Goal Force] Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals|[[pdf]](http://arxiv.org/abs/2601.05848v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction|[[pdf]](http://arxiv.org/abs/2601.05491v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[TOSC] TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds|[[pdf]](http://arxiv.org/abs/2601.05499v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[CHDP] CHDP: Cooperative Hybrid Diffusion Policies for Reinforcement Learning in Parameterized Action Space|[[pdf]](http://arxiv.org/abs/2601.05675v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[StackPlanner] StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management|[[pdf]](http://arxiv.org/abs/2601.05890v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Open-Vocabulary 3D Instruction Ambiguity Detection|[[pdf]](http://arxiv.org/abs/2601.05991v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Continual-learning for Modelling Low-Resource Languages from Large Language Models|[[pdf]](http://arxiv.org/abs/2601.05874v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation|[[pdf]](http://arxiv.org/abs/2601.05787v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Multimodal In-context Learning for ASR of Low-resource Languages|[[pdf]](http://arxiv.org/abs/2601.05707v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification|[[pdf]](http://arxiv.org/abs/2601.05785v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Reinforcement Learning of Large Language Models for Interpretable Credit Card Fraud Detection|[[pdf]](http://arxiv.org/abs/2601.05578v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Sequential Bayesian Optimal Experimental Design in Infinite Dimensions via Policy Gradient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.05868v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[IIB-LPO] IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck|[[pdf]](http://arxiv.org/abs/2601.05870v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[AWaRe-SAC] AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty|[[pdf]](http://arxiv.org/abs/2601.05978v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Prophet as a Repro ducible Forecasting Framework: A Methodological Guide for Business and Financial Analytics|[[pdf]](http://arxiv.org/abs/2601.05929v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[CLewR] CLewR: Curriculum Learning with Restarts for Machine Translation Preference Learning|[[pdf]](http://arxiv.org/abs/2601.05858v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|A Dual Pipeline Machine Learning Framework for Automated Multi Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning|[[pdf]](http://arxiv.org/abs/2601.05814v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[Cedalion Tutorial] Cedalion Tutorial: A Python-based framework for comprehensive analysis of multimodal fNIRS & DOT from the lab to the everyday world|[[pdf]](http://arxiv.org/abs/2601.05923v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation|[[pdf]](http://arxiv.org/abs/2601.05722v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[en] SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2601.05640v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[SketchVL] SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More|[[pdf]](http://arxiv.org/abs/2601.05688v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Learning Geometric Invariance for Gait Recognition|[[pdf]](http://arxiv.org/abs/2601.05604v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|[Humanoid] SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles|[[pdf]](http://arxiv.org/abs/2601.04948v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|[Intent at a Glance] Intent at a Glance: Gaze-Guided Robotic Manipulation via Foundation Models|[[pdf]](http://arxiv.org/abs/2601.05336v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|[RoboVIP] RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation|[[pdf]](http://arxiv.org/abs/2601.05241v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|Learning Latent Action World Models In The Wild|[[pdf]](http://arxiv.org/abs/2601.05230v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|[LaST$_{0}$] LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model|[[pdf]](http://arxiv.org/abs/2601.05248v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|The RoboSense Challenge: Sense Anything, Navigate Anywhere, Adapt Across Platforms|[[pdf]](http://arxiv.org/abs/2601.05014v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|LLM-Based Agentic Exploration for Robot Navigation & Manipulation with Skill Orchestration|[[pdf]](http://arxiv.org/abs/2601.00555v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[Adaptive] NMPC-Augmented Visual Navigation and Safe Learning Control for Large-Scale Mobile Robots|[[pdf]](http://arxiv.org/abs/2601.00609v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[RoboReward] RoboReward: General-Purpose Vision-Language Reward Models for Robotics|[[pdf]](http://arxiv.org/abs/2601.00675v1)|⚠️|⭐️⭐️⭐️|
@@ -2459,6 +2489,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2433
+- Total Papers: 2463
 - Code Implementations: 20
 - Last Updated: January 2026

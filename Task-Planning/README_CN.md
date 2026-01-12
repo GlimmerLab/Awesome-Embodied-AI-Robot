@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|[VideoAR] VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction|[[pdf]](http://arxiv.org/abs/2601.05966v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[AIBoMGen] AIBoMGen: Generating an AI Bill of Materials for Secure, Transparent, and Compliant Model Training|[[pdf]](http://arxiv.org/abs/2601.05703v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-31|[ArtiSG] ArtiSG: Functional 3D Scene Graph Construction via Human-demonstrated Articulated Objects Manipulation|[[pdf]](http://arxiv.org/abs/2512.24845v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-31|Compositional Diffusion with Guided search for Long-Horizon Planning|[[pdf]](http://arxiv.org/abs/2601.00126v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-31|[Trajectory] Explaining Why Things Go Where They Go: Interpretable Constructs of Human Organizational Preferences|[[pdf]](http://arxiv.org/abs/2512.24829v1)|⚠️|⭐️⭐️⭐️|
@@ -270,6 +272,6 @@
 
 ## 📊 统计
 
-- 论文总数：246篇
+- 论文总数：248篇
 - 代码实现：6个
 - 最后更新：2026年01月

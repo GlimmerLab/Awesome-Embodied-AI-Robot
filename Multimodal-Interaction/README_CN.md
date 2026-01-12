@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making|[[pdf]](http://arxiv.org/abs/2601.05529v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[Router-Suggest] Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs|[[pdf]](http://arxiv.org/abs/2601.05851v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Decoding Workload and Agreement From EEG During Spoken Dialogue With Conversational AI|[[pdf]](http://arxiv.org/abs/2601.05825v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[Gender Bias in LLMs] Gender Bias in LLMs: Preliminary Evidence from Shared Parenting Scenario in Czech Family Law|[[pdf]](http://arxiv.org/abs/2601.05879v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[en] Modular Autonomy with Conversational Interaction: An LLM-driven Framework for Decision Making in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2601.05806v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[VIB-Probe] VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck|[[pdf]](http://arxiv.org/abs/2601.05547v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[Calling for Backup] Calling for Backup: How Children Navigate Successive Robot Communication Failures|[[pdf]](http://arxiv.org/abs/2601.00754v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|An Agentic Framework for Neuro-Symbolic Programming|[[pdf]](http://arxiv.org/abs/2601.00743v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[CRoPS] CRoPS: A Training-Free Hallucination Mitigation Framework for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2601.00659v1)|⚠️|⭐️⭐️⭐️|
@@ -309,6 +315,6 @@
 
 ## 📊 统计
 
-- 论文总数：284篇
+- 论文总数：290篇
 - 代码实现：6个
 - 最后更新：2026年01月

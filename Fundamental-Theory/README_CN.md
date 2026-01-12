@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|Logic-Parametric Neuro-Symbolic NLI: Controlling Logical Formalisms for Verifiable LLM Reasoning|[[pdf]](http://arxiv.org/abs/2601.05705v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[DynaDebate] DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation|[[pdf]](http://arxiv.org/abs/2601.05746v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2601.06002v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[CyberGFM] CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks|[[pdf]](http://arxiv.org/abs/2601.05988v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|Context-Aware Decoding for Faithful Vision-Language Generation|[[pdf]](http://arxiv.org/abs/2601.05939v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|Cracking IoT Security: Can LLMs Outsmart Static Analysis Tools?|[[pdf]](http://arxiv.org/abs/2601.00559v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference|[[pdf]](http://arxiv.org/abs/2601.00694v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[Geometry of Reason] Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning|[[pdf]](http://arxiv.org/abs/2601.00791v1)|⚠️|⭐️⭐️⭐️|
@@ -495,6 +500,6 @@
 
 ## 📊 统计
 
-- 论文总数：474篇
+- 论文总数：479篇
 - 代码实现：5个
 - 最后更新：2026年01月

@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-09|[EvoQRE] EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium|[[pdf]](http://arxiv.org/abs/2601.05653v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-09|[TowerMind] TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents|[[pdf]](http://arxiv.org/abs/2601.05899v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-08|[Hyper-Dexterous] Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration|[[pdf]](http://arxiv.org/abs/2601.05243v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|Optimal Transport-Based Decentralized Multi-Agent Distribution Matching|[[pdf]](http://arxiv.org/abs/2601.00548v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[AceFF] AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules|[[pdf]](http://arxiv.org/abs/2601.00581v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-02|[FreeText] FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection|[[pdf]](http://arxiv.org/abs/2601.00535v1)|⚠️|⭐️⭐️⭐️|
@@ -457,6 +460,6 @@
 
 ## 📊 统计
 
-- 论文总数：432篇
+- 论文总数：435篇
 - 代码实现：21个
 - 最后更新：2026年01月
