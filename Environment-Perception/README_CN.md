@@ -26,6 +26,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud|[[pdf]](http://arxiv.org/abs/2601.11073v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[ShapeR] ShapeR: Robust Conditional 3D Shape Generation from Casual Captures|[[pdf]](http://arxiv.org/abs/2601.11514v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[QUPID] QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid|[[pdf]](http://arxiv.org/abs/2601.11500v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[en] SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction|[[pdf]](http://arxiv.org/abs/2601.11396v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Simple Models, Rich Representations: Visual Decoding from Primate Intracortical Neural Signals|[[pdf]](http://arxiv.org/abs/2601.11108v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Context-Aware Semantic Segmentation via Stage-Wise Attention|[[pdf]](http://arxiv.org/abs/2601.11310v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[PRISM-CAFO] PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs|[[pdf]](http://arxiv.org/abs/2601.11451v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|Mobile Robot Localization Using a Novel Whisker-Like Sensor|[[pdf]](http://arxiv.org/abs/2601.05612v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|Motion Compensation for Real Time Ultrasound Scanning in Robotically Assisted Prostate Biopsy Procedures|[[pdf]](http://arxiv.org/abs/2601.05661v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[InsSo3D] InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection|[[pdf]](http://arxiv.org/abs/2601.05805v1)|⚠️|⭐️⭐️⭐️|
@@ -348,6 +355,6 @@
 
 ## 📊 统计
 
-- 论文总数：324篇
+- 论文总数：331篇
 - 代码实现：8个
 - 最后更新：2026年01月

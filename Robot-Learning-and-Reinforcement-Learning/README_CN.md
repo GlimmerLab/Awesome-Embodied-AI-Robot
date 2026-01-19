@@ -47,6 +47,41 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|[Hyper-Dexterous] Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2601.10930v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model|[[pdf]](http://arxiv.org/abs/2601.11143v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[Learning] The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents|[[pdf]](http://arxiv.org/abs/2601.11421v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[Learning] The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning|[[pdf]](http://arxiv.org/abs/2601.11394v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Skill-Aware Diffusion for Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2601.11266v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[A3D] A3D: Adaptive Affordance Assembly with Dual-Arm Manipulation|[[pdf]](http://arxiv.org/abs/2601.11076v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[ACoT-VLA] ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2601.11404v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2601.11460v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[Deep GraphRAG] Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration|[[pdf]](http://arxiv.org/abs/2601.11144v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[X-Distill] X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning|[[pdf]](http://arxiv.org/abs/2601.11269v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[TANDEM] TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech|[[pdf]](http://arxiv.org/abs/2601.11178v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction|[[pdf]](http://arxiv.org/abs/2601.11135v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Clustering High-dimensional Data: Balancing Abstraction and Representation Tutorial at AAAI 2026|[[pdf]](http://arxiv.org/abs/2601.11160v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation|[[pdf]](http://arxiv.org/abs/2601.11258v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[SD-RAG] SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2601.11199v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Do explanations generalize across large reasoning models?|[[pdf]](http://arxiv.org/abs/2601.11517v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[FORESTLLM] FORESTLLM: Large Language Models Make Random Forest Great on Few-shot Tabular Learning|[[pdf]](http://arxiv.org/abs/2601.11311v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.11401v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families|[[pdf]](http://arxiv.org/abs/2601.11428v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency|[[pdf]](http://arxiv.org/abs/2601.11352v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems|[[pdf]](http://arxiv.org/abs/2601.11415v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents|[[pdf]](http://arxiv.org/abs/2601.11496v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[Institutional AI] Institutional AI: Governing LLM Collusion in Multi-Agent Cournot Markets via Public Governance Graphs|[[pdf]](http://arxiv.org/abs/2601.11369v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[en] ProjecTA: A Semi-Humanoid Robotic Teaching Assistant with In-Situ Projection for Guided Tours|[[pdf]](http://arxiv.org/abs/2601.11328v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Seek and You Shall Find: Design & Evaluation of a Context-Aware Interactive Search Companion|[[pdf]](http://arxiv.org/abs/2601.11287v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[FEATHer] FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting|[[pdf]](http://arxiv.org/abs/2601.11350v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis|[[pdf]](http://arxiv.org/abs/2601.11102v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[VidLeaks] VidLeaks: Membership Inference Attacks Against Text-to-Video Models|[[pdf]](http://arxiv.org/abs/2601.11210v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[CoDance] CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation|[[pdf]](http://arxiv.org/abs/2601.11096v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|[Humanoid] FastStair: Learning to Run Up Stairs with Humanoid Robots|[[pdf]](http://arxiv.org/abs/2601.10365v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|[SurfSLAM] SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM|[[pdf]](http://arxiv.org/abs/2601.10814v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|The impact of tactile sensor configurations on grasp learning efficiency -- a comparative evaluation in simulation|[[pdf]](http://arxiv.org/abs/2601.10268v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|Approximately Optimal Global Planning for Contact-Rich SE(2) Manipulation on a Graph of Reachable Sets|[[pdf]](http://arxiv.org/abs/2601.10827v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|Urban Socio-Semantic Segmentation with Vision-Language Reasoning|[[pdf]](http://arxiv.org/abs/2601.10477v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|[en] Can Vision-Language Models Understand Construction Workers? An Exploratory Study|[[pdf]](http://arxiv.org/abs/2601.10835v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.05836v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[SceneFoundry] SceneFoundry: Generating Interactive Infinite 3D Worlds|[[pdf]](http://arxiv.org/abs/2601.05810v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[Goal Force] Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals|[[pdf]](http://arxiv.org/abs/2601.05848v1)|⚠️|⭐️⭐️⭐️|
@@ -2489,6 +2524,6 @@
 
 ## 📊 统计
 
-- 论文总数：2463篇
+- 论文总数：2498篇
 - 代码实现：20个
 - 最后更新：2026年01月

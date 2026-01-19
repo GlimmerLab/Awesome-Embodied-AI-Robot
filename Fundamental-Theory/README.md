@@ -18,6 +18,11 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs|[[pdf]](http://arxiv.org/abs/2601.11468v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2601.11109v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model|[[pdf]](http://arxiv.org/abs/2601.11400v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[ReScene4D] ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes|[[pdf]](http://arxiv.org/abs/2601.11508v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|Training-Trajectory-Aware Token Selection|[[pdf]](http://arxiv.org/abs/2601.10348v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|Logic-Parametric Neuro-Symbolic NLI: Controlling Logical Formalisms for Verifiable LLM Reasoning|[[pdf]](http://arxiv.org/abs/2601.05705v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[DynaDebate] DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation|[[pdf]](http://arxiv.org/abs/2601.05746v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2601.06002v1)|⚠️|⭐️⭐️⭐️|
@@ -500,6 +505,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 479
+- Total Papers: 484
 - Code Implementations: 5
 - Last Updated: January 2026

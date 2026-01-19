@@ -22,6 +22,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|[Multi-robot] H-AIM: Orchestrating LLMs, PDDL, and Behavior Trees for Hierarchical Multi-Robot Planning|[[pdf]](http://arxiv.org/abs/2601.11063v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[AstroReason-Bench] AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems|[[pdf]](http://arxiv.org/abs/2601.11354v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[BoxMind] BoxMind: Closed-loop AI strategy optimization for elite boxing validated in the 2024 Olympics|[[pdf]](http://arxiv.org/abs/2601.11492v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[en] Generative Scenario Rollouts for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2601.11475v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|[Multi-robot] CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing|[[pdf]](http://arxiv.org/abs/2601.10340v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[VideoAR] VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction|[[pdf]](http://arxiv.org/abs/2601.05966v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[AIBoMGen] AIBoMGen: Generating an AI Bill of Materials for Secure, Transparent, and Compliant Model Training|[[pdf]](http://arxiv.org/abs/2601.05703v1)|⚠️|⭐️⭐️⭐️|
 |2025-12-31|[ArtiSG] ArtiSG: Functional 3D Scene Graph Construction via Human-demonstrated Articulated Objects Manipulation|[[pdf]](http://arxiv.org/abs/2512.24845v1)|⚠️|⭐️⭐️⭐️|
@@ -272,6 +277,6 @@
 
 ## 📊 统计
 
-- 论文总数：248篇
+- 论文总数：253篇
 - 代码实现：6个
 - 最后更新：2026年01月

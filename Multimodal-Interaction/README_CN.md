@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|Learning-Based Shrinking Disturbance-Invariant Tubes for State- and Input-Dependent Uncertainty|[[pdf]](http://arxiv.org/abs/2601.11426v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[MHA2MLA-VLM] MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models|[[pdf]](http://arxiv.org/abs/2601.11464v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[IMS] IMS: Intelligent Hardware Monitoring System for Secure SoCs|[[pdf]](http://arxiv.org/abs/2601.11447v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Language-Agnostic Visual Embeddings for Cross-Script Handwriting Retrieval|[[pdf]](http://arxiv.org/abs/2601.11248v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification|[[pdf]](http://arxiv.org/abs/2601.11243v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-15|Bidirectional Human-Robot Communication for Physical Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2601.10796v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making|[[pdf]](http://arxiv.org/abs/2601.05529v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[Router-Suggest] Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs|[[pdf]](http://arxiv.org/abs/2601.05851v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|Decoding Workload and Agreement From EEG During Spoken Dialogue With Conversational AI|[[pdf]](http://arxiv.org/abs/2601.05825v1)|⚠️|⭐️⭐️⭐️|
@@ -315,6 +321,6 @@
 
 ## 📊 统计
 
-- 论文总数：290篇
+- 论文总数：296篇
 - 代码实现：6个
 - 最后更新：2026年01月

@@ -32,6 +32,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|Distributed Control Barrier Functions for Safe Multi-Vehicle Navigation in Heterogeneous USV Fleets|[[pdf]](http://arxiv.org/abs/2601.11335v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|["Can You Tell Me?"] "Can You Tell Me?": Designing Copilots to Support Human Judgement in Online Information Seeking|[[pdf]](http://arxiv.org/abs/2601.11284v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[DexterCap] DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation|[[pdf]](http://arxiv.org/abs/2601.05844v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-08|[PRISM] PRISM: Protocol Refinement through Intelligent Simulation Modeling|[[pdf]](http://arxiv.org/abs/2601.05356v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-08|Inverting Non-Injective Functions with Twin Neural Network Regression|[[pdf]](http://arxiv.org/abs/2601.05378v1)|⚠️|⭐️⭐️⭐️|
@@ -502,6 +504,6 @@
 
 ## 📊 统计
 
-- 论文总数：477篇
+- 论文总数：479篇
 - 代码实现：8个
 - 最后更新：2026年01月

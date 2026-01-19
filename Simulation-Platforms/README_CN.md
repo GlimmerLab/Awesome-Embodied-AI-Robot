@@ -39,6 +39,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-16|[VLAgents] VLAgents: A Policy Server for Efficient VLA Inference|[[pdf]](http://arxiv.org/abs/2601.11250v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-16|[FactCorrector] FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models|[[pdf]](http://arxiv.org/abs/2601.11232v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[EvoQRE] EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium|[[pdf]](http://arxiv.org/abs/2601.05653v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[TowerMind] TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents|[[pdf]](http://arxiv.org/abs/2601.05899v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-08|[Hyper-Dexterous] Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration|[[pdf]](http://arxiv.org/abs/2601.05243v1)|⚠️|⭐️⭐️⭐️|
@@ -460,6 +462,6 @@
 
 ## 📊 统计
 
-- 论文总数：435篇
+- 论文总数：437篇
 - 代码实现：21个
 - 最后更新：2026年01月
