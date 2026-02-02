@@ -39,6 +39,12 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|[CARE] CARE: Multi-Task Pretraining for Latent Continuous Action Representation in Robot Control|[[pdf]](http://arxiv.org/abs/2601.22467v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[MedMCP-Calc] MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration|[[pdf]](http://arxiv.org/abs/2601.23049v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[en] Assistive Robots and Reasonable Work Assignment Reduce Perceived Stigma toward Persons with Disabilities|[[pdf]](http://arxiv.org/abs/2601.22689v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[OneFlowSBI] OneFlowSBI: One Model, Many Queries for Simulation-Based Inference|[[pdf]](http://arxiv.org/abs/2601.22951v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[HeatMat] HeatMat: Simulation of City Material Impact on Urban Heat Island Effect|[[pdf]](http://arxiv.org/abs/2601.22796v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Bayesian Interpolating Neural Network (B-INN): a scalable and reliable Bayesian model for large-scale physical systems|[[pdf]](http://arxiv.org/abs/2601.22860v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[VLAgents] VLAgents: A Policy Server for Efficient VLA Inference|[[pdf]](http://arxiv.org/abs/2601.11250v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[FactCorrector] FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models|[[pdf]](http://arxiv.org/abs/2601.11232v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[EvoQRE] EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium|[[pdf]](http://arxiv.org/abs/2601.05653v1)|⚠️|⭐️⭐️⭐️|
@@ -462,6 +468,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 437
+- Total Papers: 443
 - Code Implementations: 21
-- Last Updated: January 2026
+- Last Updated: February 2026

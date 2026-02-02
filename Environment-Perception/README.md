@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|Towards Explicit Acoustic Evidence Perception in Audio LLMs for Speech Deepfake Detection|[[pdf]](http://arxiv.org/abs/2601.23066v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|A Real-Time Privacy-Preserving Behavior Recognition System via Edge-Cloud Collaboration|[[pdf]](http://arxiv.org/abs/2601.22938v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[en] Development of Domain-Invariant Visual Enhancement and Restoration (DIVER) Approach for Underwater Images|[[pdf]](http://arxiv.org/abs/2601.22878v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions|[[pdf]](http://arxiv.org/abs/2601.22830v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction|[[pdf]](http://arxiv.org/abs/2601.22861v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud|[[pdf]](http://arxiv.org/abs/2601.11073v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[ShapeR] ShapeR: Robust Conditional 3D Shape Generation from Casual Captures|[[pdf]](http://arxiv.org/abs/2601.11514v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[QUPID] QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid|[[pdf]](http://arxiv.org/abs/2601.11500v1)|⚠️|⭐️⭐️⭐️|
@@ -355,6 +360,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 331
+- Total Papers: 336
 - Code Implementations: 8
-- Last Updated: January 2026
+- Last Updated: February 2026

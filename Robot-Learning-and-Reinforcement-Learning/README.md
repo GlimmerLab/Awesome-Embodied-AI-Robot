@@ -47,6 +47,38 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|Robust Rigid Body Assembly via Contact-Implicit Optimal Control with Exact Second-Order Derivatives|[[pdf]](http://arxiv.org/abs/2601.22849v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Humanoid] RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing|[[pdf]](http://arxiv.org/abs/2601.22517v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2601.23087v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Self-Imitated Diffusion Policy for Efficient and Robust Visual Navigation|[[pdf]](http://arxiv.org/abs/2601.22965v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Adapting Reinforcement Learning for Path Planning in Constrained Parking Scenarios|[[pdf]](http://arxiv.org/abs/2601.22545v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2601.22988v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[MTDrive] MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2601.22930v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|About an Automating Annotation Method for Robot Markers|[[pdf]](http://arxiv.org/abs/2601.22982v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Adaptive] FlyAware: Inertia-Aware Aerial Manipulation via Vision-Based Estimation and Post-Grasp Adaptation|[[pdf]](http://arxiv.org/abs/2601.22686v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[ExplainerPFN] ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations|[[pdf]](http://arxiv.org/abs/2601.23068v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Leveraging Convolutional Sparse Autoencoders for Robust Movement Classification from Low-Density sEMG|[[pdf]](http://arxiv.org/abs/2601.23011v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[OrLog] OrLog: Resolving Complex Queries with LLMs and Probabilistic Reasoning|[[pdf]](http://arxiv.org/abs/2601.23085v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Automatic Constraint Policy Optimization based on Continuous Constraint Interpolation Framework for Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.23010v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching|[[pdf]](http://arxiv.org/abs/2601.23088v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Chain-of-thought obfuscation learned from output supervision can generalise to unseen tasks|[[pdf]](http://arxiv.org/abs/2601.23086v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Mem-T] Mem-T: Densifying Rewards for Long-Horizon Memory Agents|[[pdf]](http://arxiv.org/abs/2601.23014v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[RN-D] RN-D: Discretized Categorical Actors with Regularized Networks for On-Policy Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.23075v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[TriCEGAR] TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI|[[pdf]](http://arxiv.org/abs/2601.22997v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2601.23058v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Golden Goose] Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text|[[pdf]](http://arxiv.org/abs/2601.22975v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Mano] Mano: Restriking Manifold Optimization for LLM Training|[[pdf]](http://arxiv.org/abs/2601.23000v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Adaptive Edge Learning for Density-Aware Graph Generation|[[pdf]](http://arxiv.org/abs/2601.23052v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Diachronic Stereo Matching for Multi-Date Satellite Imagery|[[pdf]](http://arxiv.org/abs/2601.22808v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Lingua-SafetyBench] Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models|[[pdf]](http://arxiv.org/abs/2601.22737v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[en] GaussianOcc3D: A Gaussian-Based Adaptive Multi-modal 3D Occupancy Prediction|[[pdf]](http://arxiv.org/abs/2601.22729v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Multi-Cue Anomaly Detection and Localization under Data Contamination|[[pdf]](http://arxiv.org/abs/2601.22913v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[en] Active Learning-Driven Lightweight YOLOv9: Enhancing Efficiency in Smart Agriculture|[[pdf]](http://arxiv.org/abs/2601.22732v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs|[[pdf]](http://arxiv.org/abs/2601.22709v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|One-shot Optimized Steering Vector for Hallucination Mitigation for VLMs|[[pdf]](http://arxiv.org/abs/2601.23041v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Deep in the Jungle] Deep in the Jungle: Towards Automating Chimpanzee Population Estimation|[[pdf]](http://arxiv.org/abs/2601.22917v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-29|Plant-Inspired Robot Design Metaphors for Ambient HRI|[[pdf]](http://arxiv.org/abs/2601.22387v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-29|[en] PoSafeNet: Safe Learning with Poset-Structured Neural Nets|[[pdf]](http://arxiv.org/abs/2601.22356v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[Hyper-Dexterous] Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2601.10930v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model|[[pdf]](http://arxiv.org/abs/2601.11143v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[Learning] The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents|[[pdf]](http://arxiv.org/abs/2601.11421v1)|⚠️|⭐️⭐️⭐️|
@@ -2524,6 +2556,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2498
+- Total Papers: 2530
 - Code Implementations: 20
-- Last Updated: January 2026
+- Last Updated: February 2026

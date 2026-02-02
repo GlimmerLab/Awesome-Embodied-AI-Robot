@@ -18,6 +18,13 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|[SYMPHONY] SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly|[[pdf]](http://arxiv.org/abs/2601.22623v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[DiffuSpeech] DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion|[[pdf]](http://arxiv.org/abs/2601.22889v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[en] Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2601.22647v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Quantifying Model Uniqueness in Heterogeneous AI Ecosystems|[[pdf]](http://arxiv.org/abs/2601.22977v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery|[[pdf]](http://arxiv.org/abs/2601.22896v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Compact Hypercube Embeddings for Fast Text-based Wildlife Observation Retrieval|[[pdf]](http://arxiv.org/abs/2601.22783v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[OpenVTON-Bench] OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation|[[pdf]](http://arxiv.org/abs/2601.22725v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs|[[pdf]](http://arxiv.org/abs/2601.11468v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2601.11109v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model|[[pdf]](http://arxiv.org/abs/2601.11400v1)|⚠️|⭐️⭐️⭐️|
@@ -505,6 +512,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 484
+- Total Papers: 491
 - Code Implementations: 5
-- Last Updated: January 2026
+- Last Updated: February 2026

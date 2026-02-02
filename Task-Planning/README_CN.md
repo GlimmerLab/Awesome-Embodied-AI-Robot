@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|Task-Aware LLM Council with Adaptive Decision Pathways for Decision Support|[[pdf]](http://arxiv.org/abs/2601.22662v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Action-Sufficient Goal Representations|[[pdf]](http://arxiv.org/abs/2601.22496v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[Multi-robot] H-AIM: Orchestrating LLMs, PDDL, and Behavior Trees for Hierarchical Multi-Robot Planning|[[pdf]](http://arxiv.org/abs/2601.11063v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[AstroReason-Bench] AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems|[[pdf]](http://arxiv.org/abs/2601.11354v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[BoxMind] BoxMind: Closed-loop AI strategy optimization for elite boxing validated in the 2024 Olympics|[[pdf]](http://arxiv.org/abs/2601.11492v1)|⚠️|⭐️⭐️⭐️|
@@ -277,6 +279,6 @@
 
 ## 📊 统计
 
-- 论文总数：253篇
+- 论文总数：255篇
 - 代码实现：6个
-- 最后更新：2026年01月
+- 最后更新：2026年02月

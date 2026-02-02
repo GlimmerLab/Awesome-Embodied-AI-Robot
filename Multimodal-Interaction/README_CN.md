@@ -25,6 +25,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|Postural Virtual Fixtures for Ergonomic Physical Interactions with Supernumerary Robotic Bodies|[[pdf]](http://arxiv.org/abs/2601.22672v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[Multi-robot] MOSAIC: Modular Scalable Autonomy for Intelligent Coordination of Heterogeneous Robotic Teams|[[pdf]](http://arxiv.org/abs/2601.23038v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Alignment among Language, Vision and Action Representations|[[pdf]](http://arxiv.org/abs/2601.22948v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[WiFiPenTester] WiFiPenTester: Advancing Wireless Ethical Hacking with Governed GenAI|[[pdf]](http://arxiv.org/abs/2601.23092v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[en] Best-of-Q: Improving VLM agents with Q-function Action Ranking at Inference|[[pdf]](http://arxiv.org/abs/2601.22701v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Exploring Sidewalk Sheds in New York City through Chatbot Surveys and Human Computer Interaction|[[pdf]](http://arxiv.org/abs/2601.23095v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[MoVE] MoVE: Mixture of Value Embeddings -- A New Axis for Scaling Parametric Memory in Autoregressive Models|[[pdf]](http://arxiv.org/abs/2601.22887v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Decomposing and Composing: Towards Efficient Vision-Language Continual Learning via Rank-1 Expert Pool in a Single LoRA|[[pdf]](http://arxiv.org/abs/2601.22828v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-29|[Lantern] Lantern: A Minimalist Robotic Object Platform|[[pdf]](http://arxiv.org/abs/2601.22381v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Learning-Based Shrinking Disturbance-Invariant Tubes for State- and Input-Dependent Uncertainty|[[pdf]](http://arxiv.org/abs/2601.11426v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[MHA2MLA-VLM] MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models|[[pdf]](http://arxiv.org/abs/2601.11464v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[IMS] IMS: Intelligent Hardware Monitoring System for Secure SoCs|[[pdf]](http://arxiv.org/abs/2601.11447v1)|⚠️|⭐️⭐️⭐️|
@@ -321,6 +330,6 @@
 
 ## 📊 统计
 
-- 论文总数：296篇
+- 论文总数：305篇
 - 代码实现：6个
-- 最后更新：2026年01月
+- 最后更新：2026年02月

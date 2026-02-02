@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|Task-Aware LLM Council with Adaptive Decision Pathways for Decision Support|[[pdf]](http://arxiv.org/abs/2601.22662v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Action-Sufficient Goal Representations|[[pdf]](http://arxiv.org/abs/2601.22496v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[Multi-robot] H-AIM: Orchestrating LLMs, PDDL, and Behavior Trees for Hierarchical Multi-Robot Planning|[[pdf]](http://arxiv.org/abs/2601.11063v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[AstroReason-Bench] AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems|[[pdf]](http://arxiv.org/abs/2601.11354v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|[BoxMind] BoxMind: Closed-loop AI strategy optimization for elite boxing validated in the 2024 Olympics|[[pdf]](http://arxiv.org/abs/2601.11492v1)|⚠️|⭐️⭐️⭐️|
@@ -277,6 +279,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 253
+- Total Papers: 255
 - Code Implementations: 6
-- Last Updated: January 2026
+- Last Updated: February 2026

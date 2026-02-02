@@ -32,6 +32,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-01-30|[Humanoid] Robust and Generalized Humanoid Motion Tracking|[[pdf]](http://arxiv.org/abs/2601.23080v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference|[[pdf]](http://arxiv.org/abs/2601.23039v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|[EmoShift] EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis|[[pdf]](http://arxiv.org/abs/2601.22873v1)|⚠️|⭐️⭐️⭐️|
+|2026-01-30|Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model|[[pdf]](http://arxiv.org/abs/2601.22838v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|Distributed Control Barrier Functions for Safe Multi-Vehicle Navigation in Heterogeneous USV Fleets|[[pdf]](http://arxiv.org/abs/2601.11335v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-16|["Can You Tell Me?"] "Can You Tell Me?": Designing Copilots to Support Human Judgement in Online Information Seeking|[[pdf]](http://arxiv.org/abs/2601.11284v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-09|[DexterCap] DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation|[[pdf]](http://arxiv.org/abs/2601.05844v1)|⚠️|⭐️⭐️⭐️|
@@ -504,6 +508,6 @@
 
 ## 📊 统计
 
-- 论文总数：479篇
+- 论文总数：483篇
 - 代码实现：8个
-- 最后更新：2026年01月
+- 最后更新：2026年02月
