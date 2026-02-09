@@ -25,6 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[en] Internalized Morphogenesis: A Self-Organizing Model for Growth, Replication, and Regeneration via Local Token Exchange in Modular Systems|[[pdf]](http://arxiv.org/abs/2602.06296v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] LIBERO-X: Robustness Litmus for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2602.06556v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design|[[pdf]](http://arxiv.org/abs/2602.06916v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|On the Identifiability of Steering Vectors in Large Language Models|[[pdf]](http://arxiv.org/abs/2602.06801v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Postural Virtual Fixtures for Ergonomic Physical Interactions with Supernumerary Robotic Bodies|[[pdf]](http://arxiv.org/abs/2601.22672v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[Multi-robot] MOSAIC: Modular Scalable Autonomy for Intelligent Coordination of Heterogeneous Robotic Teams|[[pdf]](http://arxiv.org/abs/2601.23038v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Alignment among Language, Vision and Action Representations|[[pdf]](http://arxiv.org/abs/2601.22948v1)|⚠️|⭐️⭐️⭐️|
@@ -330,6 +334,6 @@
 
 ## 📊 统计
 
-- 论文总数：305篇
+- 论文总数：309篇
 - 代码实现：6个
 - 最后更新：2026年02月

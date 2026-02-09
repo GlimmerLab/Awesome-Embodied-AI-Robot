@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[DynaRetarget] DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2602.06827v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing|[[pdf]](http://arxiv.org/abs/2602.06925v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations|[[pdf]](http://arxiv.org/abs/2602.06643v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2602.06341v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Consensus-based optimization (CBO): Towards Global Optimality in Robotics|[[pdf]](http://arxiv.org/abs/2602.06868v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[Humanoid] Robust and Generalized Humanoid Motion Tracking|[[pdf]](http://arxiv.org/abs/2601.23080v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference|[[pdf]](http://arxiv.org/abs/2601.23039v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[EmoShift] EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis|[[pdf]](http://arxiv.org/abs/2601.22873v1)|⚠️|⭐️⭐️⭐️|
@@ -508,6 +513,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 483
+- Total Papers: 488
 - Code Implementations: 8
 - Last Updated: February 2026

@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[Halluverse-M^3] Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs|[[pdf]](http://arxiv.org/abs/2602.06920v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search|[[pdf]](http://arxiv.org/abs/2602.06459v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[CARE] CARE: Multi-Task Pretraining for Latent Continuous Action Representation in Robot Control|[[pdf]](http://arxiv.org/abs/2601.22467v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[MedMCP-Calc] MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration|[[pdf]](http://arxiv.org/abs/2601.23049v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[en] Assistive Robots and Reasonable Work Assignment Reduce Perceived Stigma toward Persons with Disabilities|[[pdf]](http://arxiv.org/abs/2601.22689v1)|⚠️|⭐️⭐️⭐️|
@@ -468,6 +470,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 443
+- Total Papers: 445
 - Code Implementations: 21
 - Last Updated: February 2026

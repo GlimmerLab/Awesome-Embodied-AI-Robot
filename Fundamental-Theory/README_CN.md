@@ -18,6 +18,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[InftyThink+] InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2602.06960v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[POP] POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models|[[pdf]](http://arxiv.org/abs/2602.06822v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Action Hallucination in Generative Visual-Language-Action Models|[[pdf]](http://arxiv.org/abs/2602.06339v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Directing Space: Rehearsing Architecture as Performer with Explainable AI|[[pdf]](http://arxiv.org/abs/2602.06915v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[SYMPHONY] SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly|[[pdf]](http://arxiv.org/abs/2601.22623v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[DiffuSpeech] DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion|[[pdf]](http://arxiv.org/abs/2601.22889v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[en] Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments|[[pdf]](http://arxiv.org/abs/2601.22647v1)|⚠️|⭐️⭐️⭐️|
@@ -512,6 +516,6 @@
 
 ## 📊 统计
 
-- 论文总数：491篇
+- 论文总数：495篇
 - 代码实现：5个
 - 最后更新：2026年02月

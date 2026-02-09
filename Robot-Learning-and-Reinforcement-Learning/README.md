@@ -47,6 +47,29 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[DreamDojo] DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos|[[pdf]](http://arxiv.org/abs/2602.06949v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[SURE] SURE: Safe Uncertainty-Aware Robot-Environment Interaction using Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2602.06864v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[SuReNav] SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments|[[pdf]](http://arxiv.org/abs/2602.06807v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions|[[pdf]](http://arxiv.org/abs/2602.06746v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Pairwise is Not Enough: Hypergraph Neural Networks for Multi-Agent Pathfinding|[[pdf]](http://arxiv.org/abs/2602.06733v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[compar] compar:IA: The French Government's LLM arena to collect French-language human prompts and preference data|[[pdf]](http://arxiv.org/abs/2602.06669v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[Crowd-FM] Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation|[[pdf]](http://arxiv.org/abs/2602.06698v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay|[[pdf]](http://arxiv.org/abs/2602.06942v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling|[[pdf]](http://arxiv.org/abs/2602.06795v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Autoregressive Models for Knowledge Graph Generation|[[pdf]](http://arxiv.org/abs/2602.06707v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[AEGPO] AEGPO: Adaptive Entropy-Guided Policy Optimization for Diffusion Models|[[pdf]](http://arxiv.org/abs/2602.06825v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[SaDiT] SaDiT: Efficient Protein Backbone Design via Latent Structural Tokenization and Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2602.06706v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Wild Guesses and Mild Guesses in Active Concept Learning|[[pdf]](http://arxiv.org/abs/2602.06818v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy|[[pdf]](http://arxiv.org/abs/2602.06508v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] The Law of Task-Achieving Body Motion: Axiomatizing Success of Robot Manipulation Actions|[[pdf]](http://arxiv.org/abs/2602.06572v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking|[[pdf]](http://arxiv.org/abs/2602.06445v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Think Proprioceptively: Embodied Visual Reasoning for VLA Manipulation|[[pdf]](http://arxiv.org/abs/2602.06575v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Force Generative Imitation Learning: Bridging Position Trajectory and Force Commands through Control Technique|[[pdf]](http://arxiv.org/abs/2602.06620v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Beyond the Majority: Long-tail Imitation Learning for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2602.06512v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] Perception-Control Coupled Visual Servoing for Textureless Objects Using Keypoint-Based EKF|[[pdf]](http://arxiv.org/abs/2602.06834v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Personality as Relational Infrastructure: User Perceptions of Personality-Trait-Infused LLM Messaging|[[pdf]](http://arxiv.org/abs/2602.06596v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight|[[pdf]](http://arxiv.org/abs/2602.06811v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|["Tab, Tab, Bug''] "Tab, Tab, Bug'': Security Pitfalls of Next Edit Suggestions in AI-Integrated IDEs|[[pdf]](http://arxiv.org/abs/2602.06759v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Robust Rigid Body Assembly via Contact-Implicit Optimal Control with Exact Second-Order Derivatives|[[pdf]](http://arxiv.org/abs/2601.22849v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[Humanoid] RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing|[[pdf]](http://arxiv.org/abs/2601.22517v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2601.23087v1)|⚠️|⭐️⭐️⭐️|
@@ -2556,6 +2579,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2530
+- Total Papers: 2553
 - Code Implementations: 20
 - Last Updated: February 2026

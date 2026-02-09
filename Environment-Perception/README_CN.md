@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[PANC] PANC: Prior-Aware Normalized Cut for Object Segmentation|[[pdf]](http://arxiv.org/abs/2602.06912v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts|[[pdf]](http://arxiv.org/abs/2602.06859v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs|[[pdf]](http://arxiv.org/abs/2602.06777v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[AEGIS] AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models|[[pdf]](http://arxiv.org/abs/2602.06771v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Towards Explicit Acoustic Evidence Perception in Audio LLMs for Speech Deepfake Detection|[[pdf]](http://arxiv.org/abs/2601.23066v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|A Real-Time Privacy-Preserving Behavior Recognition System via Edge-Cloud Collaboration|[[pdf]](http://arxiv.org/abs/2601.22938v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[en] Development of Domain-Invariant Visual Enhancement and Restoration (DIVER) Approach for Underwater Images|[[pdf]](http://arxiv.org/abs/2601.22878v1)|⚠️|⭐️⭐️⭐️|
@@ -360,6 +364,6 @@
 
 ## 📊 统计
 
-- 论文总数：336篇
+- 论文总数：340篇
 - 代码实现：8个
 - 最后更新：2026年02月

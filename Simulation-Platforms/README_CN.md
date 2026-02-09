@@ -39,6 +39,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-06|[Halluverse-M^3] Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs|[[pdf]](http://arxiv.org/abs/2602.06920v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-06|[en] User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search|[[pdf]](http://arxiv.org/abs/2602.06459v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[CARE] CARE: Multi-Task Pretraining for Latent Continuous Action Representation in Robot Control|[[pdf]](http://arxiv.org/abs/2601.22467v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[MedMCP-Calc] MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration|[[pdf]](http://arxiv.org/abs/2601.23049v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[en] Assistive Robots and Reasonable Work Assignment Reduce Perceived Stigma toward Persons with Disabilities|[[pdf]](http://arxiv.org/abs/2601.22689v1)|⚠️|⭐️⭐️⭐️|
@@ -468,6 +470,6 @@
 
 ## 📊 统计
 
-- 论文总数：443篇
+- 论文总数：445篇
 - 代码实现：21个
 - 最后更新：2026年02月
