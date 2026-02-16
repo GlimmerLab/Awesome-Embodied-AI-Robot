@@ -32,6 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|[Humanoid] PMG: Parameterized Motion Generator for Human-like Locomotion Control|[[pdf]](http://arxiv.org/abs/2602.12656v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[Uncertainty] SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot|[[pdf]](http://arxiv.org/abs/2602.13078v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Human Emotion-Mediated Soft Robotic Arts: Exploring the Intersection of Human Emotions, Soft Robotics and Arts|[[pdf]](http://arxiv.org/abs/2602.13163v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[SKYSURF] SKYSURF: A Self-learning Framework for Persistent Surveillance using Cooperative Aerial Gliders|[[pdf]](http://arxiv.org/abs/2602.12838v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Buy versus Build an LLM: A Decision Framework for Governments|[[pdf]](http://arxiv.org/abs/2602.13033v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[FlexAM] FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control|[[pdf]](http://arxiv.org/abs/2602.13185v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[DynaRetarget] DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2602.06827v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing|[[pdf]](http://arxiv.org/abs/2602.06925v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[en] Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations|[[pdf]](http://arxiv.org/abs/2602.06643v1)|⚠️|⭐️⭐️⭐️|
@@ -513,6 +519,6 @@
 
 ## 📊 统计
 
-- 论文总数：488篇
+- 论文总数：494篇
 - 代码实现：8个
 - 最后更新：2026年02月

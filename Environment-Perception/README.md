@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|Adding internal audio sensing to internal vision enables human-like in-hand fabric recognition with soft robotic fingertips|[[pdf]](http://arxiv.org/abs/2602.12918v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[DynaGuide] DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2602.13020v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[SIEFormer] SIEFormer: Spectral-Interpretable and -Enhanced Transformer for Generalized Category Discovery|[[pdf]](http://arxiv.org/abs/2602.13067v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[EPRBench] EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition|[[pdf]](http://arxiv.org/abs/2602.12919v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[en] Detecting Object Tracking Failure via Sequential Hypothesis Testing|[[pdf]](http://arxiv.org/abs/2602.12983v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[PANC] PANC: Prior-Aware Normalized Cut for Object Segmentation|[[pdf]](http://arxiv.org/abs/2602.06912v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts|[[pdf]](http://arxiv.org/abs/2602.06859v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs|[[pdf]](http://arxiv.org/abs/2602.06777v1)|⚠️|⭐️⭐️⭐️|
@@ -364,6 +369,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 340
+- Total Papers: 345
 - Code Implementations: 8
 - Last Updated: February 2026

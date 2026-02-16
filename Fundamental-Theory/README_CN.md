@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|Agentic AI for Robot Control: Flexible but still Fragile|[[pdf]](http://arxiv.org/abs/2602.13081v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[BrowseComp-$V^3$] BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents|[[pdf]](http://arxiv.org/abs/2602.12876v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Which Algorithms Can Graph Neural Networks Learn?|[[pdf]](http://arxiv.org/abs/2602.13106v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Quantization-Aware Collaborative Inference for Large Embodied AI Models|[[pdf]](http://arxiv.org/abs/2602.13052v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[en] Knowledge-Based Design Requirements for Generative Social Robots in Higher Education|[[pdf]](http://arxiv.org/abs/2602.12873v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[InftyThink+] InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2602.06960v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[POP] POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models|[[pdf]](http://arxiv.org/abs/2602.06822v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[en] Action Hallucination in Generative Visual-Language-Action Models|[[pdf]](http://arxiv.org/abs/2602.06339v1)|⚠️|⭐️⭐️⭐️|
@@ -516,6 +521,6 @@
 
 ## 📊 统计
 
-- 论文总数：495篇
+- 论文总数：500篇
 - 代码实现：5个
 - 最后更新：2026年02月

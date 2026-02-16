@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach|[[pdf]](http://arxiv.org/abs/2602.13156v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis|[[pdf]](http://arxiv.org/abs/2602.13028v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[Halluverse-M^3] Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs|[[pdf]](http://arxiv.org/abs/2602.06920v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[en] User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search|[[pdf]](http://arxiv.org/abs/2602.06459v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|[CARE] CARE: Multi-Task Pretraining for Latent Continuous Action Representation in Robot Control|[[pdf]](http://arxiv.org/abs/2601.22467v1)|⚠️|⭐️⭐️⭐️|
@@ -470,6 +472,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 445
+- Total Papers: 447
 - Code Implementations: 21
 - Last Updated: February 2026

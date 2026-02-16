@@ -25,6 +25,12 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|Media Framing Moderates Risk-Benefit Perceptions and Value Tradeoffs in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2602.12785v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[Never say never] Never say never: Exploring the effects of available knowledge on agent persuasiveness in controlled physiotherapy motivation dialogues|[[pdf]](http://arxiv.org/abs/2602.12924v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Semantic Chunking and the Entropy of Natural Language|[[pdf]](http://arxiv.org/abs/2602.13194v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Resource-Efficient Gesture Recognition through Convexified Attention|[[pdf]](http://arxiv.org/abs/2602.13030v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models|[[pdf]](http://arxiv.org/abs/2602.13017v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding|[[pdf]](http://arxiv.org/abs/2602.12957v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[en] Internalized Morphogenesis: A Self-Organizing Model for Growth, Replication, and Regeneration via Local Token Exchange in Modular Systems|[[pdf]](http://arxiv.org/abs/2602.06296v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[en] LIBERO-X: Robustness Litmus for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2602.06556v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design|[[pdf]](http://arxiv.org/abs/2602.06916v1)|⚠️|⭐️⭐️⭐️|
@@ -334,6 +340,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 309
+- Total Papers: 315
 - Code Implementations: 6
 - Last Updated: February 2026

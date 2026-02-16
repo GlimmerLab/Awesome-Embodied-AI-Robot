@@ -47,6 +47,40 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|[PISHYAR] PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People|[[pdf]](http://arxiv.org/abs/2602.12597v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[TRANS] TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions|[[pdf]](http://arxiv.org/abs/2602.12724v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[SafeFlowMPC] SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies|[[pdf]](http://arxiv.org/abs/2602.12794v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control|[[pdf]](http://arxiv.org/abs/2602.13193v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments|[[pdf]](http://arxiv.org/abs/2602.13159v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[Xiaomi-Robotics-0] Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution|[[pdf]](http://arxiv.org/abs/2602.12684v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[RLinf-Co] RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models|[[pdf]](http://arxiv.org/abs/2602.12628v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models|[[pdf]](http://arxiv.org/abs/2602.12734v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Real-to-Sim for Highly Cluttered Environments via Physics-Consistent Inter-Object Reasoning|[[pdf]](http://arxiv.org/abs/2602.12633v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[Learning] Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos|[[pdf]](http://arxiv.org/abs/2602.13197v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[INHerit-SG] INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval|[[pdf]](http://arxiv.org/abs/2602.12971v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[SignScene] SignScene: Visual Sign Grounding for Mapless Navigation|[[pdf]](http://arxiv.org/abs/2602.12686v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Unifying Model-Free Efficiency and Model-Based Representations via Latent Dynamics|[[pdf]](http://arxiv.org/abs/2602.12643v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Deep-Learning Atlas Registration for Melanoma Brain Metastases: Preserving Pathology While Enabling Cohort-Level Analyses|[[pdf]](http://arxiv.org/abs/2602.12933v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Drift-Aware Variational Autoencoder-based Anomaly Detection with Two-level Ensembling|[[pdf]](http://arxiv.org/abs/2602.12976v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models|[[pdf]](http://arxiv.org/abs/2602.12846v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[SCOPE] SCOPE: Selective Conformal Optimized Pairwise LLM Judging|[[pdf]](http://arxiv.org/abs/2602.13110v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Learning Native Continuation for Action Chunking Flow Policies|[[pdf]](http://arxiv.org/abs/2602.12978v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Can we trust AI to detect healthy multilingual English speakers among the cognitively impaired cohort in the UK? An investigation using real-world conversational speech|[[pdf]](http://arxiv.org/abs/2602.13047v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL|[[pdf]](http://arxiv.org/abs/2602.13035v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[en] CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning|[[pdf]](http://arxiv.org/abs/2602.12532v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[en] Composable Model-Free RL for Navigation with Input-Affine Systems|[[pdf]](http://arxiv.org/abs/2602.12492v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[TCRL] TCRL: Temporal-Coupled Adversarial Training for Robust Constrained Reinforcement Learning in Worst-Case Scenarios|[[pdf]](http://arxiv.org/abs/2602.13040v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[How Swarms Differ] How Swarms Differ: Challenges in Collective Behaviour Comparison|[[pdf]](http://arxiv.org/abs/2602.13016v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[AdaGrad-Diff] AdaGrad-Diff: A New Version of the Adaptive Gradient Algorithm|[[pdf]](http://arxiv.org/abs/2602.13112v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[Curriculum-DPO++] Curriculum-DPO++: Direct Preference Optimization via Data and Model Curricula for Text-to-Image Generation|[[pdf]](http://arxiv.org/abs/2602.13055v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Learning to Approximate Uniform Facility Location via Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2602.13155v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Information-theoretic analysis of world models in optimal reward maximizers|[[pdf]](http://arxiv.org/abs/2602.12963v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[en] Adaptive Scaling with Geometric and Visual Continuity of completed 3D objects|[[pdf]](http://arxiv.org/abs/2602.12905v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[X-VORTEX] X-VORTEX: Spatio-Temporal Contrastive Learning for Wake Vortex Trajectory Forecasting|[[pdf]](http://arxiv.org/abs/2602.12869v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions|[[pdf]](http://arxiv.org/abs/2602.13013v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels|[[pdf]](http://arxiv.org/abs/2602.13022v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Monocular Markerless Motion Capture Enables Quantitative Assessment of Upper Extremity Reachable Workspace|[[pdf]](http://arxiv.org/abs/2602.13176v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|How cyborg propaganda reshapes collective action|[[pdf]](http://arxiv.org/abs/2602.13088v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[DreamDojo] DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos|[[pdf]](http://arxiv.org/abs/2602.06949v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[SURE] SURE: Safe Uncertainty-Aware Robot-Environment Interaction using Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2602.06864v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[SuReNav] SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments|[[pdf]](http://arxiv.org/abs/2602.06807v1)|⚠️|⭐️⭐️⭐️|
@@ -2579,6 +2613,6 @@
 
 ## 📊 统计
 
-- 论文总数：2553篇
+- 论文总数：2587篇
 - 代码实现：20个
 - 最后更新：2026年02月

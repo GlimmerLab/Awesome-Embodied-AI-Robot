@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-13|[Humanoid] PMG: Parameterized Motion Generator for Human-like Locomotion Control|[[pdf]](http://arxiv.org/abs/2602.12656v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[Uncertainty] SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot|[[pdf]](http://arxiv.org/abs/2602.13078v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Human Emotion-Mediated Soft Robotic Arts: Exploring the Intersection of Human Emotions, Soft Robotics and Arts|[[pdf]](http://arxiv.org/abs/2602.13163v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[SKYSURF] SKYSURF: A Self-learning Framework for Persistent Surveillance using Cooperative Aerial Gliders|[[pdf]](http://arxiv.org/abs/2602.12838v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|Buy versus Build an LLM: A Decision Framework for Governments|[[pdf]](http://arxiv.org/abs/2602.13033v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-13|[FlexAM] FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control|[[pdf]](http://arxiv.org/abs/2602.13185v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[DynaRetarget] DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2602.06827v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing|[[pdf]](http://arxiv.org/abs/2602.06925v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[en] Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations|[[pdf]](http://arxiv.org/abs/2602.06643v1)|⚠️|⭐️⭐️⭐️|
@@ -513,6 +519,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 488
+- Total Papers: 494
 - Code Implementations: 8
 - Last Updated: February 2026
