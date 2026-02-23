@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-20|Design and Characterization of a Dual-DOF Soft Shoulder Exosuit with Volume-Optimized Pneumatic Actuator|[[pdf]](http://arxiv.org/abs/2602.18212v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[UniManip] UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph|[[pdf]](http://arxiv.org/abs/2602.13086v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[Diverging Flows] Diverging Flows: Detecting Extrapolations in Conditional Generation|[[pdf]](http://arxiv.org/abs/2602.13061v1)|⚠️|⭐️⭐️⭐️|
 |2026-01-30|Task-Aware LLM Council with Adaptive Decision Pathways for Decision Support|[[pdf]](http://arxiv.org/abs/2601.22662v1)|⚠️|⭐️⭐️⭐️|
@@ -281,6 +282,6 @@
 
 ## 📊 统计
 
-- 论文总数：257篇
+- 论文总数：258篇
 - 代码实现：6个
 - 最后更新：2026年02月

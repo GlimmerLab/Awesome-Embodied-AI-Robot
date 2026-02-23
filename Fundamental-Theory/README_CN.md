@@ -18,6 +18,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-20|Neurosymbolic Language Reasoning as Satisfiability Modulo Theory|[[pdf]](http://arxiv.org/abs/2602.18095v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[DohaScript] DohaScript: A Large-Scale Multi-Writer Dataset for Continuous Handwritten Hindi Text|[[pdf]](http://arxiv.org/abs/2602.18089v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|On the "Induction Bias" in Sequence Models|[[pdf]](http://arxiv.org/abs/2602.18333v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] MUOT_3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method|[[pdf]](http://arxiv.org/abs/2602.18006v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[DEIG] DEIG: Detail-Enhanced Instance Generation with Fine-Grained Semantic Control|[[pdf]](http://arxiv.org/abs/2602.18282v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[Vichara] Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System|[[pdf]](http://arxiv.org/abs/2602.18346v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|Agentic AI for Robot Control: Flexible but still Fragile|[[pdf]](http://arxiv.org/abs/2602.13081v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[BrowseComp-$V^3$] BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents|[[pdf]](http://arxiv.org/abs/2602.12876v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|Which Algorithms Can Graph Neural Networks Learn?|[[pdf]](http://arxiv.org/abs/2602.13106v1)|⚠️|⭐️⭐️⭐️|
@@ -521,6 +527,6 @@
 
 ## 📊 统计
 
-- 论文总数：500篇
+- 论文总数：506篇
 - 代码实现：5个
 - 最后更新：2026年02月

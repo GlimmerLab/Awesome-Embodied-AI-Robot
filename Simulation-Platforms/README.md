@@ -39,6 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-20|[SimVLA] SimVLA: A Simple VLA Baseline for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2602.18224v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Snapping Actuators with Asymmetric and Sequenced Motion|[[pdf]](http://arxiv.org/abs/2602.18421v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Downwash-aware Configuration Optimization for Modular Aerial Systems|[[pdf]](http://arxiv.org/abs/2602.18344v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2602.18022v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Generative Model via Quantile Assignment|[[pdf]](http://arxiv.org/abs/2602.18216v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[Ori-Sense] Ori-Sense: origami capacitive sensing for soft robotic applications|[[pdf]](http://arxiv.org/abs/2602.18379v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control|[[pdf]](http://arxiv.org/abs/2602.18422v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach|[[pdf]](http://arxiv.org/abs/2602.13156v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis|[[pdf]](http://arxiv.org/abs/2602.13028v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-06|[Halluverse-M^3] Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs|[[pdf]](http://arxiv.org/abs/2602.06920v1)|⚠️|⭐️⭐️⭐️|
@@ -472,6 +479,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 447
+- Total Papers: 454
 - Code Implementations: 21
 - Last Updated: February 2026

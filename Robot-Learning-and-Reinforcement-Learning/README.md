@@ -47,6 +47,36 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-20|[GrandTour] GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation|[[pdf]](http://arxiv.org/abs/2602.18164v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[Collision] Role-Adaptive Collaborative Formation Planning for Team of Quadruped Robots in Cluttered Environments|[[pdf]](http://arxiv.org/abs/2602.18260v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Zero-shot Interactive Perception|[[pdf]](http://arxiv.org/abs/2602.18374v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[EgoPush] EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots|[[pdf]](http://arxiv.org/abs/2602.18071v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Latent Diffeomorphic Co-Design of End-Effectors for Deformable and Fragile Object Manipulation|[[pdf]](http://arxiv.org/abs/2602.17921v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[CapNav] CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation|[[pdf]](http://arxiv.org/abs/2602.18424v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Whole-Brain Connectomic Graph Model Enables Whole-Body Locomotion Control in Fruit Fly|[[pdf]](http://arxiv.org/abs/2602.17997v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets|[[pdf]](http://arxiv.org/abs/2602.18025v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Quasi-Periodic Gaussian Process Predictive Iterative Learning Control|[[pdf]](http://arxiv.org/abs/2602.18014v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[UAOR] UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2602.18020v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf|[[pdf]](http://arxiv.org/abs/2602.18397v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies|[[pdf]](http://arxiv.org/abs/2602.18291v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[PRISM] PRISM: Parallel Reward Integration with Symmetry for MORL|[[pdf]](http://arxiv.org/abs/2602.18277v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Learning to Tune Pure Pursuit in Autonomous Racing: Joint Lookahead and Steering-Gain Control with PPO|[[pdf]](http://arxiv.org/abs/2602.18386v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[Conformal Tradeoffs] Conformal Tradeoffs: Guarantees Beyond Coverage|[[pdf]](http://arxiv.org/abs/2602.18045v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[DeepSVU] DeepSVU: Towards In-depth Security-oriented Video Understanding via Unified Physical-world Regularized MoE|[[pdf]](http://arxiv.org/abs/2602.18019v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] Learning Optimal and Sample-Efficient Decision Policies with Guarantees|[[pdf]](http://arxiv.org/abs/2602.17978v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Variational Distributional Neuron|[[pdf]](http://arxiv.org/abs/2602.18250v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study|[[pdf]](http://arxiv.org/abs/2602.18403v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Assigning Confidence: K-partition Ensembles|[[pdf]](http://arxiv.org/abs/2602.18435v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction|[[pdf]](http://arxiv.org/abs/2602.18301v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Leakage and Second-Order Dynamics Improve Hippocampal RNN Replay|[[pdf]](http://arxiv.org/abs/2602.18401v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] Interacting safely with cyclists using Hamilton-Jacobi reachability and reinforcement learning|[[pdf]](http://arxiv.org/abs/2602.18097v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[FENCE] FENCE: A Financial and Multimodal Jailbreak Detection Dataset|[[pdf]](http://arxiv.org/abs/2602.18154v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] SARAH: Spatially Aware Real-time Agentic Humans|[[pdf]](http://arxiv.org/abs/2602.18432v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks|[[pdf]](http://arxiv.org/abs/2602.18426v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis|[[pdf]](http://arxiv.org/abs/2602.18322v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] Dynamic Deception: When Pedestrians Team Up to Fool Autonomous Cars|[[pdf]](http://arxiv.org/abs/2602.18079v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-19|[Lend me an Ear] Lend me an Ear: Speech Enhancement Using a Robotic Arm with a Microphone Array|[[pdf]](http://arxiv.org/abs/2602.17818v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-19|Graph Neural Model Predictive Control for High-Dimensional Systems|[[pdf]](http://arxiv.org/abs/2602.17601v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[PISHYAR] PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People|[[pdf]](http://arxiv.org/abs/2602.12597v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[TRANS] TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions|[[pdf]](http://arxiv.org/abs/2602.12724v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[SafeFlowMPC] SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies|[[pdf]](http://arxiv.org/abs/2602.12794v1)|⚠️|⭐️⭐️⭐️|
@@ -2613,6 +2643,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2587
+- Total Papers: 2617
 - Code Implementations: 20
 - Last Updated: February 2026

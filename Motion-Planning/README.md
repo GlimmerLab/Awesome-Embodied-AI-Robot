@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-20|Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty|[[pdf]](http://arxiv.org/abs/2602.18312v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Homotopic information gain for sparse active target tracking|[[pdf]](http://arxiv.org/abs/2602.17926v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Tendon-Driven Reciprocating and Non-Reciprocating Motion via Snapping Metabeams|[[pdf]](http://arxiv.org/abs/2602.18330v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[Robo-Saber] Robo-Saber: Generating and Simulating Virtual Reality Players|[[pdf]](http://arxiv.org/abs/2602.18319v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-19|[Mind the Style] Mind the Style: Impact of Communication Style on Human-Chatbot Interaction|[[pdf]](http://arxiv.org/abs/2602.17850v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[Humanoid] PMG: Parameterized Motion Generator for Human-like Locomotion Control|[[pdf]](http://arxiv.org/abs/2602.12656v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[Uncertainty] SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot|[[pdf]](http://arxiv.org/abs/2602.13078v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|Human Emotion-Mediated Soft Robotic Arts: Exploring the Intersection of Human Emotions, Soft Robotics and Arts|[[pdf]](http://arxiv.org/abs/2602.13163v1)|⚠️|⭐️⭐️⭐️|
@@ -519,6 +524,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 494
+- Total Papers: 499
 - Code Implementations: 8
 - Last Updated: February 2026

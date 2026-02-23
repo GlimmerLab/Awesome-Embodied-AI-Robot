@@ -26,6 +26,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-20|[Hyper-Dexterous] WHED: A Wearable Hand Exoskeleton for Natural, High-Quality Demonstration Collection|[[pdf]](http://arxiv.org/abs/2602.17908v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|JPmHC Dynamical Isometry via Orthogonal Hyper-Connections|[[pdf]](http://arxiv.org/abs/2602.18308v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Perceived Political Bias in LLMs Reduces Persuasive Abilities|[[pdf]](http://arxiv.org/abs/2602.18092v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2602.18314v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2602.17951v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[en] Faster Training, Fewer Labels: Self-Supervised Pretraining for Fine-Grained BEV Segmentation|[[pdf]](http://arxiv.org/abs/2602.18066v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark|[[pdf]](http://arxiv.org/abs/2602.18174v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|[3DMedAgent] 3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis|[[pdf]](http://arxiv.org/abs/2602.18064v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-20|Evaluating Graphical Perception Capabilities of Vision Transformers|[[pdf]](http://arxiv.org/abs/2602.18178v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|Adding internal audio sensing to internal vision enables human-like in-hand fabric recognition with soft robotic fingertips|[[pdf]](http://arxiv.org/abs/2602.12918v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[DynaGuide] DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2602.13020v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[SIEFormer] SIEFormer: Spectral-Interpretable and -Enhanced Transformer for Generalized Category Discovery|[[pdf]](http://arxiv.org/abs/2602.13067v1)|⚠️|⭐️⭐️⭐️|
@@ -369,6 +378,6 @@
 
 ## 📊 统计
 
-- 论文总数：345篇
+- 论文总数：354篇
 - 代码实现：8个
 - 最后更新：2026年02月
