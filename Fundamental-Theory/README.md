@@ -18,6 +18,19 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|[SAGE-LLM] SAGE-LLM: Towards Safe and Generalizable LLM Controller with Fuzzy-CBF Verification and Graph-Structured Knowledge Retrieval for UAV Decision|[[pdf]](http://arxiv.org/abs/2602.23719v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos|[[pdf]](http://arxiv.org/abs/2602.23937v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Artificial Agency Program: Curiosity, compression, and communication in agents|[[pdf]](http://arxiv.org/abs/2602.24100v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[AoE] AoE: Always-on Egocentric Human Video Collection for Embodied AI|[[pdf]](http://arxiv.org/abs/2602.23893v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Robust Skills, Brittle Grounding: Diagnosing Restricted Generalization in Vision-Language Action Policies via Multi-Object Picking|[[pdf]](http://arxiv.org/abs/2602.24143v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification|[[pdf]](http://arxiv.org/abs/2602.24111v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[CoME] CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning|[[pdf]](http://arxiv.org/abs/2602.24142v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[PointCoT] PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning|[[pdf]](http://arxiv.org/abs/2602.23945v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[BLISSNet] BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements|[[pdf]](http://arxiv.org/abs/2602.24228v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Controllable Reasoning Models Are Private Thinkers|[[pdf]](http://arxiv.org/abs/2602.24210v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume|[[pdf]](http://arxiv.org/abs/2602.24195v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[SegMate] SegMate: Asymmetric Attention-Based Lightweight Architecture for Efficient Multi-Organ Segmentation|[[pdf]](http://arxiv.org/abs/2602.23903v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[GeoDiff4D] GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction|[[pdf]](http://arxiv.org/abs/2602.24161v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Neurosymbolic Language Reasoning as Satisfiability Modulo Theory|[[pdf]](http://arxiv.org/abs/2602.18095v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|[DohaScript] DohaScript: A Large-Scale Multi-Writer Dataset for Continuous Handwritten Hindi Text|[[pdf]](http://arxiv.org/abs/2602.18089v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|On the "Induction Bias" in Sequence Models|[[pdf]](http://arxiv.org/abs/2602.18333v1)|⚠️|⭐️⭐️⭐️|
@@ -527,6 +540,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 506
+- Total Papers: 519
 - Code Implementations: 5
-- Last Updated: February 2026
+- Last Updated: March 2026

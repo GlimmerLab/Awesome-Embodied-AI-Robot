@@ -32,6 +32,7 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|Teleoperated Omni-directional Dual Arm Mobile Manipulation Robotic System with Shared Control for Retail Store|[[pdf]](http://arxiv.org/abs/2602.23923v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty|[[pdf]](http://arxiv.org/abs/2602.18312v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Homotopic information gain for sparse active target tracking|[[pdf]](http://arxiv.org/abs/2602.17926v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Tendon-Driven Reciprocating and Non-Reciprocating Motion via Snapping Metabeams|[[pdf]](http://arxiv.org/abs/2602.18330v1)|⚠️|⭐️⭐️⭐️|
@@ -524,6 +525,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 499
+- Total Papers: 500
 - Code Implementations: 8
-- Last Updated: February 2026
+- Last Updated: March 2026

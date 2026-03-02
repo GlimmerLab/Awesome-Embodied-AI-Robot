@@ -25,6 +25,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|Geometry-based pneumatic actuators for soft robotics|[[pdf]](http://arxiv.org/abs/2602.24104v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[Humanoid] Humanoid Robots as First Assistants in Endoscopic Surgery|[[pdf]](http://arxiv.org/abs/2602.24156v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[Quant Experts] Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization|[[pdf]](http://arxiv.org/abs/2602.24059v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Interpretable Debiasing of Vision-Language Models for Social Fairness|[[pdf]](http://arxiv.org/abs/2602.24014v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[Look Carefully] Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation|[[pdf]](http://arxiv.org/abs/2602.24041v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Simplifying Outcomes of Language Model Component Analyses with ELIA|[[pdf]](http://arxiv.org/abs/2602.18262v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|[AI-Wrapped] AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild|[[pdf]](http://arxiv.org/abs/2602.18415v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-19|Evolution of Safety Requirements in Industrial Robotics: Comparative Analysis of ISO 10218-1/2 (2011 vs. 2025) and Integration of ISO/TS 15066|[[pdf]](http://arxiv.org/abs/2602.17822v1)|⚠️|⭐️⭐️⭐️|
@@ -343,6 +348,6 @@
 
 ## 📊 统计
 
-- 论文总数：318篇
+- 论文总数：323篇
 - 代码实现：6个
-- 最后更新：2026年02月
+- 最后更新：2026年03月

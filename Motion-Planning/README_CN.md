@@ -32,6 +32,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|Teleoperated Omni-directional Dual Arm Mobile Manipulation Robotic System with Shared Control for Retail Store|[[pdf]](http://arxiv.org/abs/2602.23923v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty|[[pdf]](http://arxiv.org/abs/2602.18312v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Homotopic information gain for sparse active target tracking|[[pdf]](http://arxiv.org/abs/2602.17926v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Tendon-Driven Reciprocating and Non-Reciprocating Motion via Snapping Metabeams|[[pdf]](http://arxiv.org/abs/2602.18330v1)|⚠️|⭐️⭐️⭐️|
@@ -524,6 +525,6 @@
 
 ## 📊 统计
 
-- 论文总数：499篇
+- 论文总数：500篇
 - 代码实现：8个
-- 最后更新：2026年02月
+- 最后更新：2026年03月

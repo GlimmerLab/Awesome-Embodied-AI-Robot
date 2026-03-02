@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|Multimodal Optimal Transport for Unsupervised Temporal Segmentation in Surgical Robotics|[[pdf]](http://arxiv.org/abs/2602.24138v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving|[[pdf]](http://arxiv.org/abs/2602.24044v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[en] Evaluating Accuracy of Vine Robot Shape Sensing with Distributed Inertial Measurement Units|[[pdf]](http://arxiv.org/abs/2602.24202v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[Agentic AI-RAN] Agentic AI-RAN: Enabling Intent-Driven, Explainable and Self-Evolving Open RAN Intelligence|[[pdf]](http://arxiv.org/abs/2602.24115v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[en] Autonomous Inspection of Power Line Insulators with UAV on an Unmapped Transmission Tower|[[pdf]](http://arxiv.org/abs/2602.24011v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|[SimVLA] SimVLA: A Simple VLA Baseline for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2602.18224v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Snapping Actuators with Asymmetric and Sequenced Motion|[[pdf]](http://arxiv.org/abs/2602.18421v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Downwash-aware Configuration Optimization for Modular Aerial Systems|[[pdf]](http://arxiv.org/abs/2602.18344v1)|⚠️|⭐️⭐️⭐️|
@@ -479,6 +484,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 454
+- Total Papers: 459
 - Code Implementations: 21
-- Last Updated: February 2026
+- Last Updated: March 2026

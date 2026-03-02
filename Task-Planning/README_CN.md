@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|[SafeGen-LLM] SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems|[[pdf]](http://arxiv.org/abs/2602.24235v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[MicroPush] MicroPush: A Simulator and Benchmark for Contact-Rich Cell Pushing and Assembly with a Magnetic Rolling Microrobot|[[pdf]](http://arxiv.org/abs/2602.23607v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Terminology Rarity Predicts Catastrophic Failure in LLM Translation of Low-Resource Ancient Languages: Evidence from Ancient Greek|[[pdf]](http://arxiv.org/abs/2602.24119v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Design and Characterization of a Dual-DOF Soft Shoulder Exosuit with Volume-Optimized Pneumatic Actuator|[[pdf]](http://arxiv.org/abs/2602.18212v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[UniManip] UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph|[[pdf]](http://arxiv.org/abs/2602.13086v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-13|[Diverging Flows] Diverging Flows: Detecting Extrapolations in Conditional Generation|[[pdf]](http://arxiv.org/abs/2602.13061v1)|⚠️|⭐️⭐️⭐️|
@@ -282,6 +285,6 @@
 
 ## 📊 统计
 
-- 论文总数：258篇
+- 论文总数：261篇
 - 代码实现：6个
-- 最后更新：2026年02月
+- 最后更新：2026年03月

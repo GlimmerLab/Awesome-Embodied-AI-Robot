@@ -26,6 +26,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-02-27|[FAVLA] FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2602.23648v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Interpretable Multimodal Gesture Recognition for Drone and Mobile Robot Teleoperation via Log-Likelihood Ratio Fusion|[[pdf]](http://arxiv.org/abs/2602.23694v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks|[[pdf]](http://arxiv.org/abs/2602.24209v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|How IMU Drift Influences Multi-Radar Inertial Odometry for Ground Robots in Subterranean Terrains|[[pdf]](http://arxiv.org/abs/2602.24192v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[en] GDA-YOLO11: Amodal Instance Segmentation for Occlusion-Robust Robotic Fruit Harvesting|[[pdf]](http://arxiv.org/abs/2602.23953v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[SpikeTrack] SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking|[[pdf]](http://arxiv.org/abs/2602.23963v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates|[[pdf]](http://arxiv.org/abs/2602.24043v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|[en] SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2602.24020v1)|⚠️|⭐️⭐️⭐️|
+|2026-02-27|Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection|[[pdf]](http://arxiv.org/abs/2602.24021v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|[Hyper-Dexterous] WHED: A Wearable Hand Exoskeleton for Natural, High-Quality Demonstration Collection|[[pdf]](http://arxiv.org/abs/2602.17908v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|JPmHC Dynamical Isometry via Orthogonal Hyper-Connections|[[pdf]](http://arxiv.org/abs/2602.18308v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Perceived Political Bias in LLMs Reduces Persuasive Abilities|[[pdf]](http://arxiv.org/abs/2602.18092v1)|⚠️|⭐️⭐️⭐️|
@@ -378,6 +387,6 @@
 
 ## 📊 统计
 
-- 论文总数：354篇
+- 论文总数：363篇
 - 代码实现：8个
-- 最后更新：2026年02月
+- 最后更新：2026年03月
