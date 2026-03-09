@@ -25,6 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|[RODEO] RODEO: RObotic DEcentralized Organization|[[pdf]](http://arxiv.org/abs/2603.06058v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Structured Exploration vs. Generative Flexibility: A Field Study Comparing Bandit and LLM Architectures for Personalised Health Behaviour Interventions|[[pdf]](http://arxiv.org/abs/2603.06330v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[PONTE] PONTE: Personalized Orchestration for Natural Language Trustworthy Explanations|[[pdf]](http://arxiv.org/abs/2603.06485v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Talk Freely, Execute Strictly: Schema-Gated Agentic AI for Flexible and Reproducible Scientific Workflows|[[pdf]](http://arxiv.org/abs/2603.06394v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Geometry-based pneumatic actuators for soft robotics|[[pdf]](http://arxiv.org/abs/2602.24104v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[Humanoid] Humanoid Robots as First Assistants in Endoscopic Surgery|[[pdf]](http://arxiv.org/abs/2602.24156v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[Quant Experts] Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization|[[pdf]](http://arxiv.org/abs/2602.24059v1)|⚠️|⭐️⭐️⭐️|
@@ -348,6 +352,6 @@
 
 ## 📊 统计
 
-- 论文总数：323篇
+- 论文总数：327篇
 - 代码实现：6个
 - 最后更新：2026年03月

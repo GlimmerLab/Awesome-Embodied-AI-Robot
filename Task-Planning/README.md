@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning|[[pdf]](http://arxiv.org/abs/2603.06084v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[SafeGen-LLM] SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems|[[pdf]](http://arxiv.org/abs/2602.24235v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[MicroPush] MicroPush: A Simulator and Benchmark for Contact-Rich Cell Pushing and Assembly with a Magnetic Rolling Microrobot|[[pdf]](http://arxiv.org/abs/2602.23607v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Terminology Rarity Predicts Catastrophic Failure in LLM Translation of Low-Resource Ancient Languages: Evidence from Ancient Greek|[[pdf]](http://arxiv.org/abs/2602.24119v1)|⚠️|⭐️⭐️⭐️|
@@ -285,6 +286,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 261
+- Total Papers: 262
 - Code Implementations: 6
 - Last Updated: March 2026

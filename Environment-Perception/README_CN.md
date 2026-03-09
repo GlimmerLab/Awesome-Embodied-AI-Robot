@@ -26,6 +26,15 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|[NOVA] NOVA: Next-step Open-Vocabulary Autoregression for 3D Multi-Object Tracking in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.06254v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] Exploring Socially Assistive Peer Mediation Robots for Teaching Conflict Resolution to Elementary School Students|[[pdf]](http://arxiv.org/abs/2603.06255v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] Towards Robotic Lake Maintenance: Integrating SONAR and Satellite Data to Assist Human Operators|[[pdf]](http://arxiv.org/abs/2603.06266v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.06544v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[AV-Unified] AV-Unified: A Unified Framework for Audio-visual Scene Understanding|[[pdf]](http://arxiv.org/abs/2603.06530v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[WMoE-CLIP] WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection|[[pdf]](http://arxiv.org/abs/2603.06313v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[Rewis3d] Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2603.06374v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[Match4Annotate] Match4Annotate: Propagating Sparse Video Annotations via Implicit Neural Feature Matching|[[pdf]](http://arxiv.org/abs/2603.06471v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations|[[pdf]](http://arxiv.org/abs/2603.06576v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[FAVLA] FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2602.23648v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Interpretable Multimodal Gesture Recognition for Drone and Mobile Robot Teleoperation via Log-Likelihood Ratio Fusion|[[pdf]](http://arxiv.org/abs/2602.23694v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks|[[pdf]](http://arxiv.org/abs/2602.24209v1)|⚠️|⭐️⭐️⭐️|
@@ -387,6 +396,6 @@
 
 ## 📊 统计
 
-- 论文总数：363篇
+- 论文总数：372篇
 - 代码实现：8个
 - 最后更新：2026年03月

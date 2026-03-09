@@ -18,6 +18,16 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration|[[pdf]](http://arxiv.org/abs/2603.06001v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[GazeMoE] GazeMoE: Perception of Gaze Target with Mixture-of-Experts|[[pdf]](http://arxiv.org/abs/2603.06256v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[The EpisTwin] The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI|[[pdf]](http://arxiv.org/abs/2603.06290v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Agentic retrieval-augmented reasoning reshapes collective reliability under model variability in radiology question answering|[[pdf]](http://arxiv.org/abs/2603.06271v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[SUREON] SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning|[[pdf]](http://arxiv.org/abs/2603.06570v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation|[[pdf]](http://arxiv.org/abs/2603.06384v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Adapter-Augmented Bandits for Online Multi-Constrained Multi-Modal Inference Scheduling|[[pdf]](http://arxiv.org/abs/2603.06403v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders|[[pdf]](http://arxiv.org/abs/2603.06569v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2603.06386v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[Omni-Diffusion] Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion|[[pdf]](http://arxiv.org/abs/2603.06577v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[SAGE-LLM] SAGE-LLM: Towards Safe and Generalizable LLM Controller with Fuzzy-CBF Verification and Graph-Structured Knowledge Retrieval for UAV Decision|[[pdf]](http://arxiv.org/abs/2602.23719v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos|[[pdf]](http://arxiv.org/abs/2602.23937v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Artificial Agency Program: Curiosity, compression, and communication in agents|[[pdf]](http://arxiv.org/abs/2602.24100v1)|⚠️|⭐️⭐️⭐️|
@@ -540,6 +550,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 519
+- Total Papers: 529
 - Code Implementations: 5
 - Last Updated: March 2026

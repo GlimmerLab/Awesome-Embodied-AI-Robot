@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|[DreamToNav] DreamToNav: Generalizable Navigation for Robots via Generative Video Planning|[[pdf]](http://arxiv.org/abs/2603.06190v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Control Barrier Corridors: From Safety Functions to Safe Sets|[[pdf]](http://arxiv.org/abs/2603.06494v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2603.06061v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[SG-DOR] SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants|[[pdf]](http://arxiv.org/abs/2603.06512v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Teleoperated Omni-directional Dual Arm Mobile Manipulation Robotic System with Shared Control for Retail Store|[[pdf]](http://arxiv.org/abs/2602.23923v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty|[[pdf]](http://arxiv.org/abs/2602.18312v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-20|Homotopic information gain for sparse active target tracking|[[pdf]](http://arxiv.org/abs/2602.17926v1)|⚠️|⭐️⭐️⭐️|
@@ -525,6 +529,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 500
+- Total Papers: 504
 - Code Implementations: 8
 - Last Updated: March 2026

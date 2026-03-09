@@ -47,6 +47,35 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|[Humanoid] Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality|[[pdf]](http://arxiv.org/abs/2603.05993v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[SuperSuit] SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2603.06280v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Dual-Agent Multiple-Model Reinforcement Learning for Event-Triggered Human-Robot Co-Adaptation in Decoupled Task Spaces|[[pdf]](http://arxiv.org/abs/2603.06163v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2603.06480v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling|[[pdf]](http://arxiv.org/abs/2603.06218v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|A Unified Low-Dimensional Design Embedding for Joint Optimization of Shape, Material, and Actuation in Soft Robots|[[pdf]](http://arxiv.org/abs/2603.06497v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[KISS-IMU] KISS-IMU: Self-supervised Inertial Odometry with Motion-balanced Learning and Uncertainty-aware Inference|[[pdf]](http://arxiv.org/abs/2603.06205v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Unified Learning of Temporal Task Structure and Action Timing for Bimanual Robot Manipulation|[[pdf]](http://arxiv.org/abs/2603.06538v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation|[[pdf]](http://arxiv.org/abs/2603.06064v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[Adaptive] TaPD: Temporal-adaptive Progressive Distillation for Observation-Adaptive Trajectory Forecasting in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.06231v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[Sticky-Glance] Sticky-Glance: Robust Intent Recognition for Human Robot Collaboration via Single-Glance|[[pdf]](http://arxiv.org/abs/2603.06121v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[RAMoEA-QA] RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering|[[pdf]](http://arxiv.org/abs/2603.06542v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Data Analogies Enable Efficient Cross-Embodiment Transfer|[[pdf]](http://arxiv.org/abs/2603.06450v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Can we Trust Unreliable Voxels? Exploring 3D Semantic Occupancy Prediction under Label Noise|[[pdf]](http://arxiv.org/abs/2603.06279v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Boosting deep Reinforcement Learning using pretraining with Logical Options|[[pdf]](http://arxiv.org/abs/2603.06565v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[HiPP-Prune] HiPP-Prune: Hierarchical Preference-Conditioned Structured Pruning for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2603.06270v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations|[[pdf]](http://arxiv.org/abs/2603.06555v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|A Reference Architecture of Reinforcement Learning Frameworks|[[pdf]](http://arxiv.org/abs/2603.06413v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion|[[pdf]](http://arxiv.org/abs/2603.06397v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[COLD-Steer] COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics|[[pdf]](http://arxiv.org/abs/2603.06495v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Underactuated multimodal jumping robot for extraterrestrial exploration|[[pdf]](http://arxiv.org/abs/2603.06525v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Tiny, Hardware-Independent, Compression-based Classification|[[pdf]](http://arxiv.org/abs/2603.06359v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Toward Generative Quantum Utility via Correlation-Complexity Map|[[pdf]](http://arxiv.org/abs/2603.06440v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[OralGPT-Plus] OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis|[[pdf]](http://arxiv.org/abs/2603.06366v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Multimodal Large Language Models as Image Classifiers|[[pdf]](http://arxiv.org/abs/2603.06578v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Solving Jigsaw Puzzles in the Wild: Human-Guided Reconstruction of Cultural Heritage Fragments|[[pdf]](http://arxiv.org/abs/2603.06389v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] What if? Emulative Simulation with World Models for Situated Reasoning|[[pdf]](http://arxiv.org/abs/2603.06445v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[SCOPE] SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation|[[pdf]](http://arxiv.org/abs/2603.06572v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[CaTok] CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization|[[pdf]](http://arxiv.org/abs/2603.06449v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Hybrid Offline-Online Reinforcement Learning for Sensorless, High-Precision Force Regulation in Surgical Robotic Grasping|[[pdf]](http://arxiv.org/abs/2602.23870v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[Humanoid] OmniTrack: General Motion Tracking via Physics-Consistent Reference|[[pdf]](http://arxiv.org/abs/2602.23832v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[Humanoid] OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control|[[pdf]](http://arxiv.org/abs/2602.23843v1)|⚠️|⭐️⭐️⭐️|
@@ -2670,6 +2699,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2644
+- Total Papers: 2673
 - Code Implementations: 20
 - Last Updated: March 2026

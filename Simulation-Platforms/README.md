@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-06|Uncertainty-Aware Adaptive Dynamics For Underwater Vehicle-Manipulator Robots|[[pdf]](http://arxiv.org/abs/2603.06548v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Open-Source Based and ETSI Compliant Cooperative, Connected, and Automated Mini-Cars|[[pdf]](http://arxiv.org/abs/2603.06343v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Safe Consensus of Cooperative Manipulation with Hierarchical Event-Triggered Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2603.06356v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|[en] A Hazard-Informed Data Pipeline for Robotics Physical Safety|[[pdf]](http://arxiv.org/abs/2603.06130v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-06|Causal Interpretation of Neural Network Computations with Contribution Decomposition|[[pdf]](http://arxiv.org/abs/2603.06557v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Multimodal Optimal Transport for Unsupervised Temporal Segmentation in Surgical Robotics|[[pdf]](http://arxiv.org/abs/2602.24138v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving|[[pdf]](http://arxiv.org/abs/2602.24044v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[en] Evaluating Accuracy of Vine Robot Shape Sensing with Distributed Inertial Measurement Units|[[pdf]](http://arxiv.org/abs/2602.24202v1)|⚠️|⭐️⭐️⭐️|
@@ -484,6 +489,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 459
+- Total Papers: 464
 - Code Implementations: 21
 - Last Updated: March 2026
