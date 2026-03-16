@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|Geometry-Guided Camera Motion Understanding in VideoLLMs|[[pdf]](http://arxiv.org/abs/2603.13119v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] Perceive What Matters: Relevance-Driven Scheduling for Multimodal Streaming Perception|[[pdf]](http://arxiv.org/abs/2603.13176v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[NOIR] NOIR: Neural Operator mapping for Implicit Representations|[[pdf]](http://arxiv.org/abs/2603.13118v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation|[[pdf]](http://arxiv.org/abs/2603.12918v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[NOVA] NOVA: Next-step Open-Vocabulary Autoregression for 3D Multi-Object Tracking in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.06254v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[en] Exploring Socially Assistive Peer Mediation Robots for Teaching Conflict Resolution to Elementary School Students|[[pdf]](http://arxiv.org/abs/2603.06255v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[en] Towards Robotic Lake Maintenance: Integrating SONAR and Satellite Data to Assist Human Operators|[[pdf]](http://arxiv.org/abs/2603.06266v1)|⚠️|⭐️⭐️⭐️|
@@ -396,6 +400,6 @@
 
 ## 📊 统计
 
-- 论文总数：372篇
+- 论文总数：376篇
 - 代码实现：8个
 - 最后更新：2026年03月

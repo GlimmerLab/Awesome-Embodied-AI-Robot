@@ -25,6 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|[PVI] PVI: Plug-in Visual Injection for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2603.12772v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[TacVLA] TacVLA: Contact-Aware Tactile Fusion for Robust Vision-Language-Action Manipulation|[[pdf]](http://arxiv.org/abs/2603.12665v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Altered Thoughts, Altered Actions: Probing Chain-of-Thought Vulnerabilities in VLA Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2603.12717v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach|[[pdf]](http://arxiv.org/abs/2603.13056v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[RODEO] RODEO: RObotic DEcentralized Organization|[[pdf]](http://arxiv.org/abs/2603.06058v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Structured Exploration vs. Generative Flexibility: A Field Study Comparing Bandit and LLM Architectures for Personalised Health Behaviour Interventions|[[pdf]](http://arxiv.org/abs/2603.06330v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[PONTE] PONTE: Personalized Orchestration for Natural Language Trustworthy Explanations|[[pdf]](http://arxiv.org/abs/2603.06485v1)|⚠️|⭐️⭐️⭐️|
@@ -352,6 +356,6 @@
 
 ## 📊 统计
 
-- 论文总数：327篇
+- 论文总数：331篇
 - 代码实现：6个
 - 最后更新：2026年03月

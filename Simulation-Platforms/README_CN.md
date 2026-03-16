@@ -39,6 +39,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks|[[pdf]](http://arxiv.org/abs/2603.13003v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[InterEdit] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing|[[pdf]](http://arxiv.org/abs/2603.13082v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] FLUX: Accelerating Cross-Embodiment Generative Navigation Policies via Rectified Flow and Static-to-Dynamic Learning|[[pdf]](http://arxiv.org/abs/2603.12806v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study|[[pdf]](http://arxiv.org/abs/2603.13044v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Multimodal OCR] Multimodal OCR: Parse Anything from Documents|[[pdf]](http://arxiv.org/abs/2603.13032v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Competition-Aware CPC Forecasting with Near-Market Coverage|[[pdf]](http://arxiv.org/abs/2603.13059v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[SAW] SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation|[[pdf]](http://arxiv.org/abs/2603.13024v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Uncertainty-Aware Adaptive Dynamics For Underwater Vehicle-Manipulator Robots|[[pdf]](http://arxiv.org/abs/2603.06548v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Open-Source Based and ETSI Compliant Cooperative, Connected, and Automated Mini-Cars|[[pdf]](http://arxiv.org/abs/2603.06343v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Safe Consensus of Cooperative Manipulation with Hierarchical Event-Triggered Control Barrier Functions|[[pdf]](http://arxiv.org/abs/2603.06356v1)|⚠️|⭐️⭐️⭐️|
@@ -489,6 +496,6 @@
 
 ## 📊 统计
 
-- 论文总数：464篇
+- 论文总数：471篇
 - 代码实现：21个
 - 最后更新：2026年03月

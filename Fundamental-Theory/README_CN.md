@@ -18,6 +18,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|[Trajectory] Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences|[[pdf]](http://arxiv.org/abs/2603.13100v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Semantic Invariance in Agentic AI|[[pdf]](http://arxiv.org/abs/2603.13173v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Delta1 with LLM] Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning|[[pdf]](http://arxiv.org/abs/2603.12953v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[DecoVLN] DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2603.13133v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[GeoChemAD] GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration|[[pdf]](http://arxiv.org/abs/2603.13068v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Accelerating Stroke MRI with Diffusion Probabilistic Models through Large-Scale Pre-training and Target-Specific Fine-Tuning|[[pdf]](http://arxiv.org/abs/2603.13007v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[daVinci-Env] daVinci-Env: Open SWE Environment Synthesis at Scale|[[pdf]](http://arxiv.org/abs/2603.13023v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation|[[pdf]](http://arxiv.org/abs/2603.13116v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Thinking in Streaming Video|[[pdf]](http://arxiv.org/abs/2603.12938v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] Rethinking VLMs for Image Forgery Detection and Localization|[[pdf]](http://arxiv.org/abs/2603.12930v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration|[[pdf]](http://arxiv.org/abs/2603.06001v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[GazeMoE] GazeMoE: Perception of Gaze Target with Mixture-of-Experts|[[pdf]](http://arxiv.org/abs/2603.06256v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[The EpisTwin] The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI|[[pdf]](http://arxiv.org/abs/2603.06290v1)|⚠️|⭐️⭐️⭐️|
@@ -550,6 +560,6 @@
 
 ## 📊 统计
 
-- 论文总数：529篇
+- 论文总数：539篇
 - 代码实现：5个
 - 最后更新：2026年03月

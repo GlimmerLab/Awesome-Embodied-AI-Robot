@@ -47,6 +47,30 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|[Beyond Imitation] Beyond Imitation: Reinforcement Learning Fine-Tuning for Adaptive Diffusion Navigation Policies|[[pdf]](http://arxiv.org/abs/2603.12868v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Humanoid] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization|[[pdf]](http://arxiv.org/abs/2603.13228v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Language-Grounded Decoupled Action Representation for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2603.12967v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[RoboStream] RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics|[[pdf]](http://arxiv.org/abs/2603.12939v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots|[[pdf]](http://arxiv.org/abs/2603.13108v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Trajectory] Route Fragmentation Based on Resource-centric Prioritisation for Efficient Multi-Robot Path Planning in Agricultural Environments|[[pdf]](http://arxiv.org/abs/2603.12994v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Efficient Real-World Autonomous Racing via Attenuated Residual Policy Optimization|[[pdf]](http://arxiv.org/abs/2603.12960v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[AnchorVLA4D] AnchorVLA4D: an Anchor-Based Spatial-Temporal Vision-Language-Action Model for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2603.12730v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Humanoid] Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data|[[pdf]](http://arxiv.org/abs/2603.12686v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[ReMem-VLA] ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries|[[pdf]](http://arxiv.org/abs/2603.12942v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[ESPIRE] ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models|[[pdf]](http://arxiv.org/abs/2603.13033v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Stake the Points] Stake the Points: Structure-Faithful Instance Unlearning|[[pdf]](http://arxiv.org/abs/2603.12915v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[PISmith] PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses|[[pdf]](http://arxiv.org/abs/2603.13026v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[OpenACMv2] OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM|[[pdf]](http://arxiv.org/abs/2603.13042v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[SldprtNet] SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design|[[pdf]](http://arxiv.org/abs/2603.13098v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[ARL-Tangram] ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2603.13019v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Visual-ERM] Visual-ERM: Reward Modeling for Visual Equivalence|[[pdf]](http://arxiv.org/abs/2603.13224v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[SortScrews] SortScrews: A Dataset and Baseline for Real-time Screw Classification|[[pdf]](http://arxiv.org/abs/2603.13027v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|When Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO|[[pdf]](http://arxiv.org/abs/2603.13134v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Influence Malleability in Linearized Attention: Dual Implications of Non-Convergent NTK Dynamics|[[pdf]](http://arxiv.org/abs/2603.13085v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Topo-R1] Topo-R1: Detecting Topological Anomalies via Vision-Language Models|[[pdf]](http://arxiv.org/abs/2603.13054v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Reinforcing the Weakest Links: Modernizing SIENA with Targeted Deep Learning Integration|[[pdf]](http://arxiv.org/abs/2603.12951v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos|[[pdf]](http://arxiv.org/abs/2603.13185v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Fair Lung Disease Diagnosis from Chest CT via Gender-Adversarial Attention Multiple Instance Learning|[[pdf]](http://arxiv.org/abs/2603.12988v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[Humanoid] Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality|[[pdf]](http://arxiv.org/abs/2603.05993v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[SuperSuit] SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2603.06280v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Dual-Agent Multiple-Model Reinforcement Learning for Event-Triggered Human-Robot Co-Adaptation in Decoupled Task Spaces|[[pdf]](http://arxiv.org/abs/2603.06163v1)|⚠️|⭐️⭐️⭐️|
@@ -2699,6 +2723,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2673
+- Total Papers: 2697
 - Code Implementations: 20
 - Last Updated: March 2026

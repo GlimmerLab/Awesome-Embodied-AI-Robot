@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|Geometry-Guided Camera Motion Understanding in VideoLLMs|[[pdf]](http://arxiv.org/abs/2603.13119v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] Perceive What Matters: Relevance-Driven Scheduling for Multimodal Streaming Perception|[[pdf]](http://arxiv.org/abs/2603.13176v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[NOIR] NOIR: Neural Operator mapping for Implicit Representations|[[pdf]](http://arxiv.org/abs/2603.13118v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[en] VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation|[[pdf]](http://arxiv.org/abs/2603.12918v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[NOVA] NOVA: Next-step Open-Vocabulary Autoregression for 3D Multi-Object Tracking in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.06254v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[en] Exploring Socially Assistive Peer Mediation Robots for Teaching Conflict Resolution to Elementary School Students|[[pdf]](http://arxiv.org/abs/2603.06255v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[en] Towards Robotic Lake Maintenance: Integrating SONAR and Satellite Data to Assist Human Operators|[[pdf]](http://arxiv.org/abs/2603.06266v1)|⚠️|⭐️⭐️⭐️|
@@ -396,6 +400,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 372
+- Total Papers: 376
 - Code Implementations: 8
 - Last Updated: March 2026

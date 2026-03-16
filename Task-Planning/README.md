@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|Autonomous Integration and Improvement of Robotic Assembly using Skill Graph Representations|[[pdf]](http://arxiv.org/abs/2603.12649v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[Steve-Evolving] Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation|[[pdf]](http://arxiv.org/abs/2603.13131v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch|[[pdf]](http://arxiv.org/abs/2603.13028v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning|[[pdf]](http://arxiv.org/abs/2603.06084v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[SafeGen-LLM] SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems|[[pdf]](http://arxiv.org/abs/2602.24235v1)|⚠️|⭐️⭐️⭐️|
 |2026-02-27|[MicroPush] MicroPush: A Simulator and Benchmark for Contact-Rich Cell Pushing and Assembly with a Magnetic Rolling Microrobot|[[pdf]](http://arxiv.org/abs/2602.23607v1)|⚠️|⭐️⭐️⭐️|
@@ -286,6 +289,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 262
+- Total Papers: 265
 - Code Implementations: 6
 - Last Updated: March 2026

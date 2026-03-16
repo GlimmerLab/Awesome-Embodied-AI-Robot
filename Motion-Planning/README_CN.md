@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-13|[SmoothTurn] SmoothTurn: Learning to Turn Smoothly for Agile Navigation with Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2603.12842v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|[MotionAnymesh] MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins|[[pdf]](http://arxiv.org/abs/2603.12936v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-13|Coordinated Manipulation of Hybrid Deformable-Rigid Objects in Constrained Environments|[[pdf]](http://arxiv.org/abs/2603.12940v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|[DreamToNav] DreamToNav: Generalizable Navigation for Robots via Generative Video Planning|[[pdf]](http://arxiv.org/abs/2603.06190v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Control Barrier Corridors: From Safety Functions to Safe Sets|[[pdf]](http://arxiv.org/abs/2603.06494v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-06|Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2603.06061v1)|⚠️|⭐️⭐️⭐️|
@@ -529,6 +532,6 @@
 
 ## 📊 统计
 
-- 论文总数：504篇
+- 论文总数：507篇
 - 代码实现：8个
 - 最后更新：2026年03月
