@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|Accurate Open-Loop Control of a Soft Continuum Robot Through Visually Learned Latent Representations|[[pdf]](http://arxiv.org/abs/2603.19655v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[X-World] X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving|[[pdf]](http://arxiv.org/abs/2603.19979v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs|[[pdf]](http://arxiv.org/abs/2603.20028v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Layered Quantum Architecture Search for 3D Point Cloud Classification|[[pdf]](http://arxiv.org/abs/2603.20024v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks|[[pdf]](http://arxiv.org/abs/2603.13003v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[InterEdit] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing|[[pdf]](http://arxiv.org/abs/2603.13082v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[en] FLUX: Accelerating Cross-Embodiment Generative Navigation Policies via Rectified Flow and Static-to-Dynamic Learning|[[pdf]](http://arxiv.org/abs/2603.12806v1)|⚠️|⭐️⭐️⭐️|
@@ -496,6 +500,6 @@
 
 ## 📊 统计
 
-- 论文总数：471篇
+- 论文总数：475篇
 - 代码实现：21个
 - 最后更新：2026年03月

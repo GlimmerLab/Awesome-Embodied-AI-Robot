@@ -26,6 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|[Trajectory] KUKAloha: A General, Low-Cost, and Shared-Control based Teleoperation Framework for Construction Robot Arm|[[pdf]](http://arxiv.org/abs/2603.20129v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Real-Time Structural Detection for Indoor Navigation from 3D LiDAR Using Bird's-Eye-View Images|[[pdf]](http://arxiv.org/abs/2603.19830v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[LIORNet] LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions|[[pdf]](http://arxiv.org/abs/2603.19936v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[SegVGGT] SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images|[[pdf]](http://arxiv.org/abs/2603.19926v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[MFil-Mamba] MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models|[[pdf]](http://arxiv.org/abs/2603.20074v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[PanORama] PanORama: Multiview Consistent Panoptic Segmentation in Operating Rooms|[[pdf]](http://arxiv.org/abs/2603.19920v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Geometry-Guided Camera Motion Understanding in VideoLLMs|[[pdf]](http://arxiv.org/abs/2603.13119v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[en] Perceive What Matters: Relevance-Driven Scheduling for Multimodal Streaming Perception|[[pdf]](http://arxiv.org/abs/2603.13176v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[NOIR] NOIR: Neural Operator mapping for Implicit Representations|[[pdf]](http://arxiv.org/abs/2603.13118v1)|⚠️|⭐️⭐️⭐️|
@@ -400,6 +406,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 376
+- Total Papers: 382
 - Code Implementations: 8
 - Last Updated: March 2026

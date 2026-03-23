@@ -22,6 +22,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|[Multi-robot] IndoorR2X: Indoor Robot-to-Everything Coordination with LLM-Driven Planning|[[pdf]](http://arxiv.org/abs/2603.20182v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[Sense4HRI] Sense4HRI: A ROS 2 HRI Framework for Physiological Sensor Integration and Synchronized Logging|[[pdf]](http://arxiv.org/abs/2603.19914v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[Uncertainty Matters] Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.20076v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Adaptive Greedy Frame Selection for Long Video Understanding|[[pdf]](http://arxiv.org/abs/2603.20180v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering|[[pdf]](http://arxiv.org/abs/2603.20193v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Autonomous Integration and Improvement of Robotic Assembly using Skill Graph Representations|[[pdf]](http://arxiv.org/abs/2603.12649v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[Steve-Evolving] Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation|[[pdf]](http://arxiv.org/abs/2603.13131v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch|[[pdf]](http://arxiv.org/abs/2603.13028v1)|⚠️|⭐️⭐️⭐️|
@@ -289,6 +294,6 @@
 
 ## 📊 统计
 
-- 论文总数：265篇
+- 论文总数：270篇
 - 代码实现：6个
 - 最后更新：2026年03月

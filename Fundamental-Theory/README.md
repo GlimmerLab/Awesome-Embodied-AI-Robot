@@ -18,6 +18,16 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|Zero Shot Deformation Reconstruction for Soft Robots Using a Flexible Sensor Array and Cage Based 3D Gaussian Modeling|[[pdf]](http://arxiv.org/abs/2603.19543v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[Trojan's Whisper] Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance|[[pdf]](http://arxiv.org/abs/2603.19974v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[Chain-of-Adaptation] Chain-of-Adaptation: Surgical Vision-Language Adaptation with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2603.20116v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[VideoSeek] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking|[[pdf]](http://arxiv.org/abs/2603.20185v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning|[[pdf]](http://arxiv.org/abs/2603.20181v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[en] Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning|[[pdf]](http://arxiv.org/abs/2603.20148v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Synergistic Perception and Generative Recomposition: A Multi-Agent Orchestration for Expert-Level Building Inspection|[[pdf]](http://arxiv.org/abs/2603.20143v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[en] Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response|[[pdf]](http://arxiv.org/abs/2603.19858v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Utility-Guided Agent Orchestration for Efficient LLM Tool Use|[[pdf]](http://arxiv.org/abs/2603.19896v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Learning Dynamic Belief Graphs for Theory-of-mind Reasoning|[[pdf]](http://arxiv.org/abs/2603.20170v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[Trajectory] Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences|[[pdf]](http://arxiv.org/abs/2603.13100v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Semantic Invariance in Agentic AI|[[pdf]](http://arxiv.org/abs/2603.13173v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[Delta1 with LLM] Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning|[[pdf]](http://arxiv.org/abs/2603.12953v1)|⚠️|⭐️⭐️⭐️|
@@ -560,6 +570,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 539
+- Total Papers: 549
 - Code Implementations: 5
 - Last Updated: March 2026

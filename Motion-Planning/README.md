@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|[Trajectory] Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis|[[pdf]](http://arxiv.org/abs/2603.19709v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[AGILE] AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning|[[pdf]](http://arxiv.org/abs/2603.20147v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach|[[pdf]](http://arxiv.org/abs/2603.19838v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Continual Learning as Shared-Manifold Continuation Under Compatible Shift|[[pdf]](http://arxiv.org/abs/2603.20036v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-19|[en] Unlabeled Multi-Robot Motion Planning with Improved Separation Trade-offs|[[pdf]](http://arxiv.org/abs/2603.19502v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[SmoothTurn] SmoothTurn: Learning to Turn Smoothly for Agile Navigation with Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2603.12842v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[MotionAnymesh] MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins|[[pdf]](http://arxiv.org/abs/2603.12936v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Coordinated Manipulation of Hybrid Deformable-Rigid Objects in Constrained Environments|[[pdf]](http://arxiv.org/abs/2603.12940v1)|⚠️|⭐️⭐️⭐️|
@@ -532,6 +537,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 507
+- Total Papers: 512
 - Code Implementations: 8
 - Last Updated: March 2026

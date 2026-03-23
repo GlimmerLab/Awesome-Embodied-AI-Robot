@@ -47,6 +47,33 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|[ContractionPPO] ContractionPPO: Certified Reinforcement Learning via Differentiable Contraction Layers|[[pdf]](http://arxiv.org/abs/2603.19632v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[CeRLP] CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation|[[pdf]](http://arxiv.org/abs/2603.19602v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling|[[pdf]](http://arxiv.org/abs/2603.19794v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Not an Obstacle for Dog, but a Hazard for Human: A Co-Ego Navigation System for Guide Dog Robots|[[pdf]](http://arxiv.org/abs/2603.20121v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[HortiMulti] HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels|[[pdf]](http://arxiv.org/abs/2603.20150v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|A Subgoal-driven Framework for Improving Long-Horizon LLM Agents|[[pdf]](http://arxiv.org/abs/2603.19685v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Evolving Embodied Intelligence: Graph Neural Network--Driven Co-Design of Morphology and Control in Soft Robotics|[[pdf]](http://arxiv.org/abs/2603.19582v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Mixed Integer vs. Continuous Model Predictive Controllers for Binary Thruster Control: A Comparative Study|[[pdf]](http://arxiv.org/abs/2603.19796v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[GustPilot] GustPilot: A Hierarchical DRL-INDI Framework for Wind-Resilient Quadrotor Navigation|[[pdf]](http://arxiv.org/abs/2603.19966v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[Graph2TS] Graph2TS: Structure-Controlled Time Series Generation via Quantile-Graph VAEs|[[pdf]](http://arxiv.org/abs/2603.19970v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|A Unified Platform and Quality Assurance Framework for 3D Ultrasound Reconstruction with Robotic, Optical, and Electromagnetic Tracking|[[pdf]](http://arxiv.org/abs/2603.20077v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR|[[pdf]](http://arxiv.org/abs/2603.20020v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|The $\mathbf{Y}$-Combinator for LLMs: Solving Long-Context Rot with $λ$-Calculus|[[pdf]](http://arxiv.org/abs/2603.20105v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States|[[pdf]](http://arxiv.org/abs/2603.19987v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[en] Embodied Science: Closing the Discovery Loop with Agentic Embodied AI|[[pdf]](http://arxiv.org/abs/2603.19782v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs|[[pdf]](http://arxiv.org/abs/2603.20046v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech|[[pdf]](http://arxiv.org/abs/2603.20112v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Structured Latent Dynamics in Wireless CSI via Homomorphic World Models|[[pdf]](http://arxiv.org/abs/2603.20048v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[LoASR-Bench] LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families|[[pdf]](http://arxiv.org/abs/2603.20042v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Spectral Alignment in Forward-Backward Representations via Temporal Abstraction|[[pdf]](http://arxiv.org/abs/2603.20103v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms|[[pdf]](http://arxiv.org/abs/2603.20189v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries|[[pdf]](http://arxiv.org/abs/2603.20062v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT|[[pdf]](http://arxiv.org/abs/2603.20037v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[LumosX] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation|[[pdf]](http://arxiv.org/abs/2603.20192v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[en] 2K Retrofit: Entropy-Guided Efficient Sparse Refinement for High-Resolution 3D Geometry Prediction|[[pdf]](http://arxiv.org/abs/2603.19964v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[MedSPOT] MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI|[[pdf]](http://arxiv.org/abs/2603.19993v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|[RAM] RAM: Recover Any 3D Human Motion in-the-Wild|[[pdf]](http://arxiv.org/abs/2603.19929v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[Beyond Imitation] Beyond Imitation: Reinforcement Learning Fine-Tuning for Adaptive Diffusion Navigation Policies|[[pdf]](http://arxiv.org/abs/2603.12868v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[Humanoid] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization|[[pdf]](http://arxiv.org/abs/2603.13228v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Language-Grounded Decoupled Action Representation for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2603.12967v1)|⚠️|⭐️⭐️⭐️|
@@ -2723,6 +2750,6 @@
 
 ## 📊 统计
 
-- 论文总数：2697篇
+- 论文总数：2724篇
 - 代码实现：20个
 - 最后更新：2026年03月

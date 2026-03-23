@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-20|The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning|[[pdf]](http://arxiv.org/abs/2603.20164v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-20|Legged Autonomous Surface Science In Analogue Environments (LASSIE): Making Every Robotic Step Count in Planetary Exploration|[[pdf]](http://arxiv.org/abs/2603.19661v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[PVI] PVI: Plug-in Visual Injection for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2603.12772v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|[TacVLA] TacVLA: Contact-Aware Tactile Fusion for Robust Vision-Language-Action Manipulation|[[pdf]](http://arxiv.org/abs/2603.12665v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-13|Altered Thoughts, Altered Actions: Probing Chain-of-Thought Vulnerabilities in VLA Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2603.12717v1)|⚠️|⭐️⭐️⭐️|
@@ -356,6 +358,6 @@
 
 ## 📊 统计
 
-- 论文总数：331篇
+- 论文总数：333篇
 - 代码实现：6个
 - 最后更新：2026年03月
