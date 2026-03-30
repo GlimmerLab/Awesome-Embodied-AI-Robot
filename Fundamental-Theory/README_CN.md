@@ -18,6 +18,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-27|Foundation Model for Cardiac Time Series via Masked Latent Attention|[[pdf]](http://arxiv.org/abs/2603.26475v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Stabilizing Rubric Integration Training via Decoupled Advantage Normalization|[[pdf]](http://arxiv.org/abs/2603.26535v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow|[[pdf]](http://arxiv.org/abs/2603.26571v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Zero Shot Deformation Reconstruction for Soft Robots Using a Flexible Sensor Array and Cage Based 3D Gaussian Modeling|[[pdf]](http://arxiv.org/abs/2603.19543v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Trojan's Whisper] Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance|[[pdf]](http://arxiv.org/abs/2603.19974v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Chain-of-Adaptation] Chain-of-Adaptation: Surgical Vision-Language Adaptation with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2603.20116v1)|⚠️|⭐️⭐️⭐️|
@@ -570,6 +573,6 @@
 
 ## 📊 统计
 
-- 论文总数：549篇
+- 论文总数：552篇
 - 代码实现：5个
 - 最后更新：2026年03月

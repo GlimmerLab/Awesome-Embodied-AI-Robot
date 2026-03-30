@@ -47,6 +47,21 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-27|[Ruka-v2] Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning|[[pdf]](http://arxiv.org/abs/2603.26660v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Partial Motion Imitation for Learning Cart Pushing with Legged Manipulators|[[pdf]](http://arxiv.org/abs/2603.26659v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Meta-Adaptive Beam Search Planning for Transformer-Based Reinforcement Learning Control of UAVs with Overhead Manipulators under Flight Disturbances|[[pdf]](http://arxiv.org/abs/2603.26612v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|[VLA-OPD] VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation|[[pdf]](http://arxiv.org/abs/2603.26666v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation|[[pdf]](http://arxiv.org/abs/2603.26592v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling|[[pdf]](http://arxiv.org/abs/2603.26610v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|The Multi-AMR Buffer Storage, Retrieval, and Reshuffling Problem: Exact and Heuristic Approaches|[[pdf]](http://arxiv.org/abs/2603.26542v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Addressing Ambiguity in Imitation Learning through Product of Experts based Negative Feedback|[[pdf]](http://arxiv.org/abs/2603.26467v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Characterization and forecasting of national-scale solar power ramp events|[[pdf]](http://arxiv.org/abs/2603.26596v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|From Synthetic Data to Real Restorations: Diffusion Model for Patient-specific Dental Crown Completion|[[pdf]](http://arxiv.org/abs/2603.26588v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory|[[pdf]](http://arxiv.org/abs/2603.26554v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|[SPECTRA] SPECTRA: An Efficient Spectral-Informed Neural Network for Sensor-Based Activity Recognition|[[pdf]](http://arxiv.org/abs/2603.26482v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|The internal law of a material can be discovered from its boundary|[[pdf]](http://arxiv.org/abs/2603.26517v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|[JAL-Turn] JAL-Turn: Joint Acoustic-Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems|[[pdf]](http://arxiv.org/abs/2603.26515v1)|⚠️|⭐️⭐️⭐️|
+|2026-03-27|An LP-based Sampling Policy for Multi-Armed Bandits with Side-Observations and Stochastic Availability|[[pdf]](http://arxiv.org/abs/2603.26647v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[ContractionPPO] ContractionPPO: Certified Reinforcement Learning via Differentiable Contraction Layers|[[pdf]](http://arxiv.org/abs/2603.19632v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[CeRLP] CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation|[[pdf]](http://arxiv.org/abs/2603.19602v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling|[[pdf]](http://arxiv.org/abs/2603.19794v1)|⚠️|⭐️⭐️⭐️|
@@ -2750,6 +2765,6 @@
 
 ## 📊 统计
 
-- 论文总数：2724篇
+- 论文总数：2739篇
 - 代码实现：20个
 - 最后更新：2026年03月

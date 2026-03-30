@@ -39,6 +39,7 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-03-27|Conditional Neural Bayes Ratio Estimation for Experimental Design Optimisation|[[pdf]](http://arxiv.org/abs/2603.26489v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Accurate Open-Loop Control of a Soft Continuum Robot Through Visually Learned Latent Representations|[[pdf]](http://arxiv.org/abs/2603.19655v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[X-World] X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving|[[pdf]](http://arxiv.org/abs/2603.19979v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs|[[pdf]](http://arxiv.org/abs/2603.20028v1)|⚠️|⭐️⭐️⭐️|
@@ -500,6 +501,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 475
+- Total Papers: 476
 - Code Implementations: 21
 - Last Updated: March 2026
