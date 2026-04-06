@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA|[[pdf]](http://arxiv.org/abs/2604.02965v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|A Data-Centric Vision Transformer Baseline for SAR Sea Ice Classification|[[pdf]](http://arxiv.org/abs/2604.03094v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Hierarchical Planning with Latent World Models|[[pdf]](http://arxiv.org/abs/2604.03208v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Multi-robot] IndoorR2X: Indoor Robot-to-Everything Coordination with LLM-Driven Planning|[[pdf]](http://arxiv.org/abs/2603.20182v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Sense4HRI] Sense4HRI: A ROS 2 HRI Framework for Physiological Sensor Integration and Synchronized Logging|[[pdf]](http://arxiv.org/abs/2603.19914v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Uncertainty Matters] Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2603.20076v1)|⚠️|⭐️⭐️⭐️|
@@ -294,6 +297,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 270
+- Total Papers: 273
 - Code Implementations: 6
-- Last Updated: March 2026
+- Last Updated: April 2026

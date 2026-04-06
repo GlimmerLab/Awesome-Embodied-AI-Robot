@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles|[[pdf]](http://arxiv.org/abs/2604.02639v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[AlertStar] AlertStar: Path-Aware Alert Prediction on Hyper-Relational Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2604.03104v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|InCoder-32B-Thinking: Industrial Code World Model for Thinking|[[pdf]](http://arxiv.org/abs/2604.03144v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[R2-Write] R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning|[[pdf]](http://arxiv.org/abs/2604.03004v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[en] V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views|[[pdf]](http://arxiv.org/abs/2604.02710v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[CrossWeaver] CrossWeaver: Cross-modal Weaving for Arbitrary-Modality Semantic Segmentation|[[pdf]](http://arxiv.org/abs/2604.02948v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks|[[pdf]](http://arxiv.org/abs/2604.03061v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|Foundation Model for Cardiac Time Series via Masked Latent Attention|[[pdf]](http://arxiv.org/abs/2603.26475v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|Stabilizing Rubric Integration Training via Decoupled Advantage Normalization|[[pdf]](http://arxiv.org/abs/2603.26535v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow|[[pdf]](http://arxiv.org/abs/2603.26571v1)|⚠️|⭐️⭐️⭐️|
@@ -573,6 +580,6 @@
 
 ## 📊 统计
 
-- 论文总数：552篇
+- 论文总数：559篇
 - 代码实现：5个
-- 最后更新：2026年03月
+- 最后更新：2026年04月

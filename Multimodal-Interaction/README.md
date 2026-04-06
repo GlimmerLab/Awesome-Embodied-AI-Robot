@@ -25,6 +25,12 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|[MFE] MFE: A Multimodal Hand Exoskeleton with Interactive Force, Pressure and Thermo-haptic Feedback|[[pdf]](http://arxiv.org/abs/2604.02820v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Querying Structured Data Through Natural Language Using Language Models|[[pdf]](http://arxiv.org/abs/2604.03057v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Analyzing Healthcare Interoperability Vulnerabilities: Formal Modeling and Graph-Theoretic Approach|[[pdf]](http://arxiv.org/abs/2604.03043v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[en] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2604.02996v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models|[[pdf]](http://arxiv.org/abs/2604.02893v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[CoME-VL] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning|[[pdf]](http://arxiv.org/abs/2604.03231v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|[Adapt as You Say] Adapt as You Say: Online Interactive Bimanual Skill Adaptation via Human Language Feedback|[[pdf]](http://arxiv.org/abs/2603.26466v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning|[[pdf]](http://arxiv.org/abs/2603.20164v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Legged Autonomous Surface Science In Analogue Environments (LASSIE): Making Every Robotic Step Count in Planetary Exploration|[[pdf]](http://arxiv.org/abs/2603.19661v1)|⚠️|⭐️⭐️⭐️|
@@ -359,6 +365,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 334
+- Total Papers: 340
 - Code Implementations: 6
-- Last Updated: March 2026
+- Last Updated: April 2026

@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|[FSUNav] FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation|[[pdf]](http://arxiv.org/abs/2604.03139v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack|[[pdf]](http://arxiv.org/abs/2604.03096v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Learning Task-Invariant Properties via Dreamer: Enabling Efficient Policy Transfer for Quadruped Robots|[[pdf]](http://arxiv.org/abs/2604.02911v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision|[[pdf]](http://arxiv.org/abs/2604.02812v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[OMNI-PoseX] OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks|[[pdf]](http://arxiv.org/abs/2604.02759v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Learning Locomotion on Complex Terrain for Quadrupedal Robots with Foot Position Maps and Stability Rewards|[[pdf]](http://arxiv.org/abs/2604.02744v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control|[[pdf]](http://arxiv.org/abs/2604.03023v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[ARM] ARM: Advantage Reward Modeling for Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2604.03037v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model|[[pdf]](http://arxiv.org/abs/2604.03181v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[STRNet] STRNet: Visual Navigation with Spatio-Temporal Representation through Dynamic Graph Aggregation|[[pdf]](http://arxiv.org/abs/2604.02829v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|A Systematic Security Evaluation of OpenClaw and Its Variants|[[pdf]](http://arxiv.org/abs/2604.03131v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[JoyAI-LLM Flash] JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency|[[pdf]](http://arxiv.org/abs/2604.03044v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[Agentic-MME] Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?|[[pdf]](http://arxiv.org/abs/2604.03016v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Asymptotically-Bounded 3D Frontier Exploration enhanced with Bayesian Information Gain|[[pdf]](http://arxiv.org/abs/2604.03008v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|An Independent Safety Evaluation of Kimi K2.5|[[pdf]](http://arxiv.org/abs/2604.03121v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[Chart-RL] Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models|[[pdf]](http://arxiv.org/abs/2604.03157v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models|[[pdf]](http://arxiv.org/abs/2604.03179v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[en] Enhancing Multi-Robot Exploration Using Probabilistic Frontier Prioritization with Dirichlet Process Gaussian Mixtures|[[pdf]](http://arxiv.org/abs/2604.03042v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Reflective Context Learning: Studying the Optimization Primitives of Context Space|[[pdf]](http://arxiv.org/abs/2604.03189v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study|[[pdf]](http://arxiv.org/abs/2604.03070v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Co-Evolution of Policy and Internal Reward for Language Agents|[[pdf]](http://arxiv.org/abs/2604.03098v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Self-Distilled RLVR|[[pdf]](http://arxiv.org/abs/2604.03128v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[SkillRT] SkillRT: Compiling Skills for Efficient Execution Everywhere|[[pdf]](http://arxiv.org/abs/2604.03088v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|On Data-Driven Koopman Representations of Nonlinear Delay Differential Equations|[[pdf]](http://arxiv.org/abs/2604.03086v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Help Converts Newcomers, Not Veterans: Generalized Reciprocity and Platform Engagement on Stack Overflow|[[pdf]](http://arxiv.org/abs/2604.03209v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models|[[pdf]](http://arxiv.org/abs/2604.03117v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[Gram-MMD] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment|[[pdf]](http://arxiv.org/abs/2604.03064v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[SentiAvatar] SentiAvatar: Towards Expressive and Interactive Digital Humans|[[pdf]](http://arxiv.org/abs/2604.02908v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[SD-FSMIS] SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation|[[pdf]](http://arxiv.org/abs/2604.03134v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|[Ruka-v2] Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning|[[pdf]](http://arxiv.org/abs/2603.26660v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|Partial Motion Imitation for Learning Cart Pushing with Legged Manipulators|[[pdf]](http://arxiv.org/abs/2603.26659v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|Meta-Adaptive Beam Search Planning for Transformer-Based Reinforcement Learning Control of UAVs with Overhead Manipulators under Flight Disturbances|[[pdf]](http://arxiv.org/abs/2603.26612v1)|⚠️|⭐️⭐️⭐️|
@@ -2765,6 +2794,6 @@
 
 ## 📊 统计
 
-- 论文总数：2739篇
+- 论文总数：2768篇
 - 代码实现：20个
-- 最后更新：2026年03月
+- 最后更新：2026年04月

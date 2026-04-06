@@ -26,6 +26,13 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|[Hyper-Dexterous] Differentiable SpaTiaL: Symbolic Learning and Reasoning with Geometric Temporal Logic for Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2604.02643v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[Humanoid] A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery|[[pdf]](http://arxiv.org/abs/2604.02707v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|A Flow Matching Framework for Soft-Robot Inverse Dynamics|[[pdf]](http://arxiv.org/abs/2604.03006v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control|[[pdf]](http://arxiv.org/abs/2604.03147v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[en] Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM|[[pdf]](http://arxiv.org/abs/2604.03092v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[en] BEVPredFormer: Spatio-temporal Attention for BEV Instance Prediction in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2604.02930v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection|[[pdf]](http://arxiv.org/abs/2604.02935v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Trajectory] KUKAloha: A General, Low-Cost, and Shared-Control based Teleoperation Framework for Construction Robot Arm|[[pdf]](http://arxiv.org/abs/2603.20129v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Real-Time Structural Detection for Indoor Navigation from 3D LiDAR Using Bird's-Eye-View Images|[[pdf]](http://arxiv.org/abs/2603.19830v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[LIORNet] LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions|[[pdf]](http://arxiv.org/abs/2603.19936v1)|⚠️|⭐️⭐️⭐️|
@@ -406,6 +413,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 382
+- Total Papers: 389
 - Code Implementations: 8
-- Last Updated: March 2026
+- Last Updated: April 2026

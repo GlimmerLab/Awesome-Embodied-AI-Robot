@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|Joint Prediction of Human Motions and Actions in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2604.03065v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding|[[pdf]](http://arxiv.org/abs/2604.03201v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|Vision-Based End-to-End Learning for UAV Traversal of Irregular Gaps via Differentiable Simulation|[[pdf]](http://arxiv.org/abs/2604.02779v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[CASCADE] CASCADE: A Cascading Architecture for Social Coordination with Controllable Emergence at Low Cost|[[pdf]](http://arxiv.org/abs/2604.03091v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[ProtoFlow] ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow|[[pdf]](http://arxiv.org/abs/2604.03212v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-27|Conditional Neural Bayes Ratio Estimation for Experimental Design Optimisation|[[pdf]](http://arxiv.org/abs/2603.26489v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Accurate Open-Loop Control of a Soft Continuum Robot Through Visually Learned Latent Representations|[[pdf]](http://arxiv.org/abs/2603.19655v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[X-World] X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving|[[pdf]](http://arxiv.org/abs/2603.19979v1)|⚠️|⭐️⭐️⭐️|
@@ -501,6 +506,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 476
+- Total Papers: 481
 - Code Implementations: 21
-- Last Updated: March 2026
+- Last Updated: April 2026

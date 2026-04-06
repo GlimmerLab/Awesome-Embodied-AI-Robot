@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|Safety-Critical Centralized Nonlinear MPC for Cooperative Payload Transportation by Two Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2604.03200v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[SCC-Loc] SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization|[[pdf]](http://arxiv.org/abs/2604.03120v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Trajectory] Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis|[[pdf]](http://arxiv.org/abs/2603.19709v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[AGILE] AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning|[[pdf]](http://arxiv.org/abs/2603.20147v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach|[[pdf]](http://arxiv.org/abs/2603.19838v1)|⚠️|⭐️⭐️⭐️|
@@ -537,6 +539,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 512
+- Total Papers: 514
 - Code Implementations: 8
-- Last Updated: March 2026
+- Last Updated: April 2026

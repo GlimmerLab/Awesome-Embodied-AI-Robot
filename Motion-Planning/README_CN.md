@@ -32,6 +32,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-03|Safety-Critical Centralized Nonlinear MPC for Cooperative Payload Transportation by Two Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2604.03200v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-03|[SCC-Loc] SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization|[[pdf]](http://arxiv.org/abs/2604.03120v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Trajectory] Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis|[[pdf]](http://arxiv.org/abs/2603.19709v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[AGILE] AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning|[[pdf]](http://arxiv.org/abs/2603.20147v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|Multi-Agent Motion Planning on Industrial Magnetic Levitation Platforms: A Hybrid ADMM-HOCBF approach|[[pdf]](http://arxiv.org/abs/2603.19838v1)|⚠️|⭐️⭐️⭐️|
@@ -537,6 +539,6 @@
 
 ## 📊 统计
 
-- 论文总数：512篇
+- 论文总数：514篇
 - 代码实现：8个
-- 最后更新：2026年03月
+- 最后更新：2026年04月
