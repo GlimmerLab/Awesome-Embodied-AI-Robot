@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|Frequency-Enhanced Diffusion Models: Curriculum-Guided Semantic Alignment for Zero-Shot Skeleton Action Recognition|[[pdf]](http://arxiv.org/abs/2604.09063v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Multimodal Anomaly Detection for Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2604.09326v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Three Modalities, Two Design Probes, One Prototype, and No Vision: Experience-Based Co-Design of a Multi-modal 3D Data Visualization Tool|[[pdf]](http://arxiv.org/abs/2604.09426v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment|[[pdf]](http://arxiv.org/abs/2604.09521v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Insights from Farmer-Managed Decentralized Solar Irrigation Systems|[[pdf]](http://arxiv.org/abs/2604.09395v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-09|[en] One Interface, Many Robots: Unified Real-Time Low-Level Motion Planning for Collaborative Arms|[[pdf]](http://arxiv.org/abs/2604.08787v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|[MFE] MFE: A Multimodal Hand Exoskeleton with Interactive Force, Pressure and Thermo-haptic Feedback|[[pdf]](http://arxiv.org/abs/2604.02820v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Querying Structured Data Through Natural Language Using Language Models|[[pdf]](http://arxiv.org/abs/2604.03057v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Analyzing Healthcare Interoperability Vulnerabilities: Formal Modeling and Graph-Theoretic Approach|[[pdf]](http://arxiv.org/abs/2604.03043v1)|⚠️|⭐️⭐️⭐️|
@@ -365,6 +371,6 @@
 
 ## 📊 统计
 
-- 论文总数：340篇
+- 论文总数：346篇
 - 代码实现：6个
 - 最后更新：2026年04月

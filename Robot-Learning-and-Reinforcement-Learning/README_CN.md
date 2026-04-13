@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|[Hyper-Dexterous] A Benchmark of Dexterity for Anthropomorphic Robotic Hands|[[pdf]](http://arxiv.org/abs/2604.09294v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[AssemLM] AssemLM: Spatial Reasoning Multimodal Large Language Models for Robotic Assembly|[[pdf]](http://arxiv.org/abs/2604.08983v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing|[[pdf]](http://arxiv.org/abs/2604.09499v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[SafeMind] SafeMind: A Risk-Aware Differentiable Control Framework for Adaptive and Safe Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2604.09474v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym|[[pdf]](http://arxiv.org/abs/2604.09338v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[VAG] VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis|[[pdf]](http://arxiv.org/abs/2604.09330v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks|[[pdf]](http://arxiv.org/abs/2604.09487v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[Adaptor] Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization|[[pdf]](http://arxiv.org/abs/2604.09462v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Musculoskeletal Motion Imitation for Learning Personalized Exoskeleton Control Policy in Impaired Gait|[[pdf]](http://arxiv.org/abs/2604.09431v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[TouchAnything] TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches|[[pdf]](http://arxiv.org/abs/2604.08945v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[SatQNet] SatQNet: Satellite-assisted Quantum Network Entanglement Routing Using Directed Line Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2604.09306v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Advantage-Guided Diffusion for Model-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2604.09035v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[Seeing is Believing] Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise|[[pdf]](http://arxiv.org/abs/2604.09532v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Physics-guided surrogate learning enables zero-shot control of turbulent wings|[[pdf]](http://arxiv.org/abs/2604.09434v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Visually-Guided Policy Optimization for Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2604.09349v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[SafeAdapt] SafeAdapt: Provably Safe Policy Updates in Deep Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2604.09452v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Online Intention Prediction via Control-Informed Learning|[[pdf]](http://arxiv.org/abs/2604.09303v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[VISOR] VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning|[[pdf]](http://arxiv.org/abs/2604.09508v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[BERT-as-a-Judge] BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation|[[pdf]](http://arxiv.org/abs/2604.09497v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[HTNav] HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2604.08883v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL|[[pdf]](http://arxiv.org/abs/2604.09523v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Continuous Orthogonal Mode Decomposition: Haptic Signal Prediction in Tactile Internet|[[pdf]](http://arxiv.org/abs/2604.09446v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[RecaLLM] RecaLLM: Addressing the Lost-in-Thought Phenomenon with Explicit In-Context Retrieval|[[pdf]](http://arxiv.org/abs/2604.09494v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Yes, But Not Always. Generative AI Needs Nuanced Opt-in|[[pdf]](http://arxiv.org/abs/2604.09413v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Many-Tier Instruction Hierarchy in LLM Agents|[[pdf]](http://arxiv.org/abs/2604.09443v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[EpiAgent] EpiAgent: An Agent-Centric System for Ancient Inscription Restoration|[[pdf]](http://arxiv.org/abs/2604.09367v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts|[[pdf]](http://arxiv.org/abs/2604.09364v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement|[[pdf]](http://arxiv.org/abs/2604.09473v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[DDSP-QbE++] DDSP-QbE++: Improving Speech Quality for Speech Anonymisation for Atypical Speech|[[pdf]](http://arxiv.org/abs/2604.09246v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|[FSUNav] FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation|[[pdf]](http://arxiv.org/abs/2604.03139v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack|[[pdf]](http://arxiv.org/abs/2604.03096v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Learning Task-Invariant Properties via Dreamer: Enabling Efficient Policy Transfer for Quadruped Robots|[[pdf]](http://arxiv.org/abs/2604.02911v1)|⚠️|⭐️⭐️⭐️|
@@ -2794,6 +2823,6 @@
 
 ## 📊 统计
 
-- 论文总数：2768篇
+- 论文总数：2797篇
 - 代码实现：20个
 - 最后更新：2026年04月

@@ -18,6 +18,16 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|Learning Vision-Language-Action World Models for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2604.09059v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision|[[pdf]](http://arxiv.org/abs/2604.09537v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[VL-Calibration] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning|[[pdf]](http://arxiv.org/abs/2604.09529v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Toward World Models for Epidemiology|[[pdf]](http://arxiv.org/abs/2604.09519v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[PhysInOne] PhysInOne: Visual Physics Learning and Reasoning in One Suite|[[pdf]](http://arxiv.org/abs/2604.09415v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[LLM-Rosetta] LLM-Rosetta: A Hub-and-Spoke Intermediate Representation for Cross-Provider LLM API Translation|[[pdf]](http://arxiv.org/abs/2604.09360v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors|[[pdf]](http://arxiv.org/abs/2604.09366v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[en] 2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness|[[pdf]](http://arxiv.org/abs/2604.09244v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer|[[pdf]](http://arxiv.org/abs/2604.09478v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[en] Decentralized Opinion-Integrated Decision making at Unsignalized Intersections via Signed Networks|[[pdf]](http://arxiv.org/abs/2604.09351v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles|[[pdf]](http://arxiv.org/abs/2604.02639v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|[AlertStar] AlertStar: Path-Aware Alert Prediction on Hyper-Relational Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2604.03104v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|InCoder-32B-Thinking: Industrial Code World Model for Thinking|[[pdf]](http://arxiv.org/abs/2604.03144v1)|⚠️|⭐️⭐️⭐️|
@@ -580,6 +590,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 559
+- Total Papers: 569
 - Code Implementations: 5
 - Last Updated: April 2026

@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|[BadSkill] BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning|[[pdf]](http://arxiv.org/abs/2604.09378v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[en] Soft Electroadhesive Feet for Micro Aerial Robots Perching on Smooth and Curved Surfaces|[[pdf]](http://arxiv.org/abs/2604.09270v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?|[[pdf]](http://arxiv.org/abs/2604.09408v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[SynFlow] SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data|[[pdf]](http://arxiv.org/abs/2604.09411v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[en] LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation|[[pdf]](http://arxiv.org/abs/2604.09352v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Joint Prediction of Human Motions and Actions in Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2604.03065v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding|[[pdf]](http://arxiv.org/abs/2604.03201v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Vision-Based End-to-End Learning for UAV Traversal of Irregular Gaps via Differentiable Simulation|[[pdf]](http://arxiv.org/abs/2604.02779v1)|⚠️|⭐️⭐️⭐️|
@@ -506,6 +511,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 481
+- Total Papers: 486
 - Code Implementations: 21
 - Last Updated: April 2026

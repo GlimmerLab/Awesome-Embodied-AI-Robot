@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application|[[pdf]](http://arxiv.org/abs/2604.09421v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark|[[pdf]](http://arxiv.org/abs/2604.09313v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[VisionFoundry] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images|[[pdf]](http://arxiv.org/abs/2604.09531v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[FashionStylist] FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding|[[pdf]](http://arxiv.org/abs/2604.09249v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[AMO-ENE] AMO-ENE: Attention-based Multi-Omics Fusion Model for Outcome Prediction in Extra Nodal Extension and HPV-associated Oropharyngeal Cancer|[[pdf]](http://arxiv.org/abs/2604.09280v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|[Hyper-Dexterous] Differentiable SpaTiaL: Symbolic Learning and Reasoning with Geometric Temporal Logic for Manipulation Tasks|[[pdf]](http://arxiv.org/abs/2604.02643v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|[Humanoid] A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery|[[pdf]](http://arxiv.org/abs/2604.02707v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|A Flow Matching Framework for Soft-Robot Inverse Dynamics|[[pdf]](http://arxiv.org/abs/2604.03006v1)|⚠️|⭐️⭐️⭐️|
@@ -413,6 +418,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 389
+- Total Papers: 394
 - Code Implementations: 8
 - Last Updated: April 2026

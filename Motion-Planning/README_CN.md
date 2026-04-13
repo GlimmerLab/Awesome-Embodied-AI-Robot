@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|[Humanoid] Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch|[[pdf]](http://arxiv.org/abs/2604.09100v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|Robust Adaptive Backstepping Impedance Control of Robots in Unknown Environments|[[pdf]](http://arxiv.org/abs/2604.09323v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|On the Terminology and Geometric Aspects of Redundant Parallel Manipulators|[[pdf]](http://arxiv.org/abs/2604.09156v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Safety-Critical Centralized Nonlinear MPC for Cooperative Payload Transportation by Two Quadrupedal Robots|[[pdf]](http://arxiv.org/abs/2604.03200v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|[SCC-Loc] SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization|[[pdf]](http://arxiv.org/abs/2604.03120v1)|⚠️|⭐️⭐️⭐️|
 |2026-03-20|[Trajectory] Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis|[[pdf]](http://arxiv.org/abs/2603.19709v1)|⚠️|⭐️⭐️⭐️|
@@ -539,6 +542,6 @@
 
 ## 📊 统计
 
-- 论文总数：514篇
+- 论文总数：517篇
 - 代码实现：8个
 - 最后更新：2026年04月

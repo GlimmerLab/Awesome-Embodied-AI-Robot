@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-10|[V-CAGE] V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.09036v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[WOMBET] WOMBET: World Model-based Experience Transfer for Robust and Sample-efficient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2604.08958v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-10|[en] EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2604.09535v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA|[[pdf]](http://arxiv.org/abs/2604.02965v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|A Data-Centric Vision Transformer Baseline for SAR Sea Ice Classification|[[pdf]](http://arxiv.org/abs/2604.03094v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-03|Hierarchical Planning with Latent World Models|[[pdf]](http://arxiv.org/abs/2604.03208v1)|⚠️|⭐️⭐️⭐️|
@@ -297,6 +300,6 @@
 
 ## 📊 统计
 
-- 论文总数：273篇
+- 论文总数：276篇
 - 代码实现：6个
 - 最后更新：2026年04月
