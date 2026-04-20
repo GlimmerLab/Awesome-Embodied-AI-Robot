@@ -47,6 +47,35 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|[Learning] From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation|[[pdf]](http://arxiv.org/abs/2604.15805v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Continual Hand-Eye Calibration for Open-world Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.15814v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Fuzzy Logic Theory-based Adaptive Reward Shaping for Robust Reinforcement Learning (FARS)|[[pdf]](http://arxiv.org/abs/2604.15772v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[VADF] VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.15938v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration|[[pdf]](http://arxiv.org/abs/2604.16104v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Where does output diversity collapse in post-training?|[[pdf]](http://arxiv.org/abs/2604.16027v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[DENALI] DENALI: A Dataset Enabling Non-Line-of-Sight Spatial Reasoning with Low-Cost LiDARs|[[pdf]](http://arxiv.org/abs/2604.16201v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval|[[pdf]](http://arxiv.org/abs/2604.15951v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[AtManRL] AtManRL: Towards Faithful Reasoning via Differentiable Attention Saliency|[[pdf]](http://arxiv.org/abs/2604.16158v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[AST] AST: Adaptive, Seamless, and Training-Free Precise Speech Editing|[[pdf]](http://arxiv.org/abs/2604.16056v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[AgentV-RL] AgentV-RL: Scaling Reward Modeling with Agentic Verifier|[[pdf]](http://arxiv.org/abs/2604.16004v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Beyond Distribution Sharpening: The Importance of Task Rewards|[[pdf]](http://arxiv.org/abs/2604.16259v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation|[[pdf]](http://arxiv.org/abs/2604.16197v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Geometric regularization of autoencoders via observed stochastic dynamics|[[pdf]](http://arxiv.org/abs/2604.16282v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Detecting and Suppressing Reward Hacking with Gradient Fingerprints|[[pdf]](http://arxiv.org/abs/2604.16242v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design|[[pdf]](http://arxiv.org/abs/2604.16279v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance|[[pdf]](http://arxiv.org/abs/2604.16086v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Robust Synchronisation for Federated Learning in The Face of Correlated Device Failure|[[pdf]](http://arxiv.org/abs/2604.16090v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction|[[pdf]](http://arxiv.org/abs/2604.16238v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Investigating Conversational Agents to Support Secondary School Students Learning CSP|[[pdf]](http://arxiv.org/abs/2604.16213v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Winner of CVPR2026 NTIRE Challenge on Image Shadow Removal: Semantic and Geometric Guidance for Shadow Removal via Cascaded Refinement|[[pdf]](http://arxiv.org/abs/2604.16177v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[DenTab] DenTab: A Dataset for Table Recognition and Visual QA on Real-World Dental Estimates|[[pdf]](http://arxiv.org/abs/2604.16099v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[MMGait] MMGait: Towards Multi-Modal Gait Recognition|[[pdf]](http://arxiv.org/abs/2604.15979v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|From Articles to Canopies: Knowledge-Driven Pseudo-Labelling for Tree Species Classification using LLM Experts|[[pdf]](http://arxiv.org/abs/2604.16115v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation|[[pdf]](http://arxiv.org/abs/2604.15937v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|Iterated Invariant EKF for Quadruped Robot Odometry|[[pdf]](http://arxiv.org/abs/2604.15449v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|[$π_{0.7}$] $π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities|[[pdf]](http://arxiv.org/abs/2604.15483v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|Generalization in LLM Problem Solving: The Case of the Shortest Path|[[pdf]](http://arxiv.org/abs/2604.15306v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|[ShapeGen] ShapeGen: Robotic Data Generation for Category-Level Manipulation|[[pdf]](http://arxiv.org/abs/2604.15569v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[Hyper-Dexterous] A Benchmark of Dexterity for Anthropomorphic Robotic Hands|[[pdf]](http://arxiv.org/abs/2604.09294v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[AssemLM] AssemLM: Spatial Reasoning Multimodal Large Language Models for Robotic Assembly|[[pdf]](http://arxiv.org/abs/2604.08983v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing|[[pdf]](http://arxiv.org/abs/2604.09499v1)|⚠️|⭐️⭐️⭐️|
@@ -2823,6 +2852,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 2797
+- Total Papers: 2826
 - Code Implementations: 20
 - Last Updated: April 2026

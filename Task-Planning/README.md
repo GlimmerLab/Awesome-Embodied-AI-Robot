@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|Long-Term Memory for VLA-based Agents in Open-World Task Execution|[[pdf]](http://arxiv.org/abs/2604.15671v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[Multi-robot] Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search|[[pdf]](http://arxiv.org/abs/2604.16263v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization|[[pdf]](http://arxiv.org/abs/2604.16247v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[V-CAGE] V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.09036v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[WOMBET] WOMBET: World Model-based Experience Transfer for Robust and Sample-efficient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2604.08958v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[en] EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2604.09535v1)|⚠️|⭐️⭐️⭐️|
@@ -300,6 +303,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 276
+- Total Papers: 279
 - Code Implementations: 6
 - Last Updated: April 2026

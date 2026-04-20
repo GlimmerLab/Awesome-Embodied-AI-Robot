@@ -25,6 +25,9 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|[AEGIS] AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning|[[pdf]](http://arxiv.org/abs/2604.16067v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models|[[pdf]](http://arxiv.org/abs/2604.16258v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|[GIST] GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology|[[pdf]](http://arxiv.org/abs/2604.15495v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Frequency-Enhanced Diffusion Models: Curriculum-Guided Semantic Alignment for Zero-Shot Skeleton Action Recognition|[[pdf]](http://arxiv.org/abs/2604.09063v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Multimodal Anomaly Detection for Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2604.09326v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Three Modalities, Two Design Probes, One Prototype, and No Vision: Experience-Based Co-Design of a Multi-modal 3D Data Visualization Tool|[[pdf]](http://arxiv.org/abs/2604.09426v1)|⚠️|⭐️⭐️⭐️|
@@ -371,6 +374,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 346
+- Total Papers: 349
 - Code Implementations: 6
 - Last Updated: April 2026

@@ -32,6 +32,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments|[[pdf]](http://arxiv.org/abs/2604.15638v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|A Reconfigurable Pneumatic Joint Enabling Localized Selective Stiffening and Shape Locking in Vine-Inspired Robots|[[pdf]](http://arxiv.org/abs/2604.15907v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Limits of Lamarckian Evolution Under Pressure of Morphological Novelty|[[pdf]](http://arxiv.org/abs/2604.15854v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|Trajectory Planning for Safe Dual Control with Active Exploration|[[pdf]](http://arxiv.org/abs/2604.15507v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[Humanoid] Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch|[[pdf]](http://arxiv.org/abs/2604.09100v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Robust Adaptive Backstepping Impedance Control of Robots in Unknown Environments|[[pdf]](http://arxiv.org/abs/2604.09323v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|On the Terminology and Geometric Aspects of Redundant Parallel Manipulators|[[pdf]](http://arxiv.org/abs/2604.09156v1)|⚠️|⭐️⭐️⭐️|
@@ -542,6 +546,6 @@
 
 ## 📊 统计
 
-- 论文总数：517篇
+- 论文总数：521篇
 - 代码实现：8个
 - 最后更新：2026年04月

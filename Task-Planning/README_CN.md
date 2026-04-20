@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|Long-Term Memory for VLA-based Agents in Open-World Task Execution|[[pdf]](http://arxiv.org/abs/2604.15671v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[Multi-robot] Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search|[[pdf]](http://arxiv.org/abs/2604.16263v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization|[[pdf]](http://arxiv.org/abs/2604.16247v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[V-CAGE] V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.09036v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[WOMBET] WOMBET: World Model-based Experience Transfer for Robust and Sample-efficient Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2604.08958v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[en] EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks|[[pdf]](http://arxiv.org/abs/2604.09535v1)|⚠️|⭐️⭐️⭐️|
@@ -300,6 +303,6 @@
 
 ## 📊 统计
 
-- 论文总数：276篇
+- 论文总数：279篇
 - 代码实现：6个
 - 最后更新：2026年04月

@@ -26,6 +26,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|[SENSE] SENSE: Stereo OpEN Vocabulary SEmantic Segmentation|[[pdf]](http://arxiv.org/abs/2604.15946v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[SWNet] SWNet: A Cross-Spectral Network for Camouflaged Weed Detection|[[pdf]](http://arxiv.org/abs/2604.16147v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[FL-MHSM] FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale|[[pdf]](http://arxiv.org/abs/2604.16265v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[IA-CLAHE] IA-CLAHE: Image-Adaptive Clip Limit Estimation for CLAHE|[[pdf]](http://arxiv.org/abs/2604.16010v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction|[[pdf]](http://arxiv.org/abs/2604.15941v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Hierarchical Codec Diffusion for Video-to-Speech Generation|[[pdf]](http://arxiv.org/abs/2604.15923v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|[Multi-robot] NeuroMesh: A Unified Neural Inference Framework for Decentralized Multi-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2604.15475v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application|[[pdf]](http://arxiv.org/abs/2604.09421v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark|[[pdf]](http://arxiv.org/abs/2604.09313v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[VisionFoundry] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images|[[pdf]](http://arxiv.org/abs/2604.09531v1)|⚠️|⭐️⭐️⭐️|
@@ -418,6 +425,6 @@
 
 ## 📊 统计
 
-- 论文总数：394篇
+- 论文总数：401篇
 - 代码实现：8个
 - 最后更新：2026年04月

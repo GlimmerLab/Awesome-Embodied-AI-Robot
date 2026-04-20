@@ -39,6 +39,15 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|Factor Graph-Based Shape Estimation for Continuum Robots via Magnus Expansion|[[pdf]](http://arxiv.org/abs/2604.15619v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[ChemGraph-XANES] ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis|[[pdf]](http://arxiv.org/abs/2604.16205v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Synthetic data in cryptocurrencies using generative models|[[pdf]](http://arxiv.org/abs/2604.16182v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[DataCenterGym] DataCenterGym: A Physics-Grounded Simulator for Multi-Objective Data Center Scheduling|[[pdf]](http://arxiv.org/abs/2604.15594v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[VEFX-Bench] VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects|[[pdf]](http://arxiv.org/abs/2604.16272v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[en] From Competition to Coopetition: Coopetitive Training-Free Image Editing Based on Text Guidance|[[pdf]](http://arxiv.org/abs/2604.15948v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Repurposing 3D Generative Model for Autoregressive Layout Generation|[[pdf]](http://arxiv.org/abs/2604.16299v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|[Multi-robot] Safe and Energy-Aware Multi-Robot Density Control via PDE-Constrained Optimization for Long-Duration Autonomy|[[pdf]](http://arxiv.org/abs/2604.15524v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility|[[pdf]](http://arxiv.org/abs/2604.15579v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[BadSkill] BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning|[[pdf]](http://arxiv.org/abs/2604.09378v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[en] Soft Electroadhesive Feet for Micro Aerial Robots Perching on Smooth and Curved Surfaces|[[pdf]](http://arxiv.org/abs/2604.09270v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?|[[pdf]](http://arxiv.org/abs/2604.09408v1)|⚠️|⭐️⭐️⭐️|
@@ -511,6 +520,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 486
+- Total Papers: 495
 - Code Implementations: 21
 - Last Updated: April 2026

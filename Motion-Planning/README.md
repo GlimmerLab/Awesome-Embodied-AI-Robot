@@ -32,6 +32,10 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments|[[pdf]](http://arxiv.org/abs/2604.15638v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|A Reconfigurable Pneumatic Joint Enabling Localized Selective Stiffening and Shape Locking in Vine-Inspired Robots|[[pdf]](http://arxiv.org/abs/2604.15907v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Limits of Lamarckian Evolution Under Pressure of Morphological Novelty|[[pdf]](http://arxiv.org/abs/2604.15854v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-16|Trajectory Planning for Safe Dual Control with Active Exploration|[[pdf]](http://arxiv.org/abs/2604.15507v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[Humanoid] Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch|[[pdf]](http://arxiv.org/abs/2604.09100v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Robust Adaptive Backstepping Impedance Control of Robots in Unknown Environments|[[pdf]](http://arxiv.org/abs/2604.09323v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|On the Terminology and Geometric Aspects of Redundant Parallel Manipulators|[[pdf]](http://arxiv.org/abs/2604.09156v1)|⚠️|⭐️⭐️⭐️|
@@ -542,6 +546,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 517
+- Total Papers: 521
 - Code Implementations: 8
 - Last Updated: April 2026

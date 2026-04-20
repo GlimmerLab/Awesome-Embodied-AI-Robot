@@ -18,6 +18,20 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-17|[SocialGrid] SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2604.16022v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[FineCog-Nav] FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation|[[pdf]](http://arxiv.org/abs/2604.16298v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[ReactBench] ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams|[[pdf]](http://arxiv.org/abs/2604.15994v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[Mind's Eye] Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs|[[pdf]](http://arxiv.org/abs/2604.16054v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Neurosymbolic Repo-level Code Localization|[[pdf]](http://arxiv.org/abs/2604.16021v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs|[[pdf]](http://arxiv.org/abs/2604.16060v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[OT on the Map] OT on the Map: Quantifying Domain Shifts in Geographic Space|[[pdf]](http://arxiv.org/abs/2604.16220v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[BAGEL] BAGEL: Benchmarking Animal Knowledge Expertise in Language Models|[[pdf]](http://arxiv.org/abs/2604.16241v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[The Relic Condition] The Relic Condition: When Published Scholarship Becomes Material for Its Own Replacement|[[pdf]](http://arxiv.org/abs/2604.16116v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[MEDLEY-BENCH] MEDLEY-BENCH: Scale Buys Evaluation but Not Control in AI Metacognition|[[pdf]](http://arxiv.org/abs/2604.16009v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization|[[pdf]](http://arxiv.org/abs/2604.16248v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap|[[pdf]](http://arxiv.org/abs/2604.16256v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|[en] DINOv3 Beats Specialized Detectors: A Simple Foundation Model Baseline for Image Forensics|[[pdf]](http://arxiv.org/abs/2604.16083v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-17|Weak-Link Optimization for Multi-Agent Reasoning and Collaboration|[[pdf]](http://arxiv.org/abs/2604.15972v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Learning Vision-Language-Action World Models for Autonomous Driving|[[pdf]](http://arxiv.org/abs/2604.09059v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision|[[pdf]](http://arxiv.org/abs/2604.09537v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-10|[VL-Calibration] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning|[[pdf]](http://arxiv.org/abs/2604.09529v1)|⚠️|⭐️⭐️⭐️|
@@ -590,6 +604,6 @@
 
 ## 📊 统计
 
-- 论文总数：569篇
+- 论文总数：583篇
 - 代码实现：5个
 - 最后更新：2026年04月
