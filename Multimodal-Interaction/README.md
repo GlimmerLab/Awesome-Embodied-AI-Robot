@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners|[[pdf]](http://arxiv.org/abs/2604.22542v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[AEGIS] AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning|[[pdf]](http://arxiv.org/abs/2604.16067v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models|[[pdf]](http://arxiv.org/abs/2604.16258v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-16|[GIST] GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology|[[pdf]](http://arxiv.org/abs/2604.15495v1)|⚠️|⭐️⭐️⭐️|
@@ -374,6 +375,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 349
+- Total Papers: 350
 - Code Implementations: 6
 - Last Updated: April 2026

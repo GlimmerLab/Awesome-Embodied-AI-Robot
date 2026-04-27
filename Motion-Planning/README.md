@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|False Feasibility in Variable Impedance MPC for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2604.22251v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[CognitiveTwin] CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease|[[pdf]](http://arxiv.org/abs/2604.22428v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention|[[pdf]](http://arxiv.org/abs/2604.22273v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe|[[pdf]](http://arxiv.org/abs/2604.22676v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Iterative Model-Learning Scheme via Gaussian Processes for Nonlinear Model Predictive Control of (Semi-)Batch Processes|[[pdf]](http://arxiv.org/abs/2604.22672v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments|[[pdf]](http://arxiv.org/abs/2604.15638v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|A Reconfigurable Pneumatic Joint Enabling Localized Selective Stiffening and Shape Locking in Vine-Inspired Robots|[[pdf]](http://arxiv.org/abs/2604.15907v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Limits of Lamarckian Evolution Under Pressure of Morphological Novelty|[[pdf]](http://arxiv.org/abs/2604.15854v1)|⚠️|⭐️⭐️⭐️|
@@ -546,6 +551,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 521
+- Total Papers: 526
 - Code Implementations: 8
 - Last Updated: April 2026

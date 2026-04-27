@@ -47,6 +47,41 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|[GCImOpt] GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories|[[pdf]](http://arxiv.org/abs/2604.22724v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Decoding High-Dimensional Finger Motion from EMG Using Riemannian Features and RNNs|[[pdf]](http://arxiv.org/abs/2604.22499v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[GazeVLA] GazeVLA: Learning Human Intention for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.22615v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[ATRS] ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization|[[pdf]](http://arxiv.org/abs/2604.22715v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[LeHome] LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios|[[pdf]](http://arxiv.org/abs/2604.22363v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[QDTraj] QDTraj: Exploration of Diverse Trajectory Primitives for Articulated Objects Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.22551v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[Multi-robot] Energy-Efficient Multi-Robot Coverage Path Planning of Non-Convex Regions of Interests|[[pdf]](http://arxiv.org/abs/2604.22189v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Learning-augmented robotic automation for real-world manufacturing|[[pdf]](http://arxiv.org/abs/2604.22235v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond|[[pdf]](http://arxiv.org/abs/2604.22748v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[dWorldEval] dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model|[[pdf]](http://arxiv.org/abs/2604.22152v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|A Kinematic Analysis of Palm Degrees of Freedom for Enhancing Thumb Opposability in Robotic Hands|[[pdf]](http://arxiv.org/abs/2604.22283v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[SOLAR-RL] SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2604.22558v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company|[[pdf]](http://arxiv.org/abs/2604.22446v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Cross-Stage Coherence in Hierarchical Driving VQA: Explicit Baselines and Learned Gated Context Projectors|[[pdf]](http://arxiv.org/abs/2604.22560v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Learning Evidence Highlighting for Frozen LLMs|[[pdf]](http://arxiv.org/abs/2604.22565v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Distance-Misaligned Training in Graph Transformers and Adaptive Graph-Aware Control|[[pdf]](http://arxiv.org/abs/2604.22413v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[CLVAE] CLVAE: A Variational Autoencoder for Long-Term Customer Revenue Forecasting|[[pdf]](http://arxiv.org/abs/2604.22636v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering|[[pdf]](http://arxiv.org/abs/2604.22723v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[FeatEHR-LLM] FeatEHR-LLM: Leveraging Large Language Models for Feature Engineering in Electronic Health Records|[[pdf]](http://arxiv.org/abs/2604.22534v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[ArmSSL] ArmSSL: Adversarial Robust Black-Box Watermarking for Self-Supervised Learning Pre-trained Encoders|[[pdf]](http://arxiv.org/abs/2604.22550v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Useful nonrobust features are ubiquitous in biomedical images|[[pdf]](http://arxiv.org/abs/2604.22579v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Time-Localized Parametric Decomposition of Respiratory Airflow for Sub-Breath Analysis|[[pdf]](http://arxiv.org/abs/2604.22695v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs|[[pdf]](http://arxiv.org/abs/2604.22618v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Mixed Membership sub-Gaussian Models|[[pdf]](http://arxiv.org/abs/2604.22633v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|AI-based experts' knowledge visualization of cultural heritage: A case study of Terracotta Warriors|[[pdf]](http://arxiv.org/abs/2604.22480v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Vibe coding for clinicians: democratising bespoke software development for digital health innovation|[[pdf]](http://arxiv.org/abs/2604.22604v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[SSG] SSG: Logit-Balanced Vocabulary Partitioning for LLM Watermarking|[[pdf]](http://arxiv.org/abs/2604.22438v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[Point & Grasp] Point & Grasp: Flexible Selection of Out-of-Reach Objects Through Probabilistic Cue Integration|[[pdf]](http://arxiv.org/abs/2604.22491v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Distilling Vision Transformers for Distortion-Robust Representation Learning|[[pdf]](http://arxiv.org/abs/2604.22529v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|One Shot Learning for Edge Detection on Point Clouds|[[pdf]](http://arxiv.org/abs/2604.22354v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[SS3D] SS3D: End2End Self-Supervised 3D from Web Videos|[[pdf]](http://arxiv.org/abs/2604.22686v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[en] PoseFM: Relative Camera Pose Estimation Through Flow Matching|[[pdf]](http://arxiv.org/abs/2604.22350v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-23|Wiggle and Go! System Identification for Zero-Shot Dynamic Rope Manipulation|[[pdf]](http://arxiv.org/abs/2604.22102v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-23|[VistaBot] VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis|[[pdf]](http://arxiv.org/abs/2604.21914v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-23|Replay-buffer engineering for noise-robust quantum circuit optimization|[[pdf]](http://arxiv.org/abs/2604.21863v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[Learning] From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation|[[pdf]](http://arxiv.org/abs/2604.15805v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Continual Hand-Eye Calibration for Open-world Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.15814v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Fuzzy Logic Theory-based Adaptive Reward Shaping for Robust Reinforcement Learning (FARS)|[[pdf]](http://arxiv.org/abs/2604.15772v1)|⚠️|⭐️⭐️⭐️|
@@ -2852,6 +2887,6 @@
 
 ## 📊 统计
 
-- 论文总数：2826篇
+- 论文总数：2861篇
 - 代码实现：20个
 - 最后更新：2026年04月

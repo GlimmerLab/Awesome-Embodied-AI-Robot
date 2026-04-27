@@ -18,6 +18,18 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|[ChangeQuery] ChangeQuery: Advancing Remote Sensing Change Analysis for Natural and Human-Induced Disasters from Visual Detection to Semantic Understanding|[[pdf]](http://arxiv.org/abs/2604.22333v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|A Probabilistic Framework for Hierarchical Goal Recognition|[[pdf]](http://arxiv.org/abs/2604.22256v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset|[[pdf]](http://arxiv.org/abs/2604.22260v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[CGC] CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding|[[pdf]](http://arxiv.org/abs/2604.22498v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Different Strokes for Different Folks: Writer Identification for Historical Arabic Manuscripts|[[pdf]](http://arxiv.org/abs/2604.22515v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[CNSL-bench] CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language|[[pdf]](http://arxiv.org/abs/2604.22367v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks|[[pdf]](http://arxiv.org/abs/2604.22750v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[en] SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception-Memory Integration in Embodied Environments|[[pdf]](http://arxiv.org/abs/2604.22409v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Long-tail Internet photo reconstruction|[[pdf]](http://arxiv.org/abs/2604.22714v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[EV-CLIP] EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges|[[pdf]](http://arxiv.org/abs/2604.22595v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[NRGS] NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2604.22439v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-23|[Multi-robot] Task-Driven Co-Design of Heterogeneous Multi-Robot Systems|[[pdf]](http://arxiv.org/abs/2604.21894v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[SocialGrid] SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems|[[pdf]](http://arxiv.org/abs/2604.16022v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[FineCog-Nav] FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation|[[pdf]](http://arxiv.org/abs/2604.16298v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[ReactBench] ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams|[[pdf]](http://arxiv.org/abs/2604.15994v1)|⚠️|⭐️⭐️⭐️|
@@ -604,6 +616,6 @@
 
 ## 📊 统计
 
-- 论文总数：583篇
+- 论文总数：595篇
 - 代码实现：5个
 - 最后更新：2026年04月

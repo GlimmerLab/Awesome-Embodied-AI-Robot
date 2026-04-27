@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|[Flow4DGS-SLAM] Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2604.22339v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction|[[pdf]](http://arxiv.org/abs/2604.22649v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain|[[pdf]](http://arxiv.org/abs/2604.22507v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[SENSE] SENSE: Stereo OpEN Vocabulary SEmantic Segmentation|[[pdf]](http://arxiv.org/abs/2604.15946v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[SWNet] SWNet: A Cross-Spectral Network for Camouflaged Weed Detection|[[pdf]](http://arxiv.org/abs/2604.16147v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[FL-MHSM] FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale|[[pdf]](http://arxiv.org/abs/2604.16265v1)|⚠️|⭐️⭐️⭐️|
@@ -425,6 +428,6 @@
 
 ## 📊 统计
 
-- 论文总数：401篇
+- 论文总数：404篇
 - 代码实现：8个
 - 最后更新：2026年04月

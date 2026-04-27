@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|[CodeGraphVLP] CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2604.22238v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction|[[pdf]](http://arxiv.org/abs/2604.22378v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-23|Long-Horizon Manipulation via Trace-Conditioned VLA Planning|[[pdf]](http://arxiv.org/abs/2604.21924v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Long-Term Memory for VLA-based Agents in Open-World Task Execution|[[pdf]](http://arxiv.org/abs/2604.15671v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[Multi-robot] Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search|[[pdf]](http://arxiv.org/abs/2604.16263v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization|[[pdf]](http://arxiv.org/abs/2604.16247v1)|⚠️|⭐️⭐️⭐️|
@@ -303,6 +306,6 @@
 
 ## 📊 统计
 
-- 论文总数：279篇
+- 论文总数：282篇
 - 代码实现：6个
 - 最后更新：2026年04月

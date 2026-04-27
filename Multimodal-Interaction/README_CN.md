@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners|[[pdf]](http://arxiv.org/abs/2604.22542v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[AEGIS] AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning|[[pdf]](http://arxiv.org/abs/2604.16067v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models|[[pdf]](http://arxiv.org/abs/2604.16258v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-16|[GIST] GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology|[[pdf]](http://arxiv.org/abs/2604.15495v1)|⚠️|⭐️⭐️⭐️|
@@ -374,6 +375,6 @@
 
 ## 📊 统计
 
-- 论文总数：349篇
+- 论文总数：350篇
 - 代码实现：6个
 - 最后更新：2026年04月

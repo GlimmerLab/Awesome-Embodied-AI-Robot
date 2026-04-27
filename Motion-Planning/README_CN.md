@@ -32,6 +32,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|False Feasibility in Variable Impedance MPC for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2604.22251v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[CognitiveTwin] CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease|[[pdf]](http://arxiv.org/abs/2604.22428v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention|[[pdf]](http://arxiv.org/abs/2604.22273v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe|[[pdf]](http://arxiv.org/abs/2604.22676v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|Iterative Model-Learning Scheme via Gaussian Processes for Nonlinear Model Predictive Control of (Semi-)Batch Processes|[[pdf]](http://arxiv.org/abs/2604.22672v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments|[[pdf]](http://arxiv.org/abs/2604.15638v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|A Reconfigurable Pneumatic Joint Enabling Localized Selective Stiffening and Shape Locking in Vine-Inspired Robots|[[pdf]](http://arxiv.org/abs/2604.15907v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Limits of Lamarckian Evolution Under Pressure of Morphological Novelty|[[pdf]](http://arxiv.org/abs/2604.15854v1)|⚠️|⭐️⭐️⭐️|
@@ -546,6 +551,6 @@
 
 ## 📊 统计
 
-- 论文总数：521篇
+- 论文总数：526篇
 - 代码实现：8个
 - 最后更新：2026年04月

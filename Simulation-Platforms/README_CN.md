@@ -39,6 +39,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-04-24|Catheter Monitoring in Intelligent Endovascular Navigation Systems: Interactive Simulations and Mixed Reality for Enhanced Navigational Awareness|[[pdf]](http://arxiv.org/abs/2604.22497v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[ReLIC-SGG] ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2604.22546v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[Depth-Aware Rover] Depth-Aware Rover: A Study of Edge AI and Monocular Vision for Real-World Implementation|[[pdf]](http://arxiv.org/abs/2604.22331v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-24|[en] Closed Form Relations and Higher-Order Approximations of First and Second Derivatives of the Tangent Operator on SE(3)|[[pdf]](http://arxiv.org/abs/2604.22287v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-23|Dynamic Coupling and Indirect Control of Jointed Robots Rolling Atop A Moving Platform|[[pdf]](http://arxiv.org/abs/2604.22104v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Factor Graph-Based Shape Estimation for Continuum Robots via Magnus Expansion|[[pdf]](http://arxiv.org/abs/2604.15619v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[ChemGraph-XANES] ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis|[[pdf]](http://arxiv.org/abs/2604.16205v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Synthetic data in cryptocurrencies using generative models|[[pdf]](http://arxiv.org/abs/2604.16182v1)|⚠️|⭐️⭐️⭐️|
@@ -520,6 +525,6 @@
 
 ## 📊 统计
 
-- 论文总数：495篇
+- 论文总数：500篇
 - 代码实现：21个
 - 最后更新：2026年04月
