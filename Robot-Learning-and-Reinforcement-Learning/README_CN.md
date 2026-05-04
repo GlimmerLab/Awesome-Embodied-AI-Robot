@@ -47,6 +47,44 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-01|Stereo Multistage Spatial Attention for Real-Time Mobile Manipulation Under Visual Scale Variation and Disturbances|[[pdf]](http://arxiv.org/abs/2605.00471v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling|[[pdf]](http://arxiv.org/abs/2605.00412v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies|[[pdf]](http://arxiv.org/abs/2605.00416v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions|[[pdf]](http://arxiv.org/abs/2605.00496v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[MSACT] MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation|[[pdf]](http://arxiv.org/abs/2605.00475v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[Odysseus] Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.00347v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Augmented Lagrangian Multiplier Network for State-wise Safety in Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.00667v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding|[[pdf]](http://arxiv.org/abs/2605.00642v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[A11y-Compressor] A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction|[[pdf]](http://arxiv.org/abs/2605.00551v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[AEM] AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.00425v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Recovering Hidden Reward in Diffusion-Based Policies|[[pdf]](http://arxiv.org/abs/2605.00623v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[InpaintSLat] InpaintSLat: Inpainting Structured 3D Latents via Initial Noise Optimization|[[pdf]](http://arxiv.org/abs/2605.00664v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[PAMod] PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting|[[pdf]](http://arxiv.org/abs/2605.00466v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[EASE] EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure|[[pdf]](http://arxiv.org/abs/2605.00733v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[SAVGO] SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control|[[pdf]](http://arxiv.org/abs/2605.00787v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Aitchison Embeddings for Learning Compositional Graph Representations|[[pdf]](http://arxiv.org/abs/2605.00716v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Observable Performance Does Not Fully Reflect System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint|[[pdf]](http://arxiv.org/abs/2605.00778v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Weisfeiler Lehman Test on Combinatorial Complexes: Generalized Expressive Power of Topological Neural Networks|[[pdf]](http://arxiv.org/abs/2605.00725v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Deep Kernel Learning for Stratifying Glaucoma Trajectories|[[pdf]](http://arxiv.org/abs/2605.00708v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Reinforcement Learning with Markov Risk Measures and Multipattern Risk Approximation|[[pdf]](http://arxiv.org/abs/2605.00654v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Decentralized Proximal Stochastic Gradient Langevin Dynamics|[[pdf]](http://arxiv.org/abs/2605.00723v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Budget Constraints as Riemannian Manifolds|[[pdf]](http://arxiv.org/abs/2605.00649v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Unlearning Offline Stochastic Multi-Armed Bandits|[[pdf]](http://arxiv.org/abs/2605.00638v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[Prop-Chromeleon] Prop-Chromeleon: Adaptive Haptic Props in Mixed Reality through Generative Artificial Intelligence|[[pdf]](http://arxiv.org/abs/2605.00804v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Scale-Aware Adversarial Analysis: A Diagnostic for Generative AI in Multiscale Complex Systems|[[pdf]](http://arxiv.org/abs/2605.00510v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Posterior Augmented Flow Matching|[[pdf]](http://arxiv.org/abs/2605.00825v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration|[[pdf]](http://arxiv.org/abs/2605.00578v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[en] From Local to Global to Mechanistic: An iERF-Centered Unified Framework for Interpreting Vision Models|[[pdf]](http://arxiv.org/abs/2605.00474v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[RadLite] RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI|[[pdf]](http://arxiv.org/abs/2605.00421v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Improving LLM Code Generation via Requirement-Aware Curriculum Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.00433v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|Task-Conditioned Uncertainty Costmaps for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2605.00261v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[Hyper-Dexterous] Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2605.00244v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[LaST-R1] LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models|[[pdf]](http://arxiv.org/abs/2604.28192v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[E$^2$DT] E$^2$DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2605.00159v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[Multi-robot] OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2604.28197v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[GSDrive] GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment|[[pdf]](http://arxiv.org/abs/2604.28111v2)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|Dreaming Across Towns: Semantic Rollout and Town-Adversarial Regularization for Zero-Shot Held-Out-Town Fixed-Route Driving in CARLA|[[pdf]](http://arxiv.org/abs/2604.27994v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[en] Predictive Spatio-Temporal Scene Graphs for Semi-Static Scenes|[[pdf]](http://arxiv.org/abs/2605.00121v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[GCImOpt] GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories|[[pdf]](http://arxiv.org/abs/2604.22724v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Decoding High-Dimensional Finger Motion from EMG Using Riemannian Features and RNNs|[[pdf]](http://arxiv.org/abs/2604.22499v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[GazeVLA] GazeVLA: Learning Human Intention for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2604.22615v1)|⚠️|⭐️⭐️⭐️|
@@ -2887,6 +2925,6 @@
 
 ## 📊 统计
 
-- 论文总数：2861篇
+- 论文总数：2899篇
 - 代码实现：20个
-- 最后更新：2026年04月
+- 最后更新：2026年05月

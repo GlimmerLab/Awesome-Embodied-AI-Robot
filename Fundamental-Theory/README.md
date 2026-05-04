@@ -18,6 +18,13 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-01|Can Coding Agents Reproduce Findings in Computational Materials Science?|[[pdf]](http://arxiv.org/abs/2605.00803v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[Position] Position: agentic AI orchestration should be Bayes-consistent|[[pdf]](http://arxiv.org/abs/2605.00742v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Empowering Heterogeneous Graph Foundation Models via Decoupled Relation Alignment|[[pdf]](http://arxiv.org/abs/2605.00731v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[RunAgent] RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution|[[pdf]](http://arxiv.org/abs/2605.00798v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[FedKPer] FedKPer: Tackling Generalization and Personalization in Medical Federated Learning via Knowledge Personalization|[[pdf]](http://arxiv.org/abs/2605.00698v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Static and Dynamic Graph Alignment Network for Temporal Video Grounding|[[pdf]](http://arxiv.org/abs/2605.00684v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Scaling Video Understanding via Compact Latent Multi-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2605.00444v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[ChangeQuery] ChangeQuery: Advancing Remote Sensing Change Analysis for Natural and Human-Induced Disasters from Visual Detection to Semantic Understanding|[[pdf]](http://arxiv.org/abs/2604.22333v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|A Probabilistic Framework for Hierarchical Goal Recognition|[[pdf]](http://arxiv.org/abs/2604.22256v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset|[[pdf]](http://arxiv.org/abs/2604.22260v1)|⚠️|⭐️⭐️⭐️|
@@ -616,6 +623,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 595
+- Total Papers: 602
 - Code Implementations: 5
-- Last Updated: April 2026
+- Last Updated: May 2026

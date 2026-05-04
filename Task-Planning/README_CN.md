@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-01|Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation|[[pdf]](http://arxiv.org/abs/2605.00438v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[RopeDreamer] RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects|[[pdf]](http://arxiv.org/abs/2604.28161v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[CodeGraphVLP] CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2604.22238v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction|[[pdf]](http://arxiv.org/abs/2604.22378v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-23|Long-Horizon Manipulation via Trace-Conditioned VLA Planning|[[pdf]](http://arxiv.org/abs/2604.21924v1)|⚠️|⭐️⭐️⭐️|
@@ -306,6 +308,6 @@
 
 ## 📊 统计
 
-- 论文总数：282篇
+- 论文总数：284篇
 - 代码实现：6个
-- 最后更新：2026年04月
+- 最后更新：2026年05月

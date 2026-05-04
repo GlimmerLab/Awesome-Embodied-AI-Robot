@@ -26,6 +26,16 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-01|Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs|[[pdf]](http://arxiv.org/abs/2605.00814v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Scalable Context-Aware Graph Attention for Unsupervised Anomaly Detection in Large-Scale Mobile Networks|[[pdf]](http://arxiv.org/abs/2605.00482v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Modeling Subjective Urban Perception with Human Gaze|[[pdf]](http://arxiv.org/abs/2605.00764v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Robust Fusion of Object-Level V2X for Learned 3D Object Detection|[[pdf]](http://arxiv.org/abs/2605.00595v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Linking Behaviour and Perception to Evaluate Meaningful Human Control over Partially Automated Driving|[[pdf]](http://arxiv.org/abs/2605.00556v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds|[[pdf]](http://arxiv.org/abs/2605.00562v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Exploring the Limits of End-to-End Feature-Affinity Propagation for Single-Point Supervised Infrared Small Target Detection|[[pdf]](http://arxiv.org/abs/2605.00722v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[en] Colorful-Noise: Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation|[[pdf]](http://arxiv.org/abs/2605.00548v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[FlexiTac] FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems|[[pdf]](http://arxiv.org/abs/2604.28156v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[FreeOcc] FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction|[[pdf]](http://arxiv.org/abs/2604.28115v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[Flow4DGS-SLAM] Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM|[[pdf]](http://arxiv.org/abs/2604.22339v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction|[[pdf]](http://arxiv.org/abs/2604.22649v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain|[[pdf]](http://arxiv.org/abs/2604.22507v1)|⚠️|⭐️⭐️⭐️|
@@ -428,6 +438,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 404
+- Total Papers: 414
 - Code Implementations: 8
-- Last Updated: April 2026
+- Last Updated: May 2026

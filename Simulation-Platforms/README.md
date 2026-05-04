@@ -39,6 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-01|[MiniVLA-Nav v1] MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation|[[pdf]](http://arxiv.org/abs/2605.00397v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers|[[pdf]](http://arxiv.org/abs/2605.00307v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2605.00529v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[HyCOP] HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs|[[pdf]](http://arxiv.org/abs/2605.00820v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|[Vesselpose] Vesselpose: Vessel Graph Reconstruction from Learned Voxel-wise Direction Vectors in 3D Vascular Images|[[pdf]](http://arxiv.org/abs/2605.00538v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Quantum Gradient-Based Approach for Edge and Corner Detection Using Sobel Kernels|[[pdf]](http://arxiv.org/abs/2605.00744v1)|⚠️|⭐️⭐️⭐️|
+|2026-04-30|[PhyCo] PhyCo: Learning Controllable Physical Priors for Generative Motion|[[pdf]](http://arxiv.org/abs/2604.28169v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Catheter Monitoring in Intelligent Endovascular Navigation Systems: Interactive Simulations and Mixed Reality for Enhanced Navigational Awareness|[[pdf]](http://arxiv.org/abs/2604.22497v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[ReLIC-SGG] ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2604.22546v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[Depth-Aware Rover] Depth-Aware Rover: A Study of Edge AI and Monocular Vision for Real-World Implementation|[[pdf]](http://arxiv.org/abs/2604.22331v1)|⚠️|⭐️⭐️⭐️|
@@ -525,6 +532,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 500
+- Total Papers: 507
 - Code Implementations: 21
-- Last Updated: April 2026
+- Last Updated: May 2026

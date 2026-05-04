@@ -25,6 +25,10 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-01|Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2605.00321v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Make Your LVLM KV Cache More Lightweight|[[pdf]](http://arxiv.org/abs/2605.00789v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Jailbreaking Vision-Language Models Through the Visual Modality|[[pdf]](http://arxiv.org/abs/2605.00583v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-01|Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels|[[pdf]](http://arxiv.org/abs/2605.00718v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners|[[pdf]](http://arxiv.org/abs/2604.22542v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|[AEGIS] AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning|[[pdf]](http://arxiv.org/abs/2604.16067v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-17|Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models|[[pdf]](http://arxiv.org/abs/2604.16258v1)|⚠️|⭐️⭐️⭐️|
@@ -375,6 +379,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 350
+- Total Papers: 354
 - Code Implementations: 6
-- Last Updated: April 2026
+- Last Updated: May 2026
