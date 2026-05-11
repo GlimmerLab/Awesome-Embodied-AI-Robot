@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|[Multi-robot] Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios|[[pdf]](http://arxiv.org/abs/2605.07877v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[LiteGUI] LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.07505v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[123D] 123D: Unifying Multi-Modal Autonomous Driving Data at Scale|[[pdf]](http://arxiv.org/abs/2605.08084v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation|[[pdf]](http://arxiv.org/abs/2605.00438v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-30|[RopeDreamer] RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects|[[pdf]](http://arxiv.org/abs/2604.28161v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[CodeGraphVLP] CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2604.22238v1)|⚠️|⭐️⭐️⭐️|
@@ -308,6 +311,6 @@
 
 ## 📊 统计
 
-- 论文总数：284篇
+- 论文总数：287篇
 - 代码实现：6个
 - 最后更新：2026年05月

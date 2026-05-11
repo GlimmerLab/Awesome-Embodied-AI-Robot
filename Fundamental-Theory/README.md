@@ -18,6 +18,11 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|[AgentEscapeBench] AgentEscapeBench: Evaluating Out-of-Domain Tool-Grounded Reasoning in LLM Agents|[[pdf]](http://arxiv.org/abs/2605.07926v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Video Understanding Reward Modeling: A Robust Benchmark and Performant Reward Models|[[pdf]](http://arxiv.org/abs/2605.07872v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction|[[pdf]](http://arxiv.org/abs/2605.08022v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Abductive Reasoning with Probabilistic Commonsense|[[pdf]](http://arxiv.org/abs/2605.08011v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[SphereVAD] SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere|[[pdf]](http://arxiv.org/abs/2605.08003v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Can Coding Agents Reproduce Findings in Computational Materials Science?|[[pdf]](http://arxiv.org/abs/2605.00803v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|[Position] Position: agentic AI orchestration should be Bayes-consistent|[[pdf]](http://arxiv.org/abs/2605.00742v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Empowering Heterogeneous Graph Foundation Models via Decoupled Relation Alignment|[[pdf]](http://arxiv.org/abs/2605.00731v1)|⚠️|⭐️⭐️⭐️|
@@ -623,6 +628,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 602
+- Total Papers: 607
 - Code Implementations: 5
 - Last Updated: May 2026

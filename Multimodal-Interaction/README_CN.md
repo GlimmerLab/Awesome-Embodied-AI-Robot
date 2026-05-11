@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|[CommandSwarm] CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms|[[pdf]](http://arxiv.org/abs/2605.07764v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|PPI-Net connects molecular protein interactions to functional processes in disease|[[pdf]](http://arxiv.org/abs/2605.07838v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[EmambaIR] EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction|[[pdf]](http://arxiv.org/abs/2605.08073v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[Proxy3D] Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment|[[pdf]](http://arxiv.org/abs/2605.08064v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models|[[pdf]](http://arxiv.org/abs/2605.08031v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Exact Regular-Constrained Variable-Order Markov Generation via Sparse Context-State Belief Propagation|[[pdf]](http://arxiv.org/abs/2605.07839v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2605.00321v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Make Your LVLM KV Cache More Lightweight|[[pdf]](http://arxiv.org/abs/2605.00789v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Jailbreaking Vision-Language Models Through the Visual Modality|[[pdf]](http://arxiv.org/abs/2605.00583v1)|⚠️|⭐️⭐️⭐️|
@@ -379,6 +385,6 @@
 
 ## 📊 统计
 
-- 论文总数：354篇
+- 论文总数：360篇
 - 代码实现：6个
 - 最后更新：2026年05月

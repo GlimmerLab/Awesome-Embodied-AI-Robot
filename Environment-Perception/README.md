@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|Search-based Robustness Testing of Laptop Refurbishing Robotic Software|[[pdf]](http://arxiv.org/abs/2605.07530v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[AERO-VIS] AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM|[[pdf]](http://arxiv.org/abs/2605.07885v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks|[[pdf]](http://arxiv.org/abs/2605.08059v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[PET-Adapter] PET-Adapter: Test-Time Domain Adaptation for Full and Limited-Angle PET Image Reconstruction|[[pdf]](http://arxiv.org/abs/2605.08030v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs|[[pdf]](http://arxiv.org/abs/2605.00814v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Scalable Context-Aware Graph Attention for Unsupervised Anomaly Detection in Large-Scale Mobile Networks|[[pdf]](http://arxiv.org/abs/2605.00482v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Modeling Subjective Urban Perception with Human Gaze|[[pdf]](http://arxiv.org/abs/2605.00764v1)|⚠️|⭐️⭐️⭐️|
@@ -438,6 +442,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 414
+- Total Papers: 418
 - Code Implementations: 8
 - Last Updated: May 2026

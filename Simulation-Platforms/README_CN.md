@@ -39,6 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|Model-Driven Policy Optimization in Differentiable Simulators via Stochastic Exploration|[[pdf]](http://arxiv.org/abs/2605.07520v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[It Just Takes Two] It Just Takes Two: Scaling Amortized Inference to Large Sets|[[pdf]](http://arxiv.org/abs/2605.07972v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Many-to-Many Multi-Agent Pickup and Delivery|[[pdf]](http://arxiv.org/abs/2605.07835v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[HBEE] HBEE: Human Behavioral Entropy Engine -- Pre-Registered Multi-Agent LLM Simulation of Peer-Suspicion-Based Detection Inversion|[[pdf]](http://arxiv.org/abs/2605.07472v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data|[[pdf]](http://arxiv.org/abs/2605.08028v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[BRIDGE] BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing|[[pdf]](http://arxiv.org/abs/2605.07846v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|[MiniVLA-Nav v1] MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation|[[pdf]](http://arxiv.org/abs/2605.00397v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers|[[pdf]](http://arxiv.org/abs/2605.00307v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation|[[pdf]](http://arxiv.org/abs/2605.00529v1)|⚠️|⭐️⭐️⭐️|
@@ -532,6 +538,6 @@
 
 ## 📊 统计
 
-- 论文总数：507篇
+- 论文总数：513篇
 - 代码实现：21个
 - 最后更新：2026年05月

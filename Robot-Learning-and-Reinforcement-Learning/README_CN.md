@@ -47,6 +47,44 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|[TAVIS] TAVIS: A Benchmark for Egocentric Active Vision and Anticipatory Gaze in Imitation Learning|[[pdf]](http://arxiv.org/abs/2605.07943v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[Multi-robot] Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding|[[pdf]](http://arxiv.org/abs/2605.07637v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[PhySPRING] PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN|[[pdf]](http://arxiv.org/abs/2605.07687v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[NoiseGate] NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models|[[pdf]](http://arxiv.org/abs/2605.07794v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[PathPainter] PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation|[[pdf]](http://arxiv.org/abs/2605.07496v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Active Embodiment Identification with Reinforcement Learning for Legged Robots|[[pdf]](http://arxiv.org/abs/2605.08020v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models|[[pdf]](http://arxiv.org/abs/2605.07514v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|From Feasible to Practical: Pareto-Optimal Synthesis Planning|[[pdf]](http://arxiv.org/abs/2605.07521v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[BrickCraft] BrickCraft: Visuomotor Skill Composition with Situated Manual Guidance for Long-Horizon Interlocking Brick Assembly|[[pdf]](http://arxiv.org/abs/2605.07605v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[Reason to Play] Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners|[[pdf]](http://arxiv.org/abs/2605.08019v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|How to utilize failure demo data?: Effective data selection for imitation learning using distribution differences in attention mechanism|[[pdf]](http://arxiv.org/abs/2605.07560v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[FactoryBench] FactoryBench: Evaluating Industrial Machine Understanding|[[pdf]](http://arxiv.org/abs/2605.07675v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[Rubric-Grounded RL] Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning|[[pdf]](http://arxiv.org/abs/2605.08061v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Exploring the non-convexity in machine learning using quantum-inspired optimization|[[pdf]](http://arxiv.org/abs/2605.07947v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[BeeVe] BeeVe: Unsupervised Acoustic State Discovery in Honey Bee Buzzing|[[pdf]](http://arxiv.org/abs/2605.07903v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[Beyond Pairs] Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph|[[pdf]](http://arxiv.org/abs/2605.08037v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Graph-Structured Hyperdimensional Computing for Data-Efficient and Explainable Process-Structure-Property Prediction|[[pdf]](http://arxiv.org/abs/2605.07999v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Sycophantic AI makes human interaction feel more effortful and less satisfying over time|[[pdf]](http://arxiv.org/abs/2605.07912v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[MatryoshkaLoRA] MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning|[[pdf]](http://arxiv.org/abs/2605.07850v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[TimeLesSeg] TimeLesSeg: Unified Contrast-Agnostic Cross-Sectional and Longitudinal MS Lesion Segmentation via a Stochastic Generative Model|[[pdf]](http://arxiv.org/abs/2605.07955v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[One Token Per Frame] One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy|[[pdf]](http://arxiv.org/abs/2605.07931v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Vibe coding before the trend|[[pdf]](http://arxiv.org/abs/2605.07751v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Reinforcement Learning for Exponential Utility: Algorithms and Convergence in Discounted MDPs|[[pdf]](http://arxiv.org/abs/2605.08053v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs|[[pdf]](http://arxiv.org/abs/2605.07961v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Normalizing Trajectory Models|[[pdf]](http://arxiv.org/abs/2605.08078v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[MPD$^2$-Router] MPD$^2$-Router: Mask-aware Multi-expert Prior-regularized Dual-head Deferral Router in Glaucoma Screening and Diagnosis|[[pdf]](http://arxiv.org/abs/2605.08024v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Interpreting Reinforcement Learning Agents with Susceptibilities|[[pdf]](http://arxiv.org/abs/2605.08007v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[The Memory Curse] The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents|[[pdf]](http://arxiv.org/abs/2605.08060v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Learning CLI Agents with Structured Action Credit under Selective Observation|[[pdf]](http://arxiv.org/abs/2605.08013v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[Flow-OPD] Flow-OPD: On-Policy Distillation for Flow Matching Models|[[pdf]](http://arxiv.org/abs/2605.08063v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Self-Play Enhancement via Advantage-Weighted Refinement in Online Federated LLM Fine-Tuning with Real-Time Feedback|[[pdf]](http://arxiv.org/abs/2605.07977v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Towards Apples to Apples for AI Evaluations: From Real-World Use Cases to Evaluation Scenarios|[[pdf]](http://arxiv.org/abs/2605.07986v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|On the Tradeoffs of On-Device Generative Models in Federated Predictive Maintenance Systems|[[pdf]](http://arxiv.org/abs/2605.07860v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[KL for a KL] KL for a KL: On-Policy Distillation with Control Variate Baseline|[[pdf]](http://arxiv.org/abs/2605.07865v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Pre-training Enables Extraordinary All-optical Image Denoising|[[pdf]](http://arxiv.org/abs/2605.07810v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[en] GazeVLM: Active Vision via Internal Attention Control for Multimodal Reasoning|[[pdf]](http://arxiv.org/abs/2605.07817v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images|[[pdf]](http://arxiv.org/abs/2605.07978v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[STARFlow2] STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation|[[pdf]](http://arxiv.org/abs/2605.08029v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Stereo Multistage Spatial Attention for Real-Time Mobile Manipulation Under Visual Scale Variation and Disturbances|[[pdf]](http://arxiv.org/abs/2605.00471v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling|[[pdf]](http://arxiv.org/abs/2605.00412v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-01|Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies|[[pdf]](http://arxiv.org/abs/2605.00416v1)|⚠️|⭐️⭐️⭐️|
@@ -2925,6 +2963,6 @@
 
 ## 📊 统计
 
-- 论文总数：2899篇
+- 论文总数：2937篇
 - 代码实现：20个
 - 最后更新：2026年05月

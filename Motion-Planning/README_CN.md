@@ -32,6 +32,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-08|Evaluation of an Actuated Spine in Agile Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2605.07988v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[ECNUClaw] ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education|[[pdf]](http://arxiv.org/abs/2605.08040v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|[MoCoTalk] MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation|[[pdf]](http://arxiv.org/abs/2605.08050v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-08|ICDAR 2026 Competition on Writer Identification and Pen Classification from Hand-Drawn Circles|[[pdf]](http://arxiv.org/abs/2605.07816v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|False Feasibility in Variable Impedance MPC for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2604.22251v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|[CognitiveTwin] CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease|[[pdf]](http://arxiv.org/abs/2604.22428v1)|⚠️|⭐️⭐️⭐️|
 |2026-04-24|When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention|[[pdf]](http://arxiv.org/abs/2604.22273v1)|⚠️|⭐️⭐️⭐️|
@@ -551,6 +555,6 @@
 
 ## 📊 统计
 
-- 论文总数：526篇
+- 论文总数：530篇
 - 代码实现：8个
-- 最后更新：2026年04月
+- 最后更新：2026年05月
