@@ -25,6 +25,11 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2605.23477v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[TactileReflex] TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation|[[pdf]](http://arxiv.org/abs/2605.23568v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[DrawVideo] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches|[[pdf]](http://arxiv.org/abs/2605.23508v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] $π_0$-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control|[[pdf]](http://arxiv.org/abs/2605.23128v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] Perceptually Lossless Tactile Texture Synthesis with Compact Spectral Envelope Models|[[pdf]](http://arxiv.org/abs/2605.23804v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[CommandSwarm] CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms|[[pdf]](http://arxiv.org/abs/2605.07764v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|PPI-Net connects molecular protein interactions to functional processes in disease|[[pdf]](http://arxiv.org/abs/2605.07838v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[EmambaIR] EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction|[[pdf]](http://arxiv.org/abs/2605.08073v1)|⚠️|⭐️⭐️⭐️|
@@ -385,6 +390,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 360
+- Total Papers: 365
 - Code Implementations: 6
 - Last Updated: May 2026

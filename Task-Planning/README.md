@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|[en] Signal Temporal Logic Motion Planning via Graphs of Convex Sets|[[pdf]](http://arxiv.org/abs/2605.23240v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[Multi-robot] Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios|[[pdf]](http://arxiv.org/abs/2605.07877v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[LiteGUI] LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.07505v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[123D] 123D: Unifying Multi-Modal Autonomous Driving Data at Scale|[[pdf]](http://arxiv.org/abs/2605.08084v1)|⚠️|⭐️⭐️⭐️|
@@ -311,6 +312,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 287
+- Total Papers: 288
 - Code Implementations: 6
 - Last Updated: May 2026

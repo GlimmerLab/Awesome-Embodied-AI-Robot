@@ -39,6 +39,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|[SkillOpt] SkillOpt: Executive Strategy for Self-Evolving Agent Skills|[[pdf]](http://arxiv.org/abs/2605.23904v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[Preisach Attention] Preisach Attention: A Hysteretic Model of Sequential Memory|[[pdf]](http://arxiv.org/abs/2605.23603v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] Autonomous Frontier-Based Exploration with VLM Guidance|[[pdf]](http://arxiv.org/abs/2605.23165v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] IntentionNav: A Benchmark for Intent-Driven Object Navigation from Implicit Human Instruction|[[pdf]](http://arxiv.org/abs/2605.23187v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Vision-Based Agile Landing on Turbulent Waters|[[pdf]](http://arxiv.org/abs/2605.23717v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[MindCopilot] MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing|[[pdf]](http://arxiv.org/abs/2605.23535v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Calibration-Informative Region Selection for Online LiDAR--Camera Calibration in Agricultural Environments|[[pdf]](http://arxiv.org/abs/2605.23580v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|Model-Driven Policy Optimization in Differentiable Simulators via Stochastic Exploration|[[pdf]](http://arxiv.org/abs/2605.07520v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[It Just Takes Two] It Just Takes Two: Scaling Amortized Inference to Large Sets|[[pdf]](http://arxiv.org/abs/2605.07972v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|Many-to-Many Multi-Agent Pickup and Delivery|[[pdf]](http://arxiv.org/abs/2605.07835v1)|⚠️|⭐️⭐️⭐️|
@@ -538,6 +545,6 @@
 
 ## 📊 统计
 
-- 论文总数：513篇
+- 论文总数：520篇
 - 代码实现：21个
 - 最后更新：2026年05月

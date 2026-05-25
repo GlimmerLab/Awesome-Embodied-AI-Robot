@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|[Any2Any] Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking|[[pdf]](http://arxiv.org/abs/2605.23733v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] Sparse Compositional Flow Matching by geometric assembly from motion primitives|[[pdf]](http://arxiv.org/abs/2605.23341v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems|[[pdf]](http://arxiv.org/abs/2605.23179v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|Evaluation of an Actuated Spine in Agile Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2605.07988v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[ECNUClaw] ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education|[[pdf]](http://arxiv.org/abs/2605.08040v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[MoCoTalk] MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation|[[pdf]](http://arxiv.org/abs/2605.08050v1)|⚠️|⭐️⭐️⭐️|
@@ -555,6 +558,6 @@
 
 ## 📊 统计
 
-- 论文总数：530篇
+- 论文总数：533篇
 - 代码实现：8个
 - 最后更新：2026年05月

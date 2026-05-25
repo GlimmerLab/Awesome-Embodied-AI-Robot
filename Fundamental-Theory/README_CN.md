@@ -18,6 +18,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|[SPACENUM] SPACENUM: Revisiting Spatial Numerical Understanding in VLMs|[[pdf]](http://arxiv.org/abs/2605.23898v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[PhotoFlow] PhotoFlow: Agentic 3D Virtual Photography Missions|[[pdf]](http://arxiv.org/abs/2605.23771v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[ETCHR] ETCHR: Editing To Clarify and Harness Reasoning|[[pdf]](http://arxiv.org/abs/2605.23897v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[PGT] PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs|[[pdf]](http://arxiv.org/abs/2605.23883v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Leveraging Foundation Models for Causal Generative Modeling|[[pdf]](http://arxiv.org/abs/2605.23861v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[SeedER] SeedER: Seed-and-Expand Retrieval from Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2605.23753v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] ComPose: When to Trust Hands for Object Pose Tracking|[[pdf]](http://arxiv.org/abs/2605.23523v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Revitalizing Dense Material Segmentation: Stabilized Vision Transformers and the Generalization Paradox|[[pdf]](http://arxiv.org/abs/2605.23747v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[AgentEscapeBench] AgentEscapeBench: Evaluating Out-of-Domain Tool-Grounded Reasoning in LLM Agents|[[pdf]](http://arxiv.org/abs/2605.07926v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|Video Understanding Reward Modeling: A Robust Benchmark and Performant Reward Models|[[pdf]](http://arxiv.org/abs/2605.07872v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction|[[pdf]](http://arxiv.org/abs/2605.08022v1)|⚠️|⭐️⭐️⭐️|
@@ -628,6 +636,6 @@
 
 ## 📊 统计
 
-- 论文总数：607篇
+- 论文总数：615篇
 - 代码实现：5个
 - 最后更新：2026年05月

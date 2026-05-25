@@ -26,6 +26,12 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|Not Too Generative, Not Too Discriminative: The Human Alignment Sweet Spot|[[pdf]](http://arxiv.org/abs/2605.23819v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[CVSearch] CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception|[[pdf]](http://arxiv.org/abs/2605.23655v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] SFG-ROS: A Resource-Aware Framework for Dense Multi-Agent Perception|[[pdf]](http://arxiv.org/abs/2605.23832v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[Contrast to Detect] Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series|[[pdf]](http://arxiv.org/abs/2605.23744v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Rethinking Transfer Learning for Industrial Inspection: DINOv3 vs. ImageNet Pretraining Across RGB and X-ray Tasks|[[pdf]](http://arxiv.org/abs/2605.23472v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain|[[pdf]](http://arxiv.org/abs/2605.23895v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|Search-based Robustness Testing of Laptop Refurbishing Robotic Software|[[pdf]](http://arxiv.org/abs/2605.07530v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[AERO-VIS] AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM|[[pdf]](http://arxiv.org/abs/2605.07885v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks|[[pdf]](http://arxiv.org/abs/2605.08059v1)|⚠️|⭐️⭐️⭐️|
@@ -442,6 +448,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 418
+- Total Papers: 424
 - Code Implementations: 8
 - Last Updated: May 2026

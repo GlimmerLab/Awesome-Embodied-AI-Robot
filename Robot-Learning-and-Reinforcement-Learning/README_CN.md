@@ -47,6 +47,31 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-22|Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control|[[pdf]](http://arxiv.org/abs/2605.23863v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|How Many Training Samples Are Needed for the Inverse Kinematics Solutions by Artificial Neural Networks|[[pdf]](http://arxiv.org/abs/2605.23583v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos|[[pdf]](http://arxiv.org/abs/2605.23762v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion|[[pdf]](http://arxiv.org/abs/2605.23847v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|One Policy, Infinite NPCs: Persona-Traceable Shared RL Policies for Scalable Game Agents|[[pdf]](http://arxiv.org/abs/2605.23652v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[Precise] Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models|[[pdf]](http://arxiv.org/abs/2605.23522v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Understanding Goal Generalisation in Sequential Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.23565v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] 6G Communication Networks Enabling Embodied Agents: Architecture and Prototype|[[pdf]](http://arxiv.org/abs/2605.23263v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4|[[pdf]](http://arxiv.org/abs/2605.23386v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] Lipschitz Optimization for Formal Verification of Homographies|[[pdf]](http://arxiv.org/abs/2605.23203v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Learning Kernel-Based MDPs from Episodic Preferential Feedback|[[pdf]](http://arxiv.org/abs/2605.23650v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment|[[pdf]](http://arxiv.org/abs/2605.23780v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[OnePred] OnePred: Next-Query Prediction via Recursive Intent Memory in Multi-Turn Conversations|[[pdf]](http://arxiv.org/abs/2605.23668v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[Policy] Point Tracking Improves World Action Models|[[pdf]](http://arxiv.org/abs/2605.23856v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|When Youth Enter the Algorithmic Wild: Discovering and Understanding Potentially Harmful Teen Videos on Douyin and Kwai|[[pdf]](http://arxiv.org/abs/2605.23598v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|AI at the Front Lines of Platform Governance: Using LLMs to Support Illegal Content Reporting under the Digital Services Act|[[pdf]](http://arxiv.org/abs/2605.23676v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[ARMS] ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.23562v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] B-GRTO: Bootstrapped Group Relative Tool Optimization for Referring Segmentation|[[pdf]](http://arxiv.org/abs/2605.23500v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[en] ExpOS: Explainable Open-Surgery Skills Assessment Using 3D Hand Reconstruction|[[pdf]](http://arxiv.org/abs/2605.23653v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[Geo-Align] Geo-Align: Video Generation Alignment via Metric Geometry Reward|[[pdf]](http://arxiv.org/abs/2605.23903v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|[RiGS] RiGS: Rigid-aware 4D Gaussian Splatting from a Single Monocular Video|[[pdf]](http://arxiv.org/abs/2605.23672v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Multimodal Distribution Matching for Vision-Language Dataset Distillation|[[pdf]](http://arxiv.org/abs/2605.23482v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-22|Goal-Conditioned Agents that Learn Everything All at Once|[[pdf]](http://arxiv.org/abs/2605.23551v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-21|[en] PIMbot: A Self-Adaptive Attack Framework for Adversarial Manipulation of Multi-Robot Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.23027v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-21|[en] Dreaming Smoothly and Sample Efficiently with Gradient Penalized Latent Dynamics|[[pdf]](http://arxiv.org/abs/2605.23089v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[TAVIS] TAVIS: A Benchmark for Egocentric Active Vision and Anticipatory Gaze in Imitation Learning|[[pdf]](http://arxiv.org/abs/2605.07943v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[Multi-robot] Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding|[[pdf]](http://arxiv.org/abs/2605.07637v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[PhySPRING] PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN|[[pdf]](http://arxiv.org/abs/2605.07687v1)|⚠️|⭐️⭐️⭐️|
@@ -2963,6 +2988,6 @@
 
 ## 📊 统计
 
-- 论文总数：2937篇
+- 论文总数：2962篇
 - 代码实现：20个
 - 最后更新：2026年05月
