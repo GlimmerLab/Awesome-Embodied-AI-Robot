@@ -39,6 +39,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|[Collision] Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2605.31196v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Simulation of collision avoidance behavior in crowd movement by data-driven approach|[[pdf]](http://arxiv.org/abs/2605.31210v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[SkillOpt] SkillOpt: Executive Strategy for Self-Evolving Agent Skills|[[pdf]](http://arxiv.org/abs/2605.23904v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[Preisach Attention] Preisach Attention: A Hysteretic Model of Sequential Memory|[[pdf]](http://arxiv.org/abs/2605.23603v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[en] Autonomous Frontier-Based Exploration with VLM Guidance|[[pdf]](http://arxiv.org/abs/2605.23165v1)|⚠️|⭐️⭐️⭐️|
@@ -545,6 +547,6 @@
 
 ## 📊 统计
 
-- 论文总数：520篇
+- 论文总数：522篇
 - 代码实现：21个
-- 最后更新：2026年05月
+- 最后更新：2026年06月

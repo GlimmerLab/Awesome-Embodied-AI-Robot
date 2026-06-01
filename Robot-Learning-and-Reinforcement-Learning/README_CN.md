@@ -47,6 +47,38 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2605.31343v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|A study on a Real-Time VR-Based Teleoperation Framework for Manipulator in Dynamic Environment|[[pdf]](http://arxiv.org/abs/2605.30989v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Haptic Sorter] Haptic Sorter: A Unified Planning Framework for Online Shape Estimation and Real-Time Pose Inference|[[pdf]](http://arxiv.org/abs/2605.31352v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Learning] Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning|[[pdf]](http://arxiv.org/abs/2605.31481v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Learning] RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.30957v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Don't Fool Me Twice] Don't Fool Me Twice: Adapting to Adversity in the Wild with Experience-Driven Reasoning|[[pdf]](http://arxiv.org/abs/2605.31119v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Before Parc Fermé] Before Parc Fermé: RL-Time Pruning for Efficient Embodied LLMs in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2605.31256v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[HARP-VLA] HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model|[[pdf]](http://arxiv.org/abs/2605.31234v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Hyper-Dexterous] Surface Constraint Policy for Learning Surface-Constrained and Dynamically Feasible Robot Skills|[[pdf]](http://arxiv.org/abs/2605.31321v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[DeMaVLA] DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation|[[pdf]](http://arxiv.org/abs/2605.31286v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[AR Forcing] AR Forcing: Towards Long-Horizon Robot Navigation World Model|[[pdf]](http://arxiv.org/abs/2605.31314v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Learning Controlled Separation of Small Objects Between Two Fingers with a Tactile Skin|[[pdf]](http://arxiv.org/abs/2605.31486v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[TARIC] TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues|[[pdf]](http://arxiv.org/abs/2605.31121v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[LongTraceRL] LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards|[[pdf]](http://arxiv.org/abs/2605.31584v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Dreaming Of Others] Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.31361v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Scaling Conversational Hungarian ASR: The BEA-Dialogue+ Corpus|[[pdf]](http://arxiv.org/abs/2605.31469v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[dashi] dashi: A Python library for Dataset Shift Characterization to Support Trustworthy AI Development and Deployment|[[pdf]](http://arxiv.org/abs/2605.31360v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Vision-Language Models Suppress Female Representations Under Ambiguous Input|[[pdf]](http://arxiv.org/abs/2605.31556v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Learning to Adapt] Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration|[[pdf]](http://arxiv.org/abs/2605.31365v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions|[[pdf]](http://arxiv.org/abs/2605.31586v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[DRIFT] DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization|[[pdf]](http://arxiv.org/abs/2605.31455v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Skill Reuse as Compression in Agentic RL|[[pdf]](http://arxiv.org/abs/2605.31509v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Value Functions as Supermartingale Certificates|[[pdf]](http://arxiv.org/abs/2605.31524v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Chem-PerturBridge] Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects|[[pdf]](http://arxiv.org/abs/2605.31522v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Effective Biological Representation Learning by Masking Gene Expression|[[pdf]](http://arxiv.org/abs/2605.31562v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Separating Secrets from Placeholders: A Hybrid CNN-CodeBERT Framework for Three-Class Credential Leakage Detection|[[pdf]](http://arxiv.org/abs/2605.31520v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[AutoSci] AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle|[[pdf]](http://arxiv.org/abs/2605.31468v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Answer-Set-Programming-based Abstractions for Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.31444v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[DOA] DOA: Training-Free Decoder-Only Attention Policy for Long-Form Simultaneous Translation with SpeechLLMs|[[pdf]](http://arxiv.org/abs/2605.31432v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Can Generative AI help people navigate Radical Moral Disagreements? The CONSIDER prototype|[[pdf]](http://arxiv.org/abs/2605.31574v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Self-Tuning Regularization for Image Scanning Microscopy|[[pdf]](http://arxiv.org/abs/2605.31426v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Astra] Astra: a generalizable report generation foundation model for 3D computed tomography|[[pdf]](http://arxiv.org/abs/2605.31437v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control|[[pdf]](http://arxiv.org/abs/2605.23863v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|How Many Training Samples Are Needed for the Inverse Kinematics Solutions by Artificial Neural Networks|[[pdf]](http://arxiv.org/abs/2605.23583v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos|[[pdf]](http://arxiv.org/abs/2605.23762v1)|⚠️|⭐️⭐️⭐️|
@@ -2988,6 +3020,6 @@
 
 ## 📊 统计
 
-- 论文总数：2962篇
+- 论文总数：2994篇
 - 代码实现：20个
-- 最后更新：2026年05月
+- 最后更新：2026年06月

@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making|[[pdf]](http://arxiv.org/abs/2605.31460v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|The Sword, Shield, and Achilles' Heel: Characterizing the Linguistic Inductive Bias of Large Language Models for Spatial Reasoning in Navigation Planning|[[pdf]](http://arxiv.org/abs/2605.31404v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2605.31595v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[en] Signal Temporal Logic Motion Planning via Graphs of Convex Sets|[[pdf]](http://arxiv.org/abs/2605.23240v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[Multi-robot] Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios|[[pdf]](http://arxiv.org/abs/2605.07877v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[LiteGUI] LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.07505v1)|⚠️|⭐️⭐️⭐️|
@@ -312,6 +315,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 288
+- Total Papers: 291
 - Code Implementations: 6
-- Last Updated: May 2026
+- Last Updated: June 2026

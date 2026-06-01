@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|[LiftNav] LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2605.31376v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Triangle Splatting SLAM|[[pdf]](http://arxiv.org/abs/2605.31419v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Not Too Generative, Not Too Discriminative: The Human Alignment Sweet Spot|[[pdf]](http://arxiv.org/abs/2605.23819v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[CVSearch] CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception|[[pdf]](http://arxiv.org/abs/2605.23655v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[en] SFG-ROS: A Resource-Aware Framework for Dense Multi-Agent Perception|[[pdf]](http://arxiv.org/abs/2605.23832v1)|⚠️|⭐️⭐️⭐️|
@@ -448,6 +450,6 @@
 
 ## 📊 统计
 
-- 论文总数：424篇
+- 论文总数：426篇
 - 代码实现：8个
-- 最后更新：2026年05月
+- 最后更新：2026年06月

@@ -18,6 +18,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|[IDOL] IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2605.31476v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization|[[pdf]](http://arxiv.org/abs/2605.31558v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[FAM-Bench] FAM-Bench: A Multimodal Benchmark for Condition-Aware Food-as-Medicine Reasoning|[[pdf]](http://arxiv.org/abs/2605.31410v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[HypoAgent] HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs|[[pdf]](http://arxiv.org/abs/2605.31370v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Skill Availability and Presentation Granularity in Large-Language-Model Agents: A Controlled SkillsBench Study|[[pdf]](http://arxiv.org/abs/2605.31408v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[Assign and Add] Assign and Add: A Mechanistic Study of Compositional Arithmetic|[[pdf]](http://arxiv.org/abs/2605.31497v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[FBHM] FBHM: Functional Benchmarking and Steering of VLMs for Hateful Meme Detection|[[pdf]](http://arxiv.org/abs/2605.31349v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[SOCO] SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models|[[pdf]](http://arxiv.org/abs/2605.31597v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[VolFill] VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching|[[pdf]](http://arxiv.org/abs/2605.31466v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[en] nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving|[[pdf]](http://arxiv.org/abs/2605.31572v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[SPACENUM] SPACENUM: Revisiting Spatial Numerical Understanding in VLMs|[[pdf]](http://arxiv.org/abs/2605.23898v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[PhotoFlow] PhotoFlow: Agentic 3D Virtual Photography Missions|[[pdf]](http://arxiv.org/abs/2605.23771v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[ETCHR] ETCHR: Editing To Clarify and Harness Reasoning|[[pdf]](http://arxiv.org/abs/2605.23897v1)|⚠️|⭐️⭐️⭐️|
@@ -636,6 +646,6 @@
 
 ## 📊 统计
 
-- 论文总数：615篇
+- 论文总数：625篇
 - 代码实现：5个
-- 最后更新：2026年05月
+- 最后更新：2026年06月

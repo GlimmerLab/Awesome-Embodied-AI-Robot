@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|Trajectory Planning for Non-Communicating Mobile Robots using Inverse Optimal Control|[[pdf]](http://arxiv.org/abs/2605.30906v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Actuator-Aware Inverse Kinematics with Joint-Limit Admissibility for Torque-Controlled Redundant Robots|[[pdf]](http://arxiv.org/abs/2605.31436v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[en] Adaptive Artificial Time-Delay Control with Barrier Lyapunov Constraints for Euler-Lagrange Robots|[[pdf]](http://arxiv.org/abs/2605.31405v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[Any2Any] Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking|[[pdf]](http://arxiv.org/abs/2605.23733v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[en] Sparse Compositional Flow Matching by geometric assembly from motion primitives|[[pdf]](http://arxiv.org/abs/2605.23341v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems|[[pdf]](http://arxiv.org/abs/2605.23179v1)|⚠️|⭐️⭐️⭐️|
@@ -558,6 +561,6 @@
 
 ## 📊 统计
 
-- 论文总数：533篇
+- 论文总数：536篇
 - 代码实现：8个
-- 最后更新：2026年05月
+- 最后更新：2026年06月

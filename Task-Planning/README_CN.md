@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making|[[pdf]](http://arxiv.org/abs/2605.31460v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|The Sword, Shield, and Achilles' Heel: Characterizing the Linguistic Inductive Bias of Large Language Models for Spatial Reasoning in Navigation Planning|[[pdf]](http://arxiv.org/abs/2605.31404v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2605.31595v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[en] Signal Temporal Logic Motion Planning via Graphs of Convex Sets|[[pdf]](http://arxiv.org/abs/2605.23240v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[Multi-robot] Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios|[[pdf]](http://arxiv.org/abs/2605.07877v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-08|[LiteGUI] LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2605.07505v1)|⚠️|⭐️⭐️⭐️|
@@ -312,6 +315,6 @@
 
 ## 📊 统计
 
-- 论文总数：288篇
+- 论文总数：291篇
 - 代码实现：6个
-- 最后更新：2026年05月
+- 最后更新：2026年06月

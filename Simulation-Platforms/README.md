@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|[Collision] Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2605.31196v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Simulation of collision avoidance behavior in crowd movement by data-driven approach|[[pdf]](http://arxiv.org/abs/2605.31210v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[SkillOpt] SkillOpt: Executive Strategy for Self-Evolving Agent Skills|[[pdf]](http://arxiv.org/abs/2605.23904v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[Preisach Attention] Preisach Attention: A Hysteretic Model of Sequential Memory|[[pdf]](http://arxiv.org/abs/2605.23603v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[en] Autonomous Frontier-Based Exploration with VLM Guidance|[[pdf]](http://arxiv.org/abs/2605.23165v1)|⚠️|⭐️⭐️⭐️|
@@ -545,6 +547,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 520
+- Total Papers: 522
 - Code Implementations: 21
-- Last Updated: May 2026
+- Last Updated: June 2026

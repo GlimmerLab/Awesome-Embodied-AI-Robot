@@ -25,6 +25,12 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-05-29|Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely|[[pdf]](http://arxiv.org/abs/2605.31387v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|[en] Shaft-integrated Force Sensing with Transformer-based Dynamics Compensation for Telesurgery|[[pdf]](http://arxiv.org/abs/2605.31434v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|How can embedding models bind concepts?|[[pdf]](http://arxiv.org/abs/2605.31503v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Toward Accessible Mobile Money: A Voice-Driven, Biometrically Secured USSD Automation Framework for Visually Impaired Users|[[pdf]](http://arxiv.org/abs/2605.31375v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Personalize Your Large Vision-language Models With In-context Prompt Tuning|[[pdf]](http://arxiv.org/abs/2605.31513v1)|⚠️|⭐️⭐️⭐️|
+|2026-05-29|Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization|[[pdf]](http://arxiv.org/abs/2605.31312v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2605.23477v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[TactileReflex] TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation|[[pdf]](http://arxiv.org/abs/2605.23568v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[DrawVideo] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches|[[pdf]](http://arxiv.org/abs/2605.23508v1)|⚠️|⭐️⭐️⭐️|
@@ -390,6 +396,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 365
+- Total Papers: 371
 - Code Implementations: 6
-- Last Updated: May 2026
+- Last Updated: June 2026
