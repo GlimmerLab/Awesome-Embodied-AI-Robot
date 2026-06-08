@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints|[[pdf]](http://arxiv.org/abs/2606.06877v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope|[[pdf]](http://arxiv.org/abs/2606.07489v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making|[[pdf]](http://arxiv.org/abs/2605.31460v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|The Sword, Shield, and Achilles' Heel: Characterizing the Linguistic Inductive Bias of Large Language Models for Spatial Reasoning in Navigation Planning|[[pdf]](http://arxiv.org/abs/2605.31404v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2605.31595v1)|⚠️|⭐️⭐️⭐️|
@@ -315,6 +317,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 291
+- Total Papers: 293
 - Code Implementations: 6
 - Last Updated: June 2026

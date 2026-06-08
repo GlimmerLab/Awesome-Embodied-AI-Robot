@@ -47,6 +47,25 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation|[[pdf]](http://arxiv.org/abs/2606.07506v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering|[[pdf]](http://arxiv.org/abs/2606.07193v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Spline Policy: A Structured Representation for Robot Policies|[[pdf]](http://arxiv.org/abs/2606.07386v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Predictive Style Matching: Natural and Robust Humanoid Locomotion|[[pdf]](http://arxiv.org/abs/2606.07083v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation|[[pdf]](http://arxiv.org/abs/2606.07118v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Robotic Policy Adaptation via Weight-Space Meta-Learning|[[pdf]](http://arxiv.org/abs/2606.07217v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] ActionMap: Robot Policy Learning via Voxel Action Heatmap|[[pdf]](http://arxiv.org/abs/2606.06904v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] RhinoVLA Technical Report|[[pdf]](http://arxiv.org/abs/2606.07383v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] LARA: Latent Action Representation Alignment for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2606.07100v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] A Multi-Operator Mixed-Reality Interface for Multi-Robot Control and Coordination: Co-Located and Private Workspace Collaboration|[[pdf]](http://arxiv.org/abs/2606.07013v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability|[[pdf]](http://arxiv.org/abs/2606.07437v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] CAPE: Contrastive Action-conditioned Parallel Encoding for Embodied Planning|[[pdf]](http://arxiv.org/abs/2606.07304v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Mitosis Detection in the Wild: Multi-Tumor and Context-Aware Generalization in the MIDOG 2025 Challenge|[[pdf]](http://arxiv.org/abs/2606.07368v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Self-evolving LLM agents with in-distribution Optimization|[[pdf]](http://arxiv.org/abs/2606.07367v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[Socratic-SWE] Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills|[[pdf]](http://arxiv.org/abs/2606.07412v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Unsupervised Continual Clustering via Forward-Backward Knowledge Distillation|[[pdf]](http://arxiv.org/abs/2606.07474v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Impact of Synthetic Lesional MR Images in Automated Focal Cortical Dysplasia Detection in Low-Data Scenarios|[[pdf]](http://arxiv.org/abs/2606.07381v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification|[[pdf]](http://arxiv.org/abs/2606.07479v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Video-Based Prediction of In-Flight Particle Characteristics in Atmospheric Plasma Spraying|[[pdf]](http://arxiv.org/abs/2606.07416v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2605.31343v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|A study on a Real-Time VR-Based Teleoperation Framework for Manipulator in Dynamic Environment|[[pdf]](http://arxiv.org/abs/2605.30989v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[Haptic Sorter] Haptic Sorter: A Unified Planning Framework for Online Shape Estimation and Real-Time Pose Inference|[[pdf]](http://arxiv.org/abs/2605.31352v1)|⚠️|⭐️⭐️⭐️|
@@ -3020,6 +3039,6 @@
 
 ## 📊 统计
 
-- 论文总数：2994篇
+- 论文总数：3013篇
 - 代码实现：20个
 - 最后更新：2026年06月

@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists|[[pdf]](http://arxiv.org/abs/2606.07424v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Three-dimensional hydro-cluttered locomotion by an undulatory robot|[[pdf]](http://arxiv.org/abs/2606.06829v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Does Appearance Help? A Systematic Study of Image-Based Re-Identification in Online 3D Multi-Pedestrian Tracking|[[pdf]](http://arxiv.org/abs/2606.07233v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Trajectory Planning for Non-Communicating Mobile Robots using Inverse Optimal Control|[[pdf]](http://arxiv.org/abs/2605.30906v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Actuator-Aware Inverse Kinematics with Joint-Limit Admissibility for Torque-Controlled Redundant Robots|[[pdf]](http://arxiv.org/abs/2605.31436v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[en] Adaptive Artificial Time-Delay Control with Barrier Lyapunov Constraints for Euler-Lagrange Robots|[[pdf]](http://arxiv.org/abs/2605.31405v1)|⚠️|⭐️⭐️⭐️|
@@ -561,6 +564,6 @@
 
 ## 📊 统计
 
-- 论文总数：536篇
+- 论文总数：539篇
 - 代码实现：8个
 - 最后更新：2026年06月

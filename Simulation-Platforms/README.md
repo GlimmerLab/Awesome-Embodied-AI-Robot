@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping|[[pdf]](http://arxiv.org/abs/2606.07389v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[en] Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension|[[pdf]](http://arxiv.org/abs/2606.06790v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|[CoMetaPNS] CoMetaPNS: Continually Meta-learning Personalized Neural Surrogates for Cardiac Electrophysiology Simulations|[[pdf]](http://arxiv.org/abs/2606.07488v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates|[[pdf]](http://arxiv.org/abs/2606.07463v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning Approach|[[pdf]](http://arxiv.org/abs/2606.07483v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[Collision] Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration|[[pdf]](http://arxiv.org/abs/2605.31196v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Simulation of collision avoidance behavior in crowd movement by data-driven approach|[[pdf]](http://arxiv.org/abs/2605.31210v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|[SkillOpt] SkillOpt: Executive Strategy for Self-Evolving Agent Skills|[[pdf]](http://arxiv.org/abs/2605.23904v1)|⚠️|⭐️⭐️⭐️|
@@ -547,6 +552,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 522
+- Total Papers: 527
 - Code Implementations: 21
 - Last Updated: June 2026

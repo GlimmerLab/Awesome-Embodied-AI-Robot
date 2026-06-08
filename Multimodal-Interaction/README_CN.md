@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] What Is My Robot Thinking? Design Considerations for Transparent and Trustworthy Shared Autonomy|[[pdf]](http://arxiv.org/abs/2606.06870v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Covariance Shrinkage via Stochastic Interpolation|[[pdf]](http://arxiv.org/abs/2606.07382v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely|[[pdf]](http://arxiv.org/abs/2605.31387v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[en] Shaft-integrated Force Sensing with Transformer-based Dynamics Compensation for Telesurgery|[[pdf]](http://arxiv.org/abs/2605.31434v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|How can embedding models bind concepts?|[[pdf]](http://arxiv.org/abs/2605.31503v1)|⚠️|⭐️⭐️⭐️|
@@ -396,6 +398,6 @@
 
 ## 📊 统计
 
-- 论文总数：371篇
+- 论文总数：373篇
 - 代码实现：6个
 - 最后更新：2026年06月

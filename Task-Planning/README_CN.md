@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints|[[pdf]](http://arxiv.org/abs/2606.06877v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope|[[pdf]](http://arxiv.org/abs/2606.07489v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making|[[pdf]](http://arxiv.org/abs/2605.31460v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|The Sword, Shield, and Achilles' Heel: Characterizing the Linguistic Inductive Bias of Large Language Models for Spatial Reasoning in Navigation Planning|[[pdf]](http://arxiv.org/abs/2605.31404v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2605.31595v1)|⚠️|⭐️⭐️⭐️|
@@ -315,6 +317,6 @@
 
 ## 📊 统计
 
-- 论文总数：291篇
+- 论文总数：293篇
 - 代码实现：6个
 - 最后更新：2026年06月

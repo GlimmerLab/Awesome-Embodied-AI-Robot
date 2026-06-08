@@ -18,6 +18,8 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[MemDreamer] MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism|[[pdf]](http://arxiv.org/abs/2606.07512v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Automatic, Debiased, and Invariant Counterfactual Generation under General Interventions|[[pdf]](http://arxiv.org/abs/2606.07399v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[IDOL] IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2605.31476v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization|[[pdf]](http://arxiv.org/abs/2605.31558v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[FAM-Bench] FAM-Bench: A Multimodal Benchmark for Condition-Aware Food-as-Medicine Reasoning|[[pdf]](http://arxiv.org/abs/2605.31410v1)|⚠️|⭐️⭐️⭐️|
@@ -646,6 +648,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 625
+- Total Papers: 627
 - Code Implementations: 5
 - Last Updated: June 2026

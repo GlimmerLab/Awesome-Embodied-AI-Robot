@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[en] What Is My Robot Thinking? Design Considerations for Transparent and Trustworthy Shared Autonomy|[[pdf]](http://arxiv.org/abs/2606.06870v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Covariance Shrinkage via Stochastic Interpolation|[[pdf]](http://arxiv.org/abs/2606.07382v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely|[[pdf]](http://arxiv.org/abs/2605.31387v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[en] Shaft-integrated Force Sensing with Transformer-based Dynamics Compensation for Telesurgery|[[pdf]](http://arxiv.org/abs/2605.31434v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|How can embedding models bind concepts?|[[pdf]](http://arxiv.org/abs/2605.31503v1)|⚠️|⭐️⭐️⭐️|
@@ -396,6 +398,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 371
+- Total Papers: 373
 - Code Implementations: 6
 - Last Updated: June 2026

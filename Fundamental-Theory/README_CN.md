@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-05|[MemDreamer] MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism|[[pdf]](http://arxiv.org/abs/2606.07512v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-05|Automatic, Debiased, and Invariant Counterfactual Generation under General Interventions|[[pdf]](http://arxiv.org/abs/2606.07399v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[IDOL] IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2605.31476v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization|[[pdf]](http://arxiv.org/abs/2605.31558v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[FAM-Bench] FAM-Bench: A Multimodal Benchmark for Condition-Aware Food-as-Medicine Reasoning|[[pdf]](http://arxiv.org/abs/2605.31410v1)|⚠️|⭐️⭐️⭐️|
@@ -646,6 +648,6 @@
 
 ## 📊 统计
 
-- 论文总数：625篇
+- 论文总数：627篇
 - 代码实现：5个
 - 最后更新：2026年06月
