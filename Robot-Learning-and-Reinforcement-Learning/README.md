@@ -47,6 +47,35 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|Robust Fall Recovery for Armless Bipedal-Wheeled Robots Via Force-Guided Learning|[[pdf]](http://arxiv.org/abs/2606.14270v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Kine2Go] Kine2Go: Kinematic dataset for the Unitree Go2 robot with diverse gaits and motions|[[pdf]](http://arxiv.org/abs/2606.14433v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models|[[pdf]](http://arxiv.org/abs/2606.14375v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Hyper-Dexterous] ORCA: A Platform for Open-Source Dexterity Research|[[pdf]](http://arxiv.org/abs/2606.14561v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[ReactVLA] ReactVLA: Fast and Lightweight Reactive Robot Manipulation via Improved Mean Flow Action Generation|[[pdf]](http://arxiv.org/abs/2606.14255v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Learning] Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack|[[pdf]](http://arxiv.org/abs/2606.14409v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control|[[pdf]](http://arxiv.org/abs/2606.14699v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[TRACE] TRACE: Trajectory-Routed Causal Memory for Delayed-Evidence Visuomotor Imitation|[[pdf]](http://arxiv.org/abs/2606.14551v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Provably Safe, Yet Scalable Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2606.14536v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Learning] EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning|[[pdf]](http://arxiv.org/abs/2606.14665v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Abstracting Cross-Domain Action Sequences into Interpretable Workflows|[[pdf]](http://arxiv.org/abs/2606.14654v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2606.14693v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Spatially Conditioned Diffusion Policy: Learning Precise and Robust Manipulation with a Single RGB Camera|[[pdf]](http://arxiv.org/abs/2606.14535v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI|[[pdf]](http://arxiv.org/abs/2606.14502v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[en] The N2D Haptic Glove: A Multi-Finger Glove for 2D Directional Force Feedback for Contact Rich Manipulation|[[pdf]](http://arxiv.org/abs/2606.14083v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[en] Self-Improving VLA Policies: Selected Diffusion Noise for Spurious-Robust Action Smoothing|[[pdf]](http://arxiv.org/abs/2606.14084v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency|[[pdf]](http://arxiv.org/abs/2606.14609v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[VISTA] VISTA: View-Consistent Self-Verified Training for GUI Grounding|[[pdf]](http://arxiv.org/abs/2606.14579v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[CottonLeafVision] CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification|[[pdf]](http://arxiv.org/abs/2606.14686v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Moonlight in Latent Space: Chirality and Structural Correspondence Between Beethoven's Op. 27 No. 2 and Machine Learning Mechanisms|[[pdf]](http://arxiv.org/abs/2606.14612v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Regional Climate Model Emulation with Diffusion Approaches: What is the Added Value of Generative Machine Learning?|[[pdf]](http://arxiv.org/abs/2606.14570v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Which Directions Matter? Sparse Design for Affine Robust Optimization|[[pdf]](http://arxiv.org/abs/2606.14648v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|A Statistical and Machine Learning Framework for Operational Threshold Detection and Deployable Dispatch Controller Development in Hydrogen Multi-Energy Systems|[[pdf]](http://arxiv.org/abs/2606.14601v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|A Fixed-Point Neural Operator for Size- and Functional-Transferable Hamiltonian Prediction|[[pdf]](http://arxiv.org/abs/2606.14498v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[en] Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks|[[pdf]](http://arxiv.org/abs/2606.14504v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[en] BIM-Loc: BIM-Integrated Discrepancy-Aware LiDAR-based Indoor Localization|[[pdf]](http://arxiv.org/abs/2606.14237v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[en] S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning|[[pdf]](http://arxiv.org/abs/2606.14586v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[en] Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications|[[pdf]](http://arxiv.org/abs/2606.14658v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[HPSv3++] HPSv3++: Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities|[[pdf]](http://arxiv.org/abs/2606.14657v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation|[[pdf]](http://arxiv.org/abs/2606.07506v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Shield-Loco: Shielding Locomotion Policies with Predictive Safety Filtering|[[pdf]](http://arxiv.org/abs/2606.07193v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Spline Policy: A Structured Representation for Robot Policies|[[pdf]](http://arxiv.org/abs/2606.07386v1)|⚠️|⭐️⭐️⭐️|
@@ -3039,6 +3068,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3013
+- Total Papers: 3042
 - Code Implementations: 20
 - Last Updated: June 2026

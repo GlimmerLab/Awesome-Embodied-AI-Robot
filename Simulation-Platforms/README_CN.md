@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|[GAIT] GAIT: Legged Robot Proprioceptive State Estimation with Attention over Inertial-Leg Tokens|[[pdf]](http://arxiv.org/abs/2606.14160v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Robustness without Wrinkles: Parallel Simulation and Robust MPC for Certified Deformable Manipulation|[[pdf]](http://arxiv.org/abs/2606.14188v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks|[[pdf]](http://arxiv.org/abs/2606.14386v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[CARE] CARE: Controlling LLM-Generated Policies through Auditable Review of Evidence in Scientific Experimentation|[[pdf]](http://arxiv.org/abs/2606.14581v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping|[[pdf]](http://arxiv.org/abs/2606.07389v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension|[[pdf]](http://arxiv.org/abs/2606.06790v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[CoMetaPNS] CoMetaPNS: Continually Meta-learning Personalized Neural Surrogates for Cardiac Electrophysiology Simulations|[[pdf]](http://arxiv.org/abs/2606.07488v1)|⚠️|⭐️⭐️⭐️|
@@ -552,6 +556,6 @@
 
 ## 📊 统计
 
-- 论文总数：527篇
+- 论文总数：531篇
 - 代码实现：21个
 - 最后更新：2026年06月

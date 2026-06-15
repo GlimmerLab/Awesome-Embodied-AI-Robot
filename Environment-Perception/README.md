@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|[en] A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance|[[pdf]](http://arxiv.org/abs/2606.14089v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens|[[pdf]](http://arxiv.org/abs/2606.14534v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Pano3D] Pano3D: Unified 3D Reconstruction and Panoptic Segmentation|[[pdf]](http://arxiv.org/abs/2606.14307v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[SED] SED:Lightweight Saliency prediction for Event-based data via Distillation|[[pdf]](http://arxiv.org/abs/2606.14631v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[LiftNav] LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2605.31376v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Triangle Splatting SLAM|[[pdf]](http://arxiv.org/abs/2605.31419v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Not Too Generative, Not Too Discriminative: The Human Alignment Sweet Spot|[[pdf]](http://arxiv.org/abs/2605.23819v1)|⚠️|⭐️⭐️⭐️|
@@ -450,6 +454,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 426
+- Total Papers: 430
 - Code Implementations: 8
 - Last Updated: June 2026

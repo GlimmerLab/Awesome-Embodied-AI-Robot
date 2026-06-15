@@ -25,6 +25,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|Impedance MPC with Disturbance Estimation for Dexterous Hand Control|[[pdf]](http://arxiv.org/abs/2606.14606v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI|[[pdf]](http://arxiv.org/abs/2606.14602v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback|[[pdf]](http://arxiv.org/abs/2606.14218v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More|[[pdf]](http://arxiv.org/abs/2606.14476v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[AERMANI-PLACE] AERMANI-PLACE: Language Guided Object Placement with Aerial Manipulators|[[pdf]](http://arxiv.org/abs/2606.14531v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Gaze Heads] Gaze Heads: How VLMs Look at What They Describe|[[pdf]](http://arxiv.org/abs/2606.14703v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective|[[pdf]](http://arxiv.org/abs/2606.14299v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] What Is My Robot Thinking? Design Considerations for Transparent and Trustworthy Shared Autonomy|[[pdf]](http://arxiv.org/abs/2606.06870v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|Covariance Shrinkage via Stochastic Interpolation|[[pdf]](http://arxiv.org/abs/2606.07382v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely|[[pdf]](http://arxiv.org/abs/2605.31387v1)|⚠️|⭐️⭐️⭐️|
@@ -398,6 +405,6 @@
 
 ## 📊 统计
 
-- 论文总数：373篇
+- 论文总数：380篇
 - 代码实现：6个
 - 最后更新：2026年06月

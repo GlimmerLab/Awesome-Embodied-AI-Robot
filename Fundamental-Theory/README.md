@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health|[[pdf]](http://arxiv.org/abs/2606.14604v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[ClinHallu] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning|[[pdf]](http://arxiv.org/abs/2606.14697v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[SIMMER] SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model|[[pdf]](http://arxiv.org/abs/2606.14574v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Zero-shot generalization of transformer neural operators to larger domains|[[pdf]](http://arxiv.org/abs/2606.14597v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|No Accidental Software Agent First Canonical Code for Human Code Entropy Reduction and 30 to 500 times Lower Frontier Model Requirements|[[pdf]](http://arxiv.org/abs/2606.14357v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Fodor and Pylyshyn's Systematicity Challenge Still Stands|[[pdf]](http://arxiv.org/abs/2606.14512v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[MemDreamer] MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism|[[pdf]](http://arxiv.org/abs/2606.07512v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|Automatic, Debiased, and Invariant Counterfactual Generation under General Interventions|[[pdf]](http://arxiv.org/abs/2606.07399v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[IDOL] IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving|[[pdf]](http://arxiv.org/abs/2605.31476v1)|⚠️|⭐️⭐️⭐️|
@@ -648,6 +654,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 627
+- Total Papers: 633
 - Code Implementations: 5
 - Last Updated: June 2026

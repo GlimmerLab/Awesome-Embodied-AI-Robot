@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms|[[pdf]](http://arxiv.org/abs/2606.14617v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[SyLink Hand] SyLink Hand: A Synergy-Inspired Linkage-Driven Anthropomorphic Hand for Human-Like Dexterity|[[pdf]](http://arxiv.org/abs/2606.14250v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Sensitivity Shaping for Latent Modeling|[[pdf]](http://arxiv.org/abs/2606.14585v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[FloVerse] FloVerse: Floor Plan-Guided Multi-Modal Navigation|[[pdf]](http://arxiv.org/abs/2606.14267v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|Short-Horizon Position Accuracy of Single-Track Models: Implications for Motion Planning of Autonomous Vehicles|[[pdf]](http://arxiv.org/abs/2606.14216v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Rapid co-design of Buoyancy-assisted robots for Challenging Locomotion using Gaussian Evolutionary Specialists|[[pdf]](http://arxiv.org/abs/2606.07424v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Three-dimensional hydro-cluttered locomotion by an undulatory robot|[[pdf]](http://arxiv.org/abs/2606.06829v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Does Appearance Help? A Systematic Study of Image-Based Re-Identification in Online 3D Multi-Pedestrian Tracking|[[pdf]](http://arxiv.org/abs/2606.07233v1)|⚠️|⭐️⭐️⭐️|
@@ -564,6 +569,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 539
+- Total Papers: 544
 - Code Implementations: 8
 - Last Updated: June 2026

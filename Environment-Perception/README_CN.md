@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-12|[en] A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance|[[pdf]](http://arxiv.org/abs/2606.14089v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens|[[pdf]](http://arxiv.org/abs/2606.14534v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[Pano3D] Pano3D: Unified 3D Reconstruction and Panoptic Segmentation|[[pdf]](http://arxiv.org/abs/2606.14307v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-12|[SED] SED:Lightweight Saliency prediction for Event-based data via Distillation|[[pdf]](http://arxiv.org/abs/2606.14631v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|[LiftNav] LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting|[[pdf]](http://arxiv.org/abs/2605.31376v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-29|Triangle Splatting SLAM|[[pdf]](http://arxiv.org/abs/2605.31419v1)|⚠️|⭐️⭐️⭐️|
 |2026-05-22|Not Too Generative, Not Too Discriminative: The Human Alignment Sweet Spot|[[pdf]](http://arxiv.org/abs/2605.23819v1)|⚠️|⭐️⭐️⭐️|
@@ -450,6 +454,6 @@
 
 ## 📊 统计
 
-- 论文总数：426篇
+- 论文总数：430篇
 - 代码实现：8个
 - 最后更新：2026年06月
