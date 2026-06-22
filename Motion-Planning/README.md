@@ -32,6 +32,9 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|Increasing Resilience of Continuum Robots via Motion Planning Algorithms|[[pdf]](http://arxiv.org/abs/2606.20495v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|An Infrastructure-less, Control-Independent Solution to Relative Localisation of a Team of Mobile Robots using Ranging Measurements|[[pdf]](http://arxiv.org/abs/2606.20365v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Stable Transformer-Actor-Critic Model Predictive Control: A Contraction Analysis Approach|[[pdf]](http://arxiv.org/abs/2606.20197v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms|[[pdf]](http://arxiv.org/abs/2606.14617v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[SyLink Hand] SyLink Hand: A Synergy-Inspired Linkage-Driven Anthropomorphic Hand for Human-Like Dexterity|[[pdf]](http://arxiv.org/abs/2606.14250v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Sensitivity Shaping for Latent Modeling|[[pdf]](http://arxiv.org/abs/2606.14585v1)|⚠️|⭐️⭐️⭐️|
@@ -569,6 +572,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 544
+- Total Papers: 547
 - Code Implementations: 8
 - Last Updated: June 2026

@@ -25,6 +25,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|[Hyper-Dexterous] Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2606.20193v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Learning] CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation|[[pdf]](http://arxiv.org/abs/2606.20389v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[GroundControl] GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates|[[pdf]](http://arxiv.org/abs/2606.20479v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe|[[pdf]](http://arxiv.org/abs/2606.20381v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Spectral Query-Key Product Weight Steering for Training-Free VLM Hallucination Mitigation|[[pdf]](http://arxiv.org/abs/2606.20419v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Impedance MPC with Disturbance Estimation for Dexterous Hand Control|[[pdf]](http://arxiv.org/abs/2606.14606v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI|[[pdf]](http://arxiv.org/abs/2606.14602v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback|[[pdf]](http://arxiv.org/abs/2606.14218v1)|⚠️|⭐️⭐️⭐️|
@@ -405,6 +410,6 @@
 
 ## 📊 统计
 
-- 论文总数：380篇
+- 论文总数：385篇
 - 代码实现：6个
 - 最后更新：2026年06月

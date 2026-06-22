@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|[LIT-GS] LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping|[[pdf]](http://arxiv.org/abs/2606.20424v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[JanusMesh] JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising|[[pdf]](http://arxiv.org/abs/2606.20563v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[en] A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance|[[pdf]](http://arxiv.org/abs/2606.14089v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens|[[pdf]](http://arxiv.org/abs/2606.14534v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[Pano3D] Pano3D: Unified 3D Reconstruction and Panoptic Segmentation|[[pdf]](http://arxiv.org/abs/2606.14307v1)|⚠️|⭐️⭐️⭐️|
@@ -454,6 +456,6 @@
 
 ## 📊 统计
 
-- 论文总数：430篇
+- 论文总数：432篇
 - 代码实现：8个
 - 最后更新：2026年06月

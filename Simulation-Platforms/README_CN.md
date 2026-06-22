@@ -39,6 +39,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|Evaluation of Augmented Reality-based Intuitive Interface for Robot-Assisted Transesophageal Echocardiography: A User Study|[[pdf]](http://arxiv.org/abs/2606.19971v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Autonomous Driving with Priority-Ordered STL Specifications Under Multimodal Uncertainty|[[pdf]](http://arxiv.org/abs/2606.20336v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[The Register Gap] The Register Gap: A Meaning Intelligence Framework for Nigerian Public Discourse|[[pdf]](http://arxiv.org/abs/2606.20255v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[FreeStyle] FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining|[[pdf]](http://arxiv.org/abs/2606.20506v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[FlowEdit] FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS|[[pdf]](http://arxiv.org/abs/2606.20518v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[DeepForestVisionV2] DeepForestVisionV2: Ecology-Driven Taxonomy Expansion for Camera-Trap Monitoring in African Tropical Forests|[[pdf]](http://arxiv.org/abs/2606.20223v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[GAIT] GAIT: Legged Robot Proprioceptive State Estimation with Attention over Inertial-Leg Tokens|[[pdf]](http://arxiv.org/abs/2606.14160v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Robustness without Wrinkles: Parallel Simulation and Robust MPC for Certified Deformable Manipulation|[[pdf]](http://arxiv.org/abs/2606.14188v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks|[[pdf]](http://arxiv.org/abs/2606.14386v1)|⚠️|⭐️⭐️⭐️|
@@ -556,6 +562,6 @@
 
 ## 📊 统计
 
-- 论文总数：531篇
+- 论文总数：537篇
 - 代码实现：21个
 - 最后更新：2026年06月

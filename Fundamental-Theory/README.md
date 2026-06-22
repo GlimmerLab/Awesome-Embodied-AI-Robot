@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|[Lagrange] Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving|[[pdf]](http://arxiv.org/abs/2606.20274v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference|[[pdf]](http://arxiv.org/abs/2606.20245v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Multi-Task Bayesian In-Context Learning|[[pdf]](http://arxiv.org/abs/2606.20538v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Multi-LCB] Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages|[[pdf]](http://arxiv.org/abs/2606.20517v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[en] HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-trainin|[[pdf]](http://arxiv.org/abs/2606.20189v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[S-Agent] S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence|[[pdf]](http://arxiv.org/abs/2606.20515v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health|[[pdf]](http://arxiv.org/abs/2606.14604v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[ClinHallu] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning|[[pdf]](http://arxiv.org/abs/2606.14697v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[SIMMER] SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model|[[pdf]](http://arxiv.org/abs/2606.14574v1)|⚠️|⭐️⭐️⭐️|
@@ -654,6 +660,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 633
+- Total Papers: 639
 - Code Implementations: 5
 - Last Updated: June 2026

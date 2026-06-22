@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution|[[pdf]](http://arxiv.org/abs/2606.20014v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems|[[pdf]](http://arxiv.org/abs/2606.14582v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime|[[pdf]](http://arxiv.org/abs/2606.14589v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-05|[en] Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints|[[pdf]](http://arxiv.org/abs/2606.06877v1)|⚠️|⭐️⭐️⭐️|
@@ -319,6 +320,6 @@
 
 ## 📊 统计
 
-- 论文总数：295篇
+- 论文总数：296篇
 - 代码实现：6个
 - 最后更新：2026年06月

@@ -47,6 +47,40 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-18|[Hyper-Dexterous] ENPIRE: Agentic Robot Policy Self-Improvement in the Real World|[[pdf]](http://arxiv.org/abs/2606.19980v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Learning] Generating Robot Hands from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2606.20549v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[TaCauchy] TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation|[[pdf]](http://arxiv.org/abs/2606.20426v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Co-VLA] Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems|[[pdf]](http://arxiv.org/abs/2606.20285v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation|[[pdf]](http://arxiv.org/abs/2606.20135v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Pose6DAug] Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation|[[pdf]](http://arxiv.org/abs/2606.20118v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation|[[pdf]](http://arxiv.org/abs/2606.20491v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Learning] Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think|[[pdf]](http://arxiv.org/abs/2606.20246v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[FlowMaps] FlowMaps: Modeling Long-Term Multimodal Object Dynamics with Flow Matching|[[pdf]](http://arxiv.org/abs/2606.20209v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[MemoryWAM] MemoryWAM: Efficient World Action Modeling with Persistent Memory|[[pdf]](http://arxiv.org/abs/2606.20562v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Slow Brain, Fast Planner: Latency-Resilient VLM-Augmented Urban Navigation|[[pdf]](http://arxiv.org/abs/2606.20458v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems|[[pdf]](http://arxiv.org/abs/2606.20031v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[CRAX] CRAX: Fast Safe Reinforcement Learning Benchmarking|[[pdf]](http://arxiv.org/abs/2606.20376v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[DeepSWIP] DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs|[[pdf]](http://arxiv.org/abs/2606.20526v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[SPOT-E] SPOT-E: Test-Time Entropy Shaping with Visual Spotlights for Frozen VLMs|[[pdf]](http://arxiv.org/abs/2606.20244v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[SARLO-80] SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm|[[pdf]](http://arxiv.org/abs/2606.20523v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Leveraging systems' non-linearity to tackle the scarcity of data in the design of Intelligent Fault Diagnosis Systems|[[pdf]](http://arxiv.org/abs/2606.20323v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|A Multi-Agent system for Multi-Objective constrained optimization|[[pdf]](http://arxiv.org/abs/2606.20236v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[en] Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications|[[pdf]](http://arxiv.org/abs/2606.20272v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Sparsity, Superposition, and Forgetting: A Mechanistic Study of Representation Retention in Continual Learning|[[pdf]](http://arxiv.org/abs/2606.20431v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving|[[pdf]](http://arxiv.org/abs/2606.20537v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software|[[pdf]](http://arxiv.org/abs/2606.20502v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Pseudo-Feature Padding: A Lightweight Defense Against False Data Injection in Power Grids|[[pdf]](http://arxiv.org/abs/2606.20415v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Efficient and Sound Probabilistic Verification for AI Agents|[[pdf]](http://arxiv.org/abs/2606.20510v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Data Bias Mitigation under Coverage Constraints & The Price of Fairness|[[pdf]](http://arxiv.org/abs/2606.20461v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[HEPTv2] HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction|[[pdf]](http://arxiv.org/abs/2606.20437v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[Contagion Networks] Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems|[[pdf]](http://arxiv.org/abs/2606.20493v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech|[[pdf]](http://arxiv.org/abs/2606.20532v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Organizing in the Digital Age: Understanding Community, Challenges, and Consequences in Digitally-facilitated Labor Organizing|[[pdf]](http://arxiv.org/abs/2606.20375v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[DataMagic] DataMagic: Transforming Tabular Data into Data Insight Video|[[pdf]](http://arxiv.org/abs/2606.20388v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[ELVA] ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval|[[pdf]](http://arxiv.org/abs/2606.20280v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[en] HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining|[[pdf]](http://arxiv.org/abs/2606.20521v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|Current World Models Lack a Persistent State Core|[[pdf]](http://arxiv.org/abs/2606.20545v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-18|[UNIEGO] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning|[[pdf]](http://arxiv.org/abs/2606.20559v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Robust Fall Recovery for Armless Bipedal-Wheeled Robots Via Force-Guided Learning|[[pdf]](http://arxiv.org/abs/2606.14270v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[Kine2Go] Kine2Go: Kinematic dataset for the Unitree Go2 robot with diverse gaits and motions|[[pdf]](http://arxiv.org/abs/2606.14433v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models|[[pdf]](http://arxiv.org/abs/2606.14375v1)|⚠️|⭐️⭐️⭐️|
@@ -3068,6 +3102,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3042
+- Total Papers: 3076
 - Code Implementations: 20
 - Last Updated: June 2026
