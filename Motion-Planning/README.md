@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-26|[en] CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation|[[pdf]](http://arxiv.org/abs/2606.27676v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2606.28300v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors|[[pdf]](http://arxiv.org/abs/2606.28237v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[EMOSH] EMOSH: Expressive Motion and Shape Disentanglement for Human Animation|[[pdf]](http://arxiv.org/abs/2606.28026v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-25|[en] SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction|[[pdf]](http://arxiv.org/abs/2606.27581v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Increasing Resilience of Continuum Robots via Motion Planning Algorithms|[[pdf]](http://arxiv.org/abs/2606.20495v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|An Infrastructure-less, Control-Independent Solution to Relative Localisation of a Team of Mobile Robots using Ranging Measurements|[[pdf]](http://arxiv.org/abs/2606.20365v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Stable Transformer-Actor-Critic Model Predictive Control: A Contraction Analysis Approach|[[pdf]](http://arxiv.org/abs/2606.20197v1)|⚠️|⭐️⭐️⭐️|
@@ -572,6 +577,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 547
+- Total Papers: 552
 - Code Implementations: 8
 - Last Updated: June 2026

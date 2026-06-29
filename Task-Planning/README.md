@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-26|[en] S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2606.27872v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution|[[pdf]](http://arxiv.org/abs/2606.20014v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems|[[pdf]](http://arxiv.org/abs/2606.14582v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime|[[pdf]](http://arxiv.org/abs/2606.14589v1)|⚠️|⭐️⭐️⭐️|
@@ -320,6 +321,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 296
+- Total Papers: 297
 - Code Implementations: 6
 - Last Updated: June 2026

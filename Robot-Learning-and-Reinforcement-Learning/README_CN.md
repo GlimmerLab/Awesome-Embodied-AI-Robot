@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-26|[en] PPO-EAL: Exact Augmented Lagrangian Proximal Policy Optimization for Safe Robotic Control|[[pdf]](http://arxiv.org/abs/2606.27861v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Booster Lab: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies|[[pdf]](http://arxiv.org/abs/2606.27813v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation|[[pdf]](http://arxiv.org/abs/2606.28276v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2606.28128v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks|[[pdf]](http://arxiv.org/abs/2606.27807v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots|[[pdf]](http://arxiv.org/abs/2606.28133v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation|[[pdf]](http://arxiv.org/abs/2606.28320v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence|[[pdf]](http://arxiv.org/abs/2606.27929v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] PA-BiCoop: A Primary-Auxiliary Cooperative Framework for General Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2606.28192v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2606.27871v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence Cloud-Native Simulation Infrastructure for Embodied Intelligence Training, Evaluation, and Data Collection|[[pdf]](http://arxiv.org/abs/2606.27962v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] P-ARC: Exploiting Subproblem Independence for Parallel Multi-Robot Motion Planning|[[pdf]](http://arxiv.org/abs/2606.27625v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space|[[pdf]](http://arxiv.org/abs/2606.28196v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Regularized Reward-Punishment Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2606.28152v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[DexCompose] DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand|[[pdf]](http://arxiv.org/abs/2606.28323v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[HAT-4D] HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration|[[pdf]](http://arxiv.org/abs/2606.28215v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection|[[pdf]](http://arxiv.org/abs/2606.28134v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|PAC-Bayesian Certificates for Quadratic Closed-Loop Control|[[pdf]](http://arxiv.org/abs/2606.28281v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte|[[pdf]](http://arxiv.org/abs/2606.28220v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection|[[pdf]](http://arxiv.org/abs/2606.28252v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs|[[pdf]](http://arxiv.org/abs/2606.28122v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Towards Automating Scientific Review with Google's Paper Assistant Tool|[[pdf]](http://arxiv.org/abs/2606.28277v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Functional outcomes and naturalistic engagement with a purpose-built conversational AI for mental health (Ash)|[[pdf]](http://arxiv.org/abs/2606.28241v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection|[[pdf]](http://arxiv.org/abs/2606.28002v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation|[[pdf]](http://arxiv.org/abs/2606.27978v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Context-Aware Explanations for Spatialized Document Layouts|[[pdf]](http://arxiv.org/abs/2606.28081v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Long-Term Prediction of Local and Global Human Motion with Occlusion Recovery|[[pdf]](http://arxiv.org/abs/2606.27900v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing|[[pdf]](http://arxiv.org/abs/2606.27926v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications|[[pdf]](http://arxiv.org/abs/2606.28070v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Hyper-Dexterous] ENPIRE: Agentic Robot Policy Self-Improvement in the Real World|[[pdf]](http://arxiv.org/abs/2606.19980v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Learning] Generating Robot Hands from Human Demonstrations|[[pdf]](http://arxiv.org/abs/2606.20549v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[TaCauchy] TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation|[[pdf]](http://arxiv.org/abs/2606.20426v1)|⚠️|⭐️⭐️⭐️|
@@ -3102,6 +3131,6 @@
 
 ## 📊 统计
 
-- 论文总数：3076篇
+- 论文总数：3105篇
 - 代码实现：20个
 - 最后更新：2026年06月

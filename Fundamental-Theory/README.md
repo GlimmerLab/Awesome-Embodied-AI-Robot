@@ -18,6 +18,18 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-26|[en] Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization|[[pdf]](http://arxiv.org/abs/2606.27663v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[LLawCo] LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior|[[pdf]](http://arxiv.org/abs/2606.28182v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[EchoSonar-R] EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography|[[pdf]](http://arxiv.org/abs/2606.28164v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction|[[pdf]](http://arxiv.org/abs/2606.28186v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[OperatorSHAP] OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators|[[pdf]](http://arxiv.org/abs/2606.28065v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] AirGroundBench: Probing Spatial Intelligence in Multimodal Large Models under Heterogeneous Multi-View Embodied Collaboration|[[pdf]](http://arxiv.org/abs/2606.28049v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures|[[pdf]](http://arxiv.org/abs/2606.28060v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[StructSplat] StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views|[[pdf]](http://arxiv.org/abs/2606.28321v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Monocular Avatar Reconstruction via Cascaded Diffusion Priors and UV-Space Differentiable Shading|[[pdf]](http://arxiv.org/abs/2606.28144v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[en] Agent-Native Immune System: Architecture, Taxonomy, and Engineering|[[pdf]](http://arxiv.org/abs/2606.28270v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation|[[pdf]](http://arxiv.org/abs/2606.28268v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|[STAG] STAG: Spatio-temporal Evolving Structural Representation of Action Units for Micro-expression Recognition|[[pdf]](http://arxiv.org/abs/2606.28083v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Lagrange] Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving|[[pdf]](http://arxiv.org/abs/2606.20274v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference|[[pdf]](http://arxiv.org/abs/2606.20245v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Multi-Task Bayesian In-Context Learning|[[pdf]](http://arxiv.org/abs/2606.20538v1)|⚠️|⭐️⭐️⭐️|
@@ -660,6 +672,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 639
+- Total Papers: 651
 - Code Implementations: 5
 - Last Updated: June 2026

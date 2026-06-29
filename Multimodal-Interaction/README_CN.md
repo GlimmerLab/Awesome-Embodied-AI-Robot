@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-26|[en] Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?|[[pdf]](http://arxiv.org/abs/2606.27755v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Typing Behavior in Human-LLM Interaction: Keystroke Dynamics Reveal Cognitive Effort During Prompting|[[pdf]](http://arxiv.org/abs/2606.28090v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Hyper-Dexterous] Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2606.20193v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Learning] CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation|[[pdf]](http://arxiv.org/abs/2606.20389v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[GroundControl] GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates|[[pdf]](http://arxiv.org/abs/2606.20479v1)|⚠️|⭐️⭐️⭐️|
@@ -410,6 +412,6 @@
 
 ## 📊 统计
 
-- 论文总数：385篇
+- 论文总数：387篇
 - 代码实现：6个
 - 最后更新：2026年06月

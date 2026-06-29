@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-06-26|[en] Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?|[[pdf]](http://arxiv.org/abs/2606.27755v1)|⚠️|⭐️⭐️⭐️|
+|2026-06-26|Typing Behavior in Human-LLM Interaction: Keystroke Dynamics Reveal Cognitive Effort During Prompting|[[pdf]](http://arxiv.org/abs/2606.28090v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Hyper-Dexterous] Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2606.20193v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Learning] CoLI: A Reproducible Platform for Continuum Robot Learning via Monolithic 3D Printing and Isomorphic Teleoperation|[[pdf]](http://arxiv.org/abs/2606.20389v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[GroundControl] GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates|[[pdf]](http://arxiv.org/abs/2606.20479v1)|⚠️|⭐️⭐️⭐️|
@@ -410,6 +412,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 385
+- Total Papers: 387
 - Code Implementations: 6
 - Last Updated: June 2026
