@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[HERMES] HERMES: A Multi-Granularity Labeling Substrate for Pre-training Data Mixtures|[[pdf]](http://arxiv.org/abs/2607.02266v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2606.27872v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution|[[pdf]](http://arxiv.org/abs/2606.20014v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems|[[pdf]](http://arxiv.org/abs/2606.14582v1)|⚠️|⭐️⭐️⭐️|
@@ -321,6 +322,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 297
+- Total Papers: 298
 - Code Implementations: 6
-- Last Updated: June 2026
+- Last Updated: July 2026

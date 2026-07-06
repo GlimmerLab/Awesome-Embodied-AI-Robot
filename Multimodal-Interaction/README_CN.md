@@ -25,6 +25,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[HEFT] HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum|[[pdf]](http://arxiv.org/abs/2607.02332v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[Guided Action Flow] Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies|[[pdf]](http://arxiv.org/abs/2607.02092v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[QFedAgent] QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition|[[pdf]](http://arxiv.org/abs/2607.02426v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Physical surfaces make touch interactions in virtual reality precise, efficient, and bimanual|[[pdf]](http://arxiv.org/abs/2607.02430v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?|[[pdf]](http://arxiv.org/abs/2606.27755v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|Typing Behavior in Human-LLM Interaction: Keystroke Dynamics Reveal Cognitive Effort During Prompting|[[pdf]](http://arxiv.org/abs/2606.28090v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[Hyper-Dexterous] Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation|[[pdf]](http://arxiv.org/abs/2606.20193v1)|⚠️|⭐️⭐️⭐️|
@@ -412,6 +416,6 @@
 
 ## 📊 统计
 
-- 论文总数：387篇
+- 论文总数：391篇
 - 代码实现：6个
-- 最后更新：2026年06月
+- 最后更新：2026年07月

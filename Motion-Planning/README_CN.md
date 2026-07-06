@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[VLA-Corrector] VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon|[[pdf]](http://arxiv.org/abs/2607.01804v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[The Moving Eye] The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection|[[pdf]](http://arxiv.org/abs/2607.02322v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Influence of Radial Basis Activation Functions on Intelligent Controller for Robotic Manipulators|[[pdf]](http://arxiv.org/abs/2607.02167v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation|[[pdf]](http://arxiv.org/abs/2606.27676v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion|[[pdf]](http://arxiv.org/abs/2606.28300v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors|[[pdf]](http://arxiv.org/abs/2606.28237v1)|⚠️|⭐️⭐️⭐️|
@@ -577,6 +580,6 @@
 
 ## 📊 统计
 
-- 论文总数：552篇
+- 论文总数：555篇
 - 代码实现：8个
-- 最后更新：2026年06月
+- 最后更新：2026年07月

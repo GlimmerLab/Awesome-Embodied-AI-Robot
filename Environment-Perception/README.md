@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[LIME] LIME: Learning Intent-aware Camera Motion from Egocentric Video|[[pdf]](http://arxiv.org/abs/2607.02417v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation|[[pdf]](http://arxiv.org/abs/2607.02298v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion|[[pdf]](http://arxiv.org/abs/2607.01777v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[LIT-GS] LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping|[[pdf]](http://arxiv.org/abs/2606.20424v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[JanusMesh] JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising|[[pdf]](http://arxiv.org/abs/2606.20563v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-12|[en] A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance|[[pdf]](http://arxiv.org/abs/2606.14089v1)|⚠️|⭐️⭐️⭐️|
@@ -456,6 +459,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 432
+- Total Papers: 435
 - Code Implementations: 8
-- Last Updated: June 2026
+- Last Updated: July 2026

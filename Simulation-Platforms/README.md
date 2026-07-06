@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[QuadRocket] QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles|[[pdf]](http://arxiv.org/abs/2607.02474v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Distributed Attacks in Persistent-State AI Control|[[pdf]](http://arxiv.org/abs/2607.02514v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Controllable Sim Agents with Behavior Latents|[[pdf]](http://arxiv.org/abs/2607.02496v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[Beyond Adam] Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials|[[pdf]](http://arxiv.org/abs/2607.02499v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Evaluation of Augmented Reality-based Intuitive Interface for Robot-Assisted Transesophageal Echocardiography: A User Study|[[pdf]](http://arxiv.org/abs/2606.19971v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Autonomous Driving with Priority-Ordered STL Specifications Under Multimodal Uncertainty|[[pdf]](http://arxiv.org/abs/2606.20336v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[The Register Gap] The Register Gap: A Meaning Intelligence Framework for Nigerian Public Discourse|[[pdf]](http://arxiv.org/abs/2606.20255v1)|⚠️|⭐️⭐️⭐️|
@@ -562,6 +566,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 537
+- Total Papers: 541
 - Code Implementations: 21
-- Last Updated: June 2026
+- Last Updated: July 2026

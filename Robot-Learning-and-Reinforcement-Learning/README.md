@@ -47,6 +47,28 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[Learning] Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning|[[pdf]](http://arxiv.org/abs/2607.02205v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[Bridge-WA] Bridge-WA: Predicting Where and How the World Changes for Robotic Action|[[pdf]](http://arxiv.org/abs/2607.02195v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[Embodied.cpp] Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots|[[pdf]](http://arxiv.org/abs/2607.02501v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs|[[pdf]](http://arxiv.org/abs/2607.02466v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[SPLC] SPLC: Social Preference Learning for Crowd Robot Navigation|[[pdf]](http://arxiv.org/abs/2607.01925v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[CoFL-S] CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation|[[pdf]](http://arxiv.org/abs/2607.02222v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[PhysMani] PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation|[[pdf]](http://arxiv.org/abs/2607.01938v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[WorldSample] WorldSample: Closed-loop Real-robot RL with World Modelling|[[pdf]](http://arxiv.org/abs/2607.02431v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[ACID] ACID: Action Consistency via Inverse Dynamics for Planning with World Models|[[pdf]](http://arxiv.org/abs/2607.02403v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Lightweight Safe Reinforcement Learning for End-to-End UAV Navigation|[[pdf]](http://arxiv.org/abs/2607.01794v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[VT-WAM] VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2607.02503v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Generalization in offline RL: The structure is more important than the amount of pessimism|[[pdf]](http://arxiv.org/abs/2607.02288v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Neuron-Aware Active Few-Shot Learning for LLMs|[[pdf]](http://arxiv.org/abs/2607.02423v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[VisionAId] VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval|[[pdf]](http://arxiv.org/abs/2607.02371v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[SkillFuzz] SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces|[[pdf]](http://arxiv.org/abs/2607.02345v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Self-Gating Attention for Efficient Time Series Forecasting|[[pdf]](http://arxiv.org/abs/2607.02344v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[en] Cross-Platform Control for Autonomous Surface Vehicles via Adaptive Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2607.02037v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[DecompRL] DecompRL: Solving Harder Problems by Learning Modular Code Generation|[[pdf]](http://arxiv.org/abs/2607.02390v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data|[[pdf]](http://arxiv.org/abs/2607.02447v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Learning Agile Intruder Interception using Differentiable Quadrotor Dynamics|[[pdf]](http://arxiv.org/abs/2607.02472v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Bringing Agentic Search to Earth Observation Data Discovery|[[pdf]](http://arxiv.org/abs/2607.02387v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[Q-GAIN] Q-GAIN: A Python Package for Machine Learning and Physically Informed Analysis Applications|[[pdf]](http://arxiv.org/abs/2607.02413v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] PPO-EAL: Exact Augmented Lagrangian Proximal Policy Optimization for Safe Robotic Control|[[pdf]](http://arxiv.org/abs/2606.27861v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] Booster Lab: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies|[[pdf]](http://arxiv.org/abs/2606.27813v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation|[[pdf]](http://arxiv.org/abs/2606.28276v1)|⚠️|⭐️⭐️⭐️|
@@ -3131,6 +3153,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3105
+- Total Papers: 3127
 - Code Implementations: 20
-- Last Updated: June 2026
+- Last Updated: July 2026

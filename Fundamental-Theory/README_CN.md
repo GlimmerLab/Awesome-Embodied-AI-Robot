@@ -18,6 +18,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|Choreographing the Way of Water: A Computational Framework for Aquatic Robotic Art|[[pdf]](http://arxiv.org/abs/2607.02174v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[AnyGroundBench] AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.02269v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[TestEvo-Bench] TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution|[[pdf]](http://arxiv.org/abs/2607.02469v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates|[[pdf]](http://arxiv.org/abs/2607.02507v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[DemoPSD] DemoPSD: Disagreement-Modulated Policy Self-Distillation|[[pdf]](http://arxiv.org/abs/2607.02502v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems|[[pdf]](http://arxiv.org/abs/2607.02376v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas|[[pdf]](http://arxiv.org/abs/2607.02504v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study|[[pdf]](http://arxiv.org/abs/2607.02436v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization|[[pdf]](http://arxiv.org/abs/2606.27663v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[LLawCo] LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior|[[pdf]](http://arxiv.org/abs/2606.28182v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[EchoSonar-R] EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography|[[pdf]](http://arxiv.org/abs/2606.28164v1)|⚠️|⭐️⭐️⭐️|
@@ -672,6 +680,6 @@
 
 ## 📊 统计
 
-- 论文总数：651篇
+- 论文总数：659篇
 - 代码实现：5个
-- 最后更新：2026年06月
+- 最后更新：2026年07月

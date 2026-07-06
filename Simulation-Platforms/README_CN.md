@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-02|[QuadRocket] QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles|[[pdf]](http://arxiv.org/abs/2607.02474v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Distributed Attacks in Persistent-State AI Control|[[pdf]](http://arxiv.org/abs/2607.02514v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|Controllable Sim Agents with Behavior Latents|[[pdf]](http://arxiv.org/abs/2607.02496v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-02|[Beyond Adam] Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials|[[pdf]](http://arxiv.org/abs/2607.02499v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Evaluation of Augmented Reality-based Intuitive Interface for Robot-Assisted Transesophageal Echocardiography: A User Study|[[pdf]](http://arxiv.org/abs/2606.19971v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Autonomous Driving with Priority-Ordered STL Specifications Under Multimodal Uncertainty|[[pdf]](http://arxiv.org/abs/2606.20336v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|[The Register Gap] The Register Gap: A Meaning Intelligence Framework for Nigerian Public Discourse|[[pdf]](http://arxiv.org/abs/2606.20255v1)|⚠️|⭐️⭐️⭐️|
@@ -562,6 +566,6 @@
 
 ## 📊 统计
 
-- 论文总数：537篇
+- 论文总数：541篇
 - 代码实现：21个
-- 最后更新：2026年06月
+- 最后更新：2026年07月
