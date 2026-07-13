@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-10|Task-Adaptive Design of Modular Aerial Manipulators Under Airflow Exposure Constraints|[[pdf]](http://arxiv.org/abs/2607.09548v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency|[[pdf]](http://arxiv.org/abs/2607.09191v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[HERMES] HERMES: A Multi-Granularity Labeling Substrate for Pre-training Data Mixtures|[[pdf]](http://arxiv.org/abs/2607.02266v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-26|[en] S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation|[[pdf]](http://arxiv.org/abs/2606.27872v1)|⚠️|⭐️⭐️⭐️|
 |2026-06-18|Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution|[[pdf]](http://arxiv.org/abs/2606.20014v1)|⚠️|⭐️⭐️⭐️|
@@ -322,6 +324,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 298
+- Total Papers: 300
 - Code Implementations: 6
 - Last Updated: July 2026

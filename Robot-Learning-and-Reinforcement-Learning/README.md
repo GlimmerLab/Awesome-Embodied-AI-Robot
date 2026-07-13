@@ -47,6 +47,39 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-10|One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps|[[pdf]](http://arxiv.org/abs/2607.09515v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[DemoBridge] DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting|[[pdf]](http://arxiv.org/abs/2607.09519v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[PAC-ACT] PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers|[[pdf]](http://arxiv.org/abs/2607.09590v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[PhysV2A] PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation|[[pdf]](http://arxiv.org/abs/2607.09365v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[B-spline Policy] B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations|[[pdf]](http://arxiv.org/abs/2607.09648v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Multimodal Reward Hacking in Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2607.09492v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[CORAL-AUV] CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles|[[pdf]](http://arxiv.org/abs/2607.09557v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility|[[pdf]](http://arxiv.org/abs/2607.09503v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[CoDiMAD] CoDiMAD: Diffusion-Based Privileged Distillation for Communication-Free Multi-Robot Coordination|[[pdf]](http://arxiv.org/abs/2607.09587v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review|[[pdf]](http://arxiv.org/abs/2607.09403v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference|[[pdf]](http://arxiv.org/abs/2607.09520v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems|[[pdf]](http://arxiv.org/abs/2607.09586v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Validating Virtual Reality for Studying Multimodal Human-Robot Interaction in Socially Aware Robot Navigation|[[pdf]](http://arxiv.org/abs/2607.09261v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Tactile and Vision Conditioned Contact-Centric Control for Whole-Arm Manipulation|[[pdf]](http://arxiv.org/abs/2607.09218v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Effects of Robotic Touch on Older Users During Walking Guidance by a Humanoid Robot|[[pdf]](http://arxiv.org/abs/2607.09323v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Robot Trajectron V3: A Probabilistic Shared Control Framework for SE(3) Manipulation|[[pdf]](http://arxiv.org/abs/2607.09315v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2607.09190v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2607.09336v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Causally Debiased Latent Action Model for Embodied Action Conditioned World Models|[[pdf]](http://arxiv.org/abs/2607.09185v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[Semantic Pareto-DQN] Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection|[[pdf]](http://arxiv.org/abs/2607.09641v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Robustifying Vision-Language Models via Test-Time Prompt Adaptation|[[pdf]](http://arxiv.org/abs/2607.09450v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[CoCoT-EEG] CoCoT-EEG: Contrastive-Pretrained Multiscale Convolutional Transformer for EEG Decoding|[[pdf]](http://arxiv.org/abs/2607.09543v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[Hydra++] Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation|[[pdf]](http://arxiv.org/abs/2607.09455v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[ProofCouncil] ProofCouncil: An LLM Agent for Solving Open Mathematical Problems|[[pdf]](http://arxiv.org/abs/2607.09474v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Learning When to Intervene on Habitual Behaviors: A Case Study in Oral Health Care|[[pdf]](http://arxiv.org/abs/2607.09518v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Test-Time Scaling for Small VLMs on Multilingual Visual MCQ|[[pdf]](http://arxiv.org/abs/2607.09438v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] REMIND: RE-Identification with Memory for INDoor Navigation|[[pdf]](http://arxiv.org/abs/2607.09267v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks|[[pdf]](http://arxiv.org/abs/2607.09650v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Letter Lemmatization: One-to-one and Banded RNNs for Reversing Character-Set Simplification and Abbreviation in Medieval Text|[[pdf]](http://arxiv.org/abs/2607.09291v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-09|[en] SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control|[[pdf]](http://arxiv.org/abs/2607.08948v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-09|[en] FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space|[[pdf]](http://arxiv.org/abs/2607.08877v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-09|[en] AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning|[[pdf]](http://arxiv.org/abs/2607.08857v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-09|[en] Impedance-Guided Programmable Transmission of Localized Deformation in Modular Soft Metamaterials|[[pdf]](http://arxiv.org/abs/2607.08966v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[Learning] Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning|[[pdf]](http://arxiv.org/abs/2607.02205v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[Bridge-WA] Bridge-WA: Predicting Where and How the World Changes for Robotic Action|[[pdf]](http://arxiv.org/abs/2607.02195v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[Embodied.cpp] Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots|[[pdf]](http://arxiv.org/abs/2607.02501v1)|⚠️|⭐️⭐️⭐️|
@@ -3153,6 +3186,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3127
+- Total Papers: 3160
 - Code Implementations: 20
 - Last Updated: July 2026

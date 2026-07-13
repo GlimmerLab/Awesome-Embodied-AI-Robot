@@ -25,6 +25,11 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-10|[TCLA] TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.09562v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation|[[pdf]](http://arxiv.org/abs/2607.09481v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification|[[pdf]](http://arxiv.org/abs/2607.09443v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Voting Biases in Decentralized Autonomous Organization (DAO) Governance|[[pdf]](http://arxiv.org/abs/2607.09435v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-09|[en] DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2607.08751v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[HEFT] HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum|[[pdf]](http://arxiv.org/abs/2607.02332v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[Guided Action Flow] Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies|[[pdf]](http://arxiv.org/abs/2607.02092v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[QFedAgent] QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition|[[pdf]](http://arxiv.org/abs/2607.02426v1)|⚠️|⭐️⭐️⭐️|
@@ -416,6 +421,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 391
+- Total Papers: 396
 - Code Implementations: 6
 - Last Updated: July 2026

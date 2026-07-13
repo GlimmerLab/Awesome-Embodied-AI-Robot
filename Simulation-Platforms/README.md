@@ -39,6 +39,9 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-10|Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks|[[pdf]](http://arxiv.org/abs/2607.09399v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[TSAI-MetaFraud] TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems|[[pdf]](http://arxiv.org/abs/2607.09528v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Active rejection enables reliable generalization of universal machine-learning interatomic potentials|[[pdf]](http://arxiv.org/abs/2607.09456v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[QuadRocket] QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles|[[pdf]](http://arxiv.org/abs/2607.02474v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|Distributed Attacks in Persistent-State AI Control|[[pdf]](http://arxiv.org/abs/2607.02514v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|Controllable Sim Agents with Behavior Latents|[[pdf]](http://arxiv.org/abs/2607.02496v1)|⚠️|⭐️⭐️⭐️|
@@ -566,6 +569,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 541
+- Total Papers: 544
 - Code Implementations: 21
 - Last Updated: July 2026

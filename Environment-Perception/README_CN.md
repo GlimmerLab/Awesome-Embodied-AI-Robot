@@ -26,6 +26,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-10|[4DR360] 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception|[[pdf]](http://arxiv.org/abs/2607.09629v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] Differential Analysis of Multispectral Images for Terrain Identification|[[pdf]](http://arxiv.org/abs/2607.09319v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] How Mobile Gas Sensor Trajectories Govern Hydrogen Leak Detection: A Safety Gap in Manual Leak Inspection of Hydrogen System Components|[[pdf]](http://arxiv.org/abs/2607.09527v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models|[[pdf]](http://arxiv.org/abs/2607.09654v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[AnythingReality] AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration|[[pdf]](http://arxiv.org/abs/2607.09260v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[LIME] LIME: Learning Intent-aware Camera Motion from Egocentric Video|[[pdf]](http://arxiv.org/abs/2607.02417v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation|[[pdf]](http://arxiv.org/abs/2607.02298v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion|[[pdf]](http://arxiv.org/abs/2607.01777v1)|⚠️|⭐️⭐️⭐️|
@@ -459,6 +464,6 @@
 
 ## 📊 统计
 
-- 论文总数：435篇
+- 论文总数：440篇
 - 代码实现：8个
 - 最后更新：2026年07月

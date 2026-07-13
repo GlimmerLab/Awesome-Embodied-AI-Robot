@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-10|[Agora] Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation|[[pdf]](http://arxiv.org/abs/2607.09600v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[ALICE] ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts|[[pdf]](http://arxiv.org/abs/2607.09526v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Shared Selective Persistent Memory for Agentic LLM Systems|[[pdf]](http://arxiv.org/abs/2607.09493v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|[en] VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents|[[pdf]](http://arxiv.org/abs/2607.09653v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-10|Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing|[[pdf]](http://arxiv.org/abs/2607.09583v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|Choreographing the Way of Water: A Computational Framework for Aquatic Robotic Art|[[pdf]](http://arxiv.org/abs/2607.02174v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[AnyGroundBench] AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.02269v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[TestEvo-Bench] TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution|[[pdf]](http://arxiv.org/abs/2607.02469v1)|⚠️|⭐️⭐️⭐️|
@@ -680,6 +685,6 @@
 
 ## 📊 统计
 
-- 论文总数：659篇
+- 论文总数：664篇
 - 代码实现：5个
 - 最后更新：2026年07月
