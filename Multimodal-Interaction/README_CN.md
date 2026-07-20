@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|[Let the Body Follow] Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation|[[pdf]](http://arxiv.org/abs/2607.16095v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[Humanoid] PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2607.15579v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[TCLA] TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.09562v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation|[[pdf]](http://arxiv.org/abs/2607.09481v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification|[[pdf]](http://arxiv.org/abs/2607.09443v1)|⚠️|⭐️⭐️⭐️|
@@ -421,6 +423,6 @@
 
 ## 📊 统计
 
-- 论文总数：396篇
+- 论文总数：398篇
 - 代码实现：6个
 - 最后更新：2026年07月

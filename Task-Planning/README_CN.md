@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning|[[pdf]](http://arxiv.org/abs/2607.15674v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Task-Adaptive Design of Modular Aerial Manipulators Under Airflow Exposure Constraints|[[pdf]](http://arxiv.org/abs/2607.09548v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[en] GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency|[[pdf]](http://arxiv.org/abs/2607.09191v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[HERMES] HERMES: A Multi-Granularity Labeling Substrate for Pre-training Data Mixtures|[[pdf]](http://arxiv.org/abs/2607.02266v1)|⚠️|⭐️⭐️⭐️|
@@ -324,6 +325,6 @@
 
 ## 📊 统计
 
-- 论文总数：300篇
+- 论文总数：301篇
 - 代码实现：6个
 - 最后更新：2026年07月

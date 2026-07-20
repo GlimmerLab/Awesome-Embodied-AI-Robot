@@ -47,6 +47,25 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|[RAVEN] RAVEN: Reinforcement-Adaptive Visibility-Graph Planning for Robust Humanoid Navigation with Collision-Free MPC|[[pdf]](http://arxiv.org/abs/2607.15701v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[Humanoid] Handroid: Bridging Dexterous Hand and Humanoid|[[pdf]](http://arxiv.org/abs/2607.16187v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Learning Reach-Avoid Task with Reinforcement Learning: Vectorized Simulation and Benchmark|[[pdf]](http://arxiv.org/abs/2607.15935v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Embodied Active Learning under Limited Annotation and Navigation Budget for Object Detection|[[pdf]](http://arxiv.org/abs/2607.15974v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[Hyper-Dexterous] IMBench: A Benchmark for Intuitive Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2607.15641v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Dynamics-Aware Meta-Imitation for Generalization to Unseen Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2607.15880v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Vision-Language-Motion Maps: An Open-Vocabulary, Uncertainty-Aware, Queryable Motion Attribute for 3D Scene Maps|[[pdf]](http://arxiv.org/abs/2607.16173v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Difference-Based Relational Learning for Zero-Shot Object-Goal Visual Navigation With Direct Sim-to-Real Transfer|[[pdf]](http://arxiv.org/abs/2607.15642v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Data and Learning Where it Matters for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2607.15982v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[VTLoc] VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds|[[pdf]](http://arxiv.org/abs/2607.16146v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[JoyNexus] JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models|[[pdf]](http://arxiv.org/abs/2607.16074v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Understanding Reasoning from Pretraining to Post-Training|[[pdf]](http://arxiv.org/abs/2607.16097v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[DECODEM] DECODEM: Data Extraction from Corporate Organizational Documents via Enhanced Methods|[[pdf]](http://arxiv.org/abs/2607.15879v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Knowledge-Centric Agents for Workflow Generation|[[pdf]](http://arxiv.org/abs/2607.15845v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[Perceived AGI] Perceived AGI: Believability as Dimensional Completeness, Not Capability|[[pdf]](http://arxiv.org/abs/2607.15883v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|When Does Muon Help Agentic Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2607.16169v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[SciForge] SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery|[[pdf]](http://arxiv.org/abs/2607.16038v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[en] Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations|[[pdf]](http://arxiv.org/abs/2607.15708v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-16|[en] Risk-Aware Preference Learning for Stochastic Outcomes|[[pdf]](http://arxiv.org/abs/2607.15483v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps|[[pdf]](http://arxiv.org/abs/2607.09515v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[DemoBridge] DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting|[[pdf]](http://arxiv.org/abs/2607.09519v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[PAC-ACT] PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers|[[pdf]](http://arxiv.org/abs/2607.09590v1)|⚠️|⭐️⭐️⭐️|
@@ -3186,6 +3205,6 @@
 
 ## 📊 统计
 
-- 论文总数：3160篇
+- 论文总数：3179篇
 - 代码实现：20个
 - 最后更新：2026年07月

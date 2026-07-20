@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|A Task-Space Receding Horizon Controller for Fast Collision Avoidance|[[pdf]](http://arxiv.org/abs/2607.15733v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[en] BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference|[[pdf]](http://arxiv.org/abs/2607.16123v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks|[[pdf]](http://arxiv.org/abs/2607.09399v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[TSAI-MetaFraud] TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems|[[pdf]](http://arxiv.org/abs/2607.09528v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Active rejection enables reliable generalization of universal machine-learning interatomic potentials|[[pdf]](http://arxiv.org/abs/2607.09456v1)|⚠️|⭐️⭐️⭐️|
@@ -569,6 +571,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 544
+- Total Papers: 546
 - Code Implementations: 21
 - Last Updated: July 2026

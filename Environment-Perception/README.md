@@ -26,6 +26,11 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|[Hyper-Dexterous] Towards Artificial Nerves: Biomimetic Optical-Fiber Tactile Sensing for Robots|[[pdf]](http://arxiv.org/abs/2607.15746v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|A Model-Based Decoupling Strategy for Proprioception and Contact Sensing in an Architected Soft Manipulator|[[pdf]](http://arxiv.org/abs/2607.15582v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|An Exam for Active Observers|[[pdf]](http://arxiv.org/abs/2607.16165v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities|[[pdf]](http://arxiv.org/abs/2607.16175v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Knowledge-Assisted Multi-Graph Dependency Learning for Multivariate Time Series Anomaly Detection in Multi-Stage Industrial Processes|[[pdf]](http://arxiv.org/abs/2607.15799v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[4DR360] 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception|[[pdf]](http://arxiv.org/abs/2607.09629v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[en] Differential Analysis of Multispectral Images for Terrain Identification|[[pdf]](http://arxiv.org/abs/2607.09319v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[en] How Mobile Gas Sensor Trajectories Govern Hydrogen Leak Detection: A Safety Gap in Manual Leak Inspection of Hydrogen System Components|[[pdf]](http://arxiv.org/abs/2607.09527v1)|⚠️|⭐️⭐️⭐️|
@@ -464,6 +469,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 440
+- Total Papers: 445
 - Code Implementations: 8
 - Last Updated: July 2026

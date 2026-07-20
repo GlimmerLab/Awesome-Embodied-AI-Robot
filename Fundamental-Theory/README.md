@@ -18,6 +18,12 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|[DPNeXt] DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction|[[pdf]](http://arxiv.org/abs/2607.16012v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[AC-VLA] AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning|[[pdf]](http://arxiv.org/abs/2607.15714v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[Orbis 2] Orbis 2: A Hierarchical World Model for Driving|[[pdf]](http://arxiv.org/abs/2607.15898v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|[HCIG] HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection|[[pdf]](http://arxiv.org/abs/2607.16076v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|When Do Multi-Agent Systems Help? An Information Bottleneck Perspective|[[pdf]](http://arxiv.org/abs/2607.16133v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization|[[pdf]](http://arxiv.org/abs/2607.16066v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[Agora] Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation|[[pdf]](http://arxiv.org/abs/2607.09600v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[ALICE] ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts|[[pdf]](http://arxiv.org/abs/2607.09526v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Shared Selective Persistent Memory for Agentic LLM Systems|[[pdf]](http://arxiv.org/abs/2607.09493v1)|⚠️|⭐️⭐️⭐️|
@@ -685,6 +691,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 664
+- Total Papers: 670
 - Code Implementations: 5
 - Last Updated: July 2026

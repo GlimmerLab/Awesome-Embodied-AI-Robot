@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-17|[SkillNav] SkillNav: Score-Level Skill Intervention for Zero-Shot Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2607.15758v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-17|Scalable Open-Source Visuotactile Sensor for 6-Axis Contact Wrench Estimation in Tensegrity Robots|[[pdf]](http://arxiv.org/abs/2607.15633v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[en] Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks|[[pdf]](http://arxiv.org/abs/2607.09330v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[en] Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model|[[pdf]](http://arxiv.org/abs/2607.09192v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-02|[VLA-Corrector] VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon|[[pdf]](http://arxiv.org/abs/2607.01804v1)|⚠️|⭐️⭐️⭐️|
@@ -582,6 +584,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 557
+- Total Papers: 559
 - Code Implementations: 8
 - Last Updated: July 2026
