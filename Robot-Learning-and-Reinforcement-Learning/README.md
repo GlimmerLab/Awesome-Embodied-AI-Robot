@@ -47,6 +47,13 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-24|[en] Robot-Factored World Models via Robot Rendering|[[pdf]](http://arxiv.org/abs/2607.22535v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[en] Robot Learning to Communicate through Projected Visual Abstractions|[[pdf]](http://arxiv.org/abs/2607.22434v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[en] ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation|[[pdf]](http://arxiv.org/abs/2607.22530v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support|[[pdf]](http://arxiv.org/abs/2607.22516v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[PRIMS] PRIMS: Physics-guided Representation for Fluid Identification in Multimodal Sensing|[[pdf]](http://arxiv.org/abs/2607.22422v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[en] Agentic Root Cause Analysis through Evidence-Grounded Reasoning|[[pdf]](http://arxiv.org/abs/2607.22385v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|Deconstructing Off-Policy Ratios: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2607.22186v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[RAVEN] RAVEN: Reinforcement-Adaptive Visibility-Graph Planning for Robust Humanoid Navigation with Collision-Free MPC|[[pdf]](http://arxiv.org/abs/2607.15701v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Humanoid] Handroid: Bridging Dexterous Hand and Humanoid|[[pdf]](http://arxiv.org/abs/2607.16187v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|Learning Reach-Avoid Task with Reinforcement Learning: Vectorized Simulation and Benchmark|[[pdf]](http://arxiv.org/abs/2607.15935v1)|⚠️|⭐️⭐️⭐️|
@@ -3205,6 +3212,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3179
+- Total Papers: 3186
 - Code Implementations: 20
 - Last Updated: July 2026

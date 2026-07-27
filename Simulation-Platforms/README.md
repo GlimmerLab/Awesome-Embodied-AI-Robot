@@ -39,6 +39,7 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-24|[en] A Monolithic Hand with Asymmetric Origami Bending and Dual-chamber Actuators|[[pdf]](http://arxiv.org/abs/2607.22320v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|A Task-Space Receding Horizon Controller for Fast Collision Avoidance|[[pdf]](http://arxiv.org/abs/2607.15733v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[en] BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference|[[pdf]](http://arxiv.org/abs/2607.16123v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks|[[pdf]](http://arxiv.org/abs/2607.09399v1)|⚠️|⭐️⭐️⭐️|
@@ -571,6 +572,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 546
+- Total Papers: 547
 - Code Implementations: 21
 - Last Updated: July 2026

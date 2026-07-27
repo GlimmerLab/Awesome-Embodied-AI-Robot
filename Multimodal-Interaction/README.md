@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-24|Interior interpretability with attention rollout: contraction and propagation profiles in Transformers|[[pdf]](http://arxiv.org/abs/2607.22367v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Let the Body Follow] Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation|[[pdf]](http://arxiv.org/abs/2607.16095v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Humanoid] PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2607.15579v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[TCLA] TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.09562v1)|⚠️|⭐️⭐️⭐️|
@@ -423,6 +424,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 398
+- Total Papers: 399
 - Code Implementations: 6
 - Last Updated: July 2026

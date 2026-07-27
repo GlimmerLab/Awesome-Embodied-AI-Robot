@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-24|[en] Geometric 2D Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2607.22325v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning|[[pdf]](http://arxiv.org/abs/2607.15674v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Task-Adaptive Design of Modular Aerial Manipulators Under Airflow Exposure Constraints|[[pdf]](http://arxiv.org/abs/2607.09548v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|[en] GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency|[[pdf]](http://arxiv.org/abs/2607.09191v1)|⚠️|⭐️⭐️⭐️|
@@ -325,6 +326,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 301
+- Total Papers: 302
 - Code Implementations: 6
 - Last Updated: July 2026

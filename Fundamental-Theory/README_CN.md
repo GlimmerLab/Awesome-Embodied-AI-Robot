@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-24|[en] Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education|[[pdf]](http://arxiv.org/abs/2607.22345v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[Neptuna] Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows|[[pdf]](http://arxiv.org/abs/2607.22280v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining|[[pdf]](http://arxiv.org/abs/2607.22458v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|Learning Structural Convergence: A Neuro-Symbolic Benchmark for Temporal Reasoning|[[pdf]](http://arxiv.org/abs/2607.22365v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[en] SiPhy: Single-Image Physical Property Reasoning|[[pdf]](http://arxiv.org/abs/2607.22355v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|Time-Reversed Imaging: A Multimodal Benchmark and Framework for Reconstructing Past Human-Environment Interactions|[[pdf]](http://arxiv.org/abs/2607.22352v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[en] Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG|[[pdf]](http://arxiv.org/abs/2607.22319v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[DPNeXt] DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction|[[pdf]](http://arxiv.org/abs/2607.16012v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[AC-VLA] AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning|[[pdf]](http://arxiv.org/abs/2607.15714v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Orbis 2] Orbis 2: A Hierarchical World Model for Driving|[[pdf]](http://arxiv.org/abs/2607.15898v1)|⚠️|⭐️⭐️⭐️|
@@ -691,6 +698,6 @@
 
 ## 📊 统计
 
-- 论文总数：670篇
+- 论文总数：677篇
 - 代码实现：5个
 - 最后更新：2026年07月

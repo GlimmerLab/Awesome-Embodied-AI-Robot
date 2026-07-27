@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-24|[en] Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments|[[pdf]](http://arxiv.org/abs/2607.22226v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-24|[SM4RT] SM4RT: Learning Structured Motion Geometry for 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2607.22534v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Hyper-Dexterous] Towards Artificial Nerves: Biomimetic Optical-Fiber Tactile Sensing for Robots|[[pdf]](http://arxiv.org/abs/2607.15746v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|A Model-Based Decoupling Strategy for Proprioception and Contact Sensing in an Architected Soft Manipulator|[[pdf]](http://arxiv.org/abs/2607.15582v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|An Exam for Active Observers|[[pdf]](http://arxiv.org/abs/2607.16165v1)|⚠️|⭐️⭐️⭐️|
@@ -469,6 +471,6 @@
 
 ## 📊 统计
 
-- 论文总数：445篇
+- 论文总数：447篇
 - 代码实现：8个
 - 最后更新：2026年07月
