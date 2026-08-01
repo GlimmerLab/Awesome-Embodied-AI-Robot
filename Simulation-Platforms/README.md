@@ -17,6 +17,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2025|UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI|[[pdf]](https://arxiv.org/abs/2412.20977)|[UnrealZoo/unrealzoo-gym](https://github.com/UnrealZoo/unrealzoo-gym)|⭐️⭐️⭐️⭐️|
+|2017|UnrealCV: Virtual Worlds for Computer Vision|[[pdf]](https://doi.org/10.1145/3123266.3129396)|[unrealcv/unrealcv](https://github.com/unrealcv/unrealcv)|⭐️⭐️⭐️⭐️|
 |Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[openai/safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
 |RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimTech/raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
 |PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
@@ -572,6 +574,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 547
-- Code Implementations: 21
+- Total Papers: 549
+- Code Implementations: 23
 - Last Updated: July 2026
