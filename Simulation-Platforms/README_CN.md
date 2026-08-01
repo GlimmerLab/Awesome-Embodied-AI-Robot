@@ -17,6 +17,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2025|UnrealZoo: 面向具身智能的照片级真实虚拟世界平台|[[pdf]](https://arxiv.org/abs/2412.20977)|[UnrealZoo/unrealzoo-gym](https://github.com/UnrealZoo/unrealzoo-gym)|⭐️⭐️⭐️⭐️|
+|2017|UnrealCV: 面向计算机视觉的虚拟世界工具包|[[pdf]](https://doi.org/10.1145/3123266.3129396)|[unrealcv/unrealcv](https://github.com/unrealcv/unrealcv)|⭐️⭐️⭐️⭐️|
 |Safety Gym|Safe exploration environments|[[pdf]](https://arxiv.org/abs/1910.09465)|[openai/safety-gym](https://github.com/openai/safety-gym)|⭐️⭐️|
 |RaiSim|High-performance physics engine for robotics|[[pdf]](https://arxiv.org/abs/2011.08924)|[raisimTech/raisimLib](https://github.com/raisimTech/raisimLib)|⭐️⭐️⭐️|
 |PyBullet|Physics simulation for robotics and ML|[[pdf]](https://arxiv.org/abs/2108.10470)|[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)|⭐️⭐️|
@@ -572,6 +574,6 @@
 
 ## 📊 统计
 
-- 论文总数：547篇
-- 代码实现：21个
+- 论文总数：549篇
+- 代码实现：23个
 - 最后更新：2026年07月
