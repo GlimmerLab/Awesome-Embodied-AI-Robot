@@ -39,6 +39,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|Safe Vision Language Action Models via Barrier Enhanced Flow Matching|[[pdf]](http://arxiv.org/abs/2607.29569v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Tri-Space Operational Control of Redundant Multilink and Hybrid Cable-Driven Parallel Robots Using an Iterative-Learning based Reactive Approach|[[pdf]](http://arxiv.org/abs/2607.29500v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[FriendBench] FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2607.29602v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[FlexComposer] FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control|[[pdf]](http://arxiv.org/abs/2607.29627v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[CalibratedRubric] CalibratedRubric: Task-Adaptive Rubric Banks for Open-Ended LLM Evaluation|[[pdf]](http://arxiv.org/abs/2607.29252v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] A Monolithic Hand with Asymmetric Origami Bending and Dual-chamber Actuators|[[pdf]](http://arxiv.org/abs/2607.22320v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|A Task-Space Receding Horizon Controller for Fast Collision Avoidance|[[pdf]](http://arxiv.org/abs/2607.15733v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[en] BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference|[[pdf]](http://arxiv.org/abs/2607.16123v1)|⚠️|⭐️⭐️⭐️|
@@ -572,6 +577,6 @@
 
 ## 📊 统计
 
-- 论文总数：547篇
+- 论文总数：552篇
 - 代码实现：21个
-- 最后更新：2026年07月
+- 最后更新：2026年08月

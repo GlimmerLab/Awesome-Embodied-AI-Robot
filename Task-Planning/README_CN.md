@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|[en] SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning|[[pdf]](http://arxiv.org/abs/2607.29374v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Geometric 2D Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2607.22325v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning|[[pdf]](http://arxiv.org/abs/2607.15674v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-10|Task-Adaptive Design of Modular Aerial Manipulators Under Airflow Exposure Constraints|[[pdf]](http://arxiv.org/abs/2607.09548v1)|⚠️|⭐️⭐️⭐️|
@@ -326,6 +327,6 @@
 
 ## 📊 统计
 
-- 论文总数：302篇
+- 论文总数：303篇
 - 代码实现：6个
-- 最后更新：2026年07月
+- 最后更新：2026年08月

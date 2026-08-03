@@ -25,6 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|Cross-Lingual Transfer for Machine Translation in Turkic Languages|[[pdf]](http://arxiv.org/abs/2607.29355v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|A Human-Centered Validation of the Explainability-Performance Coefficient|[[pdf]](http://arxiv.org/abs/2607.29614v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.29445v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|Interior interpretability with attention rollout: contraction and propagation profiles in Transformers|[[pdf]](http://arxiv.org/abs/2607.22367v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Let the Body Follow] Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation|[[pdf]](http://arxiv.org/abs/2607.16095v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Humanoid] PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2607.15579v1)|⚠️|⭐️⭐️⭐️|
@@ -424,6 +427,6 @@
 
 ## 📊 统计
 
-- 论文总数：399篇
+- 论文总数：402篇
 - 代码实现：6个
-- 最后更新：2026年07月
+- 最后更新：2026年08月

@@ -32,6 +32,9 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|[Biped] Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control|[[pdf]](http://arxiv.org/abs/2607.29625v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Homotopy-Aware Corridor Generation without Predefined Reference Paths|[[pdf]](http://arxiv.org/abs/2607.29513v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics|[[pdf]](http://arxiv.org/abs/2607.29657v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Design and Human Evaluation of Tactile Withdrawal Reflexes for a Skin-Covered Robot Arm|[[pdf]](http://arxiv.org/abs/2607.22249v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[SkillNav] SkillNav: Score-Level Skill Intervention for Zero-Shot Object Goal Navigation|[[pdf]](http://arxiv.org/abs/2607.15758v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|Scalable Open-Source Visuotactile Sensor for 6-Axis Contact Wrench Estimation in Tensegrity Robots|[[pdf]](http://arxiv.org/abs/2607.15633v1)|⚠️|⭐️⭐️⭐️|
@@ -585,6 +588,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 560
+- Total Papers: 563
 - Code Implementations: 8
-- Last Updated: July 2026
+- Last Updated: August 2026

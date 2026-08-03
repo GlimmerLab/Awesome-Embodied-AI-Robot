@@ -26,6 +26,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?|[[pdf]](http://arxiv.org/abs/2607.29222v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments|[[pdf]](http://arxiv.org/abs/2607.22226v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[SM4RT] SM4RT: Learning Structured Motion Geometry for 4D Reconstruction|[[pdf]](http://arxiv.org/abs/2607.22534v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|[Hyper-Dexterous] Towards Artificial Nerves: Biomimetic Optical-Fiber Tactile Sensing for Robots|[[pdf]](http://arxiv.org/abs/2607.15746v1)|⚠️|⭐️⭐️⭐️|
@@ -471,6 +472,6 @@
 
 ## 📊 统计
 
-- 论文总数：447篇
+- 论文总数：448篇
 - 代码实现：8个
-- 最后更新：2026年07月
+- 最后更新：2026年08月

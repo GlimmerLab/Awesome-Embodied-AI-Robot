@@ -18,6 +18,15 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|Diagnosing Compositional Generalization in Sequential Robot Tasks|[[pdf]](http://arxiv.org/abs/2607.29687v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[DungeonBench] DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat|[[pdf]](http://arxiv.org/abs/2607.29577v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[AMTFV] AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction|[[pdf]](http://arxiv.org/abs/2607.29549v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[TerraNova] TerraNova: A Foundation Model for the Anthropocene|[[pdf]](http://arxiv.org/abs/2607.29527v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[VFAD] VFAD: Variational Semantic Prompting Meets Frequency-Adaptive Representation Learning for Zero-Shot Anomaly Detection|[[pdf]](http://arxiv.org/abs/2607.29370v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Scaling Properties of Text Conditioning in Visual Generation|[[pdf]](http://arxiv.org/abs/2607.29679v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Training-Free Entity-Level Few-Shot Segmentation of Remote Sensing Images with Advection Refinement|[[pdf]](http://arxiv.org/abs/2607.29278v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation|[[pdf]](http://arxiv.org/abs/2607.29287v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[MOT-SR] MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models|[[pdf]](http://arxiv.org/abs/2607.29561v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education|[[pdf]](http://arxiv.org/abs/2607.22345v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[Neptuna] Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows|[[pdf]](http://arxiv.org/abs/2607.22280v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining|[[pdf]](http://arxiv.org/abs/2607.22458v1)|⚠️|⭐️⭐️⭐️|
@@ -698,6 +707,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 677
+- Total Papers: 686
 - Code Implementations: 5
-- Last Updated: July 2026
+- Last Updated: August 2026

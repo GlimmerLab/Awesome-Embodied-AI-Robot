@@ -47,6 +47,30 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-07-31|[WCM] WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2607.29613v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[TransGraspNet] TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware|[[pdf]](http://arxiv.org/abs/2607.29567v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[Temporal Policy] Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration|[[pdf]](http://arxiv.org/abs/2607.29482v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning|[[pdf]](http://arxiv.org/abs/2607.29617v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task|[[pdf]](http://arxiv.org/abs/2607.29640v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[DreamQAS] DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search|[[pdf]](http://arxiv.org/abs/2607.29491v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[HAM-VLN] HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2607.29600v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Automated Straight-line Sewing of Stretchable Fabrics with Different Lengths|[[pdf]](http://arxiv.org/abs/2607.29464v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Evidence-Type Competition: When Can Interventional Data Teach Language Models Causal Direction?|[[pdf]](http://arxiv.org/abs/2607.29484v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember|[[pdf]](http://arxiv.org/abs/2607.29468v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[RayViT] RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning|[[pdf]](http://arxiv.org/abs/2607.29622v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[Freeze, Then Select] Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations|[[pdf]](http://arxiv.org/abs/2607.29665v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[STAGE] STAGE: STyle-controllable Action GEneration for personalized autonomous driving|[[pdf]](http://arxiv.org/abs/2607.29517v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[en] BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning|[[pdf]](http://arxiv.org/abs/2607.29302v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[en] FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling|[[pdf]](http://arxiv.org/abs/2607.29596v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|Versatile On-device Adaptation at the Edge by Unifying Few-shot, Zero-shot, Continual, and In-context Learning|[[pdf]](http://arxiv.org/abs/2607.29353v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[en] AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics|[[pdf]](http://arxiv.org/abs/2607.29393v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[Beyond Retrieval] Beyond Retrieval: Analytic Memory for Multimodal Agents|[[pdf]](http://arxiv.org/abs/2607.29440v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[en] Event-Based Upper-Body Humanoid Teleoperation Under Challenging Illumination|[[pdf]](http://arxiv.org/abs/2607.29227v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[CorrelationFlow] CorrelationFlow: A Training-Free Geometric Approach for LiDAR Scene Flow Estimation|[[pdf]](http://arxiv.org/abs/2607.29237v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[HierDoc] HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering|[[pdf]](http://arxiv.org/abs/2607.29638v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[CALM-AH] CALM-AH: An ABAW11-Calibrated Multimodal Ensemble with Reliability-Gated Multi-Expert Consensus for Video-Level Ambivalence and Hesitancy Recognition|[[pdf]](http://arxiv.org/abs/2607.29310v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|When Model Priors Conflict with Visual Evidence: Mitigating Commonsense-Driven Hallucinations by Selective Prior Calibration|[[pdf]](http://arxiv.org/abs/2607.29240v1)|⚠️|⭐️⭐️⭐️|
+|2026-07-31|[en] SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery|[[pdf]](http://arxiv.org/abs/2607.29347v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Robot-Factored World Models via Robot Rendering|[[pdf]](http://arxiv.org/abs/2607.22535v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Robot Learning to Communicate through Projected Visual Abstractions|[[pdf]](http://arxiv.org/abs/2607.22434v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation|[[pdf]](http://arxiv.org/abs/2607.22530v1)|⚠️|⭐️⭐️⭐️|
@@ -3212,6 +3236,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3186
+- Total Papers: 3210
 - Code Implementations: 20
-- Last Updated: July 2026
+- Last Updated: August 2026
