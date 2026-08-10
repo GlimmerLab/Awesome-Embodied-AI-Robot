@@ -39,6 +39,8 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|[FinRank] FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings|[[pdf]](http://arxiv.org/abs/2608.07400v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[QFCQT] QFCQT: A Chaotically Gated Quantformer Framework for Volatile Time-Series Forecasting|[[pdf]](http://arxiv.org/abs/2608.07363v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Safe Vision Language Action Models via Barrier Enhanced Flow Matching|[[pdf]](http://arxiv.org/abs/2607.29569v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Tri-Space Operational Control of Redundant Multilink and Hybrid Cable-Driven Parallel Robots Using an Iterative-Learning based Reactive Approach|[[pdf]](http://arxiv.org/abs/2607.29500v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[FriendBench] FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2607.29602v1)|⚠️|⭐️⭐️⭐️|
@@ -577,6 +579,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 552
+- Total Papers: 554
 - Code Implementations: 21
 - Last Updated: August 2026

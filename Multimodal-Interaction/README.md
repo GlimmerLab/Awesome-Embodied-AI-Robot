@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy|[[pdf]](http://arxiv.org/abs/2608.07427v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers|[[pdf]](http://arxiv.org/abs/2608.07436v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Cross-Lingual Transfer for Machine Translation in Turkic Languages|[[pdf]](http://arxiv.org/abs/2607.29355v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|A Human-Centered Validation of the Explainability-Performance Coefficient|[[pdf]](http://arxiv.org/abs/2607.29614v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models|[[pdf]](http://arxiv.org/abs/2607.29445v1)|⚠️|⭐️⭐️⭐️|
@@ -427,6 +429,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 402
+- Total Papers: 404
 - Code Implementations: 6
 - Last Updated: August 2026

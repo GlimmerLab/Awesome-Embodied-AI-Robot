@@ -39,6 +39,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|[FinRank] FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings|[[pdf]](http://arxiv.org/abs/2608.07400v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[QFCQT] QFCQT: A Chaotically Gated Quantformer Framework for Volatile Time-Series Forecasting|[[pdf]](http://arxiv.org/abs/2608.07363v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Safe Vision Language Action Models via Barrier Enhanced Flow Matching|[[pdf]](http://arxiv.org/abs/2607.29569v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Tri-Space Operational Control of Redundant Multilink and Hybrid Cable-Driven Parallel Robots Using an Iterative-Learning based Reactive Approach|[[pdf]](http://arxiv.org/abs/2607.29500v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[FriendBench] FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2607.29602v1)|⚠️|⭐️⭐️⭐️|
@@ -577,6 +579,6 @@
 
 ## 📊 统计
 
-- 论文总数：552篇
+- 论文总数：554篇
 - 代码实现：21个
 - 最后更新：2026年08月

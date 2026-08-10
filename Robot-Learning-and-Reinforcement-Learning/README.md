@@ -47,6 +47,11 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|[SABRE] SABRE: Scalable and Automated Benchmarking of VLMs under Stress|[[pdf]](http://arxiv.org/abs/2608.07435v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[CreativeInstruct] CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity|[[pdf]](http://arxiv.org/abs/2608.07460v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[WNM-3D] WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN|[[pdf]](http://arxiv.org/abs/2608.07267v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[TEPA] TEPA: Revoking Stale Memories for Conflict-Robust Language Agents|[[pdf]](http://arxiv.org/abs/2608.07429v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[ResidencyRL] ResidencyRL: Reinforcement Learning in Simulated Clinical Environments|[[pdf]](http://arxiv.org/abs/2608.07418v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[WCM] WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2607.29613v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[TransGraspNet] TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware|[[pdf]](http://arxiv.org/abs/2607.29567v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[Temporal Policy] Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration|[[pdf]](http://arxiv.org/abs/2607.29482v1)|⚠️|⭐️⭐️⭐️|
@@ -3236,6 +3241,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3210
+- Total Papers: 3215
 - Code Implementations: 20
 - Last Updated: August 2026

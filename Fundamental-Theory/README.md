@@ -18,6 +18,13 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning|[[pdf]](http://arxiv.org/abs/2608.07417v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|Blast Radius|[[pdf]](http://arxiv.org/abs/2608.07440v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[PsychoAgent] PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents|[[pdf]](http://arxiv.org/abs/2608.07438v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[LSEAD] LSEAD: A Privacy-Preserving LLM-Based Speech Analysis Framework for Early Alzheimer's Disease Screening|[[pdf]](http://arxiv.org/abs/2608.07378v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|People Are Not Just Their Countries. Disentangling Social Determinants of LLM Value Alignment Across Europe|[[pdf]](http://arxiv.org/abs/2608.07367v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|Geo-Spatial Concept Probing of Large Language Models: Abstraction, Compositionality, and Grounding|[[pdf]](http://arxiv.org/abs/2608.07353v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|[CoBa] CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing|[[pdf]](http://arxiv.org/abs/2608.07424v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Diagnosing Compositional Generalization in Sequential Robot Tasks|[[pdf]](http://arxiv.org/abs/2607.29687v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[DungeonBench] DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat|[[pdf]](http://arxiv.org/abs/2607.29577v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[AMTFV] AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction|[[pdf]](http://arxiv.org/abs/2607.29549v1)|⚠️|⭐️⭐️⭐️|
@@ -707,6 +714,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 686
+- Total Papers: 693
 - Code Implementations: 5
 - Last Updated: August 2026

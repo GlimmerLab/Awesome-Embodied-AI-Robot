@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|Strategy-first synthesis planning for complex natural products|[[pdf]](http://arxiv.org/abs/2608.07454v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-07|Natural Language Processing Psychometrics|[[pdf]](http://arxiv.org/abs/2608.07316v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[Biped] Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control|[[pdf]](http://arxiv.org/abs/2607.29625v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Homotopy-Aware Corridor Generation without Predefined Reference Paths|[[pdf]](http://arxiv.org/abs/2607.29513v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics|[[pdf]](http://arxiv.org/abs/2607.29657v1)|⚠️|⭐️⭐️⭐️|
@@ -588,6 +590,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 563
+- Total Papers: 565
 - Code Implementations: 8
 - Last Updated: August 2026

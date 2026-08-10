@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-07|An End-to-End Agent Auditing Engine|[[pdf]](http://arxiv.org/abs/2608.07346v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[en] SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning|[[pdf]](http://arxiv.org/abs/2607.29374v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Geometric 2D Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2607.22325v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-17|A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning|[[pdf]](http://arxiv.org/abs/2607.15674v1)|⚠️|⭐️⭐️⭐️|
@@ -327,6 +328,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 303
+- Total Papers: 304
 - Code Implementations: 6
 - Last Updated: August 2026
