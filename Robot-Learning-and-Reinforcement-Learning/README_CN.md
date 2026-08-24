@@ -47,6 +47,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-21|[en] SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control|[[pdf]](http://arxiv.org/abs/2608.21175v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[en] Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning|[[pdf]](http://arxiv.org/abs/2608.21083v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[en] AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization|[[pdf]](http://arxiv.org/abs/2608.21292v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[en] VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation|[[pdf]](http://arxiv.org/abs/2608.21290v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[en] Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation|[[pdf]](http://arxiv.org/abs/2608.21332v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[AID-Guard] AID-Guard: Stateful Authorization for Delegated Agent Effects|[[pdf]](http://arxiv.org/abs/2608.21159v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|[SABRE] SABRE: Scalable and Automated Benchmarking of VLMs under Stress|[[pdf]](http://arxiv.org/abs/2608.07435v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|[CreativeInstruct] CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity|[[pdf]](http://arxiv.org/abs/2608.07460v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|[WNM-3D] WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN|[[pdf]](http://arxiv.org/abs/2608.07267v1)|⚠️|⭐️⭐️⭐️|
@@ -3241,6 +3247,6 @@
 
 ## 📊 统计
 
-- 论文总数：3215篇
+- 论文总数：3221篇
 - 代码实现：20个
 - 最后更新：2026年08月

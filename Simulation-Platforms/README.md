@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-21|From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry|[[pdf]](http://arxiv.org/abs/2608.21317v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|Anchored Regularized Direct Least Squares (ARDLS): Integrating Established Prioritization Operators for Priority Elicitation in the Analytic Hierarchy Process|[[pdf]](http://arxiv.org/abs/2608.21187v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[FF-MPCC] FF-MPCC: High-speed Agile Formation Flight with Model Predictive Contouring Control|[[pdf]](http://arxiv.org/abs/2608.21056v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|Enhancing LLMs in Predictive Political QA with Semi-Structured Data|[[pdf]](http://arxiv.org/abs/2608.21218v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|[FinRank] FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings|[[pdf]](http://arxiv.org/abs/2608.07400v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|[QFCQT] QFCQT: A Chaotically Gated Quantformer Framework for Volatile Time-Series Forecasting|[[pdf]](http://arxiv.org/abs/2608.07363v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Safe Vision Language Action Models via Barrier Enhanced Flow Matching|[[pdf]](http://arxiv.org/abs/2607.29569v1)|⚠️|⭐️⭐️⭐️|
@@ -579,6 +583,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 554
+- Total Papers: 558
 - Code Implementations: 21
 - Last Updated: August 2026

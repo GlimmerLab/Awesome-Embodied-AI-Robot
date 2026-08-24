@@ -18,6 +18,16 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-21|[DAMOS] DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization|[[pdf]](http://arxiv.org/abs/2608.21176v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans|[[pdf]](http://arxiv.org/abs/2608.21140v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds|[[pdf]](http://arxiv.org/abs/2608.21170v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[EnSI-RAG] EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering|[[pdf]](http://arxiv.org/abs/2608.21252v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|From Attention Masks to Inert Zero-Vector Tokens: OAttention and O-Closure for Token Dynamics|[[pdf]](http://arxiv.org/abs/2608.21174v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[en] Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence|[[pdf]](http://arxiv.org/abs/2608.21156v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[CellPath-Bench] CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models|[[pdf]](http://arxiv.org/abs/2608.21060v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|[VIALS] VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences|[[pdf]](http://arxiv.org/abs/2608.21357v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda|[[pdf]](http://arxiv.org/abs/2608.21107v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-21|Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration|[[pdf]](http://arxiv.org/abs/2608.21208v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning|[[pdf]](http://arxiv.org/abs/2608.07417v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|Blast Radius|[[pdf]](http://arxiv.org/abs/2608.07440v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|[PsychoAgent] PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents|[[pdf]](http://arxiv.org/abs/2608.07438v1)|⚠️|⭐️⭐️⭐️|
@@ -714,6 +724,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 693
+- Total Papers: 703
 - Code Implementations: 5
 - Last Updated: August 2026
