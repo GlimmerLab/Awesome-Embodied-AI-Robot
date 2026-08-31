@@ -25,6 +25,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|[Dynamic] From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks|[[pdf]](http://arxiv.org/abs/2608.28154v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[DeicticVLA] DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA|[[pdf]](http://arxiv.org/abs/2608.28108v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[ARC-CT] ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT|[[pdf]](http://arxiv.org/abs/2608.28455v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[InstructMesh] InstructMesh: Selective Refinement of Generative 3D Models for Fabrication|[[pdf]](http://arxiv.org/abs/2608.28534v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[EvoUndo] EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses|[[pdf]](http://arxiv.org/abs/2608.28363v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy|[[pdf]](http://arxiv.org/abs/2608.07427v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers|[[pdf]](http://arxiv.org/abs/2608.07436v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Cross-Lingual Transfer for Machine Translation in Turkic Languages|[[pdf]](http://arxiv.org/abs/2607.29355v1)|⚠️|⭐️⭐️⭐️|
@@ -429,6 +434,6 @@
 
 ## 📊 统计
 
-- 论文总数：404篇
+- 论文总数：409篇
 - 代码实现：6个
 - 最后更新：2026年08月

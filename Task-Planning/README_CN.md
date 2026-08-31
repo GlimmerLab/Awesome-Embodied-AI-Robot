@@ -22,6 +22,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|[PanelShield] PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28305v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[MaCoPlanner] MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28300v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[CoCoBench] CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning|[[pdf]](http://arxiv.org/abs/2608.28266v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Spatial-Semantic Reasoning using Large Language Models for Efficient UAV Search Operations|[[pdf]](http://arxiv.org/abs/2608.28270v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|When Linguistic and Internal Confidence Diverge in Large Language Models|[[pdf]](http://arxiv.org/abs/2608.28382v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[RetailAgent] RetailAgent: Structured Adverse Timing in Self-Conditioned Multimodal LLM Trading Agents|[[pdf]](http://arxiv.org/abs/2608.28399v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Real-Valued Hyperdimensional Sequence Representations with Hadamard Product Binding and Shift Equivariance|[[pdf]](http://arxiv.org/abs/2608.28334v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Propagating construction-time knowledge quality into medical question answering: A framework grounded in clinical guidelines|[[pdf]](http://arxiv.org/abs/2608.28360v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|An End-to-End Agent Auditing Engine|[[pdf]](http://arxiv.org/abs/2608.07346v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[en] SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning|[[pdf]](http://arxiv.org/abs/2607.29374v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Geometric 2D Scene Graph Generation|[[pdf]](http://arxiv.org/abs/2607.22325v1)|⚠️|⭐️⭐️⭐️|
@@ -328,6 +336,6 @@
 
 ## 📊 统计
 
-- 论文总数：304篇
+- 论文总数：312篇
 - 代码实现：6个
 - 最后更新：2026年08月

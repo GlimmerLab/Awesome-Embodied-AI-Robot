@@ -18,6 +18,11 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|[STEGNav] STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation|[[pdf]](http://arxiv.org/abs/2608.28279v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning for Robot Task Specification|[[pdf]](http://arxiv.org/abs/2608.28435v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[MAIL] MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry|[[pdf]](http://arxiv.org/abs/2608.28315v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[NL2AGBench] NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry|[[pdf]](http://arxiv.org/abs/2608.28481v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[VERA-8B] VERA-8B: Evidence-Grounded Audit Risk Reasoning from SEC Filings|[[pdf]](http://arxiv.org/abs/2608.28402v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|[DAMOS] DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization|[[pdf]](http://arxiv.org/abs/2608.21176v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans|[[pdf]](http://arxiv.org/abs/2608.21140v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds|[[pdf]](http://arxiv.org/abs/2608.21170v1)|⚠️|⭐️⭐️⭐️|
@@ -724,6 +729,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 703
+- Total Papers: 708
 - Code Implementations: 5
 - Last Updated: August 2026

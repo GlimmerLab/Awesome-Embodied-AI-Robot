@@ -47,6 +47,21 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|[Humanoid] Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters|[[pdf]](http://arxiv.org/abs/2608.28090v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[ChainSplat] ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos|[[pdf]](http://arxiv.org/abs/2608.28570v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL|[[pdf]](http://arxiv.org/abs/2608.28140v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[AcrossVAM1.0] AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction|[[pdf]](http://arxiv.org/abs/2608.28491v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[Multi-robot] Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach|[[pdf]](http://arxiv.org/abs/2608.28214v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2608.28065v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning|[[pdf]](http://arxiv.org/abs/2608.28447v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Program Learning with Verifiable Rewards: Symbolic Backpropagation for Post-Training LLMs|[[pdf]](http://arxiv.org/abs/2608.28421v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Real-Time Musculoskeletal Surrogates for Pediatric Cerebral Palsy: a Credibility Pilot|[[pdf]](http://arxiv.org/abs/2608.28371v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[en] CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action|[[pdf]](http://arxiv.org/abs/2608.27797v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data|[[pdf]](http://arxiv.org/abs/2608.27996v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[REPLICANT] REPLICANT: Learning Policies for Evading and Hardening Malware Detectors|[[pdf]](http://arxiv.org/abs/2608.28499v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[SymboLLM-FE] SymboLLM-FE: LLM-Accelerated Symbolic Regression for Automated Feature Engineering on Tabular Data|[[pdf]](http://arxiv.org/abs/2608.28408v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[MAP] MAP: A Benchmark on Multimodal Accessibility Planning for Real World Places|[[pdf]](http://arxiv.org/abs/2608.28384v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Cross-Spectral Dense Correspondence for Multimodal Spectral Medical Imaging|[[pdf]](http://arxiv.org/abs/2608.28341v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|[en] SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control|[[pdf]](http://arxiv.org/abs/2608.21175v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|[en] Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning|[[pdf]](http://arxiv.org/abs/2608.21083v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|[en] AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization|[[pdf]](http://arxiv.org/abs/2608.21292v1)|⚠️|⭐️⭐️⭐️|
@@ -3247,6 +3262,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3221
+- Total Papers: 3236
 - Code Implementations: 20
 - Last Updated: August 2026

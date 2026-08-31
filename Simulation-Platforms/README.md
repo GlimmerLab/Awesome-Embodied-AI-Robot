@@ -39,6 +39,14 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|[Multi-robot] Cooperative Risk-Aware Exploration in Heterogeneous Multi-Robot Systems Using Algorithmic Altruism|[[pdf]](http://arxiv.org/abs/2608.28409v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[Hyper-Dexterous] Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning|[[pdf]](http://arxiv.org/abs/2608.28578v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Video Generative Models as Geometry Learner|[[pdf]](http://arxiv.org/abs/2608.28549v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[COVER] COVER: Identifiable Evaluation of Coalition Routing|[[pdf]](http://arxiv.org/abs/2608.28475v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[VersaGauss] VersaGauss: A Versatile Framework for Generating Multiphase Dynamics with 3D Gaussians|[[pdf]](http://arxiv.org/abs/2608.28069v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining|[[pdf]](http://arxiv.org/abs/2608.28552v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Post-Training VLMs for Video Mistake Detection|[[pdf]](http://arxiv.org/abs/2608.28406v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Learning a Size-Weight Frontier for Synthetic-Augmented Inference|[[pdf]](http://arxiv.org/abs/2608.28576v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry|[[pdf]](http://arxiv.org/abs/2608.21317v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|Anchored Regularized Direct Least Squares (ARDLS): Integrating Established Prioritization Operators for Priority Elicitation in the Analytic Hierarchy Process|[[pdf]](http://arxiv.org/abs/2608.21187v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-21|[FF-MPCC] FF-MPCC: High-speed Agile Formation Flight with Model Predictive Contouring Control|[[pdf]](http://arxiv.org/abs/2608.21056v1)|⚠️|⭐️⭐️⭐️|
@@ -583,6 +591,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 558
+- Total Papers: 566
 - Code Implementations: 21
 - Last Updated: August 2026

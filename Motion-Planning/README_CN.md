@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|[Dynamic] PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2608.28213v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|[LUCID] LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control|[[pdf]](http://arxiv.org/abs/2608.28437v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-27|[Multi-robot] Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games|[[pdf]](http://arxiv.org/abs/2608.27726v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|Strategy-first synthesis planning for complex natural products|[[pdf]](http://arxiv.org/abs/2608.07454v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|Natural Language Processing Psychometrics|[[pdf]](http://arxiv.org/abs/2608.07316v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|[Biped] Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control|[[pdf]](http://arxiv.org/abs/2607.29625v1)|⚠️|⭐️⭐️⭐️|
@@ -590,6 +593,6 @@
 
 ## 📊 统计
 
-- 论文总数：565篇
+- 论文总数：568篇
 - 代码实现：8个
 - 最后更新：2026年08月

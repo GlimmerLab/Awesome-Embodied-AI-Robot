@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-08-28|When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI|[[pdf]](http://arxiv.org/abs/2608.28518v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring|[[pdf]](http://arxiv.org/abs/2608.28246v1)|⚠️|⭐️⭐️⭐️|
+|2026-08-28|LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment|[[pdf]](http://arxiv.org/abs/2608.28490v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-07|Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools|[[pdf]](http://arxiv.org/abs/2608.07446v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-31|Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?|[[pdf]](http://arxiv.org/abs/2607.29222v1)|⚠️|⭐️⭐️⭐️|
 |2026-07-24|[en] Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments|[[pdf]](http://arxiv.org/abs/2607.22226v1)|⚠️|⭐️⭐️⭐️|
@@ -473,6 +476,6 @@
 
 ## 📊 统计
 
-- 论文总数：449篇
+- 论文总数：452篇
 - 代码实现：8个
 - 最后更新：2026年08月
