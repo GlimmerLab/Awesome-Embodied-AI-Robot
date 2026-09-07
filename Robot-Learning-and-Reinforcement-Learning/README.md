@@ -47,6 +47,32 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|Morphology and actuation as inductive biases in robotic hand manipulation|[[pdf]](http://arxiv.org/abs/2609.05206v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[Humanoid] Development of a Humanoid Robot Prototype for Multimodal Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2609.05361v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Human-Human & Human-Robot Interaction Transformer (H2INT) for Robot Navigation in Dense and Uncertain Crowds|[[pdf]](http://arxiv.org/abs/2609.05300v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation|[[pdf]](http://arxiv.org/abs/2609.05369v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[Dynamic] Coupled Control and Wireless World Models for Resilient Remote Robotic Control|[[pdf]](http://arxiv.org/abs/2609.04851v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[LIBERO-RECOVER] LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models|[[pdf]](http://arxiv.org/abs/2609.05178v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|From Language Models to World-Acting Systems: Progress and Limits of Agentic AI across Digital, Social, Virtual, and Physical Environments|[[pdf]](http://arxiv.org/abs/2609.04894v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|A Schema Bounded Language Model for Refining Robot Policies Without Destabilizing Local Learning|[[pdf]](http://arxiv.org/abs/2609.05133v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[Learning] MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision|[[pdf]](http://arxiv.org/abs/2609.04958v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[TacPAC] TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2609.05266v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness|[[pdf]](http://arxiv.org/abs/2609.05314v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[Diffusion TV] Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction|[[pdf]](http://arxiv.org/abs/2609.05404v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|A Verifier-Guided Explainable Reasoning Framework with Gold-Anchored QLoRA, Task-Aware Mixture-of-Experts, and Group-Relative RLVR|[[pdf]](http://arxiv.org/abs/2609.05221v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Substrate-Aware AI Agents: Execution Context as a First-Class Input|[[pdf]](http://arxiv.org/abs/2609.05232v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models|[[pdf]](http://arxiv.org/abs/2609.05333v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[en] How do LLMs Evaluate Perceived Moral Agency? Investigating Moral Decision-Making in Human-Artificial Agents Interactions|[[pdf]](http://arxiv.org/abs/2609.05037v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[en] FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement|[[pdf]](http://arxiv.org/abs/2609.05325v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2609.05298v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[RegionFed] RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments|[[pdf]](http://arxiv.org/abs/2609.05403v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization|[[pdf]](http://arxiv.org/abs/2609.05258v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[Trace2Tower] Trace2Tower: Transition-Aware EigenTrace Induction of Multi-Level Skills for LLM Agents|[[pdf]](http://arxiv.org/abs/2609.05261v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|A Unified Physics-Aware Quantum Machine Learning Framework across Power GaN HEMTs and Logic Nanowire FETs: Predicting Unseen Process Splits and Held-Out Geometry Combinations with Lower Error and Tighter Split-to-Split Variability|[[pdf]](http://arxiv.org/abs/2609.05251v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[en] VoxelFix: Post-Hoc Semantic Correction of Completed 3D Voxel Maps|[[pdf]](http://arxiv.org/abs/2609.05114v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[en] WorldSculpt: Generating Compositional Worlds from Grounded Videos|[[pdf]](http://arxiv.org/abs/2609.05416v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Compositional Reward Models for Conditional Medical Image Generation|[[pdf]](http://arxiv.org/abs/2609.05028v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[MEOX] MEOX: Compact Multimodal Mixture-of-Experts for Earth Observation|[[pdf]](http://arxiv.org/abs/2609.05351v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Humanoid] Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters|[[pdf]](http://arxiv.org/abs/2608.28090v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[ChainSplat] ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos|[[pdf]](http://arxiv.org/abs/2608.28570v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL|[[pdf]](http://arxiv.org/abs/2608.28140v1)|⚠️|⭐️⭐️⭐️|
@@ -3262,6 +3288,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3236
+- Total Papers: 3262
 - Code Implementations: 20
-- Last Updated: August 2026
+- Last Updated: September 2026

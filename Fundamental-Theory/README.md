@@ -18,6 +18,15 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies|[[pdf]](http://arxiv.org/abs/2609.04893v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models|[[pdf]](http://arxiv.org/abs/2609.05401v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning|[[pdf]](http://arxiv.org/abs/2609.05260v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[Molecular Déjà Vu] Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models|[[pdf]](http://arxiv.org/abs/2609.05381v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Do LLMs Exhibit Coherent Knowledge Structures in Mathematical Reasoning? A Perspective from Knowledge Space Theory|[[pdf]](http://arxiv.org/abs/2609.05245v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions|[[pdf]](http://arxiv.org/abs/2609.05257v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[UniMate] UniMate: One Unified Model to Animate Diverse Skeletons|[[pdf]](http://arxiv.org/abs/2609.05415v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Learning 3D Editing without Paired Supervision via Generative Prior Distillation|[[pdf]](http://arxiv.org/abs/2609.04942v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence|[[pdf]](http://arxiv.org/abs/2609.05385v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[STEGNav] STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation|[[pdf]](http://arxiv.org/abs/2608.28279v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning for Robot Task Specification|[[pdf]](http://arxiv.org/abs/2608.28435v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[MAIL] MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry|[[pdf]](http://arxiv.org/abs/2608.28315v1)|⚠️|⭐️⭐️⭐️|
@@ -729,6 +738,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 708
+- Total Papers: 717
 - Code Implementations: 5
-- Last Updated: August 2026
+- Last Updated: September 2026

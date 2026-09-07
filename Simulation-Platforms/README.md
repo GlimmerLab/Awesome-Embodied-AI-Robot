@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation|[[pdf]](http://arxiv.org/abs/2609.04921v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Risk-Aware Optimal Control with Rulebooks|[[pdf]](http://arxiv.org/abs/2609.05199v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Phase Transition Frequency as a Training Time Predictor of Test Accuracy in ResNets|[[pdf]](http://arxiv.org/abs/2609.05194v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies|[[pdf]](http://arxiv.org/abs/2609.05376v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Multi-robot] Cooperative Risk-Aware Exploration in Heterogeneous Multi-Robot Systems Using Algorithmic Altruism|[[pdf]](http://arxiv.org/abs/2608.28409v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Hyper-Dexterous] Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning|[[pdf]](http://arxiv.org/abs/2608.28578v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|Video Generative Models as Geometry Learner|[[pdf]](http://arxiv.org/abs/2608.28549v1)|⚠️|⭐️⭐️⭐️|
@@ -591,6 +595,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 566
+- Total Papers: 570
 - Code Implementations: 21
-- Last Updated: August 2026
+- Last Updated: September 2026

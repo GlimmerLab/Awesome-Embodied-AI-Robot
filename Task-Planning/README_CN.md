@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|[RoboSPA] RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?|[[pdf]](http://arxiv.org/abs/2609.05324v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[PanelShield] PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28305v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[MaCoPlanner] MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28300v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[CoCoBench] CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning|[[pdf]](http://arxiv.org/abs/2608.28266v1)|⚠️|⭐️⭐️⭐️|
@@ -336,6 +337,6 @@
 
 ## 📊 统计
 
-- 论文总数：312篇
+- 论文总数：313篇
 - 代码实现：6个
-- 最后更新：2026年08月
+- 最后更新：2026年09月

@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|Temporal Tactile Encoding and Compliance for Intent-Aware Robot-to-Human Bimanual Handover|[[pdf]](http://arxiv.org/abs/2609.05282v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Dynamic] From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks|[[pdf]](http://arxiv.org/abs/2608.28154v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[DeicticVLA] DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA|[[pdf]](http://arxiv.org/abs/2608.28108v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[ARC-CT] ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT|[[pdf]](http://arxiv.org/abs/2608.28455v1)|⚠️|⭐️⭐️⭐️|
@@ -434,6 +435,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 409
+- Total Papers: 410
 - Code Implementations: 6
-- Last Updated: August 2026
+- Last Updated: September 2026

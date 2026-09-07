@@ -32,6 +32,8 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|[Dynamic] APEX-RBD: Mixed-Precision Exploration Framework for Hardware-Efficient Robot Dynamics Accelerator Design|[[pdf]](http://arxiv.org/abs/2609.05161v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Compact Bellman-Grounded Cognitive Maps for Cost-Aware Navigation|[[pdf]](http://arxiv.org/abs/2609.05104v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Dynamic] PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2608.28213v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[LUCID] LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control|[[pdf]](http://arxiv.org/abs/2608.28437v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-27|[Multi-robot] Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games|[[pdf]](http://arxiv.org/abs/2608.27726v1)|⚠️|⭐️⭐️⭐️|
@@ -593,6 +595,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 568
+- Total Papers: 570
 - Code Implementations: 8
-- Last Updated: August 2026
+- Last Updated: September 2026

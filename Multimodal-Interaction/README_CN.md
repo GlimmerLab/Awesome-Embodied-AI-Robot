@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|Temporal Tactile Encoding and Compliance for Intent-Aware Robot-to-Human Bimanual Handover|[[pdf]](http://arxiv.org/abs/2609.05282v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Dynamic] From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks|[[pdf]](http://arxiv.org/abs/2608.28154v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[DeicticVLA] DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA|[[pdf]](http://arxiv.org/abs/2608.28108v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[ARC-CT] ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT|[[pdf]](http://arxiv.org/abs/2608.28455v1)|⚠️|⭐️⭐️⭐️|
@@ -434,6 +435,6 @@
 
 ## 📊 统计
 
-- 论文总数：409篇
+- 论文总数：410篇
 - 代码实现：6个
-- 最后更新：2026年08月
+- 最后更新：2026年09月

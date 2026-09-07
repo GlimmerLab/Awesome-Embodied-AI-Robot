@@ -26,6 +26,13 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-04|[Adaptive] Adaptation Needs in Robotic Systems: Assessing Behavior Trees and Their Enhancement|[[pdf]](http://arxiv.org/abs/2609.05331v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[CUA-Universe] CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents|[[pdf]](http://arxiv.org/abs/2609.05374v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution|[[pdf]](http://arxiv.org/abs/2609.05303v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Training-Free Logical and Structural Anomaly Detection via Calibrated Fusion|[[pdf]](http://arxiv.org/abs/2609.05091v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|Adaptive Multi-Granularity Temporal Modeling for Weakly Supervised Video Anomaly Detection|[[pdf]](http://arxiv.org/abs/2609.05066v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[en] Efficient Multi-Timescale Event Representations for Feed-Forward Object Detection|[[pdf]](http://arxiv.org/abs/2609.05049v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-04|[BLASt3R] BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors|[[pdf]](http://arxiv.org/abs/2609.05210v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI|[[pdf]](http://arxiv.org/abs/2608.28518v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring|[[pdf]](http://arxiv.org/abs/2608.28246v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment|[[pdf]](http://arxiv.org/abs/2608.28490v1)|⚠️|⭐️⭐️⭐️|
@@ -476,6 +483,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 452
+- Total Papers: 459
 - Code Implementations: 8
-- Last Updated: August 2026
+- Last Updated: September 2026
