@@ -47,6 +47,34 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-18|[ForceTwin] ForceTwin: Physics-informed Digital Twins for Robotic Manipulation from Instrumented Human Interaction|[[pdf]](http://arxiv.org/abs/2609.21751v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Trajectory] Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2609.21609v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Contact-Rich Motion Planning via GPU-Parallel Mode Evaluation|[[pdf]](http://arxiv.org/abs/2609.21803v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|A Sim-to-Real Integration Pipeline for Training and Deployment of Chunk-Based VLA Manipulation Policies|[[pdf]](http://arxiv.org/abs/2609.21817v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Learning] SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation|[[pdf]](http://arxiv.org/abs/2609.21983v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[SynthDemo-RL] SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations|[[pdf]](http://arxiv.org/abs/2609.21650v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[PopNavShift] PopNavShift: Stress-Testing Social Navigation under Behavioral Population Shift|[[pdf]](http://arxiv.org/abs/2609.21838v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Scaling Vision-Language Reward Learning for Robot Manipulation in Parallel Simulation|[[pdf]](http://arxiv.org/abs/2609.21767v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Beyond Kinematics] Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning|[[pdf]](http://arxiv.org/abs/2609.21909v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Understanding Engagement and Intrusiveness in Assistive Human-Robot Interaction Using Individual Traits|[[pdf]](http://arxiv.org/abs/2609.21744v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[SeeQ] SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2609.22085v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention|[[pdf]](http://arxiv.org/abs/2609.21788v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Hyper-Dexterous] GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments|[[pdf]](http://arxiv.org/abs/2609.21948v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[PSR] PSR: Predictive Sensorimotor Representation Learning for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2609.21753v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Benchmarking World Models for Continual Learning on Compositional Tasks|[[pdf]](http://arxiv.org/abs/2609.22055v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[TRACE] TRACE: Coverage Path Planning for Unknown Environments Using Hierarchical Coverage Tree|[[pdf]](http://arxiv.org/abs/2609.21777v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Touvigation] Touvigation: Embodied Adaptive Object Acquisition for Blind and Low-Vision Users in Unfamiliar Indoor Environments|[[pdf]](http://arxiv.org/abs/2609.21828v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Learning to Move Cities: Deep Meta-Models and Reinforcement Policies for Calibration and Control in Urban Networks|[[pdf]](http://arxiv.org/abs/2609.21945v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Available Guardrails: Certifying Selective Prediction across ML Systems|[[pdf]](http://arxiv.org/abs/2609.22048v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[$λ$-Controlled GRPO] $λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource|[[pdf]](http://arxiv.org/abs/2609.22041v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Imitation] CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching|[[pdf]](http://arxiv.org/abs/2609.21982v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal|[[pdf]](http://arxiv.org/abs/2609.21996v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[CodeMidas] CodeMidas: Scaling Agentic Coding RL Environments from Code Itself|[[pdf]](http://arxiv.org/abs/2609.22068v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities|[[pdf]](http://arxiv.org/abs/2609.21967v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Neural Cellular Automata Learn General Features in their Hidden Channels|[[pdf]](http://arxiv.org/abs/2609.21870v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[MintAct] MintAct: A Unified Visual Agent for Digital Environments|[[pdf]](http://arxiv.org/abs/2609.22083v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[en] Compact but Moving: Intervention-Relevant Geometry in Recurrent World Models|[[pdf]](http://arxiv.org/abs/2609.21787v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation|[[pdf]](http://arxiv.org/abs/2609.21683v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Morphology and actuation as inductive biases in robotic hand manipulation|[[pdf]](http://arxiv.org/abs/2609.05206v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|[Humanoid] Development of a Humanoid Robot Prototype for Multimodal Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2609.05361v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Human-Human & Human-Robot Interaction Transformer (H2INT) for Robot Navigation in Dense and Uncertain Crowds|[[pdf]](http://arxiv.org/abs/2609.05300v1)|⚠️|⭐️⭐️⭐️|
@@ -3288,6 +3316,6 @@
 
 ## 📊 统计
 
-- 论文总数：3262篇
+- 论文总数：3290篇
 - 代码实现：20个
 - 最后更新：2026年09月

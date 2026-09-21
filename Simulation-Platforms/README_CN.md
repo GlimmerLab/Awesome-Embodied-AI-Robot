@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-18|Gripper-Aware Automatic Dense Packing of Irregular Objects|[[pdf]](http://arxiv.org/abs/2609.22062v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Do Personality-Tuned LLMs Make Better Social Agents?|[[pdf]](http://arxiv.org/abs/2609.21857v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[en] CRISP: Contact-Rich Robotic Simulation Platform with Extensive Geometries and Contact Solvers|[[pdf]](http://arxiv.org/abs/2609.21761v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[en] ZeroTouch: Tactile-Supervised Visual Contact Estimation for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2609.21726v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation|[[pdf]](http://arxiv.org/abs/2609.04921v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Risk-Aware Optimal Control with Rulebooks|[[pdf]](http://arxiv.org/abs/2609.05199v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Phase Transition Frequency as a Training Time Predictor of Test Accuracy in ResNets|[[pdf]](http://arxiv.org/abs/2609.05194v1)|⚠️|⭐️⭐️⭐️|
@@ -595,6 +599,6 @@
 
 ## 📊 统计
 
-- 论文总数：570篇
+- 论文总数：574篇
 - 代码实现：21个
 - 最后更新：2026年09月

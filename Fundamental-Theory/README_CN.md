@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-18|[PRIME] PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models|[[pdf]](http://arxiv.org/abs/2609.22040v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[BrainWideBench] BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings|[[pdf]](http://arxiv.org/abs/2609.22064v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies|[[pdf]](http://arxiv.org/abs/2609.04893v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models|[[pdf]](http://arxiv.org/abs/2609.05401v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning|[[pdf]](http://arxiv.org/abs/2609.05260v1)|⚠️|⭐️⭐️⭐️|
@@ -738,6 +740,6 @@
 
 ## 📊 统计
 
-- 论文总数：717篇
+- 论文总数：719篇
 - 代码实现：5个
 - 最后更新：2026年09月

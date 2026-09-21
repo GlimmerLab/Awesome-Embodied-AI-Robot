@@ -32,6 +32,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-18|[SABER] SABER: Learning Attention-based Semantic Affordance for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2609.21572v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[LIMBO] LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control|[[pdf]](http://arxiv.org/abs/2609.22075v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types|[[pdf]](http://arxiv.org/abs/2609.22073v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|[Dynamic] APEX-RBD: Mixed-Precision Exploration Framework for Hardware-Efficient Robot Dynamics Accelerator Design|[[pdf]](http://arxiv.org/abs/2609.05161v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Compact Bellman-Grounded Cognitive Maps for Cost-Aware Navigation|[[pdf]](http://arxiv.org/abs/2609.05104v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Dynamic] PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2608.28213v1)|⚠️|⭐️⭐️⭐️|
@@ -595,6 +598,6 @@
 
 ## 📊 统计
 
-- 论文总数：570篇
+- 论文总数：573篇
 - 代码实现：8个
 - 最后更新：2026年09月

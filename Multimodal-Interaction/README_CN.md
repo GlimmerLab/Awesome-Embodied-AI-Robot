@@ -25,6 +25,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-18|When Should Robots Intervene? Balancing Engagement and Intrusiveness in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2609.21734v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[RAYA] RAYA: Learning Where and When to Intervene for Robot Recovery|[[pdf]](http://arxiv.org/abs/2609.21690v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[CommitFlow] CommitFlow: Semantic Commitment Verification and Local Correction for Long-Horizon Robot Manipulation VLA Execution|[[pdf]](http://arxiv.org/abs/2609.21908v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[Visual Proactivity] Visual Proactivity: Enhancing Human-Robot Collaboration Through Intent Communication|[[pdf]](http://arxiv.org/abs/2609.21729v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence|[[pdf]](http://arxiv.org/abs/2609.21942v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Comparing Haptic Feedback Across Hand Tracking and Controllers in VR Object Interaction Tasks|[[pdf]](http://arxiv.org/abs/2609.21869v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|Balanced Prompt Adaptation against Entropy-Induced Collapse for Test-Time Binary Segmentation|[[pdf]](http://arxiv.org/abs/2609.21743v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Temporal Tactile Encoding and Compliance for Intent-Aware Robot-to-Human Bimanual Handover|[[pdf]](http://arxiv.org/abs/2609.05282v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[Dynamic] From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks|[[pdf]](http://arxiv.org/abs/2608.28154v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[DeicticVLA] DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA|[[pdf]](http://arxiv.org/abs/2608.28108v1)|⚠️|⭐️⭐️⭐️|
@@ -435,6 +442,6 @@
 
 ## 📊 统计
 
-- 论文总数：410篇
+- 论文总数：417篇
 - 代码实现：6个
 - 最后更新：2026年09月

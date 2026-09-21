@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-18|[MAAP] MAAP: Multi-Agent Active Perception for Collaborative Manipulation|[[pdf]](http://arxiv.org/abs/2609.21929v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration|[[pdf]](http://arxiv.org/abs/2609.21770v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-18|[VideoReloc] VideoReloc: Long-Term Indoor Video Relocalization against a Kilobyte-Scale Semantic Scene Graph|[[pdf]](http://arxiv.org/abs/2609.21804v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|[Adaptive] Adaptation Needs in Robotic Systems: Assessing Behavior Trees and Their Enhancement|[[pdf]](http://arxiv.org/abs/2609.05331v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|[CUA-Universe] CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents|[[pdf]](http://arxiv.org/abs/2609.05374v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution|[[pdf]](http://arxiv.org/abs/2609.05303v1)|⚠️|⭐️⭐️⭐️|
@@ -483,6 +486,6 @@
 
 ## 📊 统计
 
-- 论文总数：459篇
+- 论文总数：462篇
 - 代码实现：8个
 - 最后更新：2026年09月
