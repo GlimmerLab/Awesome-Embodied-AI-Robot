@@ -18,6 +18,11 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|[DeepEdu-v1] DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education|[[pdf]](http://arxiv.org/abs/2609.31568v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[SatNav] SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery|[[pdf]](http://arxiv.org/abs/2609.31507v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[BeatGraph] BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment|[[pdf]](http://arxiv.org/abs/2609.31546v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment|[[pdf]](http://arxiv.org/abs/2609.31524v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[FlatClip] FlatClip: A Geometry-Aware Surface-Level Baseline for fMRI Representation Learning|[[pdf]](http://arxiv.org/abs/2609.31204v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[PRIME] PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models|[[pdf]](http://arxiv.org/abs/2609.22040v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[BrainWideBench] BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings|[[pdf]](http://arxiv.org/abs/2609.22064v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies|[[pdf]](http://arxiv.org/abs/2609.04893v1)|⚠️|⭐️⭐️⭐️|
@@ -740,6 +745,6 @@
 
 ## 📊 统计
 
-- 论文总数：719篇
+- 论文总数：724篇
 - 代码实现：5个
 - 最后更新：2026年09月

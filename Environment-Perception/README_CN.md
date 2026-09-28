@@ -26,6 +26,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|[CognitiveReality] CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation|[[pdf]](http://arxiv.org/abs/2609.31418v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning|[[pdf]](http://arxiv.org/abs/2609.31199v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[MAAP] MAAP: Multi-Agent Active Perception for Collaborative Manipulation|[[pdf]](http://arxiv.org/abs/2609.21929v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration|[[pdf]](http://arxiv.org/abs/2609.21770v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[VideoReloc] VideoReloc: Long-Term Indoor Video Relocalization against a Kilobyte-Scale Semantic Scene Graph|[[pdf]](http://arxiv.org/abs/2609.21804v1)|⚠️|⭐️⭐️⭐️|
@@ -486,6 +488,6 @@
 
 ## 📊 统计
 
-- 论文总数：462篇
+- 论文总数：464篇
 - 代码实现：8个
 - 最后更新：2026年09月

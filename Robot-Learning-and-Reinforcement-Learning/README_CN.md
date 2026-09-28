@@ -47,6 +47,35 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|See to Reach, Feel to Grasp: Learning A Blind Grasp Reflex for Anthropomorphic Robotic Hands|[[pdf]](http://arxiv.org/abs/2609.31323v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Towards VLA-Dreamer] Towards VLA-Dreamer: Refining VLA Behavior Using World Models|[[pdf]](http://arxiv.org/abs/2609.31313v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[DyMD] DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models|[[pdf]](http://arxiv.org/abs/2609.31349v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2609.31337v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Evaluating the Impact of Adaptive Extended Reality on Human-Robot Interaction Across the Reality-Virtuality Continuum|[[pdf]](http://arxiv.org/abs/2609.31138v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[InternW0-$Δ$] InternW0-$Δ$: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data|[[pdf]](http://arxiv.org/abs/2609.31394v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling|[[pdf]](http://arxiv.org/abs/2609.31207v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Kintsugi-VLA] Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability|[[pdf]](http://arxiv.org/abs/2609.31048v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Humanoid] Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators|[[pdf]](http://arxiv.org/abs/2609.31577v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Learning Robot Policies from Sparse Success Signals via STL-Guided Stein Variational Policy Gradient|[[pdf]](http://arxiv.org/abs/2609.31606v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Comparative Evaluation of an XR Pen-based Control Interface for Semi-Autonomous Mobile Robot Navigation in Service Environments|[[pdf]](http://arxiv.org/abs/2609.31117v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Precision at Speed] Precision at Speed: Sample-Efficient Online Model-Based Reinforcement Learning for Hydraulic Excavator Control|[[pdf]](http://arxiv.org/abs/2609.31025v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Learning to Leverage Compliance: A Policy-Admittance Learning Framework for Robotic Insertion|[[pdf]](http://arxiv.org/abs/2609.31439v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding|[[pdf]](http://arxiv.org/abs/2609.31382v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Transformer-based Monte Carlo Localization in Construction Meshes|[[pdf]](http://arxiv.org/abs/2609.31357v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[ExoLaN] ExoLaN: Physics-Consistent Context-Aware Dynamics Learning for Exoskeletons|[[pdf]](http://arxiv.org/abs/2609.31434v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[ClearGS] ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos|[[pdf]](http://arxiv.org/abs/2609.31509v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[en] TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking|[[pdf]](http://arxiv.org/abs/2609.31005v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[HySTAR] HySTAR: Anchored Hypergraphs for Stable Credit Assignment in Cooperative Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2609.31531v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency|[[pdf]](http://arxiv.org/abs/2609.31619v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Trust Guided Decision Transformer|[[pdf]](http://arxiv.org/abs/2609.31586v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|New LoRA Skills Should Read but Never Write|[[pdf]](http://arxiv.org/abs/2609.31600v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[EAServe] EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2609.31551v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[LandscapeSHAP] LandscapeSHAP: Which Persistent Homology Class Gets the Credit?|[[pdf]](http://arxiv.org/abs/2609.31469v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training|[[pdf]](http://arxiv.org/abs/2609.31450v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Beyond Empirical Support: Structured Outlier Generation via Sinkhorn Optimal Transport|[[pdf]](http://arxiv.org/abs/2609.31470v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Multi-agent Scaling Across Disjunctive and Compensatory Tasks|[[pdf]](http://arxiv.org/abs/2609.31563v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Programs-of-Layers in LLMs through the Lens of Cortical Areas|[[pdf]](http://arxiv.org/abs/2609.31360v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[en] OpenVAM: Open-World Visual Attention Modeling with VLMs|[[pdf]](http://arxiv.org/abs/2609.31364v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[ForceTwin] ForceTwin: Physics-informed Digital Twins for Robotic Manipulation from Instrumented Human Interaction|[[pdf]](http://arxiv.org/abs/2609.21751v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[Trajectory] Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2609.21609v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|Contact-Rich Motion Planning via GPU-Parallel Mode Evaluation|[[pdf]](http://arxiv.org/abs/2609.21803v1)|⚠️|⭐️⭐️⭐️|
@@ -3316,6 +3345,6 @@
 
 ## 📊 统计
 
-- 论文总数：3290篇
+- 论文总数：3319篇
 - 代码实现：20个
 - 最后更新：2026年09月

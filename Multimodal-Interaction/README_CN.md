@@ -25,6 +25,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|[Imp-ACT] Imp-ACT: Adaptive Impedance Control and Action Chunking with Transformers to Learn Contact-Rich Manipulation from Demonstrations|[[pdf]](http://arxiv.org/abs/2609.31225v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms|[[pdf]](http://arxiv.org/abs/2609.31396v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[CoralPlan] CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection|[[pdf]](http://arxiv.org/abs/2609.31211v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[ViSTA] ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs|[[pdf]](http://arxiv.org/abs/2609.31448v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers|[[pdf]](http://arxiv.org/abs/2609.31403v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Mutable Transcripts] Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State|[[pdf]](http://arxiv.org/abs/2609.31354v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|When Should Robots Intervene? Balancing Engagement and Intrusiveness in Human-Robot Interaction|[[pdf]](http://arxiv.org/abs/2609.21734v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[RAYA] RAYA: Learning Where and When to Intervene for Robot Recovery|[[pdf]](http://arxiv.org/abs/2609.21690v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[CommitFlow] CommitFlow: Semantic Commitment Verification and Local Correction for Long-Horizon Robot Manipulation VLA Execution|[[pdf]](http://arxiv.org/abs/2609.21908v1)|⚠️|⭐️⭐️⭐️|
@@ -442,6 +448,6 @@
 
 ## 📊 统计
 
-- 论文总数：417篇
+- 论文总数：423篇
 - 代码实现：6个
 - 最后更新：2026年09月

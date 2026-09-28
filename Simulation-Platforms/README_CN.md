@@ -39,6 +39,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|[PriceBench] PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents|[[pdf]](http://arxiv.org/abs/2609.31468v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Evaluating Cultural Awareness of LLMs for Haitian Creole|[[pdf]](http://arxiv.org/abs/2609.31506v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Scaffold] Scaffold: Support Graph Theory Based Sparsification for Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2609.31466v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Gauss What You Need] Gauss What You Need: Compact Gaussian Splatting Across Scene Scales|[[pdf]](http://arxiv.org/abs/2609.31248v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|Gripper-Aware Automatic Dense Packing of Irregular Objects|[[pdf]](http://arxiv.org/abs/2609.22062v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|Do Personality-Tuned LLMs Make Better Social Agents?|[[pdf]](http://arxiv.org/abs/2609.21857v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[en] CRISP: Contact-Rich Robotic Simulation Platform with Extensive Geometries and Contact Solvers|[[pdf]](http://arxiv.org/abs/2609.21761v1)|⚠️|⭐️⭐️⭐️|
@@ -599,6 +603,6 @@
 
 ## 📊 统计
 
-- 论文总数：574篇
+- 论文总数：578篇
 - 代码实现：21个
 - 最后更新：2026年09月

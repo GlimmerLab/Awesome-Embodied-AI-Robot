@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|[Cybflight] Cybflight: An Embedded Rust Autopilot for Aerial Robotics Research|[[pdf]](http://arxiv.org/abs/2609.31232v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding|[[pdf]](http://arxiv.org/abs/2609.31452v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[dRVG] dRVG: Quadtree-Guided, Resolution-Complete Online Motion Planning for Polygonal Robots in Unknown Environments|[[pdf]](http://arxiv.org/abs/2609.31412v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|Guiding End-to-End Driving Models with Endpoint-Constrained Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2609.31383v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[en] Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors|[[pdf]](http://arxiv.org/abs/2609.31008v1)|⚠️|⭐️⭐️⭐️|
+|2026-09-25|[Intent2Tc] Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models|[[pdf]](http://arxiv.org/abs/2609.31397v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[SABER] SABER: Learning Attention-based Semantic Affordance for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2609.21572v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[LIMBO] LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control|[[pdf]](http://arxiv.org/abs/2609.22075v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types|[[pdf]](http://arxiv.org/abs/2609.22073v1)|⚠️|⭐️⭐️⭐️|
@@ -598,6 +604,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 573
+- Total Papers: 579
 - Code Implementations: 8
 - Last Updated: September 2026

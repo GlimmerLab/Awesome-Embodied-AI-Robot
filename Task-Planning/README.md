@@ -22,6 +22,7 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-09-25|[DualManip] DualManip: Agentic Dynamic Manipulation via Dual-Path Semantic Reasoning and Geometric Adaptation|[[pdf]](http://arxiv.org/abs/2609.31112v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|[RoboSPA] RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?|[[pdf]](http://arxiv.org/abs/2609.05324v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[PanelShield] PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28305v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[MaCoPlanner] MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28300v1)|⚠️|⭐️⭐️⭐️|
@@ -337,6 +338,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 313
+- Total Papers: 314
 - Code Implementations: 6
 - Last Updated: September 2026
