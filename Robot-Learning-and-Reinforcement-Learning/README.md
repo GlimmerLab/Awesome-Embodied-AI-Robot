@@ -47,6 +47,32 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|[UniIntervene++] UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.03620v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|World Action Learning via Interaction-Centric Spectral Latent Guidance|[[pdf]](http://arxiv.org/abs/2610.03607v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[XGenAct] XGenAct: Geometry-Enhanced World Action Models through Cross-Task Generation|[[pdf]](http://arxiv.org/abs/2610.03516v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2610.03333v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[Hyper-Dexterous] DexJoCo-X: Benchmarking Action Representations for Multi-Hand Dexterous Manipulation|[[pdf]](http://arxiv.org/abs/2610.03278v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[EyeRobot 2.0] EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras|[[pdf]](http://arxiv.org/abs/2610.03710v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[RATE] RATE: Risk-Aware Tactile Encoding for Contact-rich Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2610.03538v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics|[[pdf]](http://arxiv.org/abs/2610.03132v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning|[[pdf]](http://arxiv.org/abs/2610.03099v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[EVOL] EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation|[[pdf]](http://arxiv.org/abs/2610.03273v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[Learning] RIFAR: Reliability and Forgetting-Aware Replay for Continual Robot Learning|[[pdf]](http://arxiv.org/abs/2610.03079v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis|[[pdf]](http://arxiv.org/abs/2610.03717v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[Detect and Suppress] Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models|[[pdf]](http://arxiv.org/abs/2610.03498v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition|[[pdf]](http://arxiv.org/abs/2610.03454v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|When a Correct Reward Is Not Enough: Diagnosing and Guiding PPO in an Analytically Solved Broker-Trader Game|[[pdf]](http://arxiv.org/abs/2610.03598v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Mastering Atari 2600 Games with Discovered Options|[[pdf]](http://arxiv.org/abs/2610.03604v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Planning to Learn|[[pdf]](http://arxiv.org/abs/2610.03667v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents|[[pdf]](http://arxiv.org/abs/2610.03634v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[NeutronGym] NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents|[[pdf]](http://arxiv.org/abs/2610.03631v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Single or Multiple Policies for Phase-Structured Reinforcement Learning?|[[pdf]](http://arxiv.org/abs/2610.03475v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[HyperBrowseComp] HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents|[[pdf]](http://arxiv.org/abs/2610.03574v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[en] EVEWorld: Physical Evolution Supervision for Embodied World Models|[[pdf]](http://arxiv.org/abs/2610.03374v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[en] Native Action-Prior Learning from Videos for World Action Models|[[pdf]](http://arxiv.org/abs/2610.03391v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[OuroReward] OuroReward: Sequential Reward Scheduling for Reinforcement Learning in Text-to-3D Generation|[[pdf]](http://arxiv.org/abs/2610.03423v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[FlowHMR] FlowHMR: Physically Plausible Motion Capture from Video|[[pdf]](http://arxiv.org/abs/2610.03691v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Rethinking Epistemic Uncertainty in Node Classification through Information Growth|[[pdf]](http://arxiv.org/abs/2610.03418v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|See to Reach, Feel to Grasp: Learning A Blind Grasp Reflex for Anthropomorphic Robotic Hands|[[pdf]](http://arxiv.org/abs/2609.31323v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[Towards VLA-Dreamer] Towards VLA-Dreamer: Refining VLA Behavior Using World Models|[[pdf]](http://arxiv.org/abs/2609.31313v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[DyMD] DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models|[[pdf]](http://arxiv.org/abs/2609.31349v1)|⚠️|⭐️⭐️⭐️|
@@ -3345,6 +3371,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3319
+- Total Papers: 3345
 - Code Implementations: 20
-- Last Updated: September 2026
+- Last Updated: October 2026

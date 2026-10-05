@@ -32,6 +32,14 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision|[[pdf]](http://arxiv.org/abs/2610.03615v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Beyond Reward Hacking: Proxy Divergence Across Four Layers of a Staged Humanoid Learning Pipeline|[[pdf]](http://arxiv.org/abs/2610.03196v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[Humanoid] KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery|[[pdf]](http://arxiv.org/abs/2610.03388v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[DR-IPC] DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation|[[pdf]](http://arxiv.org/abs/2610.03530v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Autonomous Robotic Navigation for Endovascular Brain-Computer Interface Access|[[pdf]](http://arxiv.org/abs/2610.03537v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|LLA-MPC on Embedded Hardware: Rapid Adaptive Control with Thousands of Parallel Models|[[pdf]](http://arxiv.org/abs/2610.03616v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|A Unified Framework for Empowerment and Predictive Control|[[pdf]](http://arxiv.org/abs/2610.03563v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|A Fully Automatic Pipeline for 3D Dendrite Instance Segmentation in SBF-SEM|[[pdf]](http://arxiv.org/abs/2610.03332v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[Cybflight] Cybflight: An Embedded Rust Autopilot for Aerial Robotics Research|[[pdf]](http://arxiv.org/abs/2609.31232v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding|[[pdf]](http://arxiv.org/abs/2609.31452v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[dRVG] dRVG: Quadtree-Guided, Resolution-Complete Online Motion Planning for Polygonal Robots in Unknown Environments|[[pdf]](http://arxiv.org/abs/2609.31412v1)|⚠️|⭐️⭐️⭐️|
@@ -604,6 +612,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 579
+- Total Papers: 587
 - Code Implementations: 8
-- Last Updated: September 2026
+- Last Updated: October 2026

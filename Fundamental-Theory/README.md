@@ -18,6 +18,8 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|[en] CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments|[[pdf]](http://arxiv.org/abs/2610.03031v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[ZeroMAG] ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models|[[pdf]](http://arxiv.org/abs/2610.03546v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[DeepEdu-v1] DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education|[[pdf]](http://arxiv.org/abs/2609.31568v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[SatNav] SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery|[[pdf]](http://arxiv.org/abs/2609.31507v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[BeatGraph] BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment|[[pdf]](http://arxiv.org/abs/2609.31546v1)|⚠️|⭐️⭐️⭐️|
@@ -745,6 +747,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 724
+- Total Papers: 726
 - Code Implementations: 5
-- Last Updated: September 2026
+- Last Updated: October 2026

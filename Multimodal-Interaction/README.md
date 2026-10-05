@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally|[[pdf]](http://arxiv.org/abs/2610.03445v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|A Vision-Language Model (VLM)-based Pipeline for End-to-End Procedural Modeling of Field-Grown Maize from Point Clouds|[[pdf]](http://arxiv.org/abs/2610.03468v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[Imp-ACT] Imp-ACT: Adaptive Impedance Control and Action Chunking with Transformers to Learn Contact-Rich Manipulation from Demonstrations|[[pdf]](http://arxiv.org/abs/2609.31225v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms|[[pdf]](http://arxiv.org/abs/2609.31396v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[CoralPlan] CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection|[[pdf]](http://arxiv.org/abs/2609.31211v1)|⚠️|⭐️⭐️⭐️|
@@ -448,6 +450,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 423
+- Total Papers: 425
 - Code Implementations: 6
-- Last Updated: September 2026
+- Last Updated: October 2026

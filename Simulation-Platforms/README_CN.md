@@ -39,6 +39,14 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|[I2CD] I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry|[[pdf]](http://arxiv.org/abs/2610.03453v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing|[[pdf]](http://arxiv.org/abs/2610.03570v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[Cephalonauts One] Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain|[[pdf]](http://arxiv.org/abs/2610.03558v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks|[[pdf]](http://arxiv.org/abs/2610.03585v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation|[[pdf]](http://arxiv.org/abs/2610.03662v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[FALCON] FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs|[[pdf]](http://arxiv.org/abs/2610.03625v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[MoSE3] MoSE3: Learning World-Space SE(3) at Every Pixel|[[pdf]](http://arxiv.org/abs/2610.03716v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System|[[pdf]](http://arxiv.org/abs/2610.03639v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[PriceBench] PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents|[[pdf]](http://arxiv.org/abs/2609.31468v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|Evaluating Cultural Awareness of LLMs for Haitian Creole|[[pdf]](http://arxiv.org/abs/2609.31506v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[Scaffold] Scaffold: Support Graph Theory Based Sparsification for Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2609.31466v1)|⚠️|⭐️⭐️⭐️|
@@ -603,6 +611,6 @@
 
 ## 📊 统计
 
-- 论文总数：578篇
+- 论文总数：586篇
 - 代码实现：21个
-- 最后更新：2026年09月
+- 最后更新：2026年10月

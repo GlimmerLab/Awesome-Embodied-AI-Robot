@@ -26,6 +26,7 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|On-Board Anomaly Detection for Efficient Marine Environmental Monitoring|[[pdf]](http://arxiv.org/abs/2610.03649v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[CognitiveReality] CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation|[[pdf]](http://arxiv.org/abs/2609.31418v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning|[[pdf]](http://arxiv.org/abs/2609.31199v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-18|[MAAP] MAAP: Multi-Agent Active Perception for Collaborative Manipulation|[[pdf]](http://arxiv.org/abs/2609.21929v1)|⚠️|⭐️⭐️⭐️|
@@ -488,6 +489,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 464
+- Total Papers: 465
 - Code Implementations: 8
-- Last Updated: September 2026
+- Last Updated: October 2026

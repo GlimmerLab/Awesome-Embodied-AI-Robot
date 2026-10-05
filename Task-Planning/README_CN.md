@@ -22,6 +22,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|[CORNAV] CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites|[[pdf]](http://arxiv.org/abs/2610.03622v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|Bidirectional Voronoi-biased Exploration Curriculum for Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.03395v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[MobiAgent] MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2610.03476v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[AVL-JEPA] AVL-JEPA: Preventing Causal Dynamics Information Collapse In Joint Embedding Predictive Architecture World Models|[[pdf]](http://arxiv.org/abs/2610.03587v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[MRVQ] MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search|[[pdf]](http://arxiv.org/abs/2610.03651v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing|[[pdf]](http://arxiv.org/abs/2610.03709v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[DualManip] DualManip: Agentic Dynamic Manipulation via Dual-Path Semantic Reasoning and Geometric Adaptation|[[pdf]](http://arxiv.org/abs/2609.31112v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-04|[RoboSPA] RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?|[[pdf]](http://arxiv.org/abs/2609.05324v1)|⚠️|⭐️⭐️⭐️|
 |2026-08-28|[PanelShield] PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation|[[pdf]](http://arxiv.org/abs/2608.28305v1)|⚠️|⭐️⭐️⭐️|
@@ -338,6 +344,6 @@
 
 ## 📊 统计
 
-- 论文总数：314篇
+- 论文总数：320篇
 - 代码实现：6个
-- 最后更新：2026年09月
+- 最后更新：2026年10月

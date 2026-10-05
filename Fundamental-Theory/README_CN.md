@@ -18,6 +18,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-02|[en] CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments|[[pdf]](http://arxiv.org/abs/2610.03031v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-02|[ZeroMAG] ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models|[[pdf]](http://arxiv.org/abs/2610.03546v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[DeepEdu-v1] DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education|[[pdf]](http://arxiv.org/abs/2609.31568v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[SatNav] SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery|[[pdf]](http://arxiv.org/abs/2609.31507v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[BeatGraph] BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment|[[pdf]](http://arxiv.org/abs/2609.31546v1)|⚠️|⭐️⭐️⭐️|
@@ -745,6 +747,6 @@
 
 ## 📊 统计
 
-- 论文总数：724篇
+- 论文总数：726篇
 - 代码实现：5个
-- 最后更新：2026年09月
+- 最后更新：2026年10月
