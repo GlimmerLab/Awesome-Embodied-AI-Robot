@@ -22,6 +22,9 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|[Chronos Policy] Chronos Policy: Learning Robot Policies on Physical Time|[[pdf]](http://arxiv.org/abs/2610.13929v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models|[[pdf]](http://arxiv.org/abs/2610.13663v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] AlphaNIST: Emergent Assembly Skills from Binary Task Rewards|[[pdf]](http://arxiv.org/abs/2610.13354v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[CORNAV] CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites|[[pdf]](http://arxiv.org/abs/2610.03622v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|Bidirectional Voronoi-biased Exploration Curriculum for Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.03395v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[MobiAgent] MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2610.03476v1)|⚠️|⭐️⭐️⭐️|
@@ -344,6 +347,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 320
+- Total Papers: 323
 - Code Implementations: 6
 - Last Updated: October 2026

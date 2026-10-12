@@ -26,6 +26,13 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|[HorizonNav] HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation|[[pdf]](http://arxiv.org/abs/2610.13849v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Multi-robot] MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures|[[pdf]](http://arxiv.org/abs/2610.13534v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Towards a Unified Taxonomy of Agricultural Harvesting Technologies: Linking Physical Interaction, Automation, and Selectivity|[[pdf]](http://arxiv.org/abs/2610.13688v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion|[[pdf]](http://arxiv.org/abs/2610.13872v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Neurons++] Neurons++: A Unified Visual-Stream Framework for Image and Video Reconstruction from fMRI with Neural-to-Visual Interpretability|[[pdf]](http://arxiv.org/abs/2610.13763v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection|[[pdf]](http://arxiv.org/abs/2610.13891v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Event-based Action Recognition by Pre-Training on Multi-Frame Representations|[[pdf]](http://arxiv.org/abs/2610.13856v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|On-Board Anomaly Detection for Efficient Marine Environmental Monitoring|[[pdf]](http://arxiv.org/abs/2610.03649v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[CognitiveReality] CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation|[[pdf]](http://arxiv.org/abs/2609.31418v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning|[[pdf]](http://arxiv.org/abs/2609.31199v1)|⚠️|⭐️⭐️⭐️|
@@ -489,6 +496,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 465
+- Total Papers: 472
 - Code Implementations: 8
 - Last Updated: October 2026

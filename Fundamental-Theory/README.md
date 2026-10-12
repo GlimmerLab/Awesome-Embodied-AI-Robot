@@ -18,6 +18,9 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|[SpatialASM] SpatialASM: Internalizing Active Mentalization for Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2610.13832v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[TabMF] TabMF: Learning Dataset Representations with Tabular Foundation Models|[[pdf]](http://arxiv.org/abs/2610.13818v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment|[[pdf]](http://arxiv.org/abs/2610.13766v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[en] CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments|[[pdf]](http://arxiv.org/abs/2610.03031v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[ZeroMAG] ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models|[[pdf]](http://arxiv.org/abs/2610.03546v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[DeepEdu-v1] DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education|[[pdf]](http://arxiv.org/abs/2609.31568v1)|⚠️|⭐️⭐️⭐️|
@@ -747,6 +750,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 726
+- Total Papers: 729
 - Code Implementations: 5
 - Last Updated: October 2026

@@ -32,6 +32,9 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|[Humanoid] PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation|[[pdf]](http://arxiv.org/abs/2610.13373v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Humanoid] ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching|[[pdf]](http://arxiv.org/abs/2610.13572v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[EndoRSI] EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies|[[pdf]](http://arxiv.org/abs/2610.13376v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision|[[pdf]](http://arxiv.org/abs/2610.03615v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|Beyond Reward Hacking: Proxy Divergence Across Four Layers of a Staged Humanoid Learning Pipeline|[[pdf]](http://arxiv.org/abs/2610.03196v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[Humanoid] KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery|[[pdf]](http://arxiv.org/abs/2610.03388v1)|⚠️|⭐️⭐️⭐️|
@@ -612,6 +615,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 587
+- Total Papers: 590
 - Code Implementations: 8
 - Last Updated: October 2026

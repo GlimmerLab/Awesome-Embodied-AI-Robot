@@ -25,6 +25,8 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|Noise Space Learning for VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.13943v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[UkrMeme] UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes|[[pdf]](http://arxiv.org/abs/2610.13783v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally|[[pdf]](http://arxiv.org/abs/2610.03445v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|A Vision-Language Model (VLM)-based Pipeline for End-to-End Procedural Modeling of Field-Grown Maize from Point Clouds|[[pdf]](http://arxiv.org/abs/2610.03468v1)|⚠️|⭐️⭐️⭐️|
 |2026-09-25|[Imp-ACT] Imp-ACT: Adaptive Impedance Control and Action Chunking with Transformers to Learn Contact-Rich Manipulation from Demonstrations|[[pdf]](http://arxiv.org/abs/2609.31225v1)|⚠️|⭐️⭐️⭐️|
@@ -450,6 +452,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 425
+- Total Papers: 427
 - Code Implementations: 6
 - Last Updated: October 2026

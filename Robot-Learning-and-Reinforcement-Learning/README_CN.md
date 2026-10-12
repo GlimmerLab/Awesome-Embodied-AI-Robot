@@ -47,6 +47,38 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|[Hyper-Dexterous] AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories|[[pdf]](http://arxiv.org/abs/2610.13643v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[LAPT-Scale] LAPT-Scale: Scaling Embodied Policies with Latent Action Pre-Training on Human Videos|[[pdf]](http://arxiv.org/abs/2610.13732v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[RARA] RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2610.13578v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics|[[pdf]](http://arxiv.org/abs/2610.13522v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Dream to Remember] Dream to Remember: Continual Steering of Generalist Robot Policies with World Models|[[pdf]](http://arxiv.org/abs/2610.13816v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Hyper-Dexterous] Robot-WATCHDOG : failure detection through object-centric graph representation|[[pdf]](http://arxiv.org/abs/2610.13403v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots|[[pdf]](http://arxiv.org/abs/2610.13838v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[MARGoS] MARGoS: A Configuration-Driven Platform for Reproducible MARL Experiments in ARGoS|[[pdf]](http://arxiv.org/abs/2610.13772v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[SafeDiSTL] SafeDiSTL: Decomposing Joint Constraints for Safe Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.13737v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Matched-Context Group Policy Optimization for LLM Agent Training|[[pdf]](http://arxiv.org/abs/2610.13755v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[MC-EvoBench] MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents|[[pdf]](http://arxiv.org/abs/2610.13829v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Amortized Counterfactual Prediction with Graph Neural Networks|[[pdf]](http://arxiv.org/abs/2610.13724v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[SelectArena] SelectArena: A Modern Benchmark for Feature Selection on Real-world Tabular Data|[[pdf]](http://arxiv.org/abs/2610.13644v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Task Context Shapes Component Roles in Language Models|[[pdf]](http://arxiv.org/abs/2610.13895v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding|[[pdf]](http://arxiv.org/abs/2610.13164v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] PATACON: GPU-Parallel Tangent-Bundle RRT-Connect for Constrained Motion Planning|[[pdf]](http://arxiv.org/abs/2610.13195v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2610.13212v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Evo-RL: Iterative Robot Reinforcement Learning from Selective Experience|[[pdf]](http://arxiv.org/abs/2610.13345v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] Dual-Stream Memory for Vision-Language-Action Policies|[[pdf]](http://arxiv.org/abs/2610.13262v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.13923v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking|[[pdf]](http://arxiv.org/abs/2610.13871v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping|[[pdf]](http://arxiv.org/abs/2610.13909v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants|[[pdf]](http://arxiv.org/abs/2610.13788v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Your Discrete Graph Diffusion Model is Secretly Memorizing|[[pdf]](http://arxiv.org/abs/2610.13786v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|AI Models Can Provably Hide Arbitrary Capabilities|[[pdf]](http://arxiv.org/abs/2610.13928v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Hide and Seek] Hide and Seek: HIDE Concepts to SEEK explanations for black box models|[[pdf]](http://arxiv.org/abs/2610.13935v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Inference-Time Steering Across Scaffolds and Epitopes for Sample-Efficient De Novo Nanobody Design|[[pdf]](http://arxiv.org/abs/2610.13844v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[SimVTA] SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models|[[pdf]](http://arxiv.org/abs/2610.13781v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[en] SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices|[[pdf]](http://arxiv.org/abs/2610.13740v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Learning Holistic Scene Layout against View Shifts in Cross-View Geo-Localization|[[pdf]](http://arxiv.org/abs/2610.13553v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Images Talk Back] Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback|[[pdf]](http://arxiv.org/abs/2610.13941v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation|[[pdf]](http://arxiv.org/abs/2610.13521v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[UniIntervene++] UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.03620v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|World Action Learning via Interaction-Centric Spectral Latent Guidance|[[pdf]](http://arxiv.org/abs/2610.03607v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[XGenAct] XGenAct: Geometry-Enhanced World Action Models through Cross-Task Generation|[[pdf]](http://arxiv.org/abs/2610.03516v1)|⚠️|⭐️⭐️⭐️|
@@ -3371,6 +3403,6 @@
 
 ## 📊 统计
 
-- 论文总数：3345篇
+- 论文总数：3377篇
 - 代码实现：20个
 - 最后更新：2026年10月

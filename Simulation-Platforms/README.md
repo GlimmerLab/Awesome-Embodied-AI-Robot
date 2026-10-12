@@ -39,6 +39,10 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-09|[JitterVLA] JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.13628v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[BT-Agent] BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation|[[pdf]](http://arxiv.org/abs/2610.13862v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|[Splat2Act] Splat2Act: From Captured Scenes to Personalized VLA Manipulation|[[pdf]](http://arxiv.org/abs/2610.13945v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-09|Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark|[[pdf]](http://arxiv.org/abs/2610.13947v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[I2CD] I2CD: Direct Image-to-Convex Decomposition for Simulation-Ready Collision Geometry|[[pdf]](http://arxiv.org/abs/2610.03453v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing|[[pdf]](http://arxiv.org/abs/2610.03570v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-02|[Cephalonauts One] Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain|[[pdf]](http://arxiv.org/abs/2610.03558v1)|⚠️|⭐️⭐️⭐️|
@@ -611,6 +615,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 586
+- Total Papers: 590
 - Code Implementations: 21
 - Last Updated: October 2026
