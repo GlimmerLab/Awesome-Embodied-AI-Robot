@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-16|[en] GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2610.23123v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Expressivity of IQP Feature-Map Quantum Kernels via Reproducing Kernel Hilbert Spaces|[[pdf]](http://arxiv.org/abs/2610.23692v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Scalable long-range machine learning interatomic potentials with electrical response for atomistic material modeling|[[pdf]](http://arxiv.org/abs/2610.23643v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[JitterVLA] JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.13628v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[BT-Agent] BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation|[[pdf]](http://arxiv.org/abs/2610.13862v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Splat2Act] Splat2Act: From Captured Scenes to Personalized VLA Manipulation|[[pdf]](http://arxiv.org/abs/2610.13945v1)|⚠️|⭐️⭐️⭐️|
@@ -615,6 +618,6 @@
 
 ## 📊 统计
 
-- 论文总数：590篇
+- 论文总数：593篇
 - 代码实现：21个
 - 最后更新：2026年10月

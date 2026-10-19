@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-16|[DrugHarness] DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery|[[pdf]](http://arxiv.org/abs/2610.23791v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|From Trajectories to Differentiated Skills: Cognitive Differentiation for Self-Improving Agents|[[pdf]](http://arxiv.org/abs/2610.23599v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management|[[pdf]](http://arxiv.org/abs/2610.23673v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Chronos Policy] Chronos Policy: Learning Robot Policies on Physical Time|[[pdf]](http://arxiv.org/abs/2610.13929v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models|[[pdf]](http://arxiv.org/abs/2610.13663v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[en] AlphaNIST: Emergent Assembly Skills from Binary Task Rewards|[[pdf]](http://arxiv.org/abs/2610.13354v1)|⚠️|⭐️⭐️⭐️|
@@ -347,6 +350,6 @@
 
 ## 📊 统计
 
-- 论文总数：323篇
+- 论文总数：326篇
 - 代码实现：6个
 - 最后更新：2026年10月

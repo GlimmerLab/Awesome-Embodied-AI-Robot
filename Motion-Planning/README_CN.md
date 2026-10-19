@@ -32,6 +32,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-16|Reinforcement Learning Based Multi-Terrain Adaptive Whole-Body Control for a Quadruped Manipulator|[[pdf]](http://arxiv.org/abs/2610.23548v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[SparseMax-dSTL] SparseMax-dSTL: Sound Robustness with Horizon-Independent Gradient Allocation for Temporal Logic Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2610.23837v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts|[[pdf]](http://arxiv.org/abs/2610.23849v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL|[[pdf]](http://arxiv.org/abs/2610.23127v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Humanoid] PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation|[[pdf]](http://arxiv.org/abs/2610.13373v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Humanoid] ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching|[[pdf]](http://arxiv.org/abs/2610.13572v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[EndoRSI] EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies|[[pdf]](http://arxiv.org/abs/2610.13376v1)|⚠️|⭐️⭐️⭐️|
@@ -615,6 +619,6 @@
 
 ## 📊 统计
 
-- 论文总数：590篇
+- 论文总数：594篇
 - 代码实现：8个
 - 最后更新：2026年10月

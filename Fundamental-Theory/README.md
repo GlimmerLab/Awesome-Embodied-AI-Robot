@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-16|Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2610.23551v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[HexaShell] HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents|[[pdf]](http://arxiv.org/abs/2610.23479v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models|[[pdf]](http://arxiv.org/abs/2610.23319v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[OwlSight] OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning|[[pdf]](http://arxiv.org/abs/2610.23670v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[SpatialASM] SpatialASM: Internalizing Active Mentalization for Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2610.13832v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[TabMF] TabMF: Learning Dataset Representations with Tabular Foundation Models|[[pdf]](http://arxiv.org/abs/2610.13818v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment|[[pdf]](http://arxiv.org/abs/2610.13766v1)|⚠️|⭐️⭐️⭐️|
@@ -750,6 +754,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 729
+- Total Papers: 733
 - Code Implementations: 5
 - Last Updated: October 2026

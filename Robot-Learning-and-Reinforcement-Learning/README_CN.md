@@ -47,6 +47,33 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-16|[LAW] LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence|[[pdf]](http://arxiv.org/abs/2610.23334v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[AWAM] AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.23396v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[Look Before You Act] Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation|[[pdf]](http://arxiv.org/abs/2610.23378v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization|[[pdf]](http://arxiv.org/abs/2610.23566v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Learning Robot Metareasoning: Adaptive Computation Budgets for Real-Time Control|[[pdf]](http://arxiv.org/abs/2610.23662v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations|[[pdf]](http://arxiv.org/abs/2610.23769v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Beyond Action Prediction: Learning Search-Free Planning in Latent Space|[[pdf]](http://arxiv.org/abs/2610.23615v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Self-Building Labs|[[pdf]](http://arxiv.org/abs/2610.23826v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[Darwin-Claw] Darwin-Claw: Environment-Adaptive Experience Consolidation for Recursively Self-Evolving Agents|[[pdf]](http://arxiv.org/abs/2610.23574v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[Neural Expansion] Neural Expansion: A Unified Mechanism for How Deep Neural Networks Generalize|[[pdf]](http://arxiv.org/abs/2610.23716v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Trapped in Your Story: Evaluating Narrative-Induced Sycophancy in Large Language Models|[[pdf]](http://arxiv.org/abs/2610.23525v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots|[[pdf]](http://arxiv.org/abs/2610.23288v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?|[[pdf]](http://arxiv.org/abs/2610.23438v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2610.23156v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] SimpleVLN: Towards Simple and Frontier Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2610.23203v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] MOSS: Multimodal Origami Swamp Robot System|[[pdf]](http://arxiv.org/abs/2610.23813v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[en] NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models|[[pdf]](http://arxiv.org/abs/2610.23271v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[ECG-SDI] ECG-SDI: Single-lead Electrocardiogram Enables Continuous Sleep Depth Index Profiling and Scalable Digital Biomarkers for Sleep Health|[[pdf]](http://arxiv.org/abs/2610.23727v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[JAXtari] JAXtari: High-Throughput and Easy-to-Modify Arcade Learning Environment|[[pdf]](http://arxiv.org/abs/2610.23650v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation|[[pdf]](http://arxiv.org/abs/2610.23830v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs|[[pdf]](http://arxiv.org/abs/2610.23788v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[GLOBE] GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search|[[pdf]](http://arxiv.org/abs/2610.23709v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[StopWatch] StopWatch: Goal Grounding for Object-goal Navigation|[[pdf]](http://arxiv.org/abs/2610.23841v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[CocoRNA] CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.23820v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery|[[pdf]](http://arxiv.org/abs/2610.23845v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|Task-aligned spectral inductive biases in parameterized quantum circuits|[[pdf]](http://arxiv.org/abs/2610.23834v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-16|[Bad Diagnosis] Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps|[[pdf]](http://arxiv.org/abs/2610.23851v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Hyper-Dexterous] AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories|[[pdf]](http://arxiv.org/abs/2610.13643v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[LAPT-Scale] LAPT-Scale: Scaling Embodied Policies with Latent Action Pre-Training on Human Videos|[[pdf]](http://arxiv.org/abs/2610.13732v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[RARA] RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2610.13578v1)|⚠️|⭐️⭐️⭐️|
@@ -3403,6 +3430,6 @@
 
 ## 📊 统计
 
-- 论文总数：3377篇
+- 论文总数：3404篇
 - 代码实现：20个
 - 最后更新：2026年10月

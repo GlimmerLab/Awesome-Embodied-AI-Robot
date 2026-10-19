@@ -26,6 +26,7 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-16|Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2610.23622v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[HorizonNav] HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation|[[pdf]](http://arxiv.org/abs/2610.13849v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Multi-robot] MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures|[[pdf]](http://arxiv.org/abs/2610.13534v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|Towards a Unified Taxonomy of Agricultural Harvesting Technologies: Linking Physical Interaction, Automation, and Selectivity|[[pdf]](http://arxiv.org/abs/2610.13688v1)|⚠️|⭐️⭐️⭐️|
@@ -496,6 +497,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 472
+- Total Papers: 473
 - Code Implementations: 8
 - Last Updated: October 2026
