@@ -26,6 +26,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[MAST-VLA] MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.32312v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[Flownomaly] Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection|[[pdf]](http://arxiv.org/abs/2610.32964v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[en] Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles|[[pdf]](http://arxiv.org/abs/2610.32666v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[en] DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2610.32612v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[FlexGlue] FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation|[[pdf]](http://arxiv.org/abs/2610.32976v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Computational imaging through turbid, bubbly and flowing water near the telescope|[[pdf]](http://arxiv.org/abs/2610.32646v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[SemGeo-Gen] SemGeo-Gen: Unsupervised Generation of Approximate Cross-Instance Semantic-Geometric Correspondences|[[pdf]](http://arxiv.org/abs/2610.32663v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation|[[pdf]](http://arxiv.org/abs/2610.23622v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[HorizonNav] HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation|[[pdf]](http://arxiv.org/abs/2610.13849v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|[Multi-robot] MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures|[[pdf]](http://arxiv.org/abs/2610.13534v1)|⚠️|⭐️⭐️⭐️|
@@ -497,6 +504,6 @@
 
 ## 📊 统计
 
-- 论文总数：473篇
+- 论文总数：480篇
 - 代码实现：8个
 - 最后更新：2026年10月

@@ -47,6 +47,32 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[Hyper-Dexterous] DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection|[[pdf]](http://arxiv.org/abs/2610.32969v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Robotic Optical Coherence Tomography-Guided Geometric Modeling of Soft Tissue: 3D Representations for Data-Driven Closed-Loop Shape Control|[[pdf]](http://arxiv.org/abs/2610.32961v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.32431v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Predictive Long-Horizon Progress Modeling with Action-Aware Quantification|[[pdf]](http://arxiv.org/abs/2610.32776v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[DynaSlots] DynaSlots: Slot-Centric 3D Dynamics Pretraining for Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.32330v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|From Freehand Demonstrations to Autonomous Robotic Ultrasound: An Anatomy-Anchored Learning Framework|[[pdf]](http://arxiv.org/abs/2610.32525v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Regularised RL improves sim-to-real transfer|[[pdf]](http://arxiv.org/abs/2610.32855v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs|[[pdf]](http://arxiv.org/abs/2610.32941v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[LogLook] LogLook: Execution-Grounded Memory for Frontier-Model Robot Planners|[[pdf]](http://arxiv.org/abs/2610.32348v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection|[[pdf]](http://arxiv.org/abs/2610.32742v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design|[[pdf]](http://arxiv.org/abs/2610.32620v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[HarnessMM] HarnessMM: Recursive Self-Improvement for Harness Token Efficiency|[[pdf]](http://arxiv.org/abs/2610.32813v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[RobustRLlib] RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms|[[pdf]](http://arxiv.org/abs/2610.32971v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[NgramRL] NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding|[[pdf]](http://arxiv.org/abs/2610.32881v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Recommender regret for improving regularised RL estimation with bandits and MCTS|[[pdf]](http://arxiv.org/abs/2610.32910v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Neural LoFi with Backward Coupling: A Spectral Theory of Cross-Layer Feature Learning|[[pdf]](http://arxiv.org/abs/2610.32849v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[CARES] CARES: Coverage-Aware Replay Exemplar Selection for Continual Learning|[[pdf]](http://arxiv.org/abs/2610.32799v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Reinforcement Learning with Multi-Step Transition Predictions: A Bellman Theory|[[pdf]](http://arxiv.org/abs/2610.32887v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[ActionRAG] ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents|[[pdf]](http://arxiv.org/abs/2610.32752v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|EMG Tokenization Preserves Movement Information at a Fraction of the Bitrate|[[pdf]](http://arxiv.org/abs/2610.32674v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[en] UniAction: Unified Action Conditioning for World Models|[[pdf]](http://arxiv.org/abs/2610.32977v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|HEALPix-Based Implicit Neural Compression of Omnidirectional Images|[[pdf]](http://arxiv.org/abs/2610.32561v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[SREdit] SREdit: Scene Response Guided Appearance Editing for Projection Mapping|[[pdf]](http://arxiv.org/abs/2610.32792v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[en] HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching|[[pdf]](http://arxiv.org/abs/2610.32554v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[StarRTT] StarRTT: An End-to-End Real-Time Framework for Blind Zone-Free RTT Prediction in Starlink LEO Satellite Networks|[[pdf]](http://arxiv.org/abs/2610.32540v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|From Deliberately Constructed Systemic Representations of the World of Activity to Dialogue: A Five-Level Communication Architecture for Strong Language-Based ASI|[[pdf]](http://arxiv.org/abs/2610.32869v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[LAW] LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence|[[pdf]](http://arxiv.org/abs/2610.23334v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[AWAM] AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.23396v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[Look Before You Act] Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation|[[pdf]](http://arxiv.org/abs/2610.23378v1)|⚠️|⭐️⭐️⭐️|
@@ -3430,6 +3456,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3404
+- Total Papers: 3430
 - Code Implementations: 20
 - Last Updated: October 2026

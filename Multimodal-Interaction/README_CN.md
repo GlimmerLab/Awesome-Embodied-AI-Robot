@@ -25,6 +25,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|Retiming Robot Demonstrations with a Learned Speed Prior|[[pdf]](http://arxiv.org/abs/2610.32676v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|When Human Corrections Travel: Safety in Federated VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.32888v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models|[[pdf]](http://arxiv.org/abs/2610.32948v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[Beyond Success Rate] Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems|[[pdf]](http://arxiv.org/abs/2610.23372v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Rethinking the design space of Vanilla Pixel Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2610.23854v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|Noise Space Learning for VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.13943v1)|⚠️|⭐️⭐️⭐️|
@@ -454,6 +457,6 @@
 
 ## 📊 统计
 
-- 论文总数：429篇
+- 论文总数：432篇
 - 代码实现：6个
 - 最后更新：2026年10月

@@ -38,8 +38,8 @@ Embodied AI research involves multiple interconnected domains:
 
 ## Statistics
 
-- Total Papers: 6571
-- Code Implementations: 6553
+- Total Papers: 6626
+- Code Implementations: 6608
 
 ## Citation
 

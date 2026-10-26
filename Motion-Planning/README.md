@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[Humanoid] CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying|[[pdf]](http://arxiv.org/abs/2610.32460v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[Humanoid] ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback|[[pdf]](http://arxiv.org/abs/2610.32966v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[HoloBoxing] HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training|[[pdf]](http://arxiv.org/abs/2610.32909v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[Multi-robot] Facultative Swarming: A Capability, Not a Category, for Multi-Robot Systems|[[pdf]](http://arxiv.org/abs/2610.32526v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Graphs of Trajectory Bundles for Nonlinear Motion Planning|[[pdf]](http://arxiv.org/abs/2610.32365v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[en] From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot|[[pdf]](http://arxiv.org/abs/2610.32271v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Reinforcement Learning Based Multi-Terrain Adaptive Whole-Body Control for a Quadruped Manipulator|[[pdf]](http://arxiv.org/abs/2610.23548v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[SparseMax-dSTL] SparseMax-dSTL: Sound Robustness with Horizon-Independent Gradient Allocation for Temporal Logic Trajectory Optimization|[[pdf]](http://arxiv.org/abs/2610.23837v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[en] Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts|[[pdf]](http://arxiv.org/abs/2610.23849v1)|⚠️|⭐️⭐️⭐️|
@@ -619,6 +625,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 594
+- Total Papers: 600
 - Code Implementations: 8
 - Last Updated: October 2026

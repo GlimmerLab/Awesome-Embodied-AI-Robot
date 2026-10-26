@@ -39,6 +39,11 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[Humanoid] Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers|[[pdf]](http://arxiv.org/abs/2610.32277v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Natural-Language to Nav2: Operational Policies for Costmap-Based Navigation|[[pdf]](http://arxiv.org/abs/2610.32633v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Can AI Agents Help Robotic Engineers? Lessons from Two Focus Days in Industry|[[pdf]](http://arxiv.org/abs/2610.32636v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Semantic Representation for Agentic Self-Play in Automated Laboratories|[[pdf]](http://arxiv.org/abs/2610.32755v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control|[[pdf]](http://arxiv.org/abs/2610.32914v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[en] GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2610.23123v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Expressivity of IQP Feature-Map Quantum Kernels via Reproducing Kernel Hilbert Spaces|[[pdf]](http://arxiv.org/abs/2610.23692v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Scalable long-range machine learning interatomic potentials with electrical response for atomistic material modeling|[[pdf]](http://arxiv.org/abs/2610.23643v1)|⚠️|⭐️⭐️⭐️|
@@ -618,6 +623,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 593
+- Total Papers: 598
 - Code Implementations: 21
 - Last Updated: October 2026

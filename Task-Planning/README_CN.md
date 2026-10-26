@@ -22,6 +22,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[RynnUnify] RynnUnify: Towards Unified Embodied Brain|[[pdf]](http://arxiv.org/abs/2610.32965v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|AI Alignment for Digital Democracy: Fairer Voters Representation against LLM Biases|[[pdf]](http://arxiv.org/abs/2610.32780v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[DrugHarness] DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery|[[pdf]](http://arxiv.org/abs/2610.23791v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|From Trajectories to Differentiated Skills: Cognitive Differentiation for Self-Improving Agents|[[pdf]](http://arxiv.org/abs/2610.23599v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management|[[pdf]](http://arxiv.org/abs/2610.23673v1)|⚠️|⭐️⭐️⭐️|
@@ -350,6 +352,6 @@
 
 ## 📊 统计
 
-- 论文总数：326篇
+- 论文总数：328篇
 - 代码实现：6个
 - 最后更新：2026年10月

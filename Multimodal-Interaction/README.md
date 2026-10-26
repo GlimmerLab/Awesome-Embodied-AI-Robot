@@ -25,6 +25,9 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|Retiming Robot Demonstrations with a Learned Speed Prior|[[pdf]](http://arxiv.org/abs/2610.32676v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|When Human Corrections Travel: Safety in Federated VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.32888v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models|[[pdf]](http://arxiv.org/abs/2610.32948v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[Beyond Success Rate] Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems|[[pdf]](http://arxiv.org/abs/2610.23372v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Rethinking the design space of Vanilla Pixel Diffusion Transformers|[[pdf]](http://arxiv.org/abs/2610.23854v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-09|Noise Space Learning for VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.13943v1)|⚠️|⭐️⭐️⭐️|
@@ -454,6 +457,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 429
+- Total Papers: 432
 - Code Implementations: 6
 - Last Updated: October 2026

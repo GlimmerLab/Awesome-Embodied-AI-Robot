@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[RynnUnify] RynnUnify: Towards Unified Embodied Brain|[[pdf]](http://arxiv.org/abs/2610.32965v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|AI Alignment for Digital Democracy: Fairer Voters Representation against LLM Biases|[[pdf]](http://arxiv.org/abs/2610.32780v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[DrugHarness] DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery|[[pdf]](http://arxiv.org/abs/2610.23791v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|From Trajectories to Differentiated Skills: Cognitive Differentiation for Self-Improving Agents|[[pdf]](http://arxiv.org/abs/2610.23599v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management|[[pdf]](http://arxiv.org/abs/2610.23673v1)|⚠️|⭐️⭐️⭐️|
@@ -350,6 +352,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 326
+- Total Papers: 328
 - Code Implementations: 6
 - Last Updated: October 2026

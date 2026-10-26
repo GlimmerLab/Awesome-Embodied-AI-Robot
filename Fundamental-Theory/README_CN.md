@@ -18,6 +18,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-23|[SceneBloom] SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning|[[pdf]](http://arxiv.org/abs/2610.32978v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation|[[pdf]](http://arxiv.org/abs/2610.32863v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Internal Discrepancy for Contrastive Learning: Generalization Bounds and Downstream Behaviors|[[pdf]](http://arxiv.org/abs/2610.32729v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|Multimodal Generative AI Assists Comprehensive Echocardiographic Interpretation|[[pdf]](http://arxiv.org/abs/2610.32880v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[LGMT] LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs|[[pdf]](http://arxiv.org/abs/2610.32627v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-23|[LLaCO] LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling|[[pdf]](http://arxiv.org/abs/2610.32604v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2610.23551v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[HexaShell] HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents|[[pdf]](http://arxiv.org/abs/2610.23479v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[en] From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models|[[pdf]](http://arxiv.org/abs/2610.23319v1)|⚠️|⭐️⭐️⭐️|
@@ -754,6 +760,6 @@
 
 ## 📊 统计
 
-- 论文总数：733篇
+- 论文总数：739篇
 - 代码实现：5个
 - 最后更新：2026年10月
