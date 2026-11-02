@@ -32,6 +32,12 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-30|[Humanoid] $\nabla$Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation|[[pdf]](http://arxiv.org/abs/2610.41654v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[REA] REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control|[[pdf]](http://arxiv.org/abs/2610.42053v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Trajectory] Contact-based optimization for collision-free motion planning for a million robots|[[pdf]](http://arxiv.org/abs/2610.41548v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement|[[pdf]](http://arxiv.org/abs/2610.41702v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|A complete analytical characterization of optimal collision-free motion for two robots|[[pdf]](http://arxiv.org/abs/2610.41558v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Interaction-Aware Sampling-Based Motion Planning for Autonomous Surface Vessels in Urban Waterways|[[pdf]](http://arxiv.org/abs/2610.41676v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[Humanoid] CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying|[[pdf]](http://arxiv.org/abs/2610.32460v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[Humanoid] ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback|[[pdf]](http://arxiv.org/abs/2610.32966v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[HoloBoxing] HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training|[[pdf]](http://arxiv.org/abs/2610.32909v1)|⚠️|⭐️⭐️⭐️|
@@ -625,6 +631,6 @@
 
 ## 📊 统计
 
-- 论文总数：600篇
+- 论文总数：606篇
 - 代码实现：8个
-- 最后更新：2026年10月
+- 最后更新：2026年11月

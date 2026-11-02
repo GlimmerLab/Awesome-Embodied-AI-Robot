@@ -47,6 +47,35 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-30|[ROOF] ROOF: Learning Humanoid Fall Recovery under Overhead Constraints|[[pdf]](http://arxiv.org/abs/2610.42097v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments|[[pdf]](http://arxiv.org/abs/2610.42049v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Humanoid] Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos|[[pdf]](http://arxiv.org/abs/2610.41877v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2610.41892v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Trajectory] GPU-accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots|[[pdf]](http://arxiv.org/abs/2610.41667v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Humanoid] FOCUS: First-Order Control Using Optimal Transport Supervision for Imitation from Observations|[[pdf]](http://arxiv.org/abs/2610.41540v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Nexus-VLA] Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space|[[pdf]](http://arxiv.org/abs/2610.42021v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Chance-Constrained Inspection Viewpoint Sequencing for On-Orbit Servicing via Safe Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.41639v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[ResMerge] ResMerge: Residual Policy Learning and Merging for Continual Adaptation of Pre-trained Robot Policies|[[pdf]](http://arxiv.org/abs/2610.41663v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks|[[pdf]](http://arxiv.org/abs/2610.41857v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[ReuScope] ReuScope: Auditing Data Reuse and Evaluation Sensitivity in Capsule Vision 2024|[[pdf]](http://arxiv.org/abs/2610.41835v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation|[[pdf]](http://arxiv.org/abs/2610.42024v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.41949v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Learning to Interact and Direct: Co-Evolving Video Director Agents|[[pdf]](http://arxiv.org/abs/2610.41865v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[en] VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression|[[pdf]](http://arxiv.org/abs/2610.41609v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[GhostPrefix] GhostPrefix: Synchronization-Free Universal Prefix Attacks for ASR Manipulation|[[pdf]](http://arxiv.org/abs/2610.42026v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Hyperbolic Inverse Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.42104v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Latent Reasoning in Continuous Space for Unified Multimodal Models|[[pdf]](http://arxiv.org/abs/2610.42149v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments|[[pdf]](http://arxiv.org/abs/2610.42100v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[CRoS] CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness|[[pdf]](http://arxiv.org/abs/2610.42054v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|When Does Jacobian Fine-Tuning Stabilize Neural PDE Emulators?|[[pdf]](http://arxiv.org/abs/2610.42013v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[CausalXRL] CausalXRL: Explainable Reinforcement Learning through Causal Graph Reasoning|[[pdf]](http://arxiv.org/abs/2610.42028v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[CausalWAM] CausalWAM: Learning the Causes of Actions in World Action Models|[[pdf]](http://arxiv.org/abs/2610.42096v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[RAMA] RAMA: Retrieval-Augmented Multi-Agent Routing with Episodic Memory for LEO Satellite Networks|[[pdf]](http://arxiv.org/abs/2610.42068v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results|[[pdf]](http://arxiv.org/abs/2610.42066v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Proof-Carrying Evolution: Black-Box Search, White-Box Flight|[[pdf]](http://arxiv.org/abs/2610.42043v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[DAMI] DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention|[[pdf]](http://arxiv.org/abs/2610.41994v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Observable-Specific Validity Tests for Scientific AI: Controlled Approximations and Intervention Response|[[pdf]](http://arxiv.org/abs/2610.41939v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[MoETok] MoETok: Sparse Expert Routing for 1D Visual Tokenizers|[[pdf]](http://arxiv.org/abs/2610.41992v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[Hyper-Dexterous] DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection|[[pdf]](http://arxiv.org/abs/2610.32969v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|Robotic Optical Coherence Tomography-Guided Geometric Modeling of Soft Tissue: 3D Representations for Data-Driven Closed-Loop Shape Control|[[pdf]](http://arxiv.org/abs/2610.32961v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2610.32431v1)|⚠️|⭐️⭐️⭐️|
@@ -3456,6 +3485,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3430
+- Total Papers: 3459
 - Code Implementations: 20
-- Last Updated: October 2026
+- Last Updated: November 2026

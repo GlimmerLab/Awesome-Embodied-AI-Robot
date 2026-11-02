@@ -18,6 +18,16 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-30|[SketchMate] SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion|[[pdf]](http://arxiv.org/abs/2610.41844v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|When the Past Shapes Action: Understanding Embodied Memory|[[pdf]](http://arxiv.org/abs/2610.41688v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[META-Robot] META-Robot: Self-Cognition and Capability Scaling in Agentic Robots|[[pdf]](http://arxiv.org/abs/2610.41868v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Sensorium] Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI|[[pdf]](http://arxiv.org/abs/2610.41946v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Chronos-2] Chronos-2: A foundation model for multivariate time series forecasting|[[pdf]](http://arxiv.org/abs/2610.41956v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions|[[pdf]](http://arxiv.org/abs/2610.41951v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[ID2Pattern] ID2Pattern: Pretraining Generalizable Identity Behavior Patterns for Transaction Risk Foundation Models|[[pdf]](http://arxiv.org/abs/2610.41988v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[When Depth Lies] When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity|[[pdf]](http://arxiv.org/abs/2610.41651v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Rethinking Asymmetry in Self-Supervised 3D Geometry Learning|[[pdf]](http://arxiv.org/abs/2610.42092v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition|[[pdf]](http://arxiv.org/abs/2610.41789v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[SceneBloom] SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning|[[pdf]](http://arxiv.org/abs/2610.32978v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation|[[pdf]](http://arxiv.org/abs/2610.32863v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|Internal Discrepancy for Contrastive Learning: Generalization Bounds and Downstream Behaviors|[[pdf]](http://arxiv.org/abs/2610.32729v1)|⚠️|⭐️⭐️⭐️|
@@ -760,6 +770,6 @@
 
 ## 📊 统计
 
-- 论文总数：739篇
+- 论文总数：749篇
 - 代码实现：5个
-- 最后更新：2026年10月
+- 最后更新：2026年11月

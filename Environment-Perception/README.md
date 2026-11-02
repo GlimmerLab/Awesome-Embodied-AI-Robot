@@ -26,6 +26,9 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-30|[en] Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot|[[pdf]](http://arxiv.org/abs/2610.41768v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Nereus] Nereus: A Large-Scale Underwater Dataset for Fine-Grained Attribute Understanding and Grounded Counting Perception|[[pdf]](http://arxiv.org/abs/2610.41705v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[en] Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2610.41643v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[MAST-VLA] MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.32312v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[Flownomaly] Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection|[[pdf]](http://arxiv.org/abs/2610.32964v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[en] Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles|[[pdf]](http://arxiv.org/abs/2610.32666v1)|⚠️|⭐️⭐️⭐️|
@@ -504,6 +507,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 480
+- Total Papers: 483
 - Code Implementations: 8
-- Last Updated: October 2026
+- Last Updated: November 2026

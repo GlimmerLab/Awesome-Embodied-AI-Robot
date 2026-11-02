@@ -26,6 +26,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-30|[en] Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot|[[pdf]](http://arxiv.org/abs/2610.41768v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[Nereus] Nereus: A Large-Scale Underwater Dataset for Fine-Grained Attribute Understanding and Grounded Counting Perception|[[pdf]](http://arxiv.org/abs/2610.41705v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[en] Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2610.41643v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[MAST-VLA] MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation|[[pdf]](http://arxiv.org/abs/2610.32312v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[Flownomaly] Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection|[[pdf]](http://arxiv.org/abs/2610.32964v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[en] Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles|[[pdf]](http://arxiv.org/abs/2610.32666v1)|⚠️|⭐️⭐️⭐️|
@@ -504,6 +507,6 @@
 
 ## 📊 统计
 
-- 论文总数：480篇
+- 论文总数：483篇
 - 代码实现：8个
-- 最后更新：2026年10月
+- 最后更新：2026年11月

@@ -22,6 +22,8 @@ This directory collects papers and code implementations related to task planning
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-10-30|Hierarchical World Models with Implicit Dynamics|[[pdf]](http://arxiv.org/abs/2610.42146v1)|⚠️|⭐️⭐️⭐️|
+|2026-10-30|[ReX-GG] ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation|[[pdf]](http://arxiv.org/abs/2610.41901v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|[RynnUnify] RynnUnify: Towards Unified Embodied Brain|[[pdf]](http://arxiv.org/abs/2610.32965v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|AI Alignment for Digital Democracy: Fairer Voters Representation against LLM Biases|[[pdf]](http://arxiv.org/abs/2610.32780v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-16|[DrugHarness] DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery|[[pdf]](http://arxiv.org/abs/2610.23791v1)|⚠️|⭐️⭐️⭐️|
@@ -352,6 +354,6 @@ This directory collects papers and code implementations related to task planning
 
 ## 📊 Statistics
 
-- Total Papers: 328
+- Total Papers: 330
 - Code Implementations: 6
-- Last Updated: October 2026
+- Last Updated: November 2026
