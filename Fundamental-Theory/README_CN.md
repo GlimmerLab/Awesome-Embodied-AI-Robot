@@ -18,6 +18,13 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|[Seeing What Matters] Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation|[[pdf]](http://arxiv.org/abs/2611.09794v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Can LLMs Debug Robots by Editing Their Weights?|[[pdf]](http://arxiv.org/abs/2611.09376v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Alignment by Confident Debate: Preference Learning from Multi-Agent Debate|[[pdf]](http://arxiv.org/abs/2611.09568v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Differentially Private GraphRAG: Protecting Relation Connectivity and Semantics|[[pdf]](http://arxiv.org/abs/2611.09658v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Are These Programmers Ripe Enough to Eat? Evaluating How LLMs Handle Lexical Knowledge Conflicts in Translation|[[pdf]](http://arxiv.org/abs/2611.09785v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[RadarDINO] RadarDINO: Distilling a Visual Foundation Model into mmWave Radar for Human Mesh Reconstruction|[[pdf]](http://arxiv.org/abs/2611.09524v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[BEV3SR] BEV3SR: Evidence-Aware 3D Spatial Reasoning from Video|[[pdf]](http://arxiv.org/abs/2611.09816v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[SketchMate] SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion|[[pdf]](http://arxiv.org/abs/2610.41844v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|When the Past Shapes Action: Understanding Embodied Memory|[[pdf]](http://arxiv.org/abs/2610.41688v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[META-Robot] META-Robot: Self-Cognition and Capability Scaling in Agentic Robots|[[pdf]](http://arxiv.org/abs/2610.41868v1)|⚠️|⭐️⭐️⭐️|
@@ -770,6 +777,6 @@
 
 ## 📊 统计
 
-- 论文总数：749篇
+- 论文总数：756篇
 - 代码实现：5个
 - 最后更新：2026年11月

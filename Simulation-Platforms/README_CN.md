@@ -39,6 +39,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|Task-Driven Closed-Loop Design Optimization of Passively Morphing Quadrotors for Contact-Mediated Narrow Gap Traversal|[[pdf]](http://arxiv.org/abs/2611.09272v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving|[[pdf]](http://arxiv.org/abs/2611.09888v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[en] Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2611.09679v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[RoboArchitect] RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory|[[pdf]](http://arxiv.org/abs/2610.42141v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|Design and Validation of a Robotic Knee Exoskeleton with Musculoskeletal Simulation-Derived Biological Torque Control|[[pdf]](http://arxiv.org/abs/2610.41981v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[TradeWar] TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents|[[pdf]](http://arxiv.org/abs/2610.42004v1)|⚠️|⭐️⭐️⭐️|
@@ -629,6 +632,6 @@
 
 ## 📊 统计
 
-- 论文总数：604篇
+- 论文总数：607篇
 - 代码实现：21个
 - 最后更新：2026年11月

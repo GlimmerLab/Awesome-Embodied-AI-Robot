@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|Multimodal Training with Knowledge Traction for Video Anomaly Detection|[[pdf]](http://arxiv.org/abs/2611.09536v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[en] Mechanical Interaction Sensing for Robotic Kiwifruit Handling with an Optoelectronic Soft Suction Cup|[[pdf]](http://arxiv.org/abs/2611.09468v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection|[[pdf]](http://arxiv.org/abs/2611.09521v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|A lightweight convolutional neural network for target detection in an edge environment|[[pdf]](http://arxiv.org/abs/2611.09756v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[en] Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot|[[pdf]](http://arxiv.org/abs/2610.41768v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[Nereus] Nereus: A Large-Scale Underwater Dataset for Fine-Grained Attribute Understanding and Grounded Counting Perception|[[pdf]](http://arxiv.org/abs/2610.41705v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[en] Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2610.41643v1)|⚠️|⭐️⭐️⭐️|
@@ -507,6 +511,6 @@
 
 ## 📊 统计
 
-- 论文总数：483篇
+- 论文总数：487篇
 - 代码实现：8个
 - 最后更新：2026年11月

@@ -25,6 +25,7 @@ This directory collects papers and code implementations related to multimodal in
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2611.09655v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|When Architectural Spaces Start to Act|[[pdf]](http://arxiv.org/abs/2610.41724v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|Retiming Robot Demonstrations with a Learned Speed Prior|[[pdf]](http://arxiv.org/abs/2610.32676v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|When Human Corrections Travel: Safety in Federated VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.32888v1)|⚠️|⭐️⭐️⭐️|
@@ -458,6 +459,6 @@ This directory collects papers and code implementations related to multimodal in
 
 ## 📊 Statistics
 
-- Total Papers: 433
+- Total Papers: 434
 - Code Implementations: 6
 - Last Updated: November 2026

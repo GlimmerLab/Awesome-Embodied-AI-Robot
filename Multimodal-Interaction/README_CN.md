@@ -25,6 +25,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models|[[pdf]](http://arxiv.org/abs/2611.09655v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|When Architectural Spaces Start to Act|[[pdf]](http://arxiv.org/abs/2610.41724v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|Retiming Robot Demonstrations with a Learned Speed Prior|[[pdf]](http://arxiv.org/abs/2610.32676v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-23|When Human Corrections Travel: Safety in Federated VLA Adaptation|[[pdf]](http://arxiv.org/abs/2610.32888v1)|⚠️|⭐️⭐️⭐️|
@@ -458,6 +459,6 @@
 
 ## 📊 统计
 
-- 论文总数：433篇
+- 论文总数：434篇
 - 代码实现：6个
 - 最后更新：2026年11月

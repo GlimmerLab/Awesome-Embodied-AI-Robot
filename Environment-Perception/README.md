@@ -26,6 +26,10 @@ This directory collects papers and code implementations related to environment p
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|Multimodal Training with Knowledge Traction for Video Anomaly Detection|[[pdf]](http://arxiv.org/abs/2611.09536v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[en] Mechanical Interaction Sensing for Robotic Kiwifruit Handling with an Optoelectronic Soft Suction Cup|[[pdf]](http://arxiv.org/abs/2611.09468v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection|[[pdf]](http://arxiv.org/abs/2611.09521v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|A lightweight convolutional neural network for target detection in an edge environment|[[pdf]](http://arxiv.org/abs/2611.09756v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[en] Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot|[[pdf]](http://arxiv.org/abs/2610.41768v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[Nereus] Nereus: A Large-Scale Underwater Dataset for Fine-Grained Attribute Understanding and Grounded Counting Perception|[[pdf]](http://arxiv.org/abs/2610.41705v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[en] Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation|[[pdf]](http://arxiv.org/abs/2610.41643v1)|⚠️|⭐️⭐️⭐️|
@@ -507,6 +511,6 @@ This directory collects papers and code implementations related to environment p
 
 ## 📊 Statistics
 
-- Total Papers: 483
+- Total Papers: 487
 - Code Implementations: 8
 - Last Updated: November 2026

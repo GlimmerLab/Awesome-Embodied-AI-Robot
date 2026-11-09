@@ -32,6 +32,15 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|[DKWBC] DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control|[[pdf]](http://arxiv.org/abs/2611.09605v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Autonomous Whole-body Loco-manipulation Using a Snake Robot|[[pdf]](http://arxiv.org/abs/2611.09777v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[Collision] LACART: Lookahead-Augmented Collision Avoidance and Reference Tracking Strategies for Safety-Critical Robots|[[pdf]](http://arxiv.org/abs/2611.09640v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Computer-Use Agents Are Embodied Generalists|[[pdf]](http://arxiv.org/abs/2611.09847v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|CucumberVision at the Edge: Accuracy, Throughput, and Energy of RGB-D Cucumber Sizing on Jetson Orin Nano and Raspberry Pi 4|[[pdf]](http://arxiv.org/abs/2611.09490v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[CoMoFlow] CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling|[[pdf]](http://arxiv.org/abs/2611.09548v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Nudging Decision Models: Do Digital Nudges Steer Fast, Generation-Free AI Agents?|[[pdf]](http://arxiv.org/abs/2611.09264v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[ROSE] ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models|[[pdf]](http://arxiv.org/abs/2611.09770v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[PoseRieFlow] PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation|[[pdf]](http://arxiv.org/abs/2611.09692v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[Humanoid] $\nabla$Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation|[[pdf]](http://arxiv.org/abs/2610.41654v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[REA] REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control|[[pdf]](http://arxiv.org/abs/2610.42053v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[Trajectory] Contact-based optimization for collision-free motion planning for a million robots|[[pdf]](http://arxiv.org/abs/2610.41548v1)|⚠️|⭐️⭐️⭐️|
@@ -631,6 +640,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 606
+- Total Papers: 615
 - Code Implementations: 8
 - Last Updated: November 2026

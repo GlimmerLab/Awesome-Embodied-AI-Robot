@@ -47,6 +47,37 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-06|[Humanoid] SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References|[[pdf]](http://arxiv.org/abs/2611.09266v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|On Agentic Manipulation Policies|[[pdf]](http://arxiv.org/abs/2611.09892v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[Grasp-TAGS] Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2611.09864v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[TPS-A*] TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space|[[pdf]](http://arxiv.org/abs/2611.09210v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[SURE] SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning|[[pdf]](http://arxiv.org/abs/2611.09684v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Horizon-Coupled Obstacle Guidance for Relative-Action Diffusion Policies|[[pdf]](http://arxiv.org/abs/2611.09340v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[MDF++] MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning|[[pdf]](http://arxiv.org/abs/2611.09293v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[DexDICE] DexDICE: Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning|[[pdf]](http://arxiv.org/abs/2611.09433v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|A wearable input/output interface learns personalized models of haptic perception|[[pdf]](http://arxiv.org/abs/2611.09708v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[ODEAction] ODEAction: From Predicting Chunks to Evolving Actions|[[pdf]](http://arxiv.org/abs/2611.09672v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[EGT] EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions|[[pdf]](http://arxiv.org/abs/2611.09270v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Goodhart in the Planner: Sampling-Based Control Exploits Rewards Learned from Human Preferences|[[pdf]](http://arxiv.org/abs/2611.09670v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[GRAC] GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description|[[pdf]](http://arxiv.org/abs/2611.09866v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[ICare-DT] ICare-DT: a digital twin for continuous forecasting of intensive care patients|[[pdf]](http://arxiv.org/abs/2611.09712v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2611.09625v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples|[[pdf]](http://arxiv.org/abs/2611.09746v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents|[[pdf]](http://arxiv.org/abs/2611.09768v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters|[[pdf]](http://arxiv.org/abs/2611.09634v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Empirical Assessment of Post-Quantum Cryptography Adoption Status in TLS|[[pdf]](http://arxiv.org/abs/2611.09707v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[en] Toward the Era of Agentic Embodied Intelligence|[[pdf]](http://arxiv.org/abs/2611.09124v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2611.09872v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation|[[pdf]](http://arxiv.org/abs/2611.09877v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL|[[pdf]](http://arxiv.org/abs/2611.09828v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Where Should Learning Live? Regret Analysis for Text, Parameter, and Joint Adaptation|[[pdf]](http://arxiv.org/abs/2611.09701v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure|[[pdf]](http://arxiv.org/abs/2611.09703v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|Fixed-point acceleration on Neural Wasserstein manifolds|[[pdf]](http://arxiv.org/abs/2611.09723v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science Tasks|[[pdf]](http://arxiv.org/abs/2611.09729v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[en] Video-Coder: Reinforcing Agentic Coding for Video Generation|[[pdf]](http://arxiv.org/abs/2611.09894v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[Beyond Segmentation] Beyond Segmentation: Enriching ImageCAS with Coronary Ostia Landmarks, Rooted Centerline Graphs, and Open-Weight Localization Models|[[pdf]](http://arxiv.org/abs/2611.09714v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|[en] Lightweight Path-Aware Frontier Re-ranking for LiDAR-Based UAV Exploration|[[pdf]](http://arxiv.org/abs/2611.09561v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-06|How Much Conversation History Does an AI Agent Need?|[[pdf]](http://arxiv.org/abs/2611.09662v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[ROOF] ROOF: Learning Humanoid Fall Recovery under Overhead Constraints|[[pdf]](http://arxiv.org/abs/2610.42097v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments|[[pdf]](http://arxiv.org/abs/2610.42049v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[Humanoid] Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos|[[pdf]](http://arxiv.org/abs/2610.41877v1)|⚠️|⭐️⭐️⭐️|
@@ -3485,6 +3516,6 @@
 
 ## 📊 统计
 
-- 论文总数：3459篇
+- 论文总数：3490篇
 - 代码实现：20个
 - 最后更新：2026年11月
