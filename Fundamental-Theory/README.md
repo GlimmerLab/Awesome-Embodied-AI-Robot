@@ -18,6 +18,10 @@ This directory collects papers and code implementations related to fundamental t
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-13|[ARCHER] ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models|[[pdf]](http://arxiv.org/abs/2611.18494v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Experts Across Schemas: Agent-Guided Mixture-of-Relational-Experts for Cross-Database Generalization|[[pdf]](http://arxiv.org/abs/2611.18315v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[T2ST] T2ST: Data-Efficient Spatio-Temporal Foundation Models via Temporal Data and Knowledge Transfer|[[pdf]](http://arxiv.org/abs/2611.18199v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[en] ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth|[[pdf]](http://arxiv.org/abs/2611.17730v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[Seeing What Matters] Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation|[[pdf]](http://arxiv.org/abs/2611.09794v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|Can LLMs Debug Robots by Editing Their Weights?|[[pdf]](http://arxiv.org/abs/2611.09376v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|Alignment by Confident Debate: Preference Learning from Multi-Agent Debate|[[pdf]](http://arxiv.org/abs/2611.09568v1)|⚠️|⭐️⭐️⭐️|
@@ -777,6 +781,6 @@ This directory collects papers and code implementations related to fundamental t
 
 ## 📊 Statistics
 
-- Total Papers: 756
+- Total Papers: 760
 - Code Implementations: 5
 - Last Updated: November 2026

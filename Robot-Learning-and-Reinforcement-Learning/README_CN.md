@@ -47,6 +47,22 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-13|[PoliMop] PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots|[[pdf]](http://arxiv.org/abs/2611.18110v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2611.18298v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Training Reasoning Models in Simulation to Natively Use Real Robots|[[pdf]](http://arxiv.org/abs/2611.18562v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[Humanoid] Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints|[[pdf]](http://arxiv.org/abs/2611.18003v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[Trajectory] Disturbance-Aware Informative Planning in Spatiotemporal Environments|[[pdf]](http://arxiv.org/abs/2611.18505v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[Humanoid] Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment|[[pdf]](http://arxiv.org/abs/2611.18372v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[Gamer] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent|[[pdf]](http://arxiv.org/abs/2611.18397v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders|[[pdf]](http://arxiv.org/abs/2611.18365v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Envisioning Agentic Robotics: A New Era of Robotic Systems|[[pdf]](http://arxiv.org/abs/2611.18359v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[Multi-robot] When Cooperation Must Change: Semantic Strategy Unlearning in Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2611.17917v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[CS-MPC] CS-MPC: Contraction-Certified Sampling-Based MPC for Nonlinear Systems Under Uncertainty|[[pdf]](http://arxiv.org/abs/2611.18390v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[TelePhysica] TelePhysica: Agentic Reconstruction of Physically Interactive Scenes|[[pdf]](http://arxiv.org/abs/2611.18078v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Imitation Bootstrapped Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2611.18543v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[Elliptic Sampling] Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond|[[pdf]](http://arxiv.org/abs/2611.18542v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots|[[pdf]](http://arxiv.org/abs/2611.18230v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[en] Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models|[[pdf]](http://arxiv.org/abs/2611.17775v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[Humanoid] SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References|[[pdf]](http://arxiv.org/abs/2611.09266v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|On Agentic Manipulation Policies|[[pdf]](http://arxiv.org/abs/2611.09892v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[Grasp-TAGS] Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation|[[pdf]](http://arxiv.org/abs/2611.09864v1)|⚠️|⭐️⭐️⭐️|
@@ -3516,6 +3532,6 @@
 
 ## 📊 统计
 
-- 论文总数：3490篇
+- 论文总数：3506篇
 - 代码实现：20个
 - 最后更新：2026年11月

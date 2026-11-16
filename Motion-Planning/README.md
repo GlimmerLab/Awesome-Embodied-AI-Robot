@@ -32,6 +32,12 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-13|[PROOF] PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2611.18305v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem|[[pdf]](http://arxiv.org/abs/2611.18546v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design|[[pdf]](http://arxiv.org/abs/2611.17859v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model|[[pdf]](http://arxiv.org/abs/2611.18105v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners|[[pdf]](http://arxiv.org/abs/2611.18491v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|Right Token, Right Time: From Per-Token Gating to Trajectory-Aware Activation Steering|[[pdf]](http://arxiv.org/abs/2611.18274v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[DKWBC] DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control|[[pdf]](http://arxiv.org/abs/2611.09605v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|Autonomous Whole-body Loco-manipulation Using a Snake Robot|[[pdf]](http://arxiv.org/abs/2611.09777v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[Collision] LACART: Lookahead-Augmented Collision Avoidance and Reference Tracking Strategies for Safety-Critical Robots|[[pdf]](http://arxiv.org/abs/2611.09640v1)|⚠️|⭐️⭐️⭐️|
@@ -640,6 +646,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 615
+- Total Papers: 621
 - Code Implementations: 8
 - Last Updated: November 2026

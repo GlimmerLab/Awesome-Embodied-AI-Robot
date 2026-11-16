@@ -22,6 +22,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-13|A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space|[[pdf]](http://arxiv.org/abs/2611.18026v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration|[[pdf]](http://arxiv.org/abs/2611.18484v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-13|[MeReader] MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading|[[pdf]](http://arxiv.org/abs/2611.18513v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[Learning] Augmentron: Scalable Multi-View Visual Augmentation for Robot Learning|[[pdf]](http://arxiv.org/abs/2611.09145v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|Hierarchical World Models with Implicit Dynamics|[[pdf]](http://arxiv.org/abs/2610.42146v1)|⚠️|⭐️⭐️⭐️|
 |2026-10-30|[ReX-GG] ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation|[[pdf]](http://arxiv.org/abs/2610.41901v1)|⚠️|⭐️⭐️⭐️|
@@ -355,6 +358,6 @@
 
 ## 📊 统计
 
-- 论文总数：331篇
+- 论文总数：334篇
 - 代码实现：6个
 - 最后更新：2026年11月
