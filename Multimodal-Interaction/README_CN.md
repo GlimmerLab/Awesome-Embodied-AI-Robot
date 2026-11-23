@@ -25,6 +25,8 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|[Humanoid] NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation|[[pdf]](http://arxiv.org/abs/2611.27499v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Can Vision-Language Models Synthesize Executable Game-Playing Programs?|[[pdf]](http://arxiv.org/abs/2611.27741v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[VLAN] VLAN: Vision-Language Accessible Navigation|[[pdf]](http://arxiv.org/abs/2611.18346v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Toward Resilient Self-Driving Laboratories through Telerobotic Interventions|[[pdf]](http://arxiv.org/abs/2611.18496v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[ESI] ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents|[[pdf]](http://arxiv.org/abs/2611.18176v1)|⚠️|⭐️⭐️⭐️|
@@ -462,6 +464,6 @@
 
 ## 📊 统计
 
-- 论文总数：437篇
+- 论文总数：439篇
 - 代码实现：6个
 - 最后更新：2026年11月

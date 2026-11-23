@@ -32,6 +32,11 @@ This directory collects papers and code implementations related to motion planni
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|[Humanoid] S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals|[[pdf]](http://arxiv.org/abs/2611.27552v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage|[[pdf]](http://arxiv.org/abs/2611.27939v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[GeoSDF-Diff] GeoSDF-Diff: Geometry-Aware Diffusion Planning for Collision-Free Trajectories|[[pdf]](http://arxiv.org/abs/2611.27373v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[Humanoid] AnyBodyCodec: A Shared Native Interface for Body-Model Conversion, Extension, and Humanoid Control|[[pdf]](http://arxiv.org/abs/2611.27397v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Adesktop learning factory for smart and resilient manufacturing based on digital twin and AI|[[pdf]](http://arxiv.org/abs/2611.27579v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[PROOF] PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion|[[pdf]](http://arxiv.org/abs/2611.18305v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem|[[pdf]](http://arxiv.org/abs/2611.18546v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design|[[pdf]](http://arxiv.org/abs/2611.17859v1)|⚠️|⭐️⭐️⭐️|
@@ -646,6 +651,6 @@ This directory collects papers and code implementations related to motion planni
 
 ## 📊 Statistics
 
-- Total Papers: 621
+- Total Papers: 626
 - Code Implementations: 8
 - Last Updated: November 2026

@@ -39,6 +39,13 @@ This directory collects papers and code implementations related to simulation pl
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving|[[pdf]](http://arxiv.org/abs/2611.27804v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Where Delay Compensation Belongs in a Decentralized Mean-Field-Game Swarm with a Control-Barrier Safety Filter|[[pdf]](http://arxiv.org/abs/2611.27540v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Joint Optimization of Fleet Size, Localization Infrastructure, and Trajectories for Multi-AUV Persistent Monitoring|[[pdf]](http://arxiv.org/abs/2611.27539v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[EvoTER] EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection|[[pdf]](http://arxiv.org/abs/2611.27797v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[PanoUAV-Track] PanoUAV-Track: Full-Spherical UAV Visual Tracking in the Wild|[[pdf]](http://arxiv.org/abs/2611.27383v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[en] Mechanism Parity for Simulation-Based Validation of Autonomous-Driving Perception|[[pdf]](http://arxiv.org/abs/2611.27447v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[QuASAR] QuASAR: Toward an LLM-Assisted Framework for Screening, Prototyping, and Assessing Quantum-Advantage Opportunities in Scientific Computing|[[pdf]](http://arxiv.org/abs/2611.27778v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of Lithium-Ion Batteries|[[pdf]](http://arxiv.org/abs/2611.18140v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[en] Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost|[[pdf]](http://arxiv.org/abs/2611.17658v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|Task-Driven Closed-Loop Design Optimization of Passively Morphing Quadrotors for Contact-Mediated Narrow Gap Traversal|[[pdf]](http://arxiv.org/abs/2611.09272v1)|⚠️|⭐️⭐️⭐️|
@@ -634,6 +641,6 @@ This directory collects papers and code implementations related to simulation pl
 
 ## 📊 Statistics
 
-- Total Papers: 609
+- Total Papers: 616
 - Code Implementations: 21
 - Last Updated: November 2026

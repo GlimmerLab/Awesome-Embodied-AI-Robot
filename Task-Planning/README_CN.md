@@ -22,6 +22,7 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|[Embodied-Harness] Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation|[[pdf]](http://arxiv.org/abs/2611.27689v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space|[[pdf]](http://arxiv.org/abs/2611.18026v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration|[[pdf]](http://arxiv.org/abs/2611.18484v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[MeReader] MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading|[[pdf]](http://arxiv.org/abs/2611.18513v1)|⚠️|⭐️⭐️⭐️|
@@ -358,6 +359,6 @@
 
 ## 📊 统计
 
-- 论文总数：334篇
+- 论文总数：335篇
 - 代码实现：6个
 - 最后更新：2026年11月

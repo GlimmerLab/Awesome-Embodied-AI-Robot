@@ -47,6 +47,27 @@ This directory collects papers and code implementations related to robot learnin
 
 |Date|Title|Paper|Code|Rating|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|[Task2Hand] Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design|[[pdf]](http://arxiv.org/abs/2611.27967v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[Humanoid] Humanoid robots for safety-critical electrical switching: A perception-informed runtime constraint filter|[[pdf]](http://arxiv.org/abs/2611.27845v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[NormFlowSDE] NormFlowSDE: Normalizing Flows for Amortized Bayesian State Estimation|[[pdf]](http://arxiv.org/abs/2611.27362v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[GenPA] GenPA: Image Generators as Efficient Robot Policies|[[pdf]](http://arxiv.org/abs/2611.27446v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[Ego4Gen] Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface|[[pdf]](http://arxiv.org/abs/2611.27513v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[Learning] Ego2Ego: Generative Visual Perspective Taking Across Collaborators|[[pdf]](http://arxiv.org/abs/2611.27459v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[ROSWORLD] ROSWORLD: When Digital Task Competence Meets Physical Execution|[[pdf]](http://arxiv.org/abs/2611.27467v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[BioEmu2] BioEmu2: Scalable Emulation of Biomolecular Dynamics|[[pdf]](http://arxiv.org/abs/2611.27924v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[SUAF] SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement|[[pdf]](http://arxiv.org/abs/2611.27919v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[SLICR] SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning|[[pdf]](http://arxiv.org/abs/2611.27865v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[RoSci] RoSci: Exploring Robustness in Science VLMs|[[pdf]](http://arxiv.org/abs/2611.27750v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[SOAR] SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning|[[pdf]](http://arxiv.org/abs/2611.27639v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification|[[pdf]](http://arxiv.org/abs/2611.27839v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[Hy-MT3] Hy-MT3: More Accurate, Robust and Practical Multilingual Translation Models in the Wild|[[pdf]](http://arxiv.org/abs/2611.27673v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search|[[pdf]](http://arxiv.org/abs/2611.27899v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Beyond Visual Fidelity: Comparing Categorical and Continuous World Models|[[pdf]](http://arxiv.org/abs/2611.27870v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[en] Beyond Future Views: Exploring Future-State World Models for Vision-Language Navigation|[[pdf]](http://arxiv.org/abs/2611.27418v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed|[[pdf]](http://arxiv.org/abs/2611.27951v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[Search-RSI] Search-RSI: Expanding Search Worlds Along Multimodal Agents' Capability Frontier|[[pdf]](http://arxiv.org/abs/2611.27780v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[DOiT] DOiT: Better Money-Flow Ranking Can Coexist with Worse Account Selection in Anti-Money Laundering Review|[[pdf]](http://arxiv.org/abs/2611.27809v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[ChildAI-Gov] ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights|[[pdf]](http://arxiv.org/abs/2611.27799v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[PoliMop] PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots|[[pdf]](http://arxiv.org/abs/2611.18110v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation|[[pdf]](http://arxiv.org/abs/2611.18298v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Training Reasoning Models in Simulation to Natively Use Real Robots|[[pdf]](http://arxiv.org/abs/2611.18562v1)|⚠️|⭐️⭐️⭐️|
@@ -3532,6 +3553,6 @@ This directory collects papers and code implementations related to robot learnin
 
 ## 📊 Statistics
 
-- Total Papers: 3506
+- Total Papers: 3527
 - Code Implementations: 20
 - Last Updated: November 2026

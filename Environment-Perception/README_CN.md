@@ -26,6 +26,10 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|An Autonomous Adaptive Learning System for Robotic Grasping in the Circular Factory|[[pdf]](http://arxiv.org/abs/2611.27782v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform|[[pdf]](http://arxiv.org/abs/2611.27953v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Redesigning Neural Networks to Not be Confidently Wrong even to Strong Adversarial Attacks|[[pdf]](http://arxiv.org/abs/2611.27811v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|$\varepsilon$-SegFormer: Multi-Resolution Vision Transformers for Sparsely Supervised Segmentation in Electron Microscopy|[[pdf]](http://arxiv.org/abs/2611.27796v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|Multimodal Training with Knowledge Traction for Video Anomaly Detection|[[pdf]](http://arxiv.org/abs/2611.09536v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|[en] Mechanical Interaction Sensing for Robotic Kiwifruit Handling with an Optoelectronic Soft Suction Cup|[[pdf]](http://arxiv.org/abs/2611.09468v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-06|Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection|[[pdf]](http://arxiv.org/abs/2611.09521v1)|⚠️|⭐️⭐️⭐️|
@@ -511,6 +515,6 @@
 
 ## 📊 统计
 
-- 论文总数：487篇
+- 论文总数：491篇
 - 代码实现：8个
 - 最后更新：2026年11月

@@ -18,6 +18,9 @@
 
 |日期|标题|论文|代码|推荐指数|
 |:---:|:---:|:---:|:---:|:---:|
+|2026-11-20|[StereoVLM] StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning|[[pdf]](http://arxiv.org/abs/2611.27915v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|[$\mathtt{DistP}$] $\mathtt{DistP}$: Scaling Local-Update Training with Zero-Shot Hyperparameter Transfer|[[pdf]](http://arxiv.org/abs/2611.27808v1)|⚠️|⭐️⭐️⭐️|
+|2026-11-20|Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection|[[pdf]](http://arxiv.org/abs/2611.27784v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[ARCHER] ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models|[[pdf]](http://arxiv.org/abs/2611.18494v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|Experts Across Schemas: Agent-Guided Mixture-of-Relational-Experts for Cross-Database Generalization|[[pdf]](http://arxiv.org/abs/2611.18315v1)|⚠️|⭐️⭐️⭐️|
 |2026-11-13|[T2ST] T2ST: Data-Efficient Spatio-Temporal Foundation Models via Temporal Data and Knowledge Transfer|[[pdf]](http://arxiv.org/abs/2611.18199v1)|⚠️|⭐️⭐️⭐️|
@@ -781,6 +784,6 @@
 
 ## 📊 统计
 
-- 论文总数：760篇
+- 论文总数：763篇
 - 代码实现：5个
 - 最后更新：2026年11月
